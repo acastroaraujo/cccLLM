@@ -68,6 +68,10 @@ out <- chat$extract_data(txt, spec = ruling_sum)
 out$chamber
 do.call(rbind, out$person)
 out$summary
+out$url
+
+# out$url <- url
+# write_rds(out, "example.rds")
 
 # Extra -------------------------------------------------------------------
 
