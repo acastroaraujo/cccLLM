@@ -31,7 +31,7 @@ If you don't know where this file is located, you can use the following function
 usethis::edit_r_environ(scope = "user")
 ```
 
-## Example.
+## Example
 
 ```{r}
 out <- readRDS("example.rds")

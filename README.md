@@ -19,24 +19,30 @@ function:
 
     usethis::edit_r_environ(scope = "user")
 
-## Example.
+## Example
 
 ``` r
 out <- readRDS("example.rds")
 
 out$url
-#> [1] "https://www.corteconstitucional.gov.co/relatoria/2009/T-392-09.htm"
+#> [1] "https://www.corteconstitucional.gov.co/relatoria/2001/C-1060A-01.htm"
 out$chamber
-#> [1] "Sala Octava de Revisión"
+#> [1] "Sala Plena de conjueces"
 out$summary
 #> $en
-#> [1] "Claudia Patricia Lenis Rendón filed a tutela action against the health company SOS EPS for denying authorization for a reconstructive surgery after a gastric bypass, which was needed to remove excess skin causing her physical and psychological issues. The court initially granted her right to health care, but the decision was appealed and overturned on grounds that the surgery was not included in the mandatory health plan. Upon review, the Constitutional Court found that SOS EPS violated her fundamental rights by refusing the necessary surgery and ordered the health company to perform it, considering it as essential for her dignity and health recovery beyond aesthetic purposes."
+#> [1] "The Constitutional Court of Colombia reviewed the constitutionality of article 206, numeral 7, of the Tax Statute as modified by article 20 of Law 488 of 1998, which exempted certain representation expenses of public officials from income tax. The plaintiff argued the provision violated the constitutional principles of equality, equity, and progressivity, as it granted tax exemptions on representation expenses for high-ranking public officials, which constituted a privilege not justified by social or economic ends. The Court declared the exoneration unconstitutional, noting that the exemption violated the principles of justice and equality, as it disproportionately benefited high-income individuals and was incongruous with the duties of social solidarity. Dissenting opinions argued that such exemptions could be justified as a form of recognition for the dignified status of these positions."
 #> 
 #> $es
-#> [1] "Claudia Patricia Lenis Rendón interpuso una acción de tutela contra la EPS SOS por negarle la autorización para una cirugía reconstructiva posterior al bypass gástrico, la cual era necesaria para remover el exceso de piel que le causaba problemas físicos y psicológicos. Inicialmente, el tribunal concedió la tutela en favor de la accionante, pero la decisión fue apelada y revocada, bajo el argumento de que la cirugía no estaba incluida en el Plan Obligatorio de Salud. Al revisar el caso, la Corte Constitucional encontró que la EPS desconoció los derechos fundamentales de salud y vida digna de Claudia al negarle la cirugía necesaria y ordenó a la EPS realizar el procedimiento al considerar que era esencial para su recuperación y dignidad, más allá de propósitos estéticos."
+#> [1] "La Corte Constitucional de Colombia revisó la constitucionalidad del artículo 206, numeral 7, del Estatuto Tributario, modificado por el artículo 20 de la Ley 488 de 1998, que eximía de impuestos sobre la renta ciertos gastos de representación de altos funcionarios públicos. La demandante alegaba que la disposición violaba los principios constitucionales de igualdad, equidad y progresividad, al conceder exenciones tributarias sobre los gastos de representación de estos funcionarios, constituyendo un privilegio no justificado por fines sociales o económicos. La Corte declaró inconstitucional la exoneración, destacando que violaba los principios de justicia e igualdad, al beneficiar desproporcionadamente a personas con altos ingresos y era incongruente con los deberes de solidaridad social. Opiniones disidentes argumentaron que dichas exenciones podrían justificarse como una forma de reconocimiento del estatus digno de estos cargos."
 do.call(rbind, out$person)
-#>      name                            sv   conjuez mp   
-#> [1,] "Humberto Antonio Sierra Porto" NULL NULL    TRUE 
-#> [2,] "Jorge Iván Palacio Palacio"    NULL NULL    FALSE
-#> [3,] "Juan Carlos Henao Pérez"       NULL NULL    FALSE
+#>       name                            sv   conjuez mp   
+#>  [1,] "Ramiro Bejarano Guzmán"        NULL TRUE    FALSE
+#>  [2,] "Hernán Guillermo Aldana Duque" NULL TRUE    FALSE
+#>  [3,] "Juan Manuel Charry Urueña"     NULL TRUE    FALSE
+#>  [4,] "Lucy Cruz de Quiñones"         NULL TRUE    TRUE 
+#>  [5,] "Pedro Lafontt Pianeta"         TRUE TRUE    FALSE
+#>  [6,] "Susana Montes Echeverri"       NULL TRUE    FALSE
+#>  [7,] "Jairo Parra Quijano"           TRUE TRUE    FALSE
+#>  [8,] "Humberto Sierra Porto"         NULL TRUE    FALSE
+#>  [9,] "Gustavo Zafra Roldán"          NULL TRUE    FALSE
 ```
