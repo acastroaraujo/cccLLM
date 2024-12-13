@@ -1,7 +1,9 @@
 
-ruling_summary <- elmer::type_object(
+library(elmer)
+
+ruling_summary <- type_object(
   "Información de la sentencia.",
-  person = elmer::type_array(
+  person = type_array(
     '- Lista de nombres de los magistrados que firmaron la sentencia. 
     
     - Excluir al secretario general de esta lista.
@@ -10,21 +12,21 @@ ruling_summary <- elmer::type_object(
     
     - Algunas decisiones incluyen salvamentos o aclaraciones de voto. En estos casos esta información aparece al final del documento.
     ',
-    items = elmer::type_object(
-      name = elmer::type_string(description = "Nombre."), 
-      av = elmer::type_boolean(description = "Incluye aclaración de voto?", required = FALSE),
-      sv = elmer::type_boolean(description = "Incluye salvamento de voto?", required = FALSE),
-      conjuez = elmer::type_boolean(description = "Es conjuez?", required = FALSE),
-      mp = elmer::type_boolean(description = "Es el magistrado ponente?", required = FALSE)
+    items = type_object(
+      name = type_string(description = "Nombre."), 
+      av = type_boolean(description = "Incluye aclaración de voto?", required = FALSE),
+      sv = type_boolean(description = "Incluye salvamento de voto?", required = FALSE),
+      conjuez = type_boolean(description = "Es conjuez?", required = FALSE),
+      mp = type_boolean(description = "Es el magistrado ponente?", required = FALSE)
     ),
     required = TRUE
   ),
-  chamber = elmer::type_string(
+  chamber = type_string(
     'Nombre de la sala, en caso de que la información sea explicíta.', 
     required = FALSE),
-  summary = elmer::type_object(
+  summary = type_object(
     'Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la corte.',
-    en = elmer::type_string("En español."), 
-    es = elmer::type_string("Traducido al inglés.")
+    es = type_string("En español."), 
+    en = type_string("Traducido al inglés.")
   )
 )
