@@ -1,37 +1,22 @@
 ---
-output: github_document
+title: "Codebook"
+author: "Andrés Castro Araújo"
+format: 
+  pdf:
+    toc: false
+    number-sections: false
+    mainfont: Crimson Text
+    linestretch: 1.5
+    # citations and links
+    colorlinks: true
+    link-citations: true
+    linkcolor: RoyalBlue
+    urlcolor: RoyalBlue
+    citecolor: RoyalBlue
+    # Other
+    pdf-engine: pdflatex
+editor: visual
 ---
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
-
-# cccLLM
-
-<!-- badges: start -->
-
-<!-- badges: end -->
-
-This repository contains code to extract information from court rulings using LLMs via the new [ellmer](https://ellmer.tidyverse.org/) package.
-
-For using LLMs like ChatGPT you will have to add something like this to your `.Renviron` file:
-
-```         
-OPENAI_API_KEY = "you_api_goes_here"
-```
-
-If you don't know where this file is located, you can use the following function:
-
-```         
-usethis::edit_r_environ(scope = "user")
-```
-
-## Codebook
 
 1.  `id`: Ruling ID.
 
@@ -96,15 +81,3 @@ usethis::edit_r_environ(scope = "user")
 11. `rj_citation:` Standardized list of rulings cited as binding.
 
     [For example: *T-406-92, C-225-95*]{style="font-size: 0.8em;"}
-
-## Example
-
-```{r}
-out <- readRDS("old_out_raw/C-1060A-01_gpt.rds")
-out$id
-out$url
-out$chamber
-out$person
-cat(stringr::str_wrap(out$summary$en))
-cat(stringr::str_wrap(out$summary$es))
-```

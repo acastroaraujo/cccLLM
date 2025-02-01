@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 out_raw
+old_out_raw
+.DS_Store
