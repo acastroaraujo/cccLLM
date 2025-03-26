@@ -1,7 +1,7 @@
-
 # Text samples ------------------------------------------------------------
 
 url <- sample(ccc::metadata$url, 1)
+
 ## sin sala
 # url <- "https://www.corteconstitucional.gov.co/relatoria/1999/T-446-99.htm"
 
@@ -18,16 +18,26 @@ url <- sample(ccc::metadata$url, 1)
 # url <- "https://www.corteconstitucional.gov.co/relatoria/2018/t-443-18.htm"
 
 ## Two magistrados ponentes
+# id <- "C-246-99"
 # url <- "https://www.corteconstitucional.gov.co/relatoria/1999/C-246-99.htm"
 
 # salvamentos múltiples
 # url <- "https://www.corteconstitucional.gov.co/relatoria/1999/c-702-99.htm"
 
+# Debug ------------------------------------------------------------------
+
+source("prompts/ruling_summary.R")
+SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
+
+chat <- ellmer::chat_openai(
+  system_prompt = SP,
+  model = "gpt-4o",
+  api_args = list(temperature = 0)
+)
+
+out <- chat$extract_data(txt, type = ruling_summary)
+out$url <- url
+out$id <- texts_left[[i]]
 
 txt <- ccc::ccc_txt(url)
-out <- try(chat$extract_data(txt, spec = ruling_summary))
-
-out$chamber
-do.call(rbind, out$person)
-out$summary
-url
+out <- try(chat$extract_data(txt, type = ruling_summary))

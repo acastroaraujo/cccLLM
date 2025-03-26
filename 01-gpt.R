@@ -12,9 +12,9 @@ lookup <- ccc::metadata |>
   dplyr::select(id, url) |>
   tibble::deframe()
 
-source("ruling_summary.R")
+source("prompts/ruling_summary.R")
 
-texts_done <- dir(outfolder) |> str_remove("_gpt\\.rds$")
+texts_done <- stringr::str_remove(dir(outfolder), "_gpt\\.rds$")
 texts_left <- setdiff(names(lookup), texts_done)
 
 # You are here -----------------------------------------------------------
