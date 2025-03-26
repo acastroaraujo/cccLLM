@@ -7,10 +7,10 @@ outfolder <- "out_raw"
 if (!dir.exists(outfolder)) dir.create(outfolder)
 
 lookup <- ccc::metadata |>
-  arrange(word_count) |>
-  filter(word_count >= 200) |> ## anuladas
-  select(id, url) |>
-  deframe()
+  dplyr::arrange(word_count) |>
+  dplyr::filter(word_count >= 200) |> ## anuladas
+  dplyr::select(id, url) |>
+  tibble::deframe()
 
 source("ruling_summary.R")
 
@@ -49,8 +49,8 @@ for (i in seq_along(texts_left)) {
   out$model <- "gpt-4o"
 
   readr::write_rds(
-    out,
-    stringr::str_glue("{outfolder}/{texts_left[[i]]}_gpt.rds"),
+    x = out,
+    file = stringr::str_glue("{outfolder}/{texts_left[[i]]}_gpt.rds"),
     compress = "gz"
   )
 

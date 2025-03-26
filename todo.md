@@ -1,7 +1,5 @@
 To do:
 
-- Figure out if encargado vs conjuez is an important disctinction
-
 https://www.corteconstitucional.gov.co/relatoria/2018/t-054-18.htm
 
 https://youtu.be/3-8ciBWul5E
@@ -16,8 +14,6 @@ https://youtu.be/3-8ciBWul5E
 -  SU-256-96 (Protección de derechos laborales personas con VIH discriminadas)
 -  SU-039-97 (Garantizar consulta previa a comunidades indigenas)
 -  C-239-97 (Eutanasia en casos de enfermedades terminales)
-
-
 
 [Playground](https://platform.openai.com/playground/prompts?models=gpt-4o)
 
