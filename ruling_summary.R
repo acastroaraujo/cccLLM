@@ -25,7 +25,7 @@ type_magistrados <- type_array(
 )
 
 type_articles <- type_array(
-  "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otros tipos de artículo.",
+  "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otro tipos de artículo.",
   items = type_integer(required = FALSE),
   required = FALSE
 )
