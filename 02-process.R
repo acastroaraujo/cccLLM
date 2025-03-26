@@ -1,10 +1,9 @@
-
 library(tidyverse)
 outfolder <- "out_raw"
 
 # Organize ----------------------------------------------------------------
 
-output <- dir(outfolder, full.names = TRUE) |> 
+output <- dir(outfolder, full.names = TRUE) |>
   map(\(x) read_rds(x))
 
 ## encoding error
@@ -49,10 +48,13 @@ missing_jose <- c(
 
 for (j in missing_jose) {
   output[[j]]$person <- bind_rows(
-    problem[[j]]$person, 
+    problem[[j]]$person,
     data.frame(
-      name = "JOSÉ GREGORIO HERNÁNDEZ GALINDO", 
-      av = FALSE, sv = FALSE, conjuez = FALSE, mp = FALSE
+      name = "JOSÉ GREGORIO HERNÁNDEZ GALINDO",
+      av = FALSE,
+      sv = FALSE,
+      conjuez = FALSE,
+      mp = FALSE
     )
   )
 }
@@ -62,22 +64,25 @@ for (j in missing_jose) {
 output[["T-648-98"]]$person <- bind_rows(
   problem[["T-648-98"]]$person,
   data.frame(
-    name = "CARLOS GAVIRIA DÍAZ", 
-    av = FALSE, sv = FALSE, conjuez = FALSE, mp = FALSE
+    name = "CARLOS GAVIRIA DÍAZ",
+    av = FALSE,
+    sv = FALSE,
+    conjuez = FALSE,
+    mp = FALSE
   )
 )
 
-output[["T-699-98"]]$person <- problem[["T-699-98"]]$person |> 
+output[["T-699-98"]]$person <- problem[["T-699-98"]]$person |>
   filter(name != "Martha Victoria Sáchica de Moncaleano")
 
-output[["T-1039-01"]]$person <- problem[["T-1039-01"]]$person |> 
+output[["T-1039-01"]]$person <- problem[["T-1039-01"]]$person |>
   filter(name != "Martha Victoria Sáchica de Moncaleano")
 
-output[["T-254-01"]]$person <- problem[["T-254-01"]]$person |> 
-  filter(name != "José Gregorio Hernández Galindo") |> 
+output[["T-254-01"]]$person <- problem[["T-254-01"]]$person |>
+  filter(name != "José Gregorio Hernández Galindo") |>
   mutate(mp = c(TRUE, FALSE, FALSE))
 
-output[["T-241-03"]]$person <- problem[["T-241-03"]]$person |> 
+output[["T-241-03"]]$person <- problem[["T-241-03"]]$person |>
   filter(name != "Ricardo Monroy Church")
 
 # Problem 3: Anomalies ----------------------------------------------------
@@ -90,16 +95,16 @@ weird_but_ok <- c(
   "C-147-03", ## EDUARDO MONTEALEGRE LYNETT (recused)
   "T-434-97", ## HERNANDO HERRERA VERGARA (out of country)
   "T-436-97", ## HERNANDO HERRERA VERGARA (out of country)
-  "T-565-03"  ## MANUEL JOSÉ CEPEDA ESPINOSA (excused)
+  "T-565-03" ## MANUEL JOSÉ CEPEDA ESPINOSA (excused)
 )
 
 
 # Annulments --------------------------------------------------------------
 
-# df <- ccc::metadata |> 
-#   arrange(word_count) |> 
+# df <- ccc::metadata |>
+#   arrange(word_count) |>
 #   select(id, url)
-# 
+#
 # df <- df[-(1:6), ] ## anuladas
 
 # Final Check -------------------------------------------------------------
@@ -110,5 +115,3 @@ message("Remaining problems: ", sum(!ok) - length(weird_but_ok))
 
 # problem <- output[!ok]
 # problem <- problem[!names(problem) %in% weird_but_ok]
-
-

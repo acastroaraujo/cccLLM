@@ -22,22 +22,31 @@ url <- sample(ccc::metadata$url, 1)
 # url <- "https://www.corteconstitucional.gov.co/relatoria/1999/C-246-99.htm"
 
 # salvamentos múltiples
+# id <- "C-702-99"
 # url <- "https://www.corteconstitucional.gov.co/relatoria/1999/c-702-99.htm"
 
 # Debug ------------------------------------------------------------------
 
-source("prompts/ruling_summary.R")
-SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
-
-chat <- ellmer::chat_openai(
-  system_prompt = SP,
-  model = "gpt-4o",
-  api_args = list(temperature = 0)
-)
-
-out <- chat$extract_data(txt, type = ruling_summary)
-out$url <- url
-out$id <- texts_left[[i]]
-
-txt <- ccc::ccc_txt(url)
-out <- try(chat$extract_data(txt, type = ruling_summary))
+# txt <- ccc::ccc_txt(url)
+#
+# source("prompts/ruling_summary.R")
+# SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
+#
+# chat <- ellmer::chat_openai(
+#   system_prompt = SP,
+#   model = "gpt-4o",
+#   api_args = list(temperature = 0)
+# )
+#
+# out <- chat$extract_data(txt, type = ruling_summary)
+# out$url <- url
+# out$id <- id
+# out$model <- "gpt-4o"
+#
+# outfolder <- "out_raw"
+#
+# readr::write_rds(
+#   x = out,
+#   file = stringr::str_glue("{outfolder}/{id}_gpt.rds"),
+#   compress = "gz"
+# )
