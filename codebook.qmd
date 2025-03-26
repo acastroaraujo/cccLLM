@@ -52,7 +52,9 @@ editor: visual
 
     -   `av`: Concurring opinion *(aclaración de voto).*
 
-    -   `conjuez`: Whether the judge is holds a permanent position in the court or was appointed for this specific ruling. This happens, for example, when one of the judges in the CCC recuses themselves.
+    -   `interim`: Indicates whether the person is an interim judge, who takes over all cases corresponding to a sitting judge in their absence.
+
+    -   `conjuez`: Indicates whether the person is a substitute judge, appointed for this specific ruling. This happens, for example, when one of the judges in the CCC recuses themselves.
 
     *Note. Most of the time this is a three row data frame in case the chamber composed of a three-person chamber (`SR`) or a nine row data frame in case of full-chamber (`SP`).*
 
@@ -72,12 +74,14 @@ editor: visual
 
 8.  `summary_es`: Two paragraph summary in Spanish.
 
-9.  `rj`: Refers to *res judicata (cosa juzgada)* and notes whether the court's decision is determined by previous binding rulings or not. This meant to prevent the same constitutional issue from being raised again in future cases.
+9.  `rj`: Refers to *res judicata (cosa juzgada)* and notes whether the court's decision is determined by previous binding rulings or not. This is meant to prevent the same constitutional issue from being raised again in future cases.
 
 10. `rj_citation_raw` (only if `rj` is `TRUE`): List of rulings cited as binding.
 
     [For example: *Sentencia T-406 de 1992, Sentencia C-225/95*]{style="font-size: 0.8em;"}
 
-11. `rj_citation:` Standardized list of rulings cited as binding.
+11. `rj_citation`: Standardized list of rulings cited as binding.
 
     [For example: *T-406-92, C-225-95*]{style="font-size: 0.8em;"}
+
+12. `amicus`: List of individuals or organizations who intervened in the process by filing an amicus curiae.

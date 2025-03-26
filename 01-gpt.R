@@ -1,4 +1,3 @@
-
 # devtools::install_github("acastroaraujo/ccc")
 library(ccc)
 library(tidyverse)
@@ -9,54 +8,60 @@ source("ruling_summary.R")
 outfolder <- "out_raw"
 if (!dir.exists(outfolder)) dir.create(outfolder)
 
-lookup <- ccc::metadata |> 
-  arrange(word_count) |> 
+lookup <- ccc::metadata |>
+  arrange(word_count) |>
   filter(word_count >= 200) |> ## anuladas
-  select(id, url) |> 
+  select(id, url) |>
   deframe()
 
 texts_done <- dir(outfolder) |> str_remove("_gpt\\.rds$")
 texts_left <- setdiff(names(lookup), texts_done)
 
+# You are here -----------------------------------------------------------
 
-## TO DO. MAKE AN INDIVIDUALIZED PROMPT FOR EACH CHAT INSTANCE.
-glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
+i <- which(texts_left == "T-406-92")
+i <- which(texts_left == "C-1060A-01")
+i <- which(texts_left == "T-151-99")
+i <- which(texts_left == "T-909-11") ## too long
+i <- which(texts_left == "C-093-93") ## too long
+i <- which(texts_left == "SU-039-97") ## too long
+i <- which(texts_left == "T-1691-00")
+i <- which(texts_left == "C-811-07")
+i <- which(texts_left == "T-248-12")
 
-## https://ellmer.tidyverse.org/articles/prompt-design.html?q=md#structured-data-1
+#for (i in seq_along(texts_left)) {
+id <- texts_left[[i]]
+url <- lookup[[id]]
 
+txt <- ccc::ccc_txt(url)
+SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
 
-for (i in seq_along(texts_left)) {
-  
-  id <- texts_left[[i]]
-  url <- lookup[[id]]
-  
-  txt <- ccc::ccc_txt(url)
-  
-  chat <- ellmer::chat_openai(
-    system_prompt = "
-    You are a research assistant tasked with extracting information from court 
-    rulings written in Spanish by the Colombian Constitutional Court.
-    ", 
-    model = "gpt-4o", 
-    api_args = list(temperature = 0)
-  )
-  
-  out <- chat$extract_data(txt, type = ruling_summary)
-  out$url <- url
-  out$id <- texts_left[[i]]
-  
-  out$model <- "gpt-4o"
-  
-  readr::write_rds(out, stringr::str_glue("{outfolder}/{texts_left[[i]]}_gpt.rds"), compress = "gz")
-  
-  texts_left <- texts_left[-i]
-  
-}
+chat <- ellmer::chat_openai(
+  system_prompt = SP,
+  model = "gpt-4o",
+  api_args = list(temperature = 0)
+)
 
+out <- chat$extract_data(txt, type = ruling_summary)
+out$url <- url
+out$id <- texts_left[[i]]
+
+out$model <- "gpt-4o"
+
+readr::write_rds(
+  out,
+  stringr::str_glue("{outfolder}/{texts_left[[i]]}_gpt.rds"),
+  compress = "gz"
+)
+
+texts_left <- texts_left[-i]
+#}
 
 # new <- readRDS("~/Repositories/cccLLM/out_raw/T-1699-00_gpt.rds")
 # old <- readRDS("~/Repositories/cccLLM/old_out_raw/T-1699-00_gpt.rds")
-# 
+#
 # new
-# 
+#
 # old
+
+old <- readRDS("~/Repositories/cccLLM/out_raw/T-1699-00_gpt.rds")

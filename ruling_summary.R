@@ -1,40 +1,60 @@
-
 if (!rlang::is_attached("ellmer")) library(ellmer)
+
+type_summary <- type_object(
+  "Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la Corte.",
+  spanish = type_string("En español."),
+  english = type_string("In English.")
+)
+
+type_chamber <- type_string(
+  "Nombre de la sala, en caso de que la información sea explícita.",
+  required = FALSE
+)
+
+type_magistrados <- type_array(
+  "Información sobre los magistrados que firmaron la sentencia. El secretario general está excluído de esta lista.",
+  items = type_object(
+    name = type_string(description = "Nombre."),
+    av = type_boolean(description = "Incluye aclaración de voto?"),
+    sv = type_boolean(description = "Incluye salvamento de voto?"),
+    mp = type_boolean(description = "Es el magistrado ponente?"),
+    interim = type_boolean(description = "Es magistrado encargado?"),
+    conjuez = type_boolean(description = "Es conjuez?")
+  ),
+  required = TRUE
+)
+
+type_articles <- type_array(
+  "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otros tipos de artículo.",
+  items = type_integer(required = FALSE),
+  required = FALSE
+)
+
+type_rj <- type_enum(
+  "Indica si la decisión se fundamenta en cosa juzgada, es decir, si ya ha sido resuelta previamente por la Corte con efectos vinculantes que impiden que el mismo asunto constitucional sea discutido nuevamente.",
+  values = c("sí", "no", "parcial"),
+  required = FALSE
+)
+
+type_citation <- type_array(
+  'Lista de sentencias previas que llevaron a la Corte a decidir que el caso es "cosa juzgada", en caso de que la información sea explícita. Excluye las sentencias que no contribuyen a que el caso sea "cosa juzgada"',
+  items = type_string("Nombre de la sentencia"),
+  required = FALSE
+)
+
+type_amicus <- type_array(
+  'Lista de intervinientes en calidad de "amicus curiae" en el proceso. Esta lista puede incluir personas naturales, ONGs, asociaciones profesionales, sindicatos, universidades, entidades gubernamentales, y otros tipos de organizaciones públicas o privadas.',
+  items = type_string("Nombre del interviniente."),
+  required = FALSE
+)
 
 ruling_summary <- type_object(
   "Información de la sentencia.",
-  summary = type_object(
-    'Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la corte.',
-    es = type_string("En español."), 
-    en = type_string("Traducido al inglés.")
-  ),
-  chamber_raw = type_string(
-    'Nombre de la sala, en caso de que la información sea explicíta.', required = FALSE),
-  person = type_array(
-    '- Lista de nombres de los magistrados que firmaron la sentencia. 
-    
-    - Excluir al secretario general de esta lista.
-    
-    - Las salas de revisión usualmente tienen 3 magistrados, mientras que la sala plena usualmente tiene 9 magistrados.
-    
-    - Algunas decisiones incluyen salvamentos o aclaraciones de voto. En estos casos esta información aparece al final del documento.
-    ',
-    items = type_object(
-      name = type_string(description = "Nombre."), 
-      av = type_boolean(description = "Incluye aclaración de voto?"),
-      sv = type_boolean(description = "Incluye salvamento de voto?"),
-      conjuez = type_boolean(description = "Es conjuez?"),
-      mp = type_boolean(description = "Es el magistrado ponente?")
-    ),
-    required = TRUE
-  ),
-  articles = type_array(
-    "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otros tipos de artículo.", 
-    items = type_integer(), required = FALSE
-  ),
-  rj = type_boolean("La corte decide que el caso es \"cosa juzgada\"?", required = FALSE),
-  rj_citation_raw = type_array("Lista de sentencias previas que llevaron a la corte a decidir que el caso era \"cosa juzgada\". Sólo responder si la información es explícita. Excluir las sentencias que no llevan a que el caso sea \"cosa juzgada\"", items = type_string(), required = FALSE)
+  summary = type_summary,
+  chamber_raw = type_chamber,
+  person = type_magistrados,
+  articles = type_articles,
+  rj = type_rj,
+  rj_citation_raw = type_citation,
+  amicus = type_amicus
 )
-
-
-

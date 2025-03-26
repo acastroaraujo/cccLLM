@@ -1,6 +1,6 @@
 To do:
 
-You switched the en and es, you dumbass.
+- Figure out if encargado vs conjuez is an important disctinction
 
 https://www.corteconstitucional.gov.co/relatoria/2018/t-054-18.htm
 
@@ -18,11 +18,8 @@ https://youtu.be/3-8ciBWul5E
 -  C-239-97 (Eutanasia en casos de enfermedades terminales)
 
 
-You are an expert at structured data extraction. You will be given unstructured text from a research paper and should convert it into the given structure.
 
-
-https://platform.openai.com/docs/guides/structured-outputs?api-mode=chat
-https://platform.openai.com/playground/prompts?models=gpt-4o ## this is the playground
+[Playground](https://platform.openai.com/playground/prompts?models=gpt-4o)
 
 https://ellmer.tidyverse.org/articles/prompt-design.html
 
