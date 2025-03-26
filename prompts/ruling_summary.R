@@ -25,8 +25,8 @@ type_magistrados <- type_array(
 )
 
 type_articles <- type_array(
-  "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otro tipos de artículo.",
-  items = type_integer(required = FALSE),
+  "Lista de artículos de la Constitución (o \"Carta Política\") que son mencionadas por número en la sentencia de manera explícita. Esta lista excluye otro tipo de articulados, por ejemplo los que son parte de leyes, códigos, decretos, etc.",
+  items = type_integer(),
   required = FALSE
 )
 
@@ -36,8 +36,8 @@ type_rj <- type_enum(
   required = FALSE
 )
 
-type_citation <- type_array(
-  'Lista de sentencias previas que llevaron a la Corte a decidir que el caso es "cosa juzgada", en caso de que la información sea explícita. Excluye las sentencias que no contribuyen a que el caso sea "cosa juzgada"',
+type_rj_citation <- type_array(
+  'Lista de sentencias previas que llevaron a la Corte a decidir que el caso es "cosa juzgada". Las sentencias que no contribuyen a que el caso sea "cosa juzgada" están excluídas de esta lista.',
   items = type_string("Nombre de la sentencia"),
   required = FALSE
 )
@@ -55,6 +55,6 @@ ruling_summary <- type_object(
   person = type_magistrados,
   articles = type_articles,
   rj = type_rj,
-  rj_citation_raw = type_citation,
+  rj_citation_raw = type_rj_citation,
   amicus = type_amicus
 )

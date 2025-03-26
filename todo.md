@@ -1,5 +1,9 @@
 To do:
 
+- Check validity of `rj`, particularly when `rj` is "no" but `rj_citation_raw` is not empty
+
+Extra:
+
 https://www.corteconstitucional.gov.co/relatoria/2018/t-054-18.htm
 
 https://youtu.be/3-8ciBWul5E
@@ -18,4 +22,3 @@ https://youtu.be/3-8ciBWul5E
 [Playground](https://platform.openai.com/playground/prompts?models=gpt-4o)
 
 https://ellmer.tidyverse.org/articles/prompt-design.html
-

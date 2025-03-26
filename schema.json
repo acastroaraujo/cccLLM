@@ -13,8 +13,8 @@
       "amicus"
     ],
     "properties": {
-      "description": "Resumen detallado de la sentencia.",
       "summary": {
+        "description": "Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la Corte.",
         "type": "object",
         "required": [
           "english",
@@ -38,36 +38,41 @@
       },
       "magistrados": {
         "type": "array",
-        "description": "Lista de nombres de los magistrados que firmaron la sentencia. Excluir al secretario general de esta lista. Las salas de revisión usualmente tienen 3 magistrados, mientras que la sala plena usualmente tiene 9 magistrados. Algunas decisiones incluyen salvamentos o aclaraciones de voto. En estos casos esta información aparece al final del documento.",
+        "description": "Información sobre los magistrados que firmaron la sentencia. El secretario general está excluído de esta lista.",
         "items": {
           "type": "object",
           "required": [
             "name",
-            "AV",
-            "SV",
-            "conjuez",
-            "MP"
+            "av",
+            "sv",
+            "mp",
+            "interim",
+            "conjuez"
           ],
           "properties": {
             "name": {
               "type": "string",
               "description": "Nombre."
             },
-            "AV": {
+            "av": {
               "type": "boolean",
               "description": "Incluye aclaración de voto?"
             },
-            "SV": {
+            "sv": {
               "type": "boolean",
               "description": "Incluye salvamento de voto?"
+            },
+            "mp": {
+              "type": "boolean",
+              "description": "Es el magistrado ponente?"
+            },
+            "interim": {
+              "type": "boolean",
+              "description": "Es magistrado encargado?"
             },
             "conjuez": {
               "type": "boolean",
               "description": "Es conjuez?"
-            },
-            "MP": {
-              "type": "boolean",
-              "description": "Es el magistrado ponente?"
             }
           },
           "additionalProperties": false
@@ -75,7 +80,7 @@
       },
       "articles": {
         "type": "array",
-        "description": "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otros tipos de artículo.",
+        "description": "Lista de artículos de la Constitución que son objeto de discusión, en caso de que la información sea explícita. Excluir otro tipo de artículos.",
         "items": {
           "type": "integer"
         }
@@ -91,7 +96,7 @@
       },
       "rj_citation": {
         "type": "array",
-        "description": "Lista de sentencias previas que llevaron a la corte a decidir que el caso era \"cosa juzgada\". Sólo responder si la información es explícita. Excluir las sentencias que no llevan a que el caso sea \"cosa juzgada\".",
+        "description": "En caso de que la información sea explícita, lista de sentencias previas que llevaron a la Corte a decidir que el caso es \"cosa juzgada\". Las sentencias que no contribuyen a que el caso sea \"cosa juzgada\" están excluídas de esta lista.",
         "items": {
           "type": "string"
         }
@@ -100,22 +105,7 @@
         "type": "array",
         "description": "Lista de intervinientes en calidad de \"amicus curiae\" en el proceso. Esta lista puede incluir personas naturales, ONG, asociaciones profesionales, sindicatos, universidades, entidades gubernamentales, y otros tipos de organizaciones públicas o privadas.",
         "items": {
-          "type": "object",
-          "required": [
-            "name",
-            "type"
-          ],
-          "properties": {
-            "name": {
-              "type": "string",
-              "description": "Nombre de la persona u organización que intervino."
-            },
-            "type": {
-              "type": "string",
-              "description": "Tipo de interviniente (por ejemplo: persona natural, ONG, entidad gubernamental, universidad, sindicato, etc.)."
-            }
-          },
-          "additionalProperties": false
+          "type": "string"
         }
       }
     },

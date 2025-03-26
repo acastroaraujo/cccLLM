@@ -18,6 +18,9 @@ texts <- names(lookup)
 texts_done <- stringr::str_remove(dir(outfolder), "_gpt\\.rds$")
 texts_left <- setdiff(texts, texts_done)
 
+# There's something weird here, whenever I change the `texts_left`
+# thing at the end. What are the consequences of doing this???
+
 for (i in seq_along(texts_left)) {
   id <- texts_left[[i]]
   SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
@@ -29,9 +32,21 @@ for (i in seq_along(texts_left)) {
   )
 
   url <- lookup[[id]]
-  txt <- ccc::ccc_txt(url)
+  txt <- try(ccc::ccc_txt(url))
 
-  out <- chat$extract_data(txt, type = ruling_summary)
+  if (inherits(txt, "try-error")) next
+
+  out <- try(
+    chat$extract_data(
+      txt,
+      type = ruling_summary,
+      echo = "text",
+      convert = TRUE
+    )
+  )
+
+  if (inherits(out, "try-error")) next
+
   out$url <- url
   out$id <- id
   out$model <- "gpt-4o"
@@ -42,13 +57,13 @@ for (i in seq_along(texts_left)) {
     compress = "gz"
   )
 
-  texts_left <- texts_left[-i]
-  texts_done <- setdiff(texts, texts_left)
+  texts_done <- c(texts_done, id)
 
-  message(length(texts_done), "/", length(texts))
+  message("Progress:", length(texts_done), "/", length(texts))
   Sys.sleep(runif(1, min = 0, max = 2))
 }
 
 # x <- sample(texts_done, size = 1)
+# x <- "T-132-04"
 # out <- readRDS(str_glue("~/Repositories/cccLLM/out_raw/{x}_gpt.rds"))
 # out
