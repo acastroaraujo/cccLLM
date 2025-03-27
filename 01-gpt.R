@@ -18,12 +18,16 @@ texts <- names(lookup)
 texts_done <- stringr::str_remove(dir(outfolder), "_gpt\\.rds$")
 texts_left <- setdiff(texts, texts_done)
 
-# There's something weird here, whenever I change the `texts_left`
-# thing at the end. What are the consequences of doing this???
-
 for (i in seq_along(texts_left)) {
+  ## To do: Change code to `sample(texts_left, 1)` when you move to usage tier 4
+  ## https://platform.openai.com/settings/organization/limits
+
   id <- texts_left[[i]]
-  SP <- glue::glue(paste(readLines("prompts/system.md"), collapse = "\n"))
+
+  SP <- glue::glue(
+    paste(readLines("prompts/system.md"), collapse = "\n"),
+    .envir = rlang::new_environment(data = list(ruling_id = id)),
+  )
 
   chat <- ellmer::chat_openai(
     system_prompt = SP,
@@ -59,7 +63,12 @@ for (i in seq_along(texts_left)) {
 
   texts_done <- c(texts_done, id)
 
-  message("Progress:", length(texts_done), "/", length(texts))
+  if (length(texts_done) >= 8000) break ## this is temporary, I need to see the data and look for mistakes!
+
+  cli::cli_alert_success(stringr::str_glue(
+    "Progress: {length(texts_done)} / {length(texts)}"
+  ))
+
   Sys.sleep(runif(1, min = 0, max = 2))
 }
 
