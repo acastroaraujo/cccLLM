@@ -1,3 +1,28 @@
+# helpers ----------------------------------------------------------------
+
+read_prompt <- function(file_path, ...) {
+  ok <- purrr::map_lgl(list(...), \(x) length(x) == 1 & class(x) == "character")
+  if (!all(ok) & length(ok) != 0) {
+    cli::cli_abort(
+      "Each of the arguments supplied to `...` must be a named character"
+    )
+  }
+
+  out <- paste(readLines(here::here(file_path)), collapse = "\n")
+
+  self_contained <- rlang::new_environment(list(...))
+  return(stringr::str_glue(out, .envir = self_contained))
+}
+
+
+glue::glue(
+  "asdfasdf {id} asdfasdf",
+  # only the `id` string is being interpolated
+  .envir = rlang::new_environment(data = list(id = 2)),
+)
+
+# structured output ------------------------------------------------------
+
 library(ellmer)
 
 calendarEvent <- type_object(
