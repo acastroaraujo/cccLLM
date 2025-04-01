@@ -4,7 +4,7 @@ library(cli)
 outfolder <- "out_raw"
 
 output <- dir(outfolder, full.names = TRUE) |>
-  map(function(x) read_rds(x), .progress = TRUE)
+  purrr::map(function(x) readr::read_rds(x), .progress = TRUE)
 
 # Danger -----------------------------------------------------------------
 
@@ -23,8 +23,6 @@ names(output) <- map_chr(output, pluck("id"))
 
 problems <- output[!ok]
 names(problems) <- map_chr(problems, pluck("id"))
-
-# To do: Make sure I didn't add any of the rj_citations here by accident.
 
 not_problems <- c(
   "C-039-93",
@@ -67,28 +65,18 @@ not_problems <- c(
   "C-732-05",
   "C-984-02",
   "T-545-14",
-  "T-560A-14"
+  "T-560A-14",
+  "T-545-14"
 )
 
 ok <- names(problems) %in% not_problems
 
 problems <- problems[!ok]
 
-# cases when the president is excluded
-"C-239-09" ## NILSON PINILLA PINILLA
-"C-283-02" ## MARCO GERARDO MONROY CABRA
-"C-312-93" ## HERNANDO HERRERA VERGARA
-"C-319-98" ## VLADIMIRO NARANJO MESA
-"C-455-06" ## JAIME CORDOBA TRIVIÑO
-
-
 # cases that include an extra person
-"T-001-03"
-"T-005-00"
-"T-1069-00"
 
-# typos, wtf do I do with these???
-"T-254-01"
+# typos, wtf do I do with these??? fix this and then add to no problem
+"T-254-01" ## remove José Gregorio Hernández
 "T-570-98"
 
 output[["C-455-06"]]
@@ -96,61 +84,23 @@ output[["C-455-06"]]
 ccc::citations |>
   dplyr::filter(from == "C-672-04")
 
+# Manual Delete ----------------------------------------------------------
+
+# delete_me <- c(
+#   "C-239-09",
+#   "C-283-02",
+#   "C-312-93",
+#   "C-319-98",
+#   "C-455-06",
+#   "T-001-03",
+#   "T-005-00",
+#   "T-1069-00"
+# )
+#
+# delete_me_paths <- glue::glue("{outfolder}/{delete_me}_gpt.rds")
+# file.remove(delete_me_paths)
+
 # Delete -----------------------------------------------------------------
-
-## delete a bunch with rj, but actually do this programmatically
-"T-545-14"
-
-# weird_but_ok <- c(
-#   "C-041-93", ## No information on who's missing
-#   "C-545-92", ## No information on who's missing
-#   "C-598-99", ## No information on who's missing
-#   "C-520-99", ## No information on who's missing
-#   "C-147-03", ## EDUARDO MONTEALEGRE LYNETT (recused)
-#   "T-434-97", ## HERNANDO HERRERA VERGARA (out of country)
-#   "T-436-97", ## HERNANDO HERRERA VERGARA (out of country)
-#   "T-565-03" ## MANUEL JOSÉ CEPEDA ESPINOSA (excused)
-# )
-
-# Problem 1: JOSÉ GREGORIO HERNÁNDEZ GALINDO (malformed) ------------------
-#
-# missing_jose <- c(
-#   "T-105-99",
-#   "T-151-99",
-#   "T-146-99",
-#   "T-240-99",
-#   "T-278-99",
-#   "T-291-99",
-#   "T-316-99",
-#   "T-345-99",
-#   "T-350-99",
-#   "T-378-99",
-#   "T-379-99",
-#   "T-381-99",
-#   "T-425-99",
-#   "T-432-99",
-#   "T-433-99",
-#   "T-435-99",
-#   "T-438-99",
-#   "T-441-99",
-#   "T-445-99",
-#   "T-447-99",
-#   "T-449-99"
-# )
-#
-# for (j in missing_jose) {
-#   output[[j]]$person <- bind_rows(
-#     problem[[j]]$person,
-#     data.frame(
-#       name = "JOSÉ GREGORIO HERNÁNDEZ GALINDO",
-#       av = FALSE,
-#       sv = FALSE,
-#       conjuez = FALSE,
-#       mp = FALSE
-#     )
-#   )
-# }
-#
 
 # Problem 2: Misc. --------------------------------------------------------
 

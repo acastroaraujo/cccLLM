@@ -43,8 +43,17 @@ type_rj_citation <- type_array(
 )
 
 type_amicus <- type_array(
-  'Lista de intervinientes en calidad de "amicus curiae" en el proceso. Esta lista puede incluir personas naturales, ONGs, asociaciones profesionales, sindicatos, universidades, entidades gubernamentales, y otros tipos de organizaciones públicas o privadas.',
-  items = type_string("Nombre del interviniente."),
+  'Información sobre intervinientes en calidad de "amicus curiae" en el proceso. Esta lista puede incluir personas naturales, ONGs, asociaciones profesionales, sindicatos, universidades, entidades gubernamentales, y otros tipos de organizaciones públicas o privadas.',
+  items = type_object(
+    name = type_string(
+      "Nombre del interviniente, en caso de que la información sea explícita.",
+      required = FALSE
+    ),
+    affiliation = type_string(
+      'Organización a la cual pertenece el interviniente. Si el interviniente no pertence a ninguna organización su afiliación debe ser "persona natural"',
+      required = FALSE
+    )
+  ),
   required = FALSE
 )
 

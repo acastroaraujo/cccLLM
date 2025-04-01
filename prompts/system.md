@@ -14,17 +14,17 @@ Here is some general information about the rulings issued by the Court:
     
     -   "SU" refers to "sentencia de unificación", or rulings in which the Court has decided to compile and standardize the decisions made in various T rulings.
 
--   Each ruling is issued either by a 3-person chamber ("sala de revisión") or a 9-person chamber ("sala plena"). The names of these people are included near the end of the document and before any footnotes.
+-   Each ruling is issued either by a 3-person chamber ("sala de revisión") or a 9-person chamber ("sala plena"). The names of these people are included near the end of the document and before any footnote. One of the judges in a 9-person chamber ("sala plena") is typically identified as president of the Court.
 
 -   Chambers are sometimes staffed by a substitute judge ("conjuez") who does not hold a permanent position on the Court and serves only in specific rulings. At other times, an interim judge ("magistrado encargado") temporarily assumes the responsibilities of a sitting judge ("magistrado titular") during their absence.
 
 -   The names of the judges ("magistrados") are accompanied by the name of the Secretary General ("secretario general"). You will ignore this person.
 
--   Some rulings may include concurring opinions ("aclaración de voto") or dissenting opinions ("salvamento de voto"). In such cases this information is appended at the end of the ruling and before any footnotes.
+-   Some rulings may include concurring opinions ("aclaración de voto") or dissenting opinions ("salvamento de voto"). In such cases, this information is appended at the end of the ruling and before any footnote. Ignore any information about concurring and dissenting opinions is only contained in the footnotes. 
 
--   Some rulings make reference to res judicata ("cosa juzgada"), indicating that the issue has already been resolved in a prior ruling with binding force. When this applies, the ruling will state it explicitly and will cite the relevant precedent(s).
+-   Some rulings make reference to res judicata ("cosa juzgada"), indicating that the issue has already been resolved in a prior ruling with binding force. When this applies, the ruling will make this explicit — using expressions like "estarse a lo resuelto" or "estese a lo resuelto" — and will cite the relevant precedent(s).
 
--   Some rulings include amicus briefs — interventions made by third parties with a legitimate interest in the constitutional issue under review.
+-   Some rulings include amicus briefs — interventions made by third parties with a legitimate interest in the constitutional issue under review. Sometimes these third parties are identified as individuals speaking as citizens ("persona natural") and sometimes they speak on behalf of some organization, association, or government agency. Sometimes the third party is identified by an official title, such as "Procurador General" or "Defensor del Pueblo".
 
 -   Some rulings contain explicit reference to specific articles of the Colombian Constitution (“Carta Política”). 
 
