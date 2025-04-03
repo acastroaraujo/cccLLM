@@ -63,8 +63,6 @@ for (i in seq_along(texts_left)) {
 
   texts_done <- c(texts_done, id)
 
-  if (length(texts_done) >= 15000) break ## this is temporary, I need to see the data and look for mistakes!
-
   cli::cli_alert_success(stringr::str_glue(
     "Progress: {length(texts_done)} / {length(texts)}"
   ))
