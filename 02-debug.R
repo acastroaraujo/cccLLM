@@ -72,8 +72,8 @@ not_problems <- c(
 ok <- names(problems) %in% not_problems
 
 problems <- problems[!ok]
-
-# cases that include an extra person
+length(problems)
+names(problems)
 
 # typos, wtf do I do with these??? fix this and then add to no problem
 "T-254-01" ## remove José Gregorio Hernández
@@ -83,6 +83,10 @@ output[["C-455-06"]]
 
 ccc::citations |>
   dplyr::filter(from == "C-672-04")
+
+# Extra people -----------------------------------------------------------
+
+# T-242-93 Alvaro Lecompte Luna
 
 # Manual Delete ----------------------------------------------------------
 

@@ -31,7 +31,7 @@ for (i in seq_along(texts_left)) {
 
   chat <- ellmer::chat_openai(
     system_prompt = SP,
-    model = "gpt-4o",
+    model = "gpt-4o-2024-08-06",
     api_args = list(temperature = 0)
   )
 
@@ -63,7 +63,7 @@ for (i in seq_along(texts_left)) {
 
   texts_done <- c(texts_done, id)
 
-  if (length(texts_done) >= 8000) break ## this is temporary, I need to see the data and look for mistakes!
+  if (length(texts_done) >= 15000) break ## this is temporary, I need to see the data and look for mistakes!
 
   cli::cli_alert_success(stringr::str_glue(
     "Progress: {length(texts_done)} / {length(texts)}"
