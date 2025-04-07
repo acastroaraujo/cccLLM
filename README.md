@@ -19,6 +19,19 @@ function:
 
     usethis::edit_r_environ(scope = "user")
 
+## JSON Schema
+
+Add here…
+
+## Manual Coding of Files
+
+Add here…
+
+Some documents exceed the maximum context length of 128000 tokens.
+
+These documents were manually coding (with the exception of the English
+and Spanish summaries) and can be found in the `manual` directory.
+
 ## Codebook
 
 1.  `id`: Ruling ID.

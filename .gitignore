@@ -6,3 +6,5 @@ out_raw
 old_out_raw
 .DS_Store
 .env
+
+/rulings_length_exceeded/*.txt

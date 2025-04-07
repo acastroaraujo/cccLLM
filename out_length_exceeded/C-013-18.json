@@ -1,0 +1,156 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-013 de 2018 trata sobre la constitucionalidad del Decreto Ley 898 de 2017, expedido por el Presidente de la República en ejercicio de facultades extraordinarias conferidas por el Acto Legislativo 01 de 2016, con el fin de implementar el Acuerdo Final para la terminación del conflicto y construcción de una paz estable y duradera. El decreto crea la Unidad Especial de Investigación en la Fiscalía General de la Nación, encargada de desmantelar organizaciones criminales que atentan contra defensores de derechos humanos, movimientos sociales o políticos, y contra quienes participan en la implementación del acuerdo de paz. La Corte encontró que el decreto cumple con los requisitos de necesidad estricta y conexidad objetiva y temática con el Acuerdo Final, por lo cual declaró su exequibilidad. También analizó la procedencia de la consulta previa con comunidades étnicas, señalando que este mecanismo solo procede cuando la medida legislativa o administrativa tiene un impacto directo sobre tales comunidades, lo cual no fue el caso del decreto examinado.",
+    "english": "Ruling C-013 of 2018 addresses the constitutionality of Decree Law 898 of 2017, issued by the President under extraordinary powers granted by Legislative Act 01 of 2016, aimed at implementing the Final Agreement for the termination of the conflict and the construction of a stable and lasting peace. The decree establishes a Special Investigation Unit within the Attorney General’s Office tasked with dismantling criminal organizations that target human rights defenders, social or political movements, and those involved in implementing the peace agreement. The Constitutional Court found that the decree meets the requirements of strict necessity and objective and thematic connection to the Final Agreement, thus declaring it constitutional. The Court also examined whether prior consultation with ethnic communities was required and concluded that it was not necessary in this case, as the measure did not directly affect such communities."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 7, 22, 40, 70, 115, 151, 169, 209, 251, 330],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Enrique Gil Botero",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "Liliana Caballero",
+      "affiliation": "Departamento Administrativo de la Función Pública"
+    },
+    {
+      "name": "Claudia Isabel González Sánchez",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "Néstor Humberto Martínez Neira",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "Ramiro Emiro Bustamante Pérez",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Guillermo López Celis",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrew Julián Martínez",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Cumbre Nacional de Mujeres y Paz"
+    },
+    {
+      "name": "Gelasio Cardona Serna",
+      "affiliation": "Comité Permanente por la Defensa de los Derechos Humanos"
+    },
+    {
+      "name": "Erika Gómez Ardila",
+      "affiliation": "Comité Permanente por la Defensa de los Derechos Humanos"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Universidad Libre, Seccional Bogotá"
+    },
+    {
+      "name": "Norberto Hernández Jiménez",
+      "affiliation": "Universidad Libre, Seccional Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Codhes"
+    },
+    {
+      "name": "Luis Fernando Arias Arias",
+      "affiliation": "Organización Nacional Indígena de Colombia (ONIC)"
+    },
+    {
+      "name": "José Gregorio Hernández Galindo",
+      "affiliation": ""
+    },
+    {
+      "name": "Janethe Patricia Puentes Sarmiento",
+      "affiliation": ""
+    },
+    {
+      "name": "Esther María Gallego Zapata",
+      "affiliation": "Ruta Pacífica de las Mujeres"
+    },
+    {
+      "name": "Jomary Ortegón Osorio",
+      "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Jorge David Sierra Amaya",
+      "affiliation": ""
+    },
+    {
+      "name": "Jhon Jairo Espinosa Silva",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-013-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-013-18.htm"
+}

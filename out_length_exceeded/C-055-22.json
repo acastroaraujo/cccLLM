@@ -1,0 +1,536 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el parágrafo 3º del artículo 244 de la Ley 1955 de 2019, que prohibía la destinación de recursos del Sistema General de Participaciones para infraestructura de colegios en administración del sector privado. El demandante alegaba que esta disposición violaba los artículos 13, 44, 67, 365 y 366 de la Constitución, afectando el derecho a la educación de niños y adolescentes de bajos recursos. La Corte declaró la exequibilidad condicionada del precepto, estableciendo que su aplicación no puede desconocer la obligación estatal de garantizar el acceso y permanencia en el sistema educativo de esta población vulnerable. Asimismo, se resaltó que la norma no impide la financiación de infraestructura educativa en concesiones públicas o privadas cuando sea necesario para garantizar el derecho a la educación.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against paragraph 3 of article 244 of Law 1955 of 2019, which prohibited the allocation of General Participation System resources for infrastructure in schools managed by the private sector. The plaintiff argued that this provision violated Articles 13, 44, 67, 365, and 366 of the Constitution by affecting the right to education of low-income children and adolescents. The Court declared the provision conditionally constitutional, establishing that its application must not disregard the state's obligation to ensure access to and permanence in the education system for this vulnerable population. The Court emphasized that the rule does not prevent funding educational infrastructure under public or private concessions when necessary to guarantee the right to education."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Julio Andrés Ossa Santamaría",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 44, 67, 365, 366],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "José Fernando Perdomo Torres",
+      "affiliation": ""
+    },
+    {
+      "name": "Ángela María Buitrago Ruíz",
+      "affiliation": ""
+    },
+    {
+      "name": "Gabriela Cala Porras",
+      "affiliation": ""
+    },
+    {
+      "name": "Isabella Lébolo Bula",
+      "affiliation": ""
+    },
+    {
+      "name": "Sofía Machado Parra",
+      "affiliation": ""
+    },
+    {
+      "name": "Isabel Gaviria Ormaza",
+      "affiliation": ""
+    },
+    {
+      "name": "María Valencia Ibáñez",
+      "affiliation": ""
+    },
+    {
+      "name": "Mónica Arango Olaya",
+      "affiliation": ""
+    },
+    {
+      "name": "Viviana Bohórquez Monsalve",
+      "affiliation": ""
+    },
+    {
+      "name": "María Paula Saffon Sanín",
+      "affiliation": ""
+    },
+    {
+      "name": "Juanita María Goebertus Estrada",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Angélica Lozano Correa",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Ángela María Robledo Gómez",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Katherine Miranda Peña",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "María José Pizarro Rodríguez",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Catalina Ortiz Lalinde",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Juan Carlos Lozada Vargas",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Juan Fernando Reyes Kuri",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Inti Raúl Asprilla Reyes",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Gustavo Bolívar Moreno",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Abel David Jaramillo Largo",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Wilson Neber Arias Castillo",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "León Fredy Muñoz Lopera",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Antonio Sanguino Páez",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Carlos Germán Navas Talero",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Mauricio Toro Orjuela",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Luis Alberto Albán Urbano",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "David Racero Mayorca",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Wilmer Leal Pérez",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Julián Gallo Cubillos",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Jorge Gómez Gallego",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Angie Daniela Yepes García",
+      "affiliation": "Universidad del Rosario - GAP"
+    },
+    {
+      "name": "María José Motta",
+      "affiliation": "Universidad del Rosario - GAP"
+    },
+    {
+      "name": "Lorena Pardo Rojas",
+      "affiliation": "Universidad del Rosario - GAP"
+    },
+    {
+      "name": "Viviana Basto Vergara",
+      "affiliation": "Universidad del Rosario - GAP"
+    },
+    {
+      "name": "María Alejandra Ramírez Arias",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Lina Ríos Ortiz",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Natalia Andrea González Barreto",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Carlos Julián Mantilla Copete",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Luz Ángela Gómez Jutinico",
+      "affiliation": "Universidad Libre de Bogotá"
+    },
+    {
+      "name": "José Alejandro Ramírez Chacón",
+      "affiliation": "Universidad Nacional de Colombia"
+    },
+    {
+      "name": "Diana Valentina Amado Vega",
+      "affiliation": "Universidad Nacional de Colombia"
+    },
+    {
+      "name": "Jorge Hernando Galeano Arias",
+      "affiliation": "Universidad Nacional de Colombia"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "David Andrés Murillo Cruz",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "Camila Alejandra Rozo Ladino",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "Leydy Jazmín Ruíz Herrera",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "Viviana Rodríguez Peña",
+      "affiliation": "Corporación Humanas"
+    },
+    {
+      "name": "María Fernanda Herrera Burgos",
+      "affiliation": "Corporación Humanas"
+    },
+    {
+      "name": "Karen Esmeralda Mora Chaparro",
+      "affiliation": "Corporación Humanas"
+    },
+    {
+      "name": "Marcia Rojas Moreno",
+      "affiliation": "Corporación Humanas"
+    },
+    {
+      "name": "Wilson de Jesús Castañeda Castro",
+      "affiliation": "Caribe Afirmativo"
+    },
+    {
+      "name": "Marcela Sánchez Buitrago",
+      "affiliation": "Colombia Diversa"
+    },
+    {
+      "name": "Laura Frida Weinstein",
+      "affiliation": "GAAT"
+    },
+    {
+      "name": "Tomás Anzola",
+      "affiliation": "GAAT"
+    },
+    {
+      "name": "Camila Becerra",
+      "affiliation": "GAAT"
+    },
+    {
+      "name": "Laura Flórez",
+      "affiliation": "GAAT"
+    },
+    {
+      "name": "Daniel González",
+      "affiliation": "GAAT"
+    },
+    {
+      "name": "Álvaro Bermejo",
+      "affiliation": "International Planned Parenthood Federation – IPPF"
+    },
+    {
+      "name": "Érika Guevara Rosas",
+      "affiliation": "Amnistía Internacional"
+    },
+    {
+      "name": "Diana Cristina Caicedo Naranjo",
+      "affiliation": "Cooperación Gea Jurisgeneristas"
+    },
+    {
+      "name": "Carolina Espitia Becerra",
+      "affiliation": "Cooperación Gea Jurisgeneristas"
+    },
+    {
+      "name": "Diana Rodríguez Franco",
+      "affiliation": "Secretaría Distrital de la Mujer (Bogotá)"
+    },
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Julián González Escallón",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "David Fernando Cruz",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Enith Bula Beleño",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Sibelys Mejía Rodríguez",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Orlando Enrique Santamaría Echeverría",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Jorge Alberto Ramírez Gómez",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Natalia Rueda Vallejo",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Simón Rodríguez Serna",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Felipe Chica Duque",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Ángel Díaz Ochoa",
+      "affiliation": ""
+    },
+    {
+      "name": "María Acelas Celis",
+      "affiliation": ""
+    },
+    {
+      "name": "Sofía Ramos López",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrés Rodríguez Morales",
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Arantegui",
+      "affiliation": "Médicos sin Fronteras"
+    },
+    {
+      "name": "Carolina Vergel Tovar",
+      "affiliation": ""
+    },
+    {
+      "name": "Iván Cepeda Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "Joanna N. Erdman",
+      "affiliation": ""
+    },
+    {
+      "name": "Rebecca Cook",
+      "affiliation": ""
+    },
+    {
+      "name": "Macarena Sáez Torres",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Ernesto Méndez",
+      "affiliation": ""
+    },
+    {
+      "name": "Line Bareiro",
+      "affiliation": ""
+    },
+    {
+      "name": "Lina Malagón Penen",
+      "affiliation": ""
+    },
+    {
+      "name": "Sergio Alejandro Fernández Parra",
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Gaviria Uribe",
+      "affiliation": ""
+    },
+    {
+      "name": "Óscar A. Cabrera",
+      "affiliation": ""
+    },
+    {
+      "name": "Silvia Serrano Guzmán",
+      "affiliation": ""
+    },
+    {
+      "name": "Yesid Reyes Alvarado",
+      "affiliation": ""
+    },
+    {
+      "name": "María Camila Correa Flórez",
+      "affiliation": ""
+    },
+    {
+      "name": "Isabel Cristina Jaramillo Sierra",
+      "affiliation": ""
+    },
+    {
+      "name": "Ana Labandera Monteblanco",
+      "affiliation": ""
+    },
+    {
+      "name": "Diana Green Foster",
+      "affiliation": ""
+    },
+    {
+      "name": "Antonia Biggs",
+      "affiliation": ""
+    },
+    {
+      "name": "Lori Freedman",
+      "affiliation": ""
+    },
+    {
+      "name": "Rosalyn Schroeder",
+      "affiliation": ""
+    },
+    {
+      "name": "María Paula Houghton",
+      "affiliation": ""
+    },
+    {
+      "name": "Pío Iván Gómez",
+      "affiliation": ""
+    },
+    {
+      "name": "Johana Cepeda Saavedra",
+      "affiliation": ""
+    },
+    {
+      "name": "Moisés Wasserman",
+      "affiliation": ""
+    },
+    {
+      "name": "Isabel Fanlo Cortés",
+      "affiliation": ""
+    },
+    {
+      "name": "Susana Pozzolo",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Jorge Hernández F.",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Zulma Consuelo Urrego Mendoza",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "Gladys Rocío Ariza Sosa",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "Alejandra del Rocío Bello Urrego",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "Roberto Gargarella",
+      "affiliation": ""
+    },
+    {
+      "name": "Sara Giraldo Posada",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrea Zapata Serna",
+      "affiliation": ""
+    },
+    {
+      "name": "Verónica Siman",
+      "affiliation": "UNFPA"
+    }
+  ],
+  "id": "C-055-22",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2022/C-055-22.htm"
+}

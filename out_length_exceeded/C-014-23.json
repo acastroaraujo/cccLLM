@@ -1,0 +1,188 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió diez cargos de inconstitucionalidad contra varios artículos de la Ley 2197 de 2022, que pretendía fortalecer la seguridad ciudadana. Los cargos incluían alegaciones por violación de la diversidad étnica y cultural, dignidad humana, derechos de personas con discapacidad, libertad de expresión y protesta, legalidad penal, presunción de inocencia y monopolio estatal sobre las armas. La Corte declaró inexequibles los parágrafos 1° y 2° del artículo 25 y el artículo 30 de dicha ley, por considerar que vulneraban el monopolio de las armas en cabeza del Estado. Además, encontró que otras disposiciones eran inconstitucionales parcialmente, mientras que desestimó algunos cargos por ineptitud sustantiva de la demanda. La decisión no se fundamentó en cosa juzgada y abordó de manera novedosa los cargos presentados.",
+    "english": "The Constitutional Court reviewed ten claims of unconstitutionality against various articles of Law 2197 of 2022, which aimed to strengthen public security. The claims alleged violations of ethnic and cultural diversity, human dignity, rights of people with disabilities, freedom of expression and protest, legality in criminal matters, presumption of innocence, and the state's monopoly on weapons. The Court ruled unconstitutional paragraphs 1 and 2 of Article 25 and Article 30 of the law, finding they infringed upon the state's exclusive control over weapons. Other provisions were found partially unconstitutional, and some claims were dismissed for lacking sufficient legal basis. The decision was not based on res judicata and addressed the issues as new constitutional challenges."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Natalia Ángel Cabo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Cortés González",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jose Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1,
+    2,
+    4,
+    11,
+    13,
+    15,
+    16,
+    20,
+    21,
+    25,
+    30
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Colegio de Abogados Penalistas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Santo Tomás"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Fernando Velásquez Velásquez",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Viviana Gómez Barbosa",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Argemiro Bayona Bayona",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Joaquín Leonardo Casas Ortiz",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Humberto Sierra Porto",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Manuel Charry Urueña",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "",
+      "affiliation": "ASOFLORES"
+    },
+    {
+      "name": "",
+      "affiliation": "Ilex Acción Jurídica"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Universitaria Colombo Internacional – UNICOLOMBO"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Consejo Gremial Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Colombiana de Empresas de Vigilancia y Seguridad Privada"
+    },
+    {
+      "name": "Juan Carlos Forero Ramírez",
+      "affiliation": ""
+    },
+    {
+      "name": "Armando Raúl Lacouture Gutiérrez",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Cámara de Comercio de Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro de Estudios en Derecho Procesal"
+    },
+    {
+      "name": "",
+      "affiliation": "Red de Cámaras de Comercio – CONFECÁMARAS"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    }
+  ],
+  "id": "C-014-23",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-014-23.htm"
+}

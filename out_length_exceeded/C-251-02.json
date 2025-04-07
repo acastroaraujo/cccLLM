@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional examinó la constitucionalidad de la Ley 684 de 2001, que contenía disposiciones sobre seguridad y defensa nacional. La demanda fue presentada por ciudadanos y organizaciones que consideraban que dicha ley violaba principios constitucionales fundamentales al conferir al Presidente de la República atribuciones excesivas sobre la coordinación de todas las autoridades del Estado, subordinándolas a objetivos de seguridad y defensa nacional. La Corte evaluó que esta norma desvirtuaba los principios democráticos al alterar el equilibrio entre poderes y funciones del Estado. Consideró que estas disposiciones eran incompatibles con el orden constitucional colombiano y, por tanto, declaró INEXEQUIBLE la Ley 684 de 2001 en su totalidad.",
+    "english": "The Constitutional Court reviewed the constitutionality of Law 684 of 2001, which dealt with national security and defense provisions. The complaint was filed by citizens and organizations who argued that the law violated fundamental constitutional principles by granting the President excessive authority over the coordination of all State authorities under the pretext of security and defense objectives. The Court found that the law undermined democratic principles by disturbing the balance among State powers and functions. It ruled that these provisions were incompatible with Colombia’s constitutional order and therefore declared Law 684 of 2001 UNCONSTITUTIONAL in its entirety."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAUJO RENTERIA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MANUEL JOSE CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CORDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "EDUARDO MONTEALEGRE LYNETT",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INES VARGAS HERNANDEZ",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 95, 251],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Gustavo Gallón",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Juan Carlos Botero",
+      "affiliation": "Defensor del Pueblo (E)"
+    },
+    {
+      "name": "Armando Estrada Villa",
+      "affiliation": "Ministro del Interior"
+    },
+    {
+      "name": "Gustavo Bell Lemus",
+      "affiliation": "Ministro de Defensa y Seguridad Nacional"
+    },
+    {
+      "name": "Edgardo Maya Villazón",
+      "affiliation": "Procurador General de la Nación"
+    },
+    {
+      "name": "Luis Camilo Osorio Isaza",
+      "affiliation": "Fiscal General de la Nación"
+    },
+    {
+      "name": "Enrique Gómez",
+      "affiliation": "Ponente del proyecto en el Senado"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Internacional de Juristas"
+    },
+    {
+      "name": "",
+      "affiliation": "Alto Comisionado de la ONU para los Derechos Humanos en Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Grupo Acciones Públicas, Consultorio Jurídico Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Familiares de Personas Desaparecidas (ASFADES)"
+    },
+    {
+      "name": "",
+      "affiliation": "Organización Indígena de Antioquia (O.I.A.)"
+    },
+    {
+      "name": "",
+      "affiliation": "Central Unitaria de Trabajadores (C.U.T.)"
+    }
+  ],
+  "id": "C-251-02",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-251-02.htm"
+}

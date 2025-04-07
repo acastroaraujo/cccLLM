@@ -1,0 +1,236 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-073 de 2018 de la Corte Constitucional revisa la constitucionalidad del Decreto Ley 902 de 2017, el cual establece un procedimiento para el acceso, formalización y administración del Fondo de Tierras en el marco de la implementación del Acuerdo de Paz. La Corte analizó diversos artículos del decreto, particularmente los relativos al procedimiento judicial y a la definición de beneficiarios del acceso a tierras, con base en los principios de igualdad, debido proceso y juez natural. La Corte declaró la exequibilidad de la mayoría de los artículos del decreto, pero también declaró inexequible el artículo 78 por no cumplir con la garantía del juez natural. Además, se registraron salvamentos y aclaraciones de voto respecto de varias disposiciones, lo que indica posiciones divergentes entre los magistrados sobre algunos aspectos de la norma.",
+    "english": "Ruling C-073 of 2018 from the Constitutional Court reviews the constitutionality of Legislative Decree 902 of 2017, which outlines procedures for access to land, land formalization, and the administration of the Land Fund, as part of implementing the Peace Agreement. The Court analyzed several provisions of the decree, particularly those related to judicial procedures and eligibility criteria for land access, assessing them against constitutional principles of equality, due process, and natural judge. The Court upheld most provisions as constitutional but struck down Article 78 for failing to meet the natural judge guarantee. There were also concurring and dissenting opinions regarding various provisions, reflecting differing views among the magistrates."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [29, 115, 338, 63, 64, 58, 150, 329],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Agencia Nacional de Tierras"
+    },
+    {
+      "name": "Carlos Alfonso Negret Mosquera",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "",
+      "affiliation": "Ruta Pacífica de las Mujeres"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Empresarios de Colombia — ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "Consultoría para los Derechos Humanos y el Desplazamiento — CODHES"
+    },
+    {
+      "name": "",
+      "affiliation": "OXFAM"
+    },
+    {
+      "name": "",
+      "affiliation": "OPIAC"
+    },
+    {
+      "name": "",
+      "affiliation": "CIT"
+    },
+    {
+      "name": "",
+      "affiliation": "AICO"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "",
+      "affiliation": "Espacio Nacional de Consulta Previa"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "CENPAZ"
+    },
+    {
+      "name": "",
+      "affiliation": "Movimiento Ciudadano Voces de Paz y Reconciliación"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "D",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Zonas de Reserva Campesina — ANZORC"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Movimiento Nacional por los Derechos Humanos de las Comunidades Afrocolombianas — CIMARRON"
+    },
+    {
+      "name": "Rocío Londoño",
+      "affiliation": ""
+    },
+    {
+      "name": "Mauricio Velásquez",
+      "affiliation": ""
+    },
+    {
+      "name": "Iván Cepeda Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "Ana María Ibáñez",
+      "affiliation": ""
+    },
+    {
+      "name": "Tatiana Andrea Alfonso Sierra",
+      "affiliation": ""
+    },
+    {
+      "name": "María Paula Saffon Sanín",
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Reyes Posada",
+      "affiliation": ""
+    },
+    {
+      "name": "José Antonio Ocampo",
+      "affiliation": ""
+    },
+    {
+      "name": "Evaristo Rafael Rodríguez Felizzola",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Agricultura y Desarrollo Rural"
+    },
+    {
+      "name": "",
+      "affiliation": "Sociedad de Agricultores de Colombia — SAC"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Consejo Gremial Nacional — CGN"
+    },
+    {
+      "name": "Nathaly Julieth Barreto Guzmán",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-073-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-073-18.htm"
+}

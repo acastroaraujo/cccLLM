@@ -1,0 +1,96 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-027 de 2018 se refiere al control previo, automático e integral de constitucionalidad del Acto Legislativo 03 de 2017, el cual regula parcialmente el componente de reincorporación política del Acuerdo Final para la terminación del conflicto armado y la construcción de una paz estable y duradera. El objetivo de esta reforma constitucional era permitir que un grupo al margen de la ley, tras la dejación de armas, pudiera convertirse en partido político con personería jurídica. La Corte evaluó si esta reforma sustituía la Constitución de 1991, aplicando el juicio de sustitución constitucional en el marco del contexto de justicia transicional. La Corte concluyó que, aunque la reforma introducía medidas extraordinarias no aplicables en contextos normales, no implicaba una sustitución de la Constitución. En consecuencia, declaró exequible el Acto Legislativo 03 de 2017, al considerar que respetaba los límites materiales impuestos al poder de reforma y contribuía a la consolidación de la paz. La sentencia enfatizó la necesidad de flexibilizar los principios del juicio de sustitución en contextos transicionales, sin desatender las obligaciones internacionales del Estado en materia de derechos humanos.",
+    "english": "Ruling C-027 of 2018 involved the prior, automatic, and comprehensive judicial review of Legislative Act 03 of 2017, which partially regulated the political reintegration component of the Final Agreement for ending the armed conflict and building a stable and lasting peace. This constitutional reform aimed to allow a demobilized armed group to become a legally recognized political party. The Constitutional Court assessed whether the reform amounted to a substitution of the 1991 Constitution by applying the 'constitutional replacement' test within the framework of transitional justice. The Court concluded that while the reform introduced extraordinary and transitional measures not suitable in ordinary institutional contexts, it did not amount to a replacement of the Constitution. Therefore, it declared Legislative Act 03 of 2017 constitutional, finding that it complied with the material limits imposed on the power of constitutional amendment and supported peacebuilding. The ruling highlighted the need to apply a more flexible standard to the replacement test in transitional contexts, while still respecting international human rights obligations."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 22, 93],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Misión de Observación Electoral"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "",
+      "affiliation": "Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Procuraduría General de la Nación"
+    }
+  ],
+  "id": "C-027-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-027-18.htm"
+}

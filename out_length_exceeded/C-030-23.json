@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-030 de 2023 resolvió una demanda de inconstitucionalidad contra el artículo 1° de la Ley 2094 de 2021, norma que reformaba el Código General Disciplinario (Ley 1952 de 2019) y confería funciones jurisdiccionales a la Procuraduría General de la Nación (PGN). La Corte declaró la inexequibilidad de tales disposiciones por considerar que violaban el artículo 116 de la Constitución, al atribuirle a un órgano administrativo funciones propias de la jurisdicción, específicamente la de imponer sanciones de destitución, suspensión e inhabilidad a funcionarios de elección popular. Esta decisión se fundamentó, además, en la jurisprudencia de la Corte Interamericana de Derechos Humanos (Corte IDH), especialmente en el caso Petro Urrego vs. Colombia, y en los artículos 8 y 23.2 de la Convención Americana sobre Derechos Humanos (CADH), los cuales garantizan el debido proceso y el derecho a ser elegido. La Corte exhortó al Congreso a expedir una nueva legislación que respete los más altos estándares nacionales e internacionales en materia de derechos políticos y electorales.",
+    "english": "Ruling C-030 of 2023 addressed a constitutional challenge against Article 1 of Law 2094 of 2021, which reformed the General Disciplinary Code (Law 1952 of 2019) and granted judicial powers to the Office of the Inspector General (PGN). The Constitutional Court declared such provisions unconstitutional, ruling that they violated Article 116 of the Constitution by assigning judicial functions to an administrative body, particularly the power to dismiss, suspend, or disqualify popularly elected officials. The decision was also based on Inter-American Court of Human Rights jurisprudence, especially the Petro Urrego vs. Colombia case, and Articles 8 and 23.2 of the American Convention on Human Rights (ACHR), which protect due process and political rights. The Court urged Congress to enact a new law that aligns with the highest national and international standards for political and electoral rights."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Natalia Ángel Cabo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Cortés González",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [8, 23, 29, 93, 116, 241, 243],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "", "affiliation": "Presidencia de la República" },
+    { "name": "", "affiliation": "Ministerio de Justicia y del Derecho" },
+    { "name": "", "affiliation": "Ministerio del Interior" },
+    { "name": "", "affiliation": "Departamento Administrativo de la Función Pública" },
+    { "name": "", "affiliation": "Universidad Católica de Colombia" },
+    { "name": "", "affiliation": "Universidad Externado de Colombia" },
+    { "name": "", "affiliation": "Universidad de Salamanca" },
+    { "name": "", "affiliation": "Universidad del Rosario" },
+    { "name": "", "affiliation": "Universidad de Cartagena" },
+    { "name": "", "affiliation": "Universidad Sergio Arboleda" },
+    { "name": "", "affiliation": "Universidad Libre de Bogotá" },
+    { "name": "", "affiliation": "Academia Colombiana de Jurisprudencia" },
+    { "name": "", "affiliation": "Academia Colombiana de Derecho Sancionatorio" },
+    { "name": "", "affiliation": "Academia Colombiana de Derecho Internacional" }
+  ],
+  "id": "C-030-23",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-030-23.htm"
+}

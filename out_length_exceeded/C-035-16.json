@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-035 de 2016 estudió la constitucionalidad de varios artículos del Plan Nacional de Desarrollo 2010-2014 y 2014-2018, especialmente en lo relacionado con la creación de Áreas de Reserva Estratégica Minera (AREM) y Proyectos de Interés Nacional y Estratégico (PINES). La Corte analizó si estas figuras afectaban la autonomía territorial, los derechos de participación ciudadana, el derecho a la propiedad, el debido proceso y los derechos de las víctimas del conflicto armado. Se concluyó que algunas disposiciones vulneraban la Constitución, por lo que se declararon inexequibles los tres primeros incisos del parágrafo primero del artículo 173 de la Ley 1753 de 2015. El fallo abordó tensiones entre la propiedad del subsuelo por parte de la Nación y las competencias municipales sobre el uso del suelo, así como la exclusión de las víctimas de los procesos de restitución de tierras en zonas definidas como PINES.",
+    "english": "Ruling C-035 of 2016 assessed the constitutionality of several provisions in Colombia’s National Development Plans 2010–2014 and 2014–2018, especially those regarding the creation of Strategic Mining Reserve Areas (AREM) and Projects of National and Strategic Interest (PINES). The Court examined whether these measures violated territorial autonomy, citizens' participatory rights, property rights, due process, and the rights of victims of the armed conflict. It found that certain provisions were unconstitutional, leading to the annulment of the first three paragraphs of Article 173's first paragraph in Law 1753 of 2015. The decision emphasized tensions between national ownership of subsoil and municipal planning authority over land use, and addressed the exclusion of victims from land restitution processes in areas classified as PINES."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [79],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio de Ambiente y Desarrollo Sostenible"
+    },
+    {
+      "name": "",
+      "affiliation": "INCODER"
+    },
+    {
+      "name": "",
+      "affiliation": "Agencia Nacional de Minería"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Nacional de Planeación"
+    },
+    {
+      "name": "María Paula Saffón Sanín",
+      "affiliation": ""
+    },
+    {
+      "name": "Tatiana Andrea Alfonso Sierra",
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia López Hernández",
+      "affiliation": ""
+    },
+    {
+      "name": "Angélica Lozano Correa",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Prieto Riveros",
+      "affiliation": ""
+    },
+    {
+      "name": "Inti Asprilla",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Iván Ospina",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colectivo Derechos, Diversidad y Selvas (DEDISE)"
+    },
+    {
+      "name": "",
+      "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colectivo Mujeres al Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "CINEP"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Minería"
+    },
+    {
+      "name": "",
+      "affiliation": "ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    }
+  ],
+  "id": "C-035-16",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-035-16.htm"
+}

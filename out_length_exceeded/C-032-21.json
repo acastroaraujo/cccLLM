@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-032 de 2021 se refiere a una demanda contra el artículo 11 de la Ley 2044 de 2020, que facultaba al Presidente de la República para modificar la estructura de la Superintendencia de Salud mediante decreto con fuerza de ley. El demandante alegó que dicha disposición violaba el principio de separación de poderes y la reserva de ley para regular la estructura de las entidades estatales, al conferir al Ejecutivo facultades legislativas sin un marco constitucional claro. La Corte Constitucional declaró inexequible la norma demandada al considerar que vulneraba el principio democrático y excedía los límites impuestos al uso de decretos con fuerza de ley, al no encontrarse en el marco de un estado de excepción ni de facultades extraordinarias claramente delimitadas por el Congreso.",
+    "english": "Ruling C-032 of 2021 addresses a lawsuit against Article 11 of Law 2044 of 2020, which authorized the President of the Republic to modify the structure of the Superintendence of Health through decrees with the force of law. The claimant argued that this provision violated the principle of separation of powers and the legal reservation for regulating the structure of state entities, as it granted legislative powers to the Executive without a clear constitutional basis. The Constitutional Court declared the challenged provision unconstitutional, holding that it violated the democratic principle and exceeded the limits on the use of decrees with the force of law, as it was not issued within the framework of a state of emergency or clearly defined extraordinary powers granted by Congress."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [113, 150],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Maritza Martínez Aristizábal",
+      "affiliation": "Congresista"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Superintendencia de Industria y Comercio"
+    },
+    {
+      "name": "",
+      "affiliation": "Superintendencia Financiera de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de la Sabana"
+    },
+    {
+      "name": "",
+      "affiliation": "Unión Colegiada del Notariado Colombiano"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Bienestar Familiar"
+    },
+    {
+      "name": "Carlos Fradique Méndez",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    }
+  ],
+  "id": "C-032-21",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-032-21.htm"
+}

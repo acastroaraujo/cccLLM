@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional llevó a cabo el control automático de constitucionalidad del Proyecto de Ley Estatutaria número 08 de 2017 Senado, 016 de 2017 Cámara, referente a la administración de justicia en la Jurisdicción Especial para la Paz (JEP), como parte del cumplimiento del Acuerdo Final de Paz firmado entre el Gobierno Nacional y las FARC-EP. El proyecto abarcaba una regulación completa sobre la estructura, competencias, principios, procedimientos, y tipos de sanciones dentro de la JEP, incluyendo un régimen especial para agentes del Estado. La Corte examinó tanto los requisitos formales (como procedimiento legislativo especial para la paz y reserva de ley estatutaria) como el contenido material de los artículos, declarando exequibles la mayoría, pero condicionando e incluso declarando inconstitucionales algunas expresiones que afectaban derechos fundamentales o excedían el marco constitucional. Entre otras decisiones, se estableció que no podían limitarse los recursos judiciales a las víctimas ni otorgar valor normativo autónomo al Acuerdo Final.",
+    "english": "The Constitutional Court carried out an automatic constitutional review of the Statutory Law Bill No. 08 of 2017 Senate, 016 of 2017 House, related to the administration of justice in the Special Jurisdiction for Peace (JEP), as part of the implementation of the Final Peace Agreement signed between the National Government and the FARC-EP. The bill comprehensively regulated the structure, competencies, principles, procedures, and types of sanctions within the JEP, including a special regime for state agents. The Court examined both the formal requirements (such as the special legislative procedure for peace and statutory law reservation) and the material content of the articles, declaring most of them constitutional but conditioning or declaring unconstitutional certain expressions that violated fundamental rights or exceeded constitutional limits. Among other decisions, it ruled that victims' access to judicial remedies could not be restricted and that the Final Agreement could not be given autonomous normative value."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [5, 29, 86, 229],
+  "rj": "sí",
+  "rj_citation_raw": ["C-674-17", "C-630-17"],
+  "amicus": [
+    { "name": "", "affiliation": "Ministerio del Interior" },
+    { "name": "", "affiliation": "Ministerio de Justicia y del Derecho" },
+    { "name": "", "affiliation": "Ministerio de Defensa" },
+    { "name": "", "affiliation": "Alto Comisionado para la Paz" },
+    { "name": "", "affiliation": "Fiscalía General de la Nación" },
+    { "name": "", "affiliation": "Defensoría del Pueblo" },
+    { "name": "", "affiliation": "Procuraduría General de la Nación" },
+    { "name": "Efraín José Cepeda Sarabia", "affiliation": "Congreso de la República" },
+    { "name": "", "affiliation": "Consejo de Estado" },
+    { "name": "", "affiliation": "Pontificia Universidad Javeriana, Sede Cali" },
+    { "name": "", "affiliation": "Universidad del Norte" },
+    { "name": "", "affiliation": "Universidad Libre de Colombia" },
+    { "name": "", "affiliation": "Universidad Externado de Colombia" },
+    { "name": "", "affiliation": "Universidad Pontificia Bolivariana" },
+    { "name": "", "affiliation": "Universidad Libre" },
+    { "name": "", "affiliation": "Academia Colombiana de Jurisprudencia — ACJ" },
+    { "name": "", "affiliation": "Dejusticia" },
+    { "name": "", "affiliation": "Instituto para las Transiciones Integrales — IFIT" },
+    { "name": "", "affiliation": "Centro Internacional para la Justicia Transicional — ICTJ" },
+    { "name": "", "affiliation": "Comisión Colombiana de Juristas — CCJ" },
+    { "name": "", "affiliation": "Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos — OACNUDH" },
+    { "name": "", "affiliation": "Fondo de las Naciones Unidas para la Infancia — UNICEF" },
+    { "name": "", "affiliation": "Human Rights Watch — HRW" },
+    { "name": "", "affiliation": "Fiscalía de la Corte Penal Internacional — CPI" },
+    { "name": "", "affiliation": "Colombia Diversa" },
+    { "name": "", "affiliation": "Colectivo de Abogados José Alvear Restrepo — CCAJAR" },
+    { "name": "", "affiliation": "Movimiento de Víctimas de Crímenes de Estado — MOVICE" },
+    { "name": "", "affiliation": "Coordinación Colombia Europa Estados Unidos — CCEEU" },
+    { "name": "", "affiliation": "Consultoría para los Derechos Humanos y el Desplazamiento — CODHES" },
+    { "name": "", "affiliation": "Alianza Cinco Claves" },
+    { "name": "", "affiliation": "Organización Nacional Indígena de Colombia — ONIC" },
+    { "name": "", "affiliation": "Organización Nacional de los Pueblos Indígenas de la Amazonía Colombiana — OPIAC" },
+    { "name": "", "affiliation": "Comité Nacional de Víctimas de la Guerrilla" },
+    { "name": "Rodrigo Uprimny Yepes", "affiliation": "Dejusticia" },
+    { "name": "Juan Manuel Charry Urueña", "affiliation": "" },
+    { "name": "Kenneth Burbano Villamarín", "affiliation": "Universidad Libre" },
+    { "name": "Rafael Nieto Loayza", "affiliation": "" },
+    { "name": "Jennifer Tatiana Suárez Roa", "affiliation": "" },
+    { "name": "Alfredo Ramos Maya", "affiliation": "Senador" },
+    { "name": "", "affiliation": "Asociación Colombiana de Oficiales en Retiro de las Fuerzas Militares — ACORE" }
+  ],
+  "id": "C-007-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-007-18.htm"
+}

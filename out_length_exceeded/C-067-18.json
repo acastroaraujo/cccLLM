@@ -1,0 +1,204 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió la constitucionalidad del Decreto Ley 589 de 2017, que establece la estructura y funciones de la Unidad de Búsqueda de Personas dadas por Desaparecidas (UBPD) en el contexto del conflicto armado. Este decreto fue expedido en virtud de las facultades extraordinarias otorgadas al Presidente por el Acto Legislativo 01 de 2016. La Corte encontró que el decreto cumplía con los requisitos de conexidad, necesidad estricta, competencia y temporalidad, y que no vulneraba la Constitución. Por tanto, declaró su exequibilidad, salvo por algunas expresiones específicas que fueron declaradas inexequibles o exequibles de forma condicionada. La Corte también exhortó al Congreso a legislar sobre algunos vacíos detectados en el tratamiento a las víctimas de desaparición forzada no relacionadas con el conflicto armado.",
+    "english": "The Constitutional Court reviewed the constitutionality of Decree Law 589 of 2017, which establishes the structure and functions of the Unit for the Search of Persons Deemed Disappeared (UBPD) in the context of the armed conflict. This decree was issued under the special powers granted to the President by Legislative Act 01 of 2016. The Court found that the decree met the requirements of connection, strict necessity, competence, and timing, and that it did not violate the Constitution. Therefore, it declared the decree constitutional, except for certain specific expressions that were declared unconstitutional or conditionally constitutional. The Court also urged Congress to legislate on certain gaps in the treatment of victims of enforced disappearance not related to the armed conflict."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortíz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [12, 28, 32, 58, 115, 117, 118, 150, 154, 169, 211, 250],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Administrativo de la Función Pública"
+    },
+    {
+      "name": "",
+      "affiliation": "Alto Comisionado para la Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Nacional de Medicina Legal y Ciencias Forenses"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "",
+      "affiliation": "Comité Internacional de la Cruz Roja — CICR"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Internacional sobre Personas Desaparecidas — ICMP"
+    },
+    {
+      "name": "",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Intereclesial de Justicia y Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Movimiento de Víctimas de Crímenes de Estado — MOVICE"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "",
+      "affiliation": "Organización Nacional Indígena de Colombia — ONIC"
+    },
+    {
+      "name": "",
+      "affiliation": "Coordinación Étnica Nacional de Paz — CENPAZ"
+    },
+    {
+      "name": "",
+      "affiliation": "Consejo Nacional de Paz Afrocolombiano — CONPA"
+    },
+    {
+      "name": "",
+      "affiliation": "Colombia Diversa"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Casa de la Mujer"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Viva la Ciudadanía"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación de Familiares de Detenidos Desaparecidos — ASFADDES"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Nydia Erika Bautista para los Derechos Humanos — FNEB"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Colectivo Sociojurídico Orlando Fals Borda"
+    },
+    {
+      "name": "",
+      "affiliation": "Equipo Colombiano Interdisciplinario de Trabajo Forense y Asistencia Psicosocial"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Universidad del Rosario",
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo Cala",
+      "affiliation": ""
+    },
+    {
+      "name": "Luz Marina Hache Contreras",
+      "affiliation": ""
+    },
+    {
+      "name": "Luz Marina Bernal Porras",
+      "affiliation": ""
+    },
+    {
+      "name": "María del Pilar Navarrete",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Foro Internacional de Víctimas — FIV"
+    },
+    {
+      "name": "",
+      "affiliation": "Red de Víctimas Colombianas por la Paz en Latinoamérica y el Caribe — REVICPAZ-LAC"
+    }
+  ],
+  "id": "C-067-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-067-18.htm"
+}

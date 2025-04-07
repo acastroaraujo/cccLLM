@@ -1,0 +1,204 @@
+{
+  "summary": {
+    "spanish": "En la Sentencia C-071 de 2015, la Corte Constitucional estudió una demanda de inconstitucionalidad contra el artículo 68 (parcial) del Código de Infancia y Adolescencia (Ley 1098 de 2006), que regula la adopción por parte de parejas conformadas por hombre y mujer. La demanda argumentaba que la norma discriminaba a las parejas del mismo sexo, al impedirles adoptar en igualdad de condiciones. Diversos intervinientes nacionales e internacionales actuaron como amicus curiae, aportando estudios y argumentos sobre el bienestar de los niños criados por padres del mismo sexo y la no existencia de afectaciones negativas por su orientación sexual. La Corte resolvió declarar exequible la norma, pero con una interpretación conforme, señalando que cuando una persona homosexual adopta y luego conforma una pareja del mismo sexo, no se pierde la validez del vínculo adoptivo ni la posibilidad de ejercer conjuntamente la patria potestad. La Corte reconoció que el interés superior del menor es la guía principal en decisiones de adopción, pero no extendió el derecho de adopción conjunta a parejas del mismo sexo en ese momento.",
+    "english": "In Ruling C-071 of 2015, the Constitutional Court reviewed a constitutional challenge against Article 68 (partial) of the Childhood and Adolescence Code (Law 1098 of 2006), which regulates adoption by couples formed by a man and a woman. The plaintiffs argued that the norm discriminated against same-sex couples by excluding them from adoption on equal terms. Various national and international actors participated as amicus curiae, presenting research and arguments on the well-being of children raised by same-sex parents and the lack of harm related to the parents’ sexual orientation. The Court upheld the provision, but adopted a conforming interpretation, stating that when a homosexual individual adopts and later forms a same-sex couple, the adoptive bond and co-parenting rights remain valid. The Court affirmed that the best interests of the child is the guiding principle in adoption decisions, but did not extend joint adoption rights to same-sex couples at that time."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Roberto Herrera Vergara",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Martha Victoria Sáchica Méndez",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 13, 16, 42, 44],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Mauricio Albarracín Caballero",
+      "affiliation": "Colombia Diversa – Comisión de Derechos Humanos del Distrito Federal (México)"
+    },
+    {
+      "name": "Daniel Gómez Mazo",
+      "affiliation": "Colombia Diversa – Instituto Williams de la Universidad de California (EEUU)"
+    },
+    {
+      "name": "Esteban Restrepo Saldarriaga",
+      "affiliation": "Facultad de Derecho de American University (EEUU)"
+    },
+    {
+      "name": "Andrea Parra Fonseca",
+      "affiliation": "PAIIS – Colegio de Abogados de Nueva York (EEUU)"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Salud y Protección Social"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Bienestar Familiar"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Administrativo para la Prosperidad Social"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Administrativo Nacional de Estadística (DANE)"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de la Sabana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Medellín"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Norte"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "",
+      "affiliation": "Profamilia"
+    },
+    {
+      "name": "",
+      "affiliation": "Grupo de apoyo a mamás lesbianas de Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación FEMM"
+    },
+    {
+      "name": "",
+      "affiliation": "Iglesia Episcopal de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Iglesia de Dios Ministerial de Jesucristo Internacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Iglesia de Jesucristo de los Santos de los Últimos Días"
+    },
+    {
+      "name": "Alejandro Badillo Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Juliana Camacho Martínez",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Procuradoría General de la Nación"
+    }
+  ],
+  "id": "C-071-15",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-071-15.htm"
+}

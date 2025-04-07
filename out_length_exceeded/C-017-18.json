@@ -1,0 +1,122 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió una demanda contra varios apartes de los artículos 2, 5 y 6 de la Ley 1826 de 2017, que regula el procedimiento penal abreviado. La demanda cuestionaba, principalmente, la supuesta afectación al principio de igualdad por el trato diferencial que se da a las víctimas en el marco del procedimiento abreviado frente al procedimiento penal ordinario, específicamente en lo relacionado con los derechos de participación, información y acceso a la justicia. La Corte concluyó que si bien hay diferencias entre ambos procedimientos, estas no vulneran la Constitución, ya que el procedimiento abreviado fue diseñado para casos de menor complejidad y se orienta a la eficiencia y descongestión judicial. Además, la participación de las víctimas sigue garantizada en aspectos esenciales. En consecuencia, la Corte declaró exequibles los apartes demandados.",
+    "english": "The Constitutional Court reviewed a claim challenging several provisions of Articles 2, 5, and 6 of Law 1826 of 2017, which regulates the abbreviated criminal procedure. The claim argued that this law violated the principle of equality by treating victims differently compared to the ordinary criminal procedure, especially regarding rights to participation, information, and access to justice. The Court found that although there are differences between the two procedures, they do not violate the Constitution. The abbreviated procedure was designed for less complex cases and aims to enhance judicial efficiency and reduce backlogs. The victims' essential rights remain protected. Consequently, the Court upheld the constitutionality of the challenged provisions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 13, 229],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "Gobierno nacional", "affiliation": "" },
+    { "name": "Defensoría del Pueblo", "affiliation": "Defensoría del Pueblo" },
+    { "name": "Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos", "affiliation": "" },
+    { "name": "Centro Internacional para la Justicia Transicional", "affiliation": "" },
+    { "name": "Comisionados electos de la Comisión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición", "affiliation": "" },
+    { "name": "Universidad Libre", "affiliation": "" },
+    { "name": "Universidad Nacional de Colombia", "affiliation": "" },
+    { "name": "Universidad de Los Andes", "affiliation": "" },
+    { "name": "Universidad Javeriana", "affiliation": "" },
+    { "name": "Universidad del Rosario", "affiliation": "" },
+    { "name": "Corporación Universitaria del Cauca", "affiliation": "" },
+    { "name": "Centro de Investigación y Educación Popular (CINEP)", "affiliation": "" },
+    { "name": "Colectivo Sociojurídico Orlando Fals Borda", "affiliation": "" },
+    { "name": "Ruta Pacífica de las Mujeres", "affiliation": "" },
+    { "name": "Asociación Cristiana Menonita para Justicia, Paz y Acción Noviolenta (JUSTAPAZ)", "affiliation": "" },
+    { "name": "Corporación Casas de la Mujer", "affiliation": "" },
+    { "name": "Centro Internacional del Toledo para la Paz (CITpax)", "affiliation": "" },
+    { "name": "Consultoría para los Derechos Humanos y el Desplazamiento (CODHES)", "affiliation": "" },
+    { "name": "Colectivo de Abogados José Alvear Restrepo (CCAJAR)", "affiliation": "" },
+    { "name": "Alianza Cinco Claves", "affiliation": "Sisma Mujer, Red Nacional de Mujeres y la Corporación Humanas" },
+    { "name": "Colombia Diversa", "affiliation": "" },
+    { "name": "Comité Nacional de Víctimas de la Guerrilla", "affiliation": "" },
+    { "name": "Museo Itinerante de Memoria Histórica y de la Identidad de los Montes de María", "affiliation": "" },
+    { "name": "Coordinación Étnica Nacional por la Paz", "affiliation": "" },
+    { "name": "Casa de la Memoria Histórica de Tumaco", "affiliation": "" },
+    { "name": "Red Colombiana de Lugares de Memoria Histórica", "affiliation": "" },
+    { "name": "Hijos e Hijas por la Identidad, la Justicia contra el Olvido y el Silencio (H.I.J.O.S.)", "affiliation": "" },
+    { "name": "Rodeemos el Diálogo Red", "affiliation": "" },
+    { "name": "Viva la Ciudadanía", "affiliation": "" },
+    { "name": "Centro de Memoria del Conflicto", "affiliation": "" },
+    { "name": "Consejo Regional Indígena del Cauca", "affiliation": "" },
+    { "name": "Organización Nacional Indígena de Colombia (ONIC)", "affiliation": "" },
+    { "name": "Consejo Nacional de Paz Afrocolombiano (CONPA)", "affiliation": "" },
+    { "name": "Organización Nacional de los Pueblos Indígenas de la Amazonía Colombiana", "affiliation": "" }
+  ],
+  "id": "C-017-18",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2018/C-017-18.htm"
+}

@@ -1,0 +1,284 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional revisó el proyecto de ley estatutaria de la Administración de Justicia (Ley 58/94 Senado y 264/95 Cámara), en ejercicio del control automático de constitucionalidad que le corresponde. La Sala Plena estudió la exequibilidad de múltiples disposiciones relacionadas con la estructura y funciones del sistema judicial, incluyendo temas como la reserva en procesos disciplinarios y penales, la figura de los conjueces, la justicia regional, y el régimen de carrera en la Fiscalía General de la Nación. La Corte declaró la exequibilidad, exequibilidad condicionada o inexequibilidad de distintas normas del proyecto. Algunos magistrados presentaron salvamentos y aclaraciones de voto sobre puntos como la reserva procesal, la imparcialidad de jueces con identidad reservada, y la constitucionalidad de los cargos de libre nombramiento y remoción en la Fiscalía. En particular, se discutió si los conjueces pueden ser considerados servidores públicos, concluyéndose que son particulares con funciones públicas, lo cual genera tensiones constitucionales.",
+    "english": "The Constitutional Court reviewed the statutory law bill on the Administration of Justice (Law 58/94 Senate and 264/95 House), under its authority for automatic constitutional review. The Full Chamber analyzed the constitutionality of various provisions related to the structure and operation of the judicial system, including disciplinary and criminal procedural confidentiality, the role of substitute judges (conjueces), the regional justice system, and the career regime of the Office of the Attorney General. The Court declared different provisions constitutional, conditionally constitutional, or unconstitutional. Several justices issued dissenting or concurring opinions on topics such as the confidentiality of proceedings, the impartiality of anonymous judges, and the constitutionality of free appointment and removal positions within the Attorney General’s Office. A key debate centered on whether substitute judges are public officials, concluding that they are private individuals temporarily performing public functions, which raises constitutional issues."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JOSE GREGORIO HERNANDEZ GALINDO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE ARANGO MEJIA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO BARRERA CARBONELL",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "EDUARDO CIFUENTES MUÑOZ",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CARLOS GAVIRIA DIAZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HERNANDO HERRERA VERGARA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO MARTINEZ CABALLERO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "FABIO MORON DIAZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "VLADIMIRO NARANJO MESA",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [116, 123, 174, 175, 178, 20, 29],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Alirio Muñoz",
+      "affiliation": "Asociación Nacional de Empleados y Funcionarios de la Rama Judicial -ASONAL JUDICIAL-"
+    },
+    {
+      "name": "Antonio Suárez Niño",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Armando Tolosa",
+      "affiliation": ""
+    },
+    {
+      "name": "Liliana del Rocío Coral",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Guillermo Guerrero",
+      "affiliation": ""
+    },
+    {
+      "name": "Alfonso López Carrascal",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Alfonso Moreno",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Enrique Robledo",
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo J. Cáceres",
+      "affiliation": ""
+    },
+    {
+      "name": "Francisco Javier Galvis",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Fernando Córdoba",
+      "affiliation": ""
+    },
+    {
+      "name": "Augusto J. Ibáñez",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio Andrés Sampedro",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Caldas",
+      "affiliation": ""
+    },
+    {
+      "name": "Reinaldo Camacho",
+      "affiliation": ""
+    },
+    {
+      "name": "Rubén Darío Toledo",
+      "affiliation": ""
+    },
+    {
+      "name": "Eduardo Concha",
+      "affiliation": ""
+    },
+    {
+      "name": "Ruth Lozada",
+      "affiliation": ""
+    },
+    {
+      "name": "Urias Carrillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Eurípides de Jesús Cuevas",
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Augusto Escobar",
+      "affiliation": ""
+    },
+    {
+      "name": "María del Pilar Sáchica",
+      "affiliation": ""
+    },
+    {
+      "name": "Gustavo Serrano",
+      "affiliation": ""
+    },
+    {
+      "name": "Humberto Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Edgar Jáuregui",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Carlos Arias",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernando Remolina",
+      "affiliation": ""
+    },
+    {
+      "name": "Celmira Moncada",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Antonio Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "Gladys Cecilia Gómez",
+      "affiliation": ""
+    },
+    {
+      "name": "John Jairo Montoya",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernando Estrada",
+      "affiliation": ""
+    },
+    {
+      "name": "Jacobo Márquez",
+      "affiliation": ""
+    },
+    {
+      "name": "María Dorian Alvarez",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Eduardo Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Fabiola del Cristo Sánchez",
+      "affiliation": ""
+    },
+    {
+      "name": "Marciel Sarmiento",
+      "affiliation": ""
+    },
+    {
+      "name": "Elisa Sarmiento",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrés de Zubiría",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernán Bedoya",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Eugenio Osorio",
+      "affiliation": ""
+    },
+    {
+      "name": "Nidya Forero",
+      "affiliation": ""
+    },
+    {
+      "name": "María Gaona",
+      "affiliation": ""
+    },
+    {
+      "name": "Darío Garzón",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernán Mejía",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos F. Navia",
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Pablo Camargo",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Villalba Bustillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernando Yepes Arcila",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-037-96",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/1996/c-037-96.htm"
+}

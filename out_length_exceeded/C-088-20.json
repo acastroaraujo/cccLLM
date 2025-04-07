@@ -1,0 +1,165 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-088 de 2020 estudió una demanda de inconstitucionalidad contra el artículo 43 (parcial) del Decreto Legislativo 491 de 2020, expedido en el marco del Estado de Emergencia Económica, Social y Ecológica decretado por el Gobierno Nacional a causa de la pandemia por COVID-19. El artículo impugnado establecía que los términos en los procesos disciplinarios y fiscales estarían suspendidos mientras durara la emergencia sanitaria, pero con una excepción: podían continuar los procesos en los que estuviera próximo a operar la prescripción. Los demandantes argumentaron que dicha disposición era ambigua y violaba principios constitucionales como el debido proceso y la seguridad jurídica. La Corte concluyó que la norma demandada era exequible, es decir, conforme a la Constitución, bajo el entendido de que solo se permitiría la reanudación de términos en procesos en los que fuera inminente la prescripción, siempre y cuando esta se fundamentara debidamente y garantizara el debido proceso. En otras palabras, la Corte condicionó la exequibilidad de la norma a su interpretación restrictiva, salvaguardando las garantías procesales.",
+    "english": "Ruling C-088 of 2020 reviewed a constitutional challenge against Article 43 (partial) of Legislative Decree 491 of 2020, which was issued under the State of Economic, Social, and Ecological Emergency declared by the Colombian Government due to the COVID-19 pandemic. The challenged article suspended deadlines in disciplinary and fiscal proceedings for the duration of the health emergency but included an exception: proceedings close to prescription could continue. The plaintiffs argued that this exception was ambiguous and violated constitutional principles such as due process and legal certainty. The Court found the provision to be constitutional but conditioned its validity: it would only apply when prescription was imminent, and only if the continuation of proceedings was properly justified and ensured due process. Thus, the Court upheld the article's constitutionality under a strict interpretation to protect procedural guarantees."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    29,
+    83,
+    228,
+    363
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Superintendencia Nacional de Salud"
+    },
+    {
+      "name": "",
+      "affiliation": "Grupo Médico por el Derecho a Decidir"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Juristas Católicos"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Camino"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Colombiana de Ética y Bioética (FUCEB)"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Nacional de Planeación"
+    },
+    {
+      "name": "",
+      "affiliation": "PROFAMILIA"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Salud y Protección Social"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Bienestar Familiar (ICBF)"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Probono"
+    },
+    {
+      "name": "",
+      "affiliation": "Alianza Cinco Claves para el Tratamiento Diferencial de la Violencia Sexual contra las Mujeres"
+    },
+    {
+      "name": "",
+      "affiliation": "Center for Reproductive Rights"
+    },
+    {
+      "name": "",
+      "affiliation": "Mesa por la Vida y la Salud de las Mujeres"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de La Sabana"
+    }
+  ],
+  "id": "C-088-20",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2020/C-088-20.htm"
+}

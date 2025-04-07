@@ -2,6 +2,8 @@ To do:
 
 -   I could not remove the wrongful attribution of a dissenting opinion in "C-509-09". So the best fix is to make sure that `mp == TRUE` makes so that `av` and `sv` are both `FALSE`.
 
+-   Error in req_perform_connection(req) : HTTP 400 Bad Request. • This model's maximum context length is 128000 tokens. However, your messages resulted in 136465 tokens (including 740 in the response_format schemas.). Please reduce the length of the messages or schemas.
+
 Exemplar cases:
 
 https://youtu.be/3-8ciBWul5E

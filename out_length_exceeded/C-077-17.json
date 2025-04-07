@@ -1,0 +1,341 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió la constitucionalidad de varios artículos de la Ley 1776 de 2016, que regula las Zonas de Interés de Desarrollo Rural, Económico y Social (ZIDRES). Esta ley fue demandada por considerarse contraria a los derechos fundamentales del campesinado, la autonomía de las entidades territoriales, y la obligación de realizar consulta previa a comunidades étnicas afectadas. Se alegaba que la Ley 1776 modificaba el régimen de baldíos al permitir la participación de grandes inversionistas en proyectos productivos sin garantías claras para el acceso directo de los campesinos a la tierra. La Corte decidió declarar inexequibles algunas disposiciones y exequibles otras, justificando que las ZIDRES regulan materias diferentes a la reforma agraria propiamente dicha, y que existe un margen de configuración legislativa amplio para el desarrollo rural.",
+    "english": "The Constitutional Court reviewed the constitutionality of various provisions of Law 1776 of 2016, which governs the Zones of Interest for Rural, Economic and Social Development (ZIDRES). The law was challenged on the grounds that it violated the fundamental rights of peasant communities, the autonomy of territorial entities, and the obligation to consult affected ethnic communities. The claimants argued that the law altered the rules on public land (baldíos) by allowing large investors to run productive projects, thereby undermining peasant access to land. The Court struck down some provisions and upheld others, concluding that the ZIDRES regulate different issues than agrarian reform proper, and that the legislature has broad discretion in shaping rural development policies."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "María Victoria Calle Correa",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Aquiles Arrieta Gómez",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Germán Quintero Andrade",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 13, 19, 48, 49, 51, 58, 60, 64, 65, 66, 67, 150, 287, 288, 300, 305, 311, 313],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Magdalena Correa Henao",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Federico Suárez Ricaurte",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Carmenza Castiblanco Rozo",
+      "affiliation": "Instituto de Estudios Ambientales - IDEA, Universidad Nacional de Colombia"
+    },
+    {
+      "name": "Juan Carlos Rojas Bustos",
+      "affiliation": "Instituto de Estudios Ambientales - IDEA, Universidad Nacional de Colombia"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "Manuel Alejandro Correal Tovar",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "María del Pilar García Pachón",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Javier M. Rodríguez Olmos",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Jaime Forero Álvarez",
+      "affiliation": "Universidad de La Salle"
+    },
+    {
+      "name": "",
+      "affiliation": "Facultad de Derecho y Ciencias Políticas, Universidad de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Facultad de Derecho, Ciencias Políticas y Sociales, Universidad Nacional de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Pensar, Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "Julio Andrés Ossa Santamaría",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "Bernardo Carvajal Sánchez",
+      "affiliation": "Agencia Nacional de Defensa Jurídica del Estado"
+    },
+    {
+      "name": "Julián Pimiento Echeverri",
+      "affiliation": "Agencia Nacional de Defensa Jurídica del Estado"
+    },
+    {
+      "name": "Marcos Jaher Parra Oviedo",
+      "affiliation": "Superintendencia de Notariado y Registro"
+    },
+    {
+      "name": "Luis Carlos Vergel Hernández",
+      "affiliation": "Departamento Nacional de Planeación (DNP)"
+    },
+    {
+      "name": "Edward Daza Guevara",
+      "affiliation": "Ministerio de Agricultura y Desarrollo Rural"
+    },
+    {
+      "name": "Cristina Uchima Bohórquez",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "Andrea Liliana Romero",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Andrés Felipe García",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Claudia Medina Aguilar",
+      "affiliation": "Centro Internacional de Toledo para la Paz - CITpax"
+    },
+    {
+      "name": "Daniel López M.",
+      "affiliation": "Centro Internacional de Toledo para la Paz - CITpax"
+    },
+    {
+      "name": "Paula Álvarez Roa",
+      "affiliation": "Asociación Colectivo Derechos, Diversidad y Selvas – DEDISE"
+    },
+    {
+      "name": "Rafael Mejía López",
+      "affiliation": "Sociedad de Agricultores de Colombia (SAC)"
+    },
+    {
+      "name": "Bruce Mac Master",
+      "affiliation": "Asociación Nacional de Empresarios de Colombia (ANDI)"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Industriales de la Madera – FEDEMADERAS"
+    },
+    {
+      "name": "Diego Montón",
+      "affiliation": "Coordinadora Latinoamericana de Organizaciones del Campo (CLOC-Vía Campesina)"
+    },
+    {
+      "name": "Germán Alonso Vélez",
+      "affiliation": "Corporación Grupo Semillas"
+    },
+    {
+      "name": "Laura Mateus Moreno",
+      "affiliation": "Corporación Grupo Semillas"
+    },
+    {
+      "name": "Mauro Carvajal Guerrero",
+      "affiliation": "Colectivo Soberanía y Naturaleza y Coordinadora Nacional Minero-Energética"
+    }, 
+    {
+      "name": "Luis Enrique Orduz",
+      "affiliation": "Colectivo Soberanía y Naturaleza y Coordinadora Nacional Minero-Energética"
+    },
+    {
+      "name": "Luis Guillermo Guerrero Guevara",
+      "affiliation": "Centro de Investigación y Educación Popular (CINEP)"
+    },
+    {
+      "name": "Javier Lautaro Medina Bernal",
+      "affiliation": "Centro de Investigación y Educación Popular (CINEP)"
+    },
+    {
+      "name": "Juan Carlos Morales González",
+      "affiliation": "FIAN Colombia"
+    },
+    {
+      "name": "Guillermo Forero Álvarez",
+      "affiliation": "Asociación Empresarial para el Desarrollo de la Orinoquía (ASORINOQUÍA)"
+    },
+    {
+      "name": "Carlos Salgado Araméndez",
+      "affiliation": "Corporación Derechos para la Paz – Proyecto Planeta Paz"
+    },
+    {
+      "name": "Aida Pesquera Díaz",
+      "affiliation": "The Oxford Committee for Famine Relief (OXFAM)"
+    },
+    {
+      "name": "Diana Carolina Puello González",
+      "affiliation": "Asociación Nacional de Zonas de Reserva Campesina"
+    },
+    {
+      "name": "Luis Fernando Forero Gómez",
+      "affiliation": "Sociedad de Agricultores de Colombia – SAC"
+    },
+    {
+      "name": "Nicolás Garavito",
+      "affiliation": ""
+    },
+    {
+      "name": "Laura Rocío Beltrán Sánchez",
+      "affiliation": ""
+    },
+    {
+      "name": " Claudia López",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Castrillón Zapata",
+      "affiliation": ""
+    },
+    {
+      "name": "Erminsu Iván David Pabón",
+      "affiliation": "Fundación Instituto Mayor Campesino"
+    },
+    {
+      "name": "Hernando de Jesús García Rojas",
+      "affiliation": "Corporación para el Desarrollo Sustentable (CORDES)"
+    },
+    {
+      "name": "Tarcisio Aguilar Gómez",
+      "affiliation": "Asociación Red Colombiana de Agricultura Biológica"
+    },
+    {
+      "name": "Luis Enrique Amado Prieto",
+      "affiliation": "Pastoral Social Regional Suroriente Colombiano"
+    },
+    {
+      "name": "Natalia Arenas Gómez",
+      "affiliation": "Cinturón Occidental Ambiental (COA)"
+    },
+    {
+      "name": "Brayan Esteban Cifuentes Herrera",
+      "affiliation": "Campaña en Defensa del Agua y Territorio en la Región de Sumapaz: Agua sí, Petróleo no"
+    },
+    {
+      "name": "Adriana Patricia Segura Sandoval",
+      "affiliation": "Asociación Defensores del Territorio Ambiental (ASODETEAM)"
+    },
+    {
+      "name": "Oscar Pisso Pisso",
+      "affiliation": "Asociación Consejo Regional del Pueblo Nasa del Putumayo"
+    },
+    {
+      "name": "Alberto Emilio Wazorna Bernaza",
+      "affiliation": "Organización Nacional Indígena de Colombia - ONIC"
+    },
+    {
+      "name": "María Alejandra Pérez Muñoz",
+      "affiliation": "Fundación para la Defensa de los Derechos Humanos y el DIH del Oriente y Centro de Colombia"
+    },
+    {
+      "name": "Camilo Ernesto Fagua Castellanos",
+      "affiliation": "Fundación para la Defensa de los Derechos Humanos y el DIH del Oriente y Centro de Colombia"
+    },
+    {
+      "name": "Ricardo Alexander Celeita Mora",
+      "affiliation": "Fundación para la Defensa de los Derechos Humanos y el DIH del Oriente y Centro de Colombia"
+    },
+    {
+      "name": "David Alirio Uribe Laverde",
+      "affiliation": "Colectiva Agraria Abya Yala"
+    },
+    {
+      "name": "Johana Rocha Gómez",
+      "affiliation": "Centro de Estudios para la Justicia Social – Tierra Digna"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Intereclesial de Justicia y Paz"
+    },
+    {
+      "name": "Jomary Ortegón Osorio",
+      "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo - CCAJAR"
+    },
+    {
+      "name": "Daniel Hassan Cardona Buitrago",
+      "affiliation": "Centro de Estudios y Gestión de Derechos para la Justicia Espacial – JESPA"
+    },
+    {
+      "name": "Alejandro Castañeda Gómez",
+      "affiliation": "Centro de Estudios y Gestión de Derechos para la Justicia Espacial – JESPA"
+    }
+  ],
+  "id": "C-077-17",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2017/C-077-17.htm"
+}
+

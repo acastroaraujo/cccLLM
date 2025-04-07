@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra diversas disposiciones de la Ley 142 de 1994, particularmente aquellas relacionadas con los criterios tarifarios de los servicios públicos domiciliarios. El debate giró en torno a la inclusión de los costos de expansión del servicio dentro de las tarifas cobradas a los usuarios, así como a la priorización de criterios de eficiencia y suficiencia financiera sobre criterios sociales. La mayoría de la Corte declaró exequibles algunas de estas disposiciones, bajo ciertas interpretaciones. Sin embargo, varios magistrados emitieron salvamentos y aclaraciones de voto, argumentando que la sentencia prioriza indebidamente intereses económicos sobre el carácter social del Estado y el acceso universal a los servicios públicos.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against various provisions of Law 142 of 1994, specifically those regarding tariff criteria for public utility services. The central issue was the inclusion of service expansion costs within user tariffs and the prioritization of economic efficiency and financial sufficiency over social criteria. The majority of the Court upheld some provisions as constitutional, under specific interpretations. However, several justices issued dissenting and concurring opinions, arguing that the ruling improperly prioritizes economic interests over the social nature of the State and universal access to public services."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Eduardo Montealegre Lynett",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 365, 366],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-087-01",
+    "C-706-01",
+    "C-389-02"
+  ],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Desarrollo Económico"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Minas y Energía"
+    },
+    {
+      "name": "",
+      "affiliation": "Departamento Nacional de Planeación"
+    },
+    {
+      "name": "",
+      "affiliation": "Superintendencia de Servicios Públicos Domiciliarios"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión de Regulación de Agua Potable (CRA)"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión de Regulación de Energía y Gas (CREG)"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión de Regulación de Telecomunicaciones (CRT)"
+    },
+    {
+      "name": "Gustavo Zafra Roldán",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "Juan Manuel Charry Urueña",
+      "affiliation": "Universidad Colegio Mayor de Nuestra Señora del Rosario"
+    },
+    {
+      "name": "Carlos Mario Peña Díaz",
+      "affiliation": "Universidad Nacional de Colombia"
+    }
+  ],
+  "id": "C-150-03",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2003/C-150-03.htm"
+}

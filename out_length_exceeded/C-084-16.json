@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-084 de 2016 resolvió una demanda de inconstitucionalidad contra el artículo 1º (parcial) del Acto Legislativo 01 de 2015, que reformó el artículo 221 de la Constitución Política para establecer que, en el juzgamiento de miembros de la Fuerza Pública por conductas punibles relacionadas con conflictos armados, se aplicarán las normas del Derecho Internacional Humanitario (DIH). Los demandantes argumentaban que esta disposición sustituía la Constitución al excluir el Derecho Internacional de los Derechos Humanos (DIDH) y, por tanto, el deber estatal de investigar y juzgar graves violaciones a los derechos humanos. La Corte concluyó que el texto demandado era exequible, interpretando que la referencia al DIH no implicaba la exclusión del DIDH, sino que debía entenderse de forma complementaria y convergente. Se reafirmó que el Congreso tiene un amplio poder de reforma siempre que no sustituya los ejes definitorios de la Carta. La Corte también reconoció la validez del control por sustitución como parámetro para evaluar reformas constitucionales.",
+    "english": "Ruling C-084 of 2016 addressed a constitutional challenge against Article 1 (partial) of Legislative Act 01 of 2015, which amended Article 221 of the Colombian Constitution to establish that, for the prosecution of members of the Armed Forces in relation to conduct during armed conflicts, International Humanitarian Law (IHL) shall apply. The petitioners claimed that the provision replaced the Constitution by excluding International Human Rights Law (IHRL), and thus the State’s obligation to investigate and prosecute serious human rights violations. The Court found the provision constitutional, interpreting that the reference to IHL did not exclude IHRL but should be understood in a complementary and convergent manner. The Court affirmed that Congress has broad powers to amend the Constitution, provided it does not replace its essential structures. It also upheld the use of the substitution doctrine as a valid method for constitutional review of amendments."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortíz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    221
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "", "affiliation": "Ministerio de Defensa Nacional" },
+    { "name": "", "affiliation": "Secretaría Jurídica de la Presidencia de la República" },
+    { "name": "", "affiliation": "Fiscalía General de la Nación" },
+    { "name": "Jorge Kenneth Burbano Villamarín", "affiliation": "Universidad Libre" },
+    { "name": "Manuel Alejandro Correal", "affiliation": "Universidad Libre" },
+    { "name": "Carlos Rodríguez Mejía", "affiliation": "Universidad Santo Tomás" },
+    { "name": "Carlos Vergara", "affiliation": "Pontificia Universidad Javeriana" },
+    { "name": "Nicolás Rodríguez", "affiliation": "Pontificia Universidad Javeriana" },
+    { "name": "Juan Pablo Vallejo Molina", "affiliation": "Pontificia Universidad Javeriana" },
+    { "name": "", "affiliation": "Universidad Externado de Colombia" },
+    { "name": "Omar Mejía Patiño", "affiliation": "Universidad de Ibagué" },
+    { "name": "", "affiliation": "Universidad Industrial de Santander y Colectivo de Abogados Luis Carlos Pérez" },
+    { "name": "", "affiliation": "Universidad Militar Nueva Granada" },
+    { "name": "", "affiliation": "Oficina del Alto Comisionado de Naciones Unidas para los Derechos Humanos en Colombia" },
+    { "name": "", "affiliation": "Comisión Internacional de Juristas" },
+    { "name": "", "affiliation": "Organización Mundial contra la Tortura" },
+    { "name": "", "affiliation": "Federación Internacional de Derechos Humanos" },
+    { "name": "", "affiliation": "Abogados sin Fronteras Canadá – ASFC" },
+    { "name": "Smita Shah", "affiliation": "Garden Court International y Garden Court Chambers" },
+    { "name": "Paul Clark", "affiliation": "Garden Court International y Garden Court Chambers" },
+    { "name": "Ángela Castellanos Poveda", "affiliation": "Corporación Acción Humanitaria por la Convivencia y la Paz – Cahopana" },
+    { "name": "Tito Augusto Gaitán Crespo", "affiliation": "Asociación para la Promoción Social Alternativa – Minga" },
+    { "name": "", "affiliation": "Mesa de trabajo sobre Ejecuciones Extrajudiciales - Coordinación Colombia Europa Estados Unidos" },
+    { "name": "", "affiliation": "Asociación Colombiana de Oficiales en Retiro de las Fuerzas Militares – ACORE" },
+    { "name": "César Rodríguez Garavito", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad – Dejusticia" },
+    { "name": "Rodrigo Uprimny Yepes", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad – Dejusticia" },
+    { "name": "Mauricio Albarracín Caballero", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad – Dejusticia" },
+    { "name": "Paola Fernanda Molano Ayala", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad – Dejusticia" },
+    { "name": "Magda Patricia Morales Sáenz", "affiliation": "" },
+    { "name": "Walter Leandro Aguirre Mazo", "affiliation": "" },
+    { "name": "Juan Pablo Vallejo Molina", "affiliation": "" },
+    { "name": "Alberto Yepes", "affiliation": "" },
+    { "name": "Erika Gómez", "affiliation": "" },
+    { "name": "César Santoyo", "affiliation": "" }
+  ],
+  "id": "C-084-16",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-084-16.htm"
+}

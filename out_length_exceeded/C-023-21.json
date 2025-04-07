@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra una serie de expresiones contenidas en la Ley 1918 de 2018, por la cual se reglamenta el ejercicio de la medicina estética en Colombia. El demandante consideró que las disposiciones impugnadas vulneraban el principio de igualdad y los derechos al trabajo y a la libre escogencia de profesión al restringir el ejercicio de procedimientos estéticos invasivos únicamente a médicos con especialización en cirugía plástica o dermatología. La Corte analizó si tales restricciones eran proporcionadas y justificadas para proteger la salud y seguridad de los pacientes. Concluyó que, dada la naturaleza invasiva y los riesgos asociados a tales procedimientos, la exigencia de formación especializada era razonable y necesaria. Por lo tanto, declaró la exequibilidad de las expresiones demandadas.",
+    "english": "The Constitutional Court reviewed a challenge to certain provisions in Law 1918 of 2018, which regulates the practice of aesthetic medicine in Colombia. The plaintiff argued that the contested provisions violated the principles of equality, and the rights to work and to freely choose a profession, by restricting the performance of invasive aesthetic procedures exclusively to physicians specialized in plastic surgery or dermatology. The Court examined whether such restrictions were proportionate and justified in order to protect patients' health and safety. It concluded that, due to the invasive nature and associated risks of such procedures, the requirement for specialized training was reasonable and necessary. Therefore, it upheld the constitutionality of the challenged provisions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 16, 25, 26],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Maritza Martínez Aristizábal",
+      "affiliation": "Congreso de la República"
+    },
+    {
+      "name": "Ministerio de Justicia y del Derecho",
+      "affiliation": ""
+    },
+    {
+      "name": "Superintendencia de Industria y Comercio",
+      "affiliation": ""
+    },
+    {
+      "name": "Superintendencia Financiera de Colombia",
+      "affiliation": ""
+    },
+    {
+      "name": "Facultad de Jurisprudencia",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Facultad de Derecho y Ciencias Políticas",
+      "affiliation": "Universidad de la Sabana"
+    },
+    {
+      "name": "Unión Colegiada del Notariado Colombiano",
+      "affiliation": ""
+    },
+    {
+      "name": "Instituto Colombiano de Bienestar Familiar",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Fradique Méndez",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    }
+  ],
+  "id": "C-032-21",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-032-21.htm"
+}
