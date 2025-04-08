@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo y automático de la Ley 1166 de 2007, por medio de la cual se aprobó el Protocolo Modificatorio al Acuerdo de Promoción Comercial entre Colombia y Estados Unidos, firmado el 28 de junio de 2007, y su Carta adjunta. La Corte analizó aspectos formales como el cumplimiento del trámite legislativo y los requisitos constitucionales para la aprobación de tratados internacionales, concluyendo que todos se cumplieron adecuadamente. También examinó de fondo la constitucionalidad del contenido del Protocolo Modificatorio y de la Carta adjunta, considerando que no contrarían ninguna disposición constitucional. En consecuencia, la Corte declaró exequibles tanto la Ley 1166 de 2007 como el Protocolo Modificatorio y su Carta adjunta.",
+    "english": "The Constitutional Court conducted a prior and automatic review of Law 1166 of 2007, through which the Protocol Amending the Trade Promotion Agreement between Colombia and the United States, signed on June 28, 2007, and its attached Letter were approved. The Court reviewed the formal aspects, such as the legislative procedure and the constitutional requirements for approving international treaties, finding that all were properly met. It also conducted a substantive review of the constitutionality of the Protocol and the attached Letter, concluding that they do not violate any constitutional provisions. As a result, the Court declared Law 1166 of 2007, the Protocol, and its attached Letter to be constitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [241, 157, 158, 160, 165, 146, 154, 163],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Edgar Iván Ramírez Ángel",
+      "affiliation": "Ministerio de Relaciones Exteriores"
+    },
+    {
+      "name": "Humberto de la Calle Lombana",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "Hernando Herrera Vergara",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "Marcel Tangarife Torres",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "Asociación de Industrias Farmacéuticas Colombianas",
+      "affiliation": "Asinfar"
+    },
+    {
+      "name": "Asociación Interamericana de la Propiedad Intelectual",
+      "affiliation": "ASIPI"
+    },
+    {
+      "name": "Maura Nasly Mosquera Mosquera",
+      "affiliation": "Fundación para la Formación de Líderes Afrocolombianos"
+    },
+    {
+      "name": "Rodrigo Uprimny Yepes",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad (DeJusticia)"
+    },
+    {
+      "name": "César Rodríguez Garavito",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad (DeJusticia)"
+    },
+    {
+      "name": "Maria Paula Saffon Sanin",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad (DeJusticia)"
+    },
+    {
+      "name": "Diana Rodríguez Franco",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad (DeJusticia)"
+    },
+    {
+      "name": "Jorge Humberto Valero",
+      "affiliation": "Central Unitaria de Trabajadores - CUT"
+    },
+    {
+      "name": "Luis Carlos Villegas Echeverri",
+      "affiliation": "Consejo Gremial Nacional"
+    },
+    {
+      "name": "Rafael Mejía López",
+      "affiliation": "Consejo Gremial Nacional"
+    },
+    {
+      "name": "Edgardo Maya Villazón",
+      "affiliation": "Procuraduría General de la Nación"
+    }
+  ],
+  "id": "C-751-08",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-751-08.htm"
+}

@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó la revisión constitucional del Decreto Legislativo 1837 del 11 de agosto de 2002, por el cual se declaró el Estado de Conmoción Interior. La Sala Plena concluyó que, aunque esta facultad del Presidente es discrecional, debe ejercerse dentro de límites constitucionales. La Corte encontró que los considerandos del decreto y las pruebas del Gobierno demostraban una grave perturbación del orden público por parte de bandas armadas y grupos criminales, lo cual justificaba la declaratoria. Se declaró exequible el artículo 1º del decreto bajo los términos establecidos en el considerando final; el artículo 2º fue también declarado exequible, con el entendido de que el control político del Congreso se extiende a todos los decretos y medidas derivadas. El artículo 3º fue declarado inexequible por excluir del control constitucional el decreto declaratorio de conmoción, lo cual violaba los artículos 214.6 y 241.7 de la Constitución. Finalmente, el artículo 4º fue declarado exequible.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Decree 1837 of August 11, 2002, which declared a state of internal commotion. The Full Chamber concluded that while the President has discretionary power to declare such a state, it must be exercised within constitutional limits. The Court found that the decree’s recitals and the evidence submitted by the government demonstrated serious public order disruption by armed bands and criminal groups, justifying the declaration. Article 1 of the decree was declared constitutional under the terms explained in the final considerations; Article 2 was also upheld, provided that Congressional oversight extends to all subsequent decrees and administrative measures. Article 3 was declared unconstitutional for excluding the declaration decree from judicial review, violating Articles 214.6 and 241.7 of the Constitution. Finally, Article 4 was upheld."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Eduardo Montealegre Lynett",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [213, 214, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Andrés De Zubiría Samper",
+      "affiliation": ""
+    },
+    {
+      "name": "Alfredo Castaño Martínez",
+      "affiliation": ""
+    },
+    {
+      "name": "Gabriel Holguín Carrizosa",
+      "affiliation": ""
+    },
+    {
+      "name": "Gustavo Zafra Roldán",
+      "affiliation": ""
+    },
+    {
+      "name": "Antonio Eduardo Bohórquez Collazos",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Enrique Torres Gámez",
+      "affiliation": ""
+    },
+    {
+      "name": "Alberto Rueda Montenegro",
+      "affiliation": ""
+    },
+    {
+      "name": "Félix Francisco Hoyos Lemus",
+      "affiliation": ""
+    },
+    {
+      "name": "Ignacio Castilla Castilla",
+      "affiliation": ""
+    },
+    {
+      "name": "Alirio Uribe Muñoz",
+      "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "Javier Alejandro Acevedo",
+      "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "Dora Lucy Arias",
+      "affiliation": "Asociación Colombiana de Abogados Defensores Eduardo Umaña Mendoza"
+    },
+    {
+      "name": "Rafael Archbold Joseph",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Carlos Hoyos Morales",
+      "affiliation": ""
+    },
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Carlos Rodríguez Mejía",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Fernando Londoño Hoyos",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "Luz Marina Gil García",
+      "affiliation": "Ministerio de Defensa Nacional"
+    },
+    {
+      "name": "Darío Mejía Villegas",
+      "affiliation": "Defensoría del Pueblo"
+    }
+  ],
+  "id": "C-802-02",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-802-02.htm"
+}

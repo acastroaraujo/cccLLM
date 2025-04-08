@@ -1,0 +1,119 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-355 de 2006 resuelve varias demandas de inconstitucionalidad interpuestas por ciudadanos contra los artículos 122, 123, 124 y 32 numeral 7 del Código Penal (Ley 599 de 2000). Estos artículos penalizaban el aborto en Colombia sin prever excepciones. Las demandas argumentaban que esta penalización vulneraba derechos fundamentales como la dignidad humana, la autonomía, el libre desarrollo de la personalidad, la igualdad, la salud, la integridad y el derecho a no ser sometido a tratos crueles, inhumanos o degradantes. La Corte decidió declarar exequible el artículo 122 en los casos en que el aborto sea practicado con el consentimiento de la mujer cuando: (i) el embarazo representa un peligro para su vida o salud; (ii) exista una grave malformación del feto que haga inviable su vida; o (iii) el embarazo sea resultado de acceso carnal o acto sexual sin consentimiento, abusivo, inseminación artificial o transferencia de óvulo no consentidas, o incesto. También declaró exequible el numeral 7 del artículo 32, y declaró inexequibles la expresión \"...o en mujer menor de catorce años...\" del artículo 123 y la totalidad del artículo 124.",
+    "english": "Ruling C-355 of 2006 resolves several unconstitutionality claims filed by citizens against Articles 122, 123, 124, and 32 paragraph 7 of the Colombian Penal Code (Law 599 of 2000). These articles criminalized abortion in Colombia without any exceptions. The plaintiffs argued that such criminalization violated fundamental rights such as human dignity, autonomy, free development of personality, equality, health, integrity, and the right to be free from cruel, inhuman, or degrading treatment. The Court ruled Article 122 constitutional only when abortion is performed with the woman's consent in the following cases: (i) the pregnancy poses a risk to her life or health; (ii) the fetus has a serious malformation making life unviable; or (iii) the pregnancy resulted from sexual abuse, non-consensual insemination, or incest. It also upheld Article 32(7), but struck down the phrase \"...or in a girl under fourteen years of age...\" from Article 123 and declared Article 124 unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araújo Rentería",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Gálvis",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 11, 12, 13, 15, 16, 42, 43, 44, 49, 93, 243],
+  "rj": "parcial",
+  "rj_citation_raw": ["C-133 de 1994", "C-198 de 2002", "C-647 de 2001"],
+  "amicus": [
+    { "name": "Beatriz Londoño Soto", "affiliation": "Instituto Colombiano de Bienestar Familiar (ICBF)" },
+    { "name": "Olga Amparo Sánchez Gómez", "affiliation": "Corporación Casa de la Mujer" },
+    { "name": "Claudia María Mejía Duque", "affiliation": "Corporación Cisma Mujer" },
+    { "name": "Defensor del Pueblo", "affiliation": "" },
+    { "name": "Luis Augusto Castro Quiroga", "affiliation": "Conferencia Episcopal Colombiana" },
+    { "name": "Facultad de Derecho", "affiliation": "Universidad Santiago de Cali" },
+    { "name": "Zoilo Cuellar Montoya", "affiliation": "Academia Nacional de Medicina" },
+    { "name": "Miembros de la Iglesia Cristiana Carismática Tabernáculo de la Fe", "affiliation": "Iglesia Cristiana Carismática Tabernáculo de la Fe" },
+    { "name": "David Pérez Palacio", "affiliation": "Red Latinoamericana de Abogados Cristianos / Advocates International" },
+    { "name": "Susana Chiarotti", "affiliation": "CLADEM" },
+    { "name": "María Isabel Cedano García", "affiliation": "DEMUS" },
+    { "name": "Helena Alviar García", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad" },
+    { "name": "María Paula Saffón Sanín", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad" },
+    { "name": "Rodrigo Uprimny Yepes", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad" },
+    { "name": "John Keown", "affiliation": "Georgetown University" },
+    { "name": "David Albert Jones", "affiliation": "St. Mary’s College" },
+    { "name": "Javier Núñez García", "affiliation": "Universidad Bonaterra (México)" },
+    { "name": "Georgette Forney", "affiliation": "NOEL" },
+    { "name": "José Pérez Adán", "affiliation": "Universidad de Valencia" },
+    { "name": "John Smeaton", "affiliation": "" },
+    { "name": "Jay Alan Sekulow", "affiliation": "American Center for Law and Justice" },
+    { "name": "Richard Stith", "affiliation": "Universidad de Valparaíso" },
+    { "name": "Gwendolyn Landolt", "affiliation": "Real Women of Canada" },
+    { "name": "Maribel Germán", "affiliation": "Red Familia (México)" },
+    { "name": "Andrés Ollero Tassara", "affiliation": "Universidad Rey Juan Carlos" },
+    { "name": "Bogdan Piotrowski", "affiliation": "" },
+    { "name": "Michael Scarperlanda", "affiliation": "" },
+    { "name": "Gianfranco Mazzanti", "affiliation": "" },
+    { "name": "Stephan Presser", "affiliation": "" },
+    { "name": "Juan L. Ortiz", "affiliation": "" },
+    { "name": "Linda Flowers", "affiliation": "" },
+    { "name": "Juan R. Vélez", "affiliation": "" },
+    { "name": "Ann Moore", "affiliation": "" },
+    { "name": "María Esperanza Puente", "affiliation": "" },
+    { "name": "J.C. Willke", "affiliation": "" },
+    { "name": "Cristian Courtis", "affiliation": "" },
+    { "name": "José Quarracino", "affiliation": "" },
+    { "name": "Carmen Gómez Lavín", "affiliation": "" },
+    { "name": "María Claudia Caballero", "affiliation": "Fundación Mujer y Futuro / Centro de Estudios de Género Magdalena León" }
+  ],
+  "id": "C-355-06",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2006/C-355-06.htm"
+}
