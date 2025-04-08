@@ -1,0 +1,174 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad del Acto Legislativo 01 de 2020, que modificó el artículo 34 de la Constitución Política para permitir la pena de prisión perpetua revisable en casos de homicidio doloso y acceso carnal violento contra menores de edad. El análisis se centró en determinar si dicha modificación implicaba una sustitución de un eje axial de la Constitución, en particular el Estado Social de Derecho y la finalidad resocializadora de la pena. La Corte concluyó que la norma sustituía principios esenciales de la Carta, al anteponer la lógica de la punición perpetua sobre la rehabilitación del condenado. Por lo tanto, declaró inexequible el Acto Legislativo 01 de 2020.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Act 01 of 2020, which amended Article 34 of the Constitution to allow for a reviewable life sentence in cases of intentional homicide and violent sexual assault against minors. The Court's analysis focused on whether this amendment constituted a substitution of a core constitutional pillar, particularly the Social Rule of Law and the rehabilitative purpose of punishment. The Court concluded that the amendment did substitute essential principles of the Constitution by prioritizing perpetual punishment over rehabilitation. As a result, it declared Legislative Act 01 of 2020 unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE ENRIQUE IBÁÑEZ NAJAR",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "PAOLA ANDREA MENESES MOSQUERA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    34,
+    243
+  ],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-037 de 1996",
+    "C-713 de 2008"
+  ],
+  "amicus": [
+    {
+      "name": "Juan David Castro Arias",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Javeriana de Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Sucre"
+    },
+    {
+      "name": "Mauricio Cristancho Ariza",
+      "affiliation": ""
+    },
+    {
+      "name": "Harold Eduardo Sua Montaña",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Bienestar Familiar - ICBF"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Surcolombiana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de La Sabana"
+    },
+    {
+      "name": "Ricardo Posada Maya",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Yesid Reyes Alvarado",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Colegio de Abogados Penalistas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Caldas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de La Sabana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad San Buenaventura de Cali"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Coalición Contra La Vinculación De Niños, Niñas Y Jóvenes Al Conflicto Armado En Colombia – Coalico"
+    }
+  ],
+  "id": "C-294-21",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-294-21.htm"
+}

@@ -1,0 +1,103 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-258 de 2013 estudió una demanda de inconstitucionalidad contra el artículo 17 de la Ley 4 de 1992, el cual regulaba el régimen pensional especial para magistrados de altas cortes y congresistas. Los demandantes argumentaban que dicho régimen violaba principios constitucionales como el de igualdad y la sostenibilidad financiera. La Corte declaró inexequibles varias expresiones de ese artículo, particularmente las que permitían una liquidación de la pensión basada en conceptos no salariales y las que establecían aumentos automáticos equivalentes al salario mínimo legal. La Corte también indicó que la transición pensional no podía extenderse a todos los elementos del régimen anterior, especialmente si estos no respetaban la nueva normativa constitucional establecida en el Acto Legislativo 01 de 2005. Aunque se discutió la existencia de cosa juzgada con base en la Sentencia C-608 de 1999, la Corte concluyó que no aplicaba porque aquella se había limitado a ciertos cargos y no abordó los nuevos argumentos planteados, especialmente bajo el nuevo marco constitucional. La Corte ordenó a las autoridades competentes tomar medidas para garantizar el cumplimiento del fallo y comunicó la decisión a entidades relevantes como la Procuraduría y el Ministerio del Trabajo.",
+    "english": "Ruling C-258 of 2013 addressed a constitutional challenge against Article 17 of Law 4 of 1992, which established a special pension regime for high court magistrates and congress members. The plaintiffs argued that this regime violated constitutional principles such as equality and financial sustainability. The Court declared several phrases in the article unconstitutional, particularly those allowing pension calculation based on non-salary income and automatic adjustments tied to the legal minimum wage. The Court also clarified that the transitional pension regime could not extend to all elements of the former system, especially when incompatible with the 2005 constitutional amendment (Legislative Act 01 of 2005). While the existence of res judicata was raised based on Ruling C-608 of 1999, the Court found that it did not apply, since that prior ruling was limited in scope and did not consider the new arguments within the current constitutional framework. The Court ordered relevant authorities to take steps to implement the ruling and communicated its decision to agencies such as the Attorney General's Office and the Ministry of Labor."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Henao Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Venegas Franco",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    }
+  ],
+  "articles": [13, 48],
+  "rj": "no",
+  "rj_citation_raw": ["C-608-99"],
+  "amicus": [
+    { "affiliation": "Administradora Colombiana de Pensiones – COLPENSIONES" },
+    { "name": "", "affiliation": "Secretaría Jurídica de la Presidencia de la República"},
+    { "name": "", "affiliation": "Ministerio del Trabajo"},
+    { "name": "", "affiliation": "Ministerio de Hacienda y Crédito Público"},
+    { "name": "", "affiliation": "Departamento de Planeación Nacional"},
+    { "name": "", "affiliation": "Departamento Administrativo de la Función Pública"},
+    { "name": "", "affiliation": "Presidente del Congreso de la República"},
+    { "name": "", "affiliation": "Contraloría General de la República"},
+    { "name": "", "affiliation": "Defensoría del Pueblo"},
+    { "name": "", "affiliation": "Fundación FESCOL"},
+    { "name": "", "affiliation": "Organización Iberoamericana de la Seguridad Social"},
+    { "name": "", "affiliation": "Instituto de Seguros Sociales"},
+    { "name": "", "affiliation": "Asofondos"},
+    { "name": "", "affiliation": "Sindicato Nacional de la Salud y Seguridad Social - Sindess"},
+    { "name": "", "affiliation": "Central Unitaria de Trabajadores - CUT"},
+    { "name": "", "affiliation": "Confederación General de Trabajadores"},
+    { "name": "", "affiliation": "FECODE"},
+    { "name": "", "affiliation": "Unidad de Gestión Pensional y Parafiscales -UGPP"},
+    { "name": "", "affiliation": "Fiduprevisora"},
+    { "name": "", "affiliation": "Fedesarrollo"},
+    { "name": "", "affiliation": "Federación de Aseguradores Colombianos - Fasecolda"},
+    { "name": "", "affiliation": "CAJANAL EICE, en liquidación"},
+    { "name": "", "affiliation": "Fondo de Previsión Social del Congreso de la República - Fonprecon"},
+    { "name": "", "affiliation": "CAPRECOM"},
+    { "name": "", "affiliation": "Universidad Nacional de Colombia" },
+    { "name": "", "affiliation": "Universidad Javeriana" },
+    { "name": "", "affiliation": "Universidad de los Andes" },
+    { "name": "", "affiliation": "Universidad del Rosario" },
+    { "name": "", "affiliation": "Universidad Sergio Arboleda"},
+    { "name": "", "affiliation": "Comisión Colombiana de Juristas"},
+    { "name": "", "affiliation": "Dejusticia" }
+  ],
+  "id": "C-258-13",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2013/C-258-13.htm"
+}

@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-269 de 2014 resolvió varias demandas de inconstitucionalidad acumuladas (Expedientes D-9907, D-9852 y D-9886) contra artículos del Tratado Americano de Soluciones Pacíficas (Pacto de Bogotá), aprobado por la Ley 37 de 1961. Los demandantes alegaban que las disposiciones de los artículos XXXI y L del Tratado vulneraban el artículo 101 de la Constitución, en la medida en que implicaban una cesión de soberanía al permitir que decisiones sobre controversias limítrofes fueran resueltas por la Corte Internacional de Justicia sin necesidad de aprobación legislativa. La Corte, con ponencia del magistrado Mauricio González Cuervo, decidió declarar exequibles estas disposiciones, estableciendo que la aceptación de la jurisdicción de la Corte Internacional de Justicia y los mecanismos para el cumplimiento de sus fallos no contravenían la Constitución. Sin embargo, algunos magistrados consideraron que la Corte debía inhibirse de pronunciarse debido a que el Tratado había sido denunciado por el Gobierno Nacional y, por tanto, ya no estaba vigente en el ordenamiento interno.",
+    "english": "Ruling C-269 of 2014 addressed several consolidated constitutional challenges (Files D-9907, D-9852, and D-9886) against provisions of the American Treaty on Pacific Settlement (Bogotá Pact), approved through Law 37 of 1961. Petitioners argued that Articles XXXI and L of the Treaty violated Article 101 of the Colombian Constitution, as they allegedly allowed the International Court of Justice to decide boundary disputes without legislative approval, thus infringing national sovereignty. The Court, with Justice Mauricio González Cuervo as the reporting judge, ruled these provisions constitutional, concluding that recognizing the jurisdiction of the International Court of Justice and complying with its decisions did not violate the Constitution. Some justices dissented, arguing that the Court should have abstained from ruling since the Treaty had already been denounced by the Colombian government and was no longer in effect domestically."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARIA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA M.",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON ELÍAS PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [101, 59],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {"name": "Belisario Betancur Cuartas.", "affiliation": ""},
+    {"name": "Ernesto Samper Pizano", "affiliation": ""},
+    {"name": "Álvaro Uribe Vélez", "affiliation": ""},
+    {"name": "", "affiliation": "Universidad Colegio Mayor de Nuestra Señora del Rosario"},
+    {"name": "", "affiliation": "Universidad Externado de Colombia"},
+    {"name": "", "affiliation": "Universidad Sergio Arboleda"},
+    {"name": "", "affiliation": "Academia Colombiana de Derecho Internacional (ACOLDI)"},
+    {"name": "", "affiliation": "Academia Colombiana de Jurisprudencia"},
+    {"name": "Enrique Gaviria Liévano.", "affiliation": ""},
+    {"name": "Marco Gerardo Monroy Cabra.", "affiliation": ""},
+    {"name": "Ricardo Abello Galvis.", "affiliation": ""},
+    {"name": "Antonio Aljure Salame.", "affiliation": ""},
+    {"name": "Carlos E. Salgar Vargas.", "affiliation": ""},
+    {"name": "Julio Londoño Paredes.", "affiliation": ""},
+    {"name": "Carlos Gustavo Arrieta Padilla.", "affiliation": ""},
+    {"name": "Manuel José Cepeda Espinosa.", "affiliation": ""},
+    {"name": "Clara Eugenia López Obregón.", "affiliation": ""},
+    {"name": "Sergio Estrada Vélez", "affiliation": "Universidad de Medellín"},
+    {"name": "Jorge Kenneth Burbano Villamarin", "affiliation": "Universidad Libre"},
+    {"name": "Manuel Alejandro Correal Tovar", "affiliation": "Universidad Libre"},
+    {"name": "Eudoro Echeverri Quintana", "affiliation": "Universidad Libre Seccional Pereira"},
+    {"name": "Emerson Edilberto Jaimes", "affiliation": "Universidad Libre Seccional Pereira"},
+    {"name": "Hernán Alejandro Olano García.", "affiliation": ""},
+    {"name": "Laura Daniela Hernández Hernández", "affiliation": "Universidad Javeriana"},
+    {"name": "Yona Schuster López", "affiliation": "Universidad Javeriana"},
+    {"name": "Luis Martelo Ortiz", "affiliation": "Universidad Javeriana"},
+    {"name": "María Teresa Ospina Pérez", "affiliation": "Universidad Javeriana"},
+    {"name": "Andrés Castillo Montoya", "affiliation": "Universidad Javeriana"},
+    {"name": "Joan Sebastian Romero Cárdenas", "affiliation": "Universidad Javeriana"},
+    {"name": "Laura Alejandra Castro Salcedo", "affiliation": "Universidad Javeriana"},
+    {"name": "Isabella Posso Tamayo", "affiliation": "Universidad Javeriana"},
+    {"name": "Claudia Dangond Gibsone", "affiliation": "Universidad Javeriana"},
+    {"name": "Diego Romero Cruz.", "affiliation": ""},
+    {"name": "Ernesto Palacios.", "affiliation": ""},
+    {"name": "Zulma Liliana Torres Mendivelso.", "affiliation": ""},
+    {"name": "", "affiliation": "Procuraduría General de la Nación"}
+  ],
+  "id": "C-269-14",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2014/C-269-14.htm"
+}

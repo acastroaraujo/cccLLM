@@ -1,0 +1,228 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-134 de 2023 analiza la constitucionalidad del Proyecto de Ley Estatutaria de Administración de Justicia (PLEAJ), que reforma la Ley 270 de 1996. La Corte evalúa si diversas disposiciones del proyecto, tanto nuevas como reproducidas de leyes anteriores, son compatibles con la Constitución. Un punto clave del análisis es si se configura cosa juzgada respecto de sentencias anteriores (como C-037 de 1996 y C-713 de 2008) que ya habían analizado normas similares. Aunque se reconocen elementos de cosa juzgada material, la Corte considera que algunos de estos precedentes pueden ser revisados nuevamente debido a cambios en el contexto normativo y en la interpretación constitucional. La Corte también integró normas de leyes anteriores por su conexión con las disposiciones revisadas. Finalmente, se analizan vicios de forma señalados por intervinientes, como el Consejo Superior de la Judicatura y la Comisión Colombiana de Juristas, sin que ello lleve a la declaración de inconstitucionalidad total del proyecto.",
+    "english": "Ruling C-134 of 2023 reviews the constitutionality of the Statutory Law Project on the Administration of Justice (PLEAJ), which modifies Law 270 of 1996. The Court examines whether several provisions of the project, both new and replicated from previous laws, comply with the Constitution. A central issue is whether the matter is subject to res judicata, based on previous rulings such as C-037 of 1996 and C-713 of 2008. Although material res judicata is acknowledged, the Court finds that certain precedents may be revisited due to normative and interpretive changes. The Court also includes related legal provisions for a comprehensive analysis. Additionally, alleged procedural flaws raised by parties such as the Superior Council of the Judiciary and the Colombian Commission of Jurists are examined, but do not result in a general declaration of unconstitutionality."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NATALIA ÁNGEL CABO",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JUAN CARLOS CORTÉS GONZÁLEZ",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE ENRIQUE IBÁÑEZ NAJAR",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "PAOLA ANDREA MENESES MOSQUERA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSE FERNANDO REYES CUARTAS",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [20, 22, 116, 228, 241, 243],
+  "rj": "parcial",
+  "rj_citation_raw": ["C-037 de 1996", "C-713 de 2008", "C-036 de 1997", "C-095 de 2019", "C-233 de 2021"],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia"
+    },
+    {
+      "name": "Álvaro Restrepo Valencia",
+      "affiliation": ""
+    },
+    {
+      "name": "Ana Julieta Arguelles Daraviña",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "ASEMDEP"
+    },
+    {
+      "name": "Carlos Saúl Sierra Niño",
+      "affiliation": ""
+    },
+    {
+      "name": "Edson Alberto López Castellanos",
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia Patricia Vásquez Tobón",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Colegio de Abogados Administrativistas"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Colegios de Jueces y Fiscales"
+    },
+    {
+      "name": "",
+      "affiliation": "Colegio de Jueces y Fiscales de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Colegio de Jueces y Fiscales del Distrito Judicial del Valle - Buga"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas y ASONAL Judicial"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Seccional de Disciplina Judicial de Valle del Cauca"
+    },
+    {
+      "name": "",
+      "affiliation": "Consejo Superior de la Judicatura"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Nacional de Disciplina Judicial"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Excelencia en la Justicia"
+    },
+    {
+      "name": "",
+      "affiliation": "Corte Suprema de Justicia"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Rubén Darío Restrepo Rodríguez"
+    },
+    {
+      "name": "",
+      "affiliation": "Sintranivelar (Sindicato de Trabajadores del Sector de Justicia)"
+    },
+    {
+      "name": "",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "Sintranivelar (Sindicato de Trabajadores del Sector de Justicia)",
+      "affiliation": "Consejo Superior de la Judicatura Comuneros"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de La Sabana"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Universitaria del Caribe - CECAR"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre de Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Pontificia Bolivariana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Colegios de Defensores Públicos"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Colombiana de Municipios"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Derecho Procesal"
+    },
+    {
+      "name": "Efraín Burbano Castillo",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Procuradoría General de la Nación"
+    }
+  ],
+  "id": "C-134-23",
+  "url": "https://www.corteconstitucional.gov.co/Relatoria/2023/C-134-23.htm"
+}

@@ -1,0 +1,150 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo de constitucionalidad del Proyecto de Ley Estatutaria No. 062 de 2019 Senado – 314 de 2019 Cámara, sobre el régimen de Habeas Data en el sector financiero, conocido como la 'Ley de borrón y cuenta nueva'. La Corte estudió tanto los aspectos formales del procedimiento legislativo como el contenido material del proyecto. Declaró la constitucionalidad de la mayoría del articulado, condicionando algunos apartes y declarando otros inconstitucionales. La decisión se fundamentó en un análisis sobre el debido proceso legislativo, el principio de legalidad, el derecho a la información, el habeas data y los principios de proporcionalidad y razonabilidad. La Corte reafirmó el carácter vinculante y definitivo de sus decisiones en ejercicio del control jurisdiccional mediante la figura de la cosa juzgada constitucional.",
+    "english": "The Constitutional Court conducted a prior constitutional review of the Statutory Bill No. 062 of 2019 Senate – 314 of 2019 House, regarding the Habeas Data regime in the financial sector, known as the 'Clean Slate Law'. The Court analyzed both the legislative procedure and the material content of the bill. It declared most of the provisions constitutional, while conditioning or striking down certain parts. The decision was based on an analysis of due legislative process, the principle of legality, the right to information, habeas data, and the principles of proportionality and reasonableness. The Court reaffirmed the binding and definitive nature of its decisions through the institution of constitutional res judicata."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    15,
+    20,
+    29,
+    74,
+    243
+  ],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-241 de 2012",
+    "C-400 de 2013",
+    "T-485 de 2009"
+  ],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Superintendencia de Industria y Comercio"
+    },
+    {
+      "name": "",
+      "affiliation": "Superintendencia Financiera de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Banco de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Cifin TransUnión"
+    },
+    {
+      "name": "Jeison Ruiz Padilla",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Asobancaria"
+    },
+    {
+      "name": "",
+      "affiliation": "Experian Colombia S.A"
+    },
+    {
+      "name": "Juan Carlos Muñoz",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Fernando Velasco Chaves",
+      "affiliation": ""
+    },
+    {
+      "name": "Harold Eduardo Sua Montaña",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-282-21",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-282-21.htm"
+}

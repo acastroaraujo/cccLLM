@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional revisó la constitucionalidad de la Ley 1747 de 2014, mediante la cual se aprobó el Acuerdo de Libre Comercio entre Colombia y Corea del Sur, firmado en Seúl el 21 de febrero de 2013. En particular, se examinó el Anexo 8C, numeral 2 literal A, que establece un límite temporal para la aplicación de medidas de salvaguardia relacionadas con los movimientos de capital. La Corte consideró que dicho límite no podía entenderse como una prohibición absoluta e improrrogable, y concluyó que debía interpretarse como una orientación de política económica sujeta al juicio del Banco de la República, en concordancia con su autonomía constitucional. En consecuencia, declaró la exequibilidad condicionada del tratado, ordenando al Presidente de la República que, al manifestar el consentimiento del Estado colombiano en obligarse por el tratado, formulara una declaración interpretativa en ese sentido.",
+    "english": "The Constitutional Court reviewed the constitutionality of Law 1747 of 2014, which approved the Free Trade Agreement between Colombia and South Korea, signed in Seoul on February 21, 2013. Specifically, it examined Annex 8C, numeral 2 letter A, which sets a time limit for the application of safeguard measures concerning capital movements. The Court held that this time limit should not be interpreted as an absolute or non-extendable prohibition and concluded it should be regarded as a guideline for economic policy subject to the judgment of the Central Bank, in accordance with its constitutional autonomy. Consequently, the Court declared the treaty conditionally constitutional and ordered the President to issue an interpretative declaration to that effect when expressing Colombia’s consent to be bound by the treaty."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PEREZ",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVAN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CATALINA BOTERO MARINO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "ALBERTO ROJAS RIOS",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [9, 226, 227, 371],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Relaciones Exteriores"
+    },
+    {
+      "name": "",
+      "affiliation": "Banco de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    },
+    {
+      "name": "",
+      "affiliation": "Sindicato Nacional de Trabajadores de la Industria Automotriz y Similares de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Central Unitaria de Trabajadores"
+    },
+    {
+      "name": "",
+      "affiliation": "Confederación de Trabajadores de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Grupo Proindustria"
+    },
+    {
+      "name": "",
+      "affiliation": "Red por la Justicia Tributaria en Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de las Micro, Pequeñas y Medianas Empresas (ACOPI)"
+    },
+    {
+      "name": "César Augusto Luque Fandiño",
+      "affiliation": ""
+    },
+    {
+      "name": "Mario Alejandro Valencia Barrera",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-184-16",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-184-16.htm"
+}

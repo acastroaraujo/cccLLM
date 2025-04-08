@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad del Acto Legislativo 02 de 2015, que introdujo un régimen especial de justicia transicional dentro del marco del proceso de paz con las FARC. Se demandaron parcialmente varios artículos del Acto Legislativo por supuestamente desconocer principios constitucionales, incluyendo el principio de separación de poderes y el control judicial. La Corte decidió declarar inexequibles varios apartados del artículo 11, así como los artículos 15, 16, 17 y 18, y ciertos incisos del artículo 26 del Acto Legislativo, considerando que vulneraban la Carta Política al restringir de manera desproporcionada las competencias del poder judicial y de la Corte Constitucional. En su decisión, la Corte protegió la supremacía de la Constitución y reafirmó la importancia del control constitucional incluso en contextos de justicia transicional.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Act 02 of 2015, which created a special transitional justice regime as part of the peace process with the FARC. Several provisions of the Legislative Act were challenged for allegedly violating constitutional principles, including the separation of powers and judicial oversight. The Court declared unconstitutional several provisions of Article 11, as well as Articles 15, 16, 17, and 18, and certain sections of Article 26 of the Act. The Court found that these norms excessively limited the judiciary and the Constitutional Court's role, thereby breaching the Constitution. This decision reaffirmed the supremacy of the Constitution and the necessity of judicial oversight, even in transitional justice contexts."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARIA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTÍZ DELGADO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1,
+    4,
+    6,
+    121,
+    228,
+    241,
+    243
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Gustavo García Figueroa",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "Yesid Reyes Alvarado",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "Julio Andrés Ossa Santamaría",
+      "affiliation": "Secretaría Jurídica de la Presidencia de la República"
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "affiliation": "Instituto Colombiano de Derecho Procesal"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Facultad de Derecho de la Universidad Libre"
+    },
+    {
+      "name": "Jorge Ricardo Palomares García",
+      "affiliation": "Facultad de Derecho de la Universidad Libre"
+    },
+    {
+      "name": "Edgar Valdeleón Pabón",
+      "affiliation": "Facultad de Derecho de la Universidad Libre"
+    },
+    {
+      "name": "Javier Enrique Santander Díaz",
+      "affiliation": "Facultad de Derecho de la Universidad Libre"
+    },
+    {
+      "name": "Augusto Ibáñez Guzmán",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Rodrigo González Quintero",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Camilo Guzmán Gómez",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Andrés Sarmiento Lamus",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Angélica Lozano Correa",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-373-16",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-373-16.htm"
+}

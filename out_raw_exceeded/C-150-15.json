@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo, automático y definitivo del Proyecto de Ley Estatutaria sobre mecanismos de participación ciudadana (Ley 134 de 2011 Cámara y 227 de 2012 Senado). Se examinó su compatibilidad con la Constitución, declarando la exequibilidad de la mayoría de sus artículos. Respecto del artículo 47 y ciertas expresiones del artículo 21, se decidió 'estarse a lo resuelto' por configurarse cosa juzgada material, conforme a las sentencias C-011 de 1994 y C-180 de 1994. La Corte también consideró que el contenido del artículo 9° ya había sido objeto de revisión en normas anteriores, pero decidió realizar un análisis de fondo y lo declaró exequible. El fallo también aborda temas como la revocatoria de mandato, la consulta popular, la participación ciudadana, y la financiación de estos mecanismos. Varias decisiones dentro de la sentencia suscitaron salvamentos y aclaraciones de voto por parte de algunos magistrados, principalmente en torno a la aplicación indebida de cosa juzgada y a la facultad de la Corte para imponer restricciones no contempladas por el legislador.",
+    "english": "The Constitutional Court conducted a prior, automatic, and definitive review of the Statutory Law Bill on mechanisms of citizen participation (House Bill 134 of 2011 and Senate Bill 227 of 2012). It assessed the bill's compatibility with the Constitution, declaring most of its articles constitutional. For Article 47 and certain phrases in Article 21, the Court applied the doctrine of res judicata, referring to rulings C-011 of 1994 and C-180 of 1994. Although Article 9 was previously addressed in similar legal norms, the Court carried out a substantive review and upheld its constitutionality. The ruling also discussed issues such as recall of mandate, referendums, citizen participation, and financing of such mechanisms. Several justices issued partial dissents and concurring opinions, particularly regarding the improper application of res judicata and the Court’s role in adding legislative restrictions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARTHA VICTORIA SÁCHICA MÉNDEZ",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [241, 153],
+  "rj": "parcial",
+  "rj_citation_raw": ["C-011 de 1994", "C-180 de 1994"],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior"
+    },
+    {
+      "name": "",
+      "affiliation": "Misión de Observación Electoral"
+    },
+    {
+      "name": "",
+      "affiliation": "Foro Nacional por Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Nuevo Arco Iris"
+    },
+    {
+      "name": "",
+      "affiliation": "Transparencia por Colombia"
+    },
+    {
+      "name": "Pedro Santana Rodríguez",
+      "affiliation": "Corporación Viva la Ciudadanía"
+    },
+    {
+      "name": "Lina Macías",
+      "affiliation": "Corporación Viva la Ciudadanía"
+    },
+    {
+      "name": "Carlos Alberto Lerma",
+      "affiliation": "Corporación Viva la Ciudadanía"
+    },
+    {
+      "name": "Gabriel Bustamante Peña",
+      "affiliation": "Corporación Viva la Ciudadanía"
+    },
+    {
+      "name": "José Rogelio Sánchez Hernández",
+      "affiliation": "Corporación Colegio Mayor de Cultura y Ciencias"
+    },
+    {
+      "name": "Plinio Alarcón Buitrago",
+      "affiliation": ""
+    },
+    {
+      "name": "Jaime Castro Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Gómez Martínez",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-150-15",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-150-15.htm"
+}

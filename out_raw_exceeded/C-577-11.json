@@ -1,0 +1,280 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el artículo 113 del Código Civil y otras normas relacionadas, que definían el matrimonio exclusivamente como la unión entre un hombre y una mujer. La Corte concluyó que esta definición vulnera los derechos fundamentales de las personas homosexuales, especialmente su derecho a la igualdad y al libre desarrollo de la personalidad. Si bien la Corte se abstuvo de declarar inexequibles las disposiciones demandadas, exhortó al Congreso para que, dentro de un plazo determinado, expidiera una ley que reconozca la posibilidad de contraer matrimonio civil entre personas del mismo sexo. En caso de que el Congreso no cumpliera con dicho mandato dentro del plazo, a partir del 20 de junio de 2013 las parejas del mismo sexo podrían acudir ante notarios o jueces para formalizar su vínculo contractual con efectos similares al matrimonio. Esta decisión tuvo efectos inter communis, extendiéndose a todas las personas en las mismas condiciones.",
+    "english": "The Constitutional Court ruled on a constitutional challenge to Article 113 of the Civil Code and related provisions, which defined marriage solely as a union between a man and a woman. The Court found that this definition violated the fundamental rights of homosexual individuals, particularly their rights to equality and free development of personality. While it did not declare the challenged norms unconstitutional, the Court urged Congress to enact legislation within a specific timeframe to allow same-sex couples to enter into civil marriage. If Congress failed to act by June 20, 2013, same-sex couples would be permitted to formalize their contractual unions before notaries or judges, with legal effects similar to marriage. This decision had inter communis effect, extending to all persons under the same conditions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JUAN CARLOS HENAO PEREZ",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARIA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZALEZ CUERVO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVAN PALACIO PALACIO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [42],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "LUZ ALBA MARTÍN MIRANDA",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    },
+    {
+      "name": "DEIDAMIA GARCÍA QUINTERO",
+      "affiliation": "Alcaldía Mayor de Bogotá D.C."
+    },
+    {
+      "name": "MARÍA CRISTINA HURTADO SÁENZ",
+      "affiliation": "Secretaría Distrital de Planeación"
+    },
+    {
+      "name": "VOLMAR PÉREZ ORTÍZ",
+      "affiliation": "Defensor del Pueblo"
+    },
+    {
+      "name": "JAIRO HERRÁN VARGAS",
+      "affiliation": "Personería de Medellín"
+    },
+    {
+      "name": "CARLOS ANDRÉS TOBAR CASTAÑO",
+      "affiliation": "Personería Municipal de Armenia"
+    },
+    {
+      "name": "ANTONIO MENENDEZ DE ZUBILAGA",
+      "affiliation": "Oficina en Colombia del Alto Comisionado de las Naciones Unidas para los Derechos Humanos"
+    },
+    {
+      "name": "CLARA LÓPEZ OBREGÓN",
+      "affiliation": "Polo Democrático Alternativo"
+    },
+    {
+      "name": "ÁNGELA MARÍA ROBLEDO",
+      "affiliation": "Partido Verde"
+    },
+    {
+      "name": "ISABEL C. JARAMILLO SIERRA",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "NÉSTOR OSUNA PATIÑO",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "LILIANA GUARÍN LÓPEZ",
+      "affiliation": "Colombia Diversa"
+    },
+    {
+      "name": "LILIANA PARRA FONSECA",
+      "affiliation": "Women's Link Worldwide"
+    },
+    {
+      "name": "GUSTAVO GALLÓN GIRALDO",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "ELIZABETH CASTILLO VARGAS",
+      "affiliation": "Grupo de Apoyo a Mamás Lesbianas"
+    },
+    {
+      "name": "CLAUDIA MEJÍA DUQUE",
+      "affiliation": "Corporación Sisma Mujer"
+    },
+    {
+      "name": "WILSON DE JESÚS CASTAÑEDA",
+      "affiliation": "Corporación Caribe Afirmativo"
+    },
+    {
+      "name": "GUILLERMO OSPINA ARCINIEGAS",
+      "affiliation": "Magazine Nemesis Times"
+    },
+    {
+      "name": "EDWIN HERAZO ACEVEDO",
+      "affiliation": "Instituto de Investigación del Comportamiento Humano"
+    },
+    {
+      "name": "TATIANA FORERO TORRES",
+      "affiliation": "Organización Comunidad Homosexual de Argentina"
+    },
+    {
+      "name": "NADIA VIVIANA TACHA GUTIÉRREZ",
+      "affiliation": "CONICET"
+    },
+    {
+      "name": "AYDA LUCÍA RAMÍREZ BOLIVAR",
+      "affiliation": "Concepto de Tamara Adrian Hernández"
+    },
+    {
+      "name": "ASTRID ORJUELA RUÍZ",
+      "affiliation": "Organización Mexicana Ombudsgay"
+    },
+    {
+      "name": "ROBINSON SÁNCHEZ TAMAYO",
+      "affiliation": "Polo Democrático Alternativo - Coordinador Nacional del Polo Rosa"
+    },
+    {
+      "name": "GLORIA INÉS RAMÍREZ RÍOS",
+      "affiliation": "Senadora de la República por el Polo Democrático Alternativo"
+    },
+    {
+      "name": "ALFONSO PRADA",
+      "affiliation": "Partido Verde"
+    },
+    {
+      "name": "NINA CHAPARRO GONZÁLEZ",
+      "affiliation": "Grupo de Acciones Públicas - Universidad Colegio Mayor de Nuestra Señora del Rosario"
+    },
+    {
+      "name": "JAIRO MAURICIO PULECIO PULGARÍN",
+      "affiliation": "Universidad Jorge Tadeo Lozano"
+    },
+    {
+      "name": "CESAR AUGUSTO SÁNCHEZ AVELLA",
+      "affiliation": "Instituto de Estudios Sociales y Culturales - Grupo de Investigaciones Pensar (en) Género, Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "ANA PATRICIA PABÓN MANTILLA",
+      "affiliation": "Semillero en Jurisprudencia y Activismo Constitucional, Universidad de Santander - UDES"
+    },
+    {
+      "name": "LAURA CASTRO ORTÍZ",
+      "affiliation": "Grupo de Investigación Filantropía Iuris, Universidad Autónoma de Colombia"
+    },
+    {
+      "name": "SERGIO ESTRADA VÉLEZ",
+      "affiliation": "Grupo de Investigaciones en Teoría del Derecho, Universidad de Medellín"
+    },
+    {
+      "name": "JULIETA LEMAITRE RIPOLL",
+      "affiliation": "Facultad de Derecho, Universidad de los Andes"
+    },
+    {
+      "name": "LUZ GABRIELA ARANGO GAVIRIA",
+      "affiliation": "Departamento de Sociología, Universidad Nacional de Colombia"
+    },
+    {
+      "name": "JULIA SANDRA BERNAL CRESPO",
+      "affiliation": "Programa de Derecho, Universidad del Norte"
+    },
+    {
+      "name": "GASPAR HERNÁNDEZ CAAMAÑO",
+      "affiliation": "Facultad de Ciencias Jurídicas, Universidad del Atlántico"
+    },
+    {
+      "name": "LORENA FORERO OTÁLORA",
+      "affiliation": "Grupo FEMM"
+    },
+    {
+      "name": "GERMÁN HUMBERTO RINCÓN PERFETTI",
+      "affiliation": "G&M de Colombia Abogados / Asociación Internacional de Lesbianas, Gays, Bisexuales, Trans, Intersexuales (ILGA)"
+    },
+    {
+      "name": "GLENYS DE JESÚS CHECO",
+      "affiliation": "Women's Link Worldwide"
+    },
+    {
+      "name": "JUAN PABLO DÍAZ",
+      "affiliation": "Corporación ProDiversia"
+    },
+    {
+      "name": "FELIPE GONZÁLO JIMÉNEZ MANTILLA",
+      "affiliation": "Asociación Colombiana de Juristas Católicos"
+    },
+    {
+      "name": "TATIANA TABARES TOVAR",
+      "affiliation": "Comunidad de Cali"
+    },
+    {
+      "name": "HELENA MARÍA ISABEL PLATA TAMAYO",
+      "affiliation": "Profamilia"
+    },
+    {
+      "name": "NURY CRISTINA ROJAS TELLO",
+      "affiliation": "Grupo de Madres, Padres y Familiares de Personas Lesbianas, Bisexuales y Transgeneristas"
+    },
+    {
+      "name": "JAVIER BENÍTEZ",
+      "affiliation": "Grupo de Jóvenes LGBT de Bogotá"
+    },
+    {
+      "name": "VALENTINA MONTOYA ROBLEDO",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad - Dejusticia"
+    },
+    {
+      "name": "LINA MARITZA CAMACHO LUCIO",
+      "affiliation": "Asociación Lesbiápolis"
+    },
+    {
+      "name": "ANA MARÍA GARCÍA GAMBOA",
+      "affiliation": "Comité Prodefensa de las Pensiones"
+    }
+  ],
+  "id": "C-577-11",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-577-11.htm"
+}

@@ -1,0 +1,228 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó una demanda de inconstitucionalidad presentada contra el artículo 1 del Acto Legislativo No. 01 de 2016, el cual establece un procedimiento especial para la paz como parte de la implementación del Acuerdo Final con las FARC. Los demandantes alegaban que dicho artículo sustituía la Constitución al modificar los procedimientos para la reforma constitucional, reduciendo de ocho a cuatro el número de debates requeridos y eliminando una de las dos vueltas exigidas. La Corte determinó que sobre estos aspectos ya existía cosa juzgada constitucional, pues se habían resuelto en la Sentencia C-699 de 2016. Por lo tanto, decidió estarse a lo resuelto en dicha sentencia en relación con el cargo general contra el artículo 1. Sin embargo, la Corte también analizó nuevas acusaciones específicas contra los literales h), j) y k) del mismo artículo y, tras realizar un juicio de sustitución, concluyó que dichos literales eran inconstitucionales por alterar ejes definitorios de la Carta. En consecuencia, los declaró inexequibles.",
+    "english": "The Constitutional Court reviewed a constitutional challenge against Article 1 of Legislative Act No. 01 of 2016, which created a special legislative procedure for peace as part of the implementation of the Final Agreement with the FARC. The petitioners claimed that this article substituted the Constitution by altering the standard process for constitutional reforms, reducing the required debates from eight to four and eliminating one of the two required rounds. The Court found that these issues had already been resolved in Judgment C-699 of 2016 and thus declared res judicata applied to the general challenge. Nevertheless, it examined new and specific challenges to subparagraphs h), j), and k) of the same article. After applying the substitution test, the Court ruled that these subparagraphs were unconstitutional for altering core principles of the Constitution and therefore declared them unenforceable."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CARLOS LIBARDO BERNAL PULIDO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTÍZ DELGADO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "IVAN ESCRUCERÍA MAYOLO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSE ANTONIO CEPEDA AMARIS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    243
+  ],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-699 de 2016"
+  ],
+  "amicus": [
+    {
+      "name": "Luis Edgardo García Molano",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Manuel Charria Segura",
+      "affiliation": ""
+    },
+    {
+      "name": "Martha Lucía Ramírez de Rincón",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Felipe Ortegón Pulido",
+      "affiliation": ""
+    },
+    {
+      "name": "Laura Melissa Flórez Castilla",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos José Bermúdez Pulido",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Guillermo Sánchez Gallego",
+      "affiliation": ""
+    },
+    {
+      "name": "Alirio Uribe Muñoz",
+      "affiliation": ""
+    },
+    {
+      "name": "Italo Giuseppe Romeo Serani Triana",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo José Slebi Medina",
+      "affiliation": ""
+    },
+    {
+      "name": "Eudoro Echeverri Quintana",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Nicolás Araújo Rumié",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Daniel Alberto Cabrales Castillo",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Jaime Alejandro Amín Hernández",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Paloma Valencia Laserna",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Claudia López",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Alfredo Ramos Maya",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Iván Duque Márquez",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Ernesto Macías Tovar",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Thania Vega de Plazas",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Carlos Felipe Mejía Mejía",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Nohora Stella Tovar Rey",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Paola Andrea Holguín",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Honorio Miguel Henríquez Pinedo",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Everth Bustamante García",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Santiago Valencia",
+      "affiliation": "Cámara de Representantes"
+    },
+    {
+      "name": "Álvaro Hernán Prada",
+      "affiliation": "Cámara de Representantes"
+    },
+    {
+      "name": "Oscar Darío Pérez",
+      "affiliation": "Cámara de Representantes"
+    },
+    {
+      "name": "Luis Augusto Castro Quiroga",
+      "affiliation": "Conferencia Episcopal de Colombia"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Universidad Libre de Colombia"
+    },
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Rodrigo González Quintero",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Carlos Rodríguez Mejía",
+      "affiliation": "Universidad Santo Tomás"
+    },
+    {
+      "name": "Walter René Cadena Afanador",
+      "affiliation": "Universidad Militar Nueva Granada"
+    },
+    {
+      "name": "Clara Inés Tapias Padilla",
+      "affiliation": "Universidad Industrial de Santander"
+    },
+    {
+      "name": "Jorge Eduardo Lamo Gómez",
+      "affiliation": "Universidad Autónoma de Bucaramanga"
+    }
+  ],
+  "id": "C-332-17",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2017/C-332-17.htm"
+}

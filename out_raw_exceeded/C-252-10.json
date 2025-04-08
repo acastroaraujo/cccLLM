@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad del Decreto Legislativo 4975 del 23 de diciembre de 2009, por medio del cual el Presidente de la República declaró el estado de emergencia social en el sector salud. La Corte concluyó que dicho decreto era inconstitucional, al considerar que los hechos invocados por el Gobierno no justificaban la declaratoria de emergencia, y que las medidas adoptadas eran desproporcionadas y contrarias a principios fundamentales de la Carta Política. En consecuencia, declaró la inexequibilidad del decreto y de varios decretos legislativos que lo desarrollaban. Sin embargo, para evitar una afectación mayor a derechos constitucionales, la Corte decidió modular los efectos de su decisión en el tiempo, especialmente en lo relacionado con medidas tributarias. Esta modulación buscó dar un plazo razonable para que el Congreso de la República legislara sobre los temas urgentes y así garantizar la protección de derechos fundamentales.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Decree 4975 of December 23, 2009, by which the President of Colombia declared a state of social emergency in the health sector. The Court found the decree unconstitutional, determining that the circumstances cited by the Government did not justify the emergency declaration, and that the adopted measures were disproportionate and violated core constitutional principles. As a result, the Court declared the decree and several related legislative decrees unconstitutional. However, to prevent more severe harm to constitutional rights, the Court decided to modulate the effects of its decision over time, especially concerning tax-related measures. This modulation aimed to give Congress time to legislate on urgent issues and ensure protection of fundamental rights."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JUAN CARLOS HENAO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [48, 49, 209, 215, 287, 356, 357],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {"name": "", "affiliation": "Secretaría Jurídica de la Presidencia de la República"},
+    {"name": "", "affiliation": "Ministerio del Interior y de Justicia"},
+    {"name": "", "affiliation": "Ministerio de Hacienda y Crédito Público"},
+    {"name": "", "affiliation": "Ministerio de la Protección Social"},
+    {"name": "", "affiliation": "Asociación Nacional de Cajas de Compensación Familiar"},
+    {"name": "", "affiliation": "Ecoopsos"},
+    {"name": "", "affiliation": "Gestarsalud"},
+    {"name": "", "affiliation": "Asociación Mutual La Esperanza"},
+    {"name": "", "affiliation": "Asociación Colombiana de Sociedades Científicas"},
+    {"name": "", "affiliation": "Asociación Colombiana de Empresas de Medicina Integral"},
+    {"name": "", "affiliation": "Comisión Colombiana de Juristas"},
+    {"name": "", "affiliation": "Dejusticia"},
+    {"name": "", "affiliation": "Federación Colombiana de Municipios"},
+    {"name": "", "affiliation": "Universidad Nacional de Colombia"},
+    {"name": "", "affiliation": "Universidad la Gran Colombia"},
+    {"name": "", "affiliation": "Universidad Pontificia Javeriana"},
+    {"name": "", "affiliation": "Colegio Médico de Cundinamarca"},
+    {"name": "", "affiliation": "Federación Nacional de Personeros de Colombia"},
+    {"name": "", "affiliation": "Asociación Nacional de Servidores Públicos de la Defensoría del Pueblo"},
+    {"name": "", "affiliation": "Asociación de Abogados Laboralistas de Trabajadores"},
+    {"name": "", "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo"},
+    {"name": "", "affiliation": "Asociación Salud al Derecho"},
+    {"name": "", "affiliation": "Asociación Colombiana de Endocrinología Pediátrica"},
+    {"name": "", "affiliation": "Federación Médica Colombiana"},
+    {"name": "", "affiliation": "Asociación Colombiana de Empresas Sociales del Estado y Hospitales Públicos"},
+    {"name": "", "affiliation": "Fundación Fondo de Droga para el Cáncer FUNCANCER"},
+    {"name": "", "affiliation": "Asociación de Usuarios y Familiares de pacientes del Instituto Nacional de Cancerología"},
+    {"name": "", "affiliation": "Sociedad Colombiana de Cardiología y Cirugía Cardiovascular"},
+    {"name": "", "affiliation": "Fundación Esperanza Viva"},
+    {"name": "", "affiliation": "Sanar Seccional Bucaramanga"},
+    {"name": "", "affiliation": "Fundación Red de Apoyo Social de Antioquia RASA"},
+    {"name": "", "affiliation": "Liga Colombiana de Lucha contra el Sida Seccional Santander"},
+    {"name": "", "affiliation": "Fundación María José Pequeños y Grandes Héroes"},
+    {"name": "", "affiliation": "Fundación de Apoyo y Acompañamiento a Personas Cáncer de Mama"},
+    {"name": "José Gregorio Hernández Galindo", "affiliation": ""},
+    {"name": "Eduardo Cifuentes Muñoz", "affiliation": ""},
+    {"name": "Juan Camilo Restrepo Salazar", "affiliation": ""},
+    {"name": "Iván Cepeda Castro", "affiliation": ""},
+    {"name": "Rodrigo Lara Restrepo", "affiliation": ""},
+    {"name": "", "affiliation": "Asociación Nacional de Afiliados a las Cajas de Compensación Familiar"},
+    {"name": "", "affiliation": "CUT Subdirectiva Boyacá"},
+    {"name": "", "affiliation": "Confederación General del Trabajo"},
+    {"name": "", "affiliation": "Sindicato Nacional de Trabajadores del ISS"},
+    {"name": "Camilo Sánchez Ortega", "affiliation": ""}
+  ],
+  "id": "C-252-10",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2010/C-252-10.htm"
+}

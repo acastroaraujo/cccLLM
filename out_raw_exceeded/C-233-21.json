@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el artículo 106 de la Ley 599 de 2000, que tipifica el delito de homicidio por piedad. La demanda alegaba que esta norma vulnera la dignidad humana al penalizar conductas motivadas por el deseo de aliviar el sufrimiento de personas con enfermedades graves e incurables. Sin embargo, la Corte consideró que ya existía cosa juzgada material, dado que el contenido normativo de esta disposición fue analizado previamente en la Sentencia C-239 de 1997, donde se estudió el artículo 326 del antiguo Código Penal, con contenido sustancialmente idéntico. A pesar de ello, la Corte decidió emitir un nuevo pronunciamiento sobre la base de una evolución en la interpretación constitucional sobre la dignidad humana y el contexto normativo. La Corte declaró la exequibilidad condicionada del artículo, estableciendo que no se incurre en delito cuando la conducta se realiza con el consentimiento libre, informado e inequívoco de la persona afectada, diagnosticada con enfermedad grave e incurable que le cause intenso sufrimiento.",
+    "english": "The Constitutional Court reviewed a constitutional challenge against Article 106 of Law 599 of 2000, which defines the crime of euthanasia. The plaintiffs argued that the provision violates human dignity by criminalizing actions motivated by the intent to alleviate the suffering of individuals with serious and incurable illnesses. The Court found that there was already material res judicata, since this normative content had been reviewed in Ruling C-239 of 1997, which addressed Article 326 of the previous Penal Code with substantially identical content. However, the Court proceeded with a new ruling due to an evolved understanding of constitutional principles regarding human dignity and a changed normative context. The Court conditionally upheld the constitutionality of the provision, stating that it is not a crime if the act is carried out with the free, informed, and unequivocal consent of the affected person, diagnosed with a serious and incurable illness causing intense suffering."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE ENRIQUE IBÁÑEZ NAJAR",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "PAOLA ANDREA MENESES MOSQUERA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [243, 241, 228],
+  "rj": "sí",
+  "rj_citation_raw": ["C-239-97"],
+  "amicus": [
+    { "name": "Colegio Médico Colombiano", "affiliation": "" },
+    { "name": "Departamento de Medicina Interna", "affiliation": "Universidad Nacional de Colombia" },
+    { "name": "División Ciencias de la Salud", "affiliation": "Universidad del Norte" },
+    { "name": "Escuela de Medicina y Ciencias de la Salud", "affiliation": "Universidad del Rosario" },
+    { "name": "Departamento de Derecho Penal y Criminología", "affiliation": "Universidad Externado" },
+    { "name": "Ministerio de Justicia y del Derecho", "affiliation": "" },
+    { "name": "Superintendencia Nacional de Salud", "affiliation": "" },
+    { "name": "Ministerio de Salud y Protección Social", "affiliation": "" },
+    { "name": "Fundación Colombiana de Ética y Bioética (FUCEB)", "affiliation": "" },
+    { "name": "Grupo de Litigio Estratégico Carlos Gaviria Díaz", "affiliation": "Universidad Industrial de Santander" },
+    { "name": "Fundación Pro Derecho a Morir Dignamente", "affiliation": "" }
+  ],
+  "id": "C-233-21",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2021/C-233-21.htm"
+}

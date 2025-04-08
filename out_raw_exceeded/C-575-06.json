@@ -1,0 +1,139 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-575 de 2006 estudió la constitucionalidad de varios artículos de la Ley 975 de 2005, también conocida como la Ley de Justicia y Paz, la cual regula los mecanismos de desmovilización de grupos armados ilegales. Los demandantes argumentaban que esta ley debía tramitarse como ley estatutaria por tratar derechos fundamentales de las víctimas y crear mecanismos de justicia transicional. La Corte analizó si esta regulación afectaba el núcleo esencial de tales derechos. Encontró que en relación con varios artículos ya se había pronunciado previamente, configurándose el fenómeno de cosa juzgada constitucional (particularmente en las sentencias C-319 y C-370 de 2006). Además, hubo inhibición sobre algunos cargos por ineptitud sustancial de la demanda. La Corte reafirmó la validez de las disposiciones previamente avaladas y realizó un análisis sobre el principio de distinción del Derecho Internacional Humanitario, concluyendo que no se vulnera al otorgar el estatus de víctimas a miembros de la fuerza pública.",
+    "english": "Ruling C-575 of 2006 reviewed the constitutionality of several articles of Law 975 of 2005, known as the Justice and Peace Law, which governs the demobilization mechanisms of illegal armed groups. The plaintiffs argued that this law should have followed the procedure of a statutory law due to its impact on victims' fundamental rights and the creation of transitional justice mechanisms. The Court examined whether these regulations affected the essential core of such rights and found that several of the challenged articles were already ruled upon in prior decisions, establishing the res judicata doctrine (specifically in rulings C-319 and C-370 of 2006). Additionally, the Court dismissed some allegations due to substantial deficiencies in the complaints. It upheld the validity of provisions already declared constitutional and analyzed the principle of distinction in International Humanitarian Law, concluding that assigning victim status to public force members did not violate it."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 7, 13, 29, 34, 38, 40, 44, 73, 93, 95, 150, 152, 153, 250, 267, 348],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-319 de 2006",
+    "C-370 de 2006"
+  ],
+  "amicus": [
+    {
+      "name": "Comisión Internacional de Juristas",
+      "affiliation": ""
+    },
+    {
+      "name": "Centro para la Justicia y el Derecho Internacional (CEJIL)",
+      "affiliation": ""
+    },
+    {
+      "name": "Clínica de Derechos Humanos Allard K. Lowenstein",
+      "affiliation": "Yale Law School"
+    },
+    {
+      "name": "Grupo de Abogados de Derechos Humanos Internacionales",
+      "affiliation": "SHIRG"
+    },
+    {
+      "name": "Bar Human Rights Committee",
+      "affiliation": "BHRC"
+    },
+    {
+      "name": "Ministerio del Interior y de Justicia",
+      "affiliation": ""
+    },
+    {
+      "name": "Ministerio de Defensa Nacional",
+      "affiliation": ""
+    },
+    {
+      "name": "Fiscalía General de la Nación",
+      "affiliation": ""
+    },
+    {
+      "name": "Instituto Latinoamericano de Servicios Legales Alternativos",
+      "affiliation": "ILSA"
+    },
+    {
+      "name": "Corporación Colectivo de Abogados",
+      "affiliation": ""
+    },
+    {
+      "name": "Universidad Sergio Arboleda",
+      "affiliation": ""
+    },
+    {
+      "name": "Karol Patricia Cotes Cantillo",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-575-06",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2006/C-575-06.htm"
+}

@@ -1,0 +1,118 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional examinó la constitucionalidad del Decreto Legislativo 1085 de 2023, expedido en el marco del estado de emergencia económica, social y ecológica declarado por el Gobierno Nacional con motivo de la crisis humanitaria causada por el fenómeno de El Niño y la escasez de agua. La Corte concluyó que el decreto no superaba adecuadamente el juicio de insuficiencia de medidas ordinarias, razón por la cual lo declaró inexequible. Sin embargo, para mitigar los efectos negativos de una derogación inmediata de las medidas adoptadas, concedió efectos diferidos al fallo, permitiendo que estas se mantuvieran temporalmente en vigor. Algunos magistrados también manifestaron que el decreto incumplía el requisito de sobreviniencia, al no probarse suficientemente el carácter súbito e imprevisible de la crisis que pretendía justificar el uso del estado de excepción.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Decree 1085 of 2023, issued during a state of economic, social, and ecological emergency declared by the National Government due to the humanitarian crisis caused by the El Niño phenomenon and water scarcity. The Court found that the decree did not adequately meet the test of the insufficiency of ordinary measures and therefore declared it unconstitutional. However, to avoid abrupt negative consequences from an immediate repeal of the measures adopted, the Court granted deferred effects to the ruling, allowing the measures to remain temporarily in effect. Some justices also argued that the decree failed to meet the requirement of supervenience, as the sudden and unforeseeable nature of the crisis was not sufficiently proven."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Natalia Ángel Cabo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Cortés González",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Paola Andrea Meneses Mosquera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [56, 113, 154, 163, 189, 209, 215, 241, 288, 346, 347, 366, 370],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "Gustavo Petro Urrego", "affiliation": "Presidencia de la República" },
+    { "name": "Diala Wilches", "affiliation": "Gobernación de La Guajira" },
+    { "name": "Jorge Iván González", "affiliation": "Departamento Nacional de Planeación (DNP)" },
+    { "name": "Samuel Lanao Robles", "affiliation": "Corpoguajira" },
+    { "name": "Carlos Ernesto Camargo Assis", "affiliation": "Defensoría del Pueblo" },
+    { "name": "Ruth Chaparro", "affiliation": "Veeduría Ciudadana a la Sentencia T-302 de 2017" },
+    { "name": "Rosa Peña", "affiliation": "Asociación Interamericana para la Defensa del Ambiente (AIDA)" },
+    { "name": "Claudia Rodríguez", "affiliation": "Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA)" },
+    { "name": "Marcos Jayariyu", "affiliation": "Autoridad tradicional Wayúu" },
+    { "name": "Luis Fernando Hernández", "affiliation": "Autoridad tradicional Wayúu" },
+    { "name": "María Luisa Ruíz", "affiliation": "Mesa de Diálogo y Concertación para el pueblo Wayúu" },
+    { "name": "Ian Fry", "affiliation": "Relator Especial de la ONU sobre cambio climático" },
+    { "name": "Gabrielle Dreyfus", "affiliation": "Institute for Governance and Sustainable Development" },
+    { "name": "Ghisliane Echeverry Prieto", "affiliation": "IDEAM" },
+    { "name": "Paola Andrea Arias", "affiliation": "Universidad de Antioquia" },
+    { "name": "Catalina González Arango", "affiliation": "Universidad de los Andes" },
+    { "name": "Martha Ligia Castellano", "affiliation": "Universidad de La Guajira" },
+    { "name": "Alexis Carabalí Angola", "affiliation": "Universidad de La Guajira" },
+    { "name": "Tomás González", "affiliation": "Centro Regional de Estudios de Energía" },
+    { "name": "Olmedo López Martínez", "affiliation": "Unidad para la Gestión del Riesgo de Desastres" },
+    { "name": "Astrid Eliana Cáceres Cárdenas", "affiliation": "ICBF" },
+    { "name": "María Susana Muhamad", "affiliation": "Ministerio de Ambiente y Desarrollo Sostenible" },
+    { "name": "Guillermo Alfonso Jaramillo", "affiliation": "Ministerio de Salud y Protección Social" },
+    { "name": "Catalina Velasco Campuzano", "affiliation": "Ministerio de Vivienda, Ciudad y Territorio" },
+    { "name": "Dagoberto Quiroga", "affiliation": "Superintendencia de Servicios Públicos Domiciliarios" },
+    { "name": "Soledad García Muñoz", "affiliation": "CIDH" },
+    { "name": "Humberto Sierra Porto", "affiliation": "Universidad Externado de Colombia" },
+    { "name": "Diana Esther Guzmán", "affiliation": "Centro de Estudios de Derecho y Sociedad (Dejusticia)" },
+    { "name": "Camilo Niño Izquierdo", "affiliation": "Comisión Nacional de Territorios Indígenas" },
+    { "name": "Gloria Amparo Rodríguez", "affiliation": "Jurisdicción Especial para la Paz" }
+  ],
+  "id": "C-383-23",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2023/C-383-23.htm"
+}

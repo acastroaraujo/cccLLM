@@ -31,17 +31,41 @@ If you don't know where this file is located, you can use the following function
 usethis::edit_r_environ(scope = "user")
 ```
 
-## JSON Schema
+## Structured Output
 
-Add here...
+The JSON schema I used was constructed using the ellmer package in R.
 
-## Manual Coding of Files
+See [here](https://acastroaraujo.github.io/blog/posts/2025-03-17-llms-for-researchers/#structured-output) for more information on the "structured output" capabilities of some LLMs.
 
-Add here...
+You can find both the system prompt and JSON schema in the `prompts` directory.
 
-Some documents exceed the maximum context length of 128000 tokens.
+```{r}
+source("prompts/ruling_summary.R")
+ruling_summary
+```
 
-These documents were manually coding (with the exception of the English and Spanish summaries) and can be found in the `manual` directory.
+## Example
+
+```{r}
+out <- readRDS("out_raw/C-1060A-01_gpt.rds")
+out
+```
+
+## Manual Coding of Very Large Files
+
+Some documents exceed the maximum context length of 128000 tokens. This means I couldn't parse them in the same ways as the others.
+
+These documents were manually coded, with the exception of the English and Spanish summaries which were written using the file upload option in the OpenAI platform.
+
+They can be found in the `out_raw_exceeded` directory.
+
+```{r}
+length(dir("out_raw_exceeded"))
+```
+
+There is a higher chance that the somes fields here — e.g., `articles` and `amicus` — are miscoded.
+
+*In sum, working with the document embeddings provided by OpenAI's RAG system produce very unreliable results.*
 
 ## Codebook
 
@@ -108,15 +132,3 @@ These documents were manually coding (with the exception of the English and Span
 11. `rj_citation:` Standardized list of rulings cited as binding.
 
     [For example: *T-406-92, C-225-95*]{style="font-size: 0.8em;"}
-
-## Example
-
-```{r}
-out <- readRDS("old_out_raw/C-1060A-01_gpt.rds")
-out$id
-out$url
-out$chamber
-out$person
-cat(stringr::str_wrap(out$summary$en))
-cat(stringr::str_wrap(out$summary$es))
-```

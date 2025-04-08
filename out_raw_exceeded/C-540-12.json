@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional de Colombia, en la Sentencia C-540 de 2012, revisó la constitucionalidad de la Ley 1482 de 2011, cuyo propósito era establecer sanciones penales para prevenir y sancionar actos de discriminación por motivos de raza, etnia, religión, nacionalidad, ideología política o filosófica, sexo u orientación sexual. La Corte declaró la exequibilidad de la mayoría de los artículos de la ley, considerando que estas medidas eran compatibles con los valores constitucionales de igualdad, dignidad humana y no discriminación. Sin embargo, la Corte condicionó la exequibilidad de algunas disposiciones para evitar interpretaciones que vulneraran los derechos fundamentales a la libertad de expresión y de información. En consecuencia, el fallo precisó que la ley debía aplicarse de forma que garantizara un equilibrio entre la protección contra la discriminación y el respeto por las libertades constitucionales.",
+    "english": "In ruling C-540 of 2012, the Constitutional Court of Colombia reviewed the constitutionality of Law 1482 of 2011, which aimed to establish criminal sanctions to prevent and punish acts of discrimination based on race, ethnicity, religion, nationality, political or philosophical ideology, sex, or sexual orientation. The Court upheld most of the law’s provisions, finding them consistent with constitutional values of equality, human dignity, and non-discrimination. However, it imposed conditions on the constitutionality of some provisions to avoid infringing upon fundamental rights to freedom of expression and information. The Court ruled that the law must be applied in a way that balances protection against discrimination with the safeguarding of constitutional liberties."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ADRIANA MARÍA GUILLEN ARANGO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 20, 29, 30, 33, 34, 40, 49, 152, 153, 157, 160, 161, 189, 241, 330],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "", "affiliation": "Corte Suprema de Justicia" },
+    { "name": "", "affiliation": "Consejo de Estado" },
+    { "name": "", "affiliation": "Fiscalía General de la Nación" },
+    { "name": "", "affiliation": "Defensoría del Pueblo" },
+    { "name": "", "affiliation": "Comandante General de las Fuerzas Militares de Colombia" },
+    { "name": "", "affiliation": "Director General de la Policía Nacional" },
+    { "name": "", "affiliation": "Comandante del Ejército Nacional" },
+    { "name": "", "affiliation": "Comandante de la Fuerza Aérea colombiana" },
+    { "name": "", "affiliation": "Comandante de la Armada Nacional de Colombia" },
+    { "name": "", "affiliation": "Oficina en Colombia del Alto Comisionado de las Naciones Unidas para los Derechos Humanos" },
+    { "name": "", "affiliation": "Amnistía Internacional" },
+    { "name": "", "affiliation": "Human Rights Watch" },
+    { "name": "", "affiliation": "Comisión Internacional de Juristas" },
+    { "name": "", "affiliation": "Corporación Excelencia en la Justicia" },
+    { "name": "", "affiliation": "Colegio de Jueces y Fiscales de Bogotá" },
+    { "name": "", "affiliation": "Central Unitaria de Trabajadores" },
+    { "name": "", "affiliation": "Confederación General del Trabajo" },
+    { "name": "", "affiliation": "Dejusticia" },
+    { "name": "", "affiliation": "Comisión Colombiana de Juristas" },
+    { "name": "", "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo" },
+    { "name": "", "affiliation": "Instituto Latinoamericano de Servicios Legales Alternativos — ILSA" },
+    { "name": "", "affiliation": "Asociación Nacional de Medios de Comunicación — ASOMEDIOS" },
+    { "name": "", "affiliation": "Asociación Colombiana de Periodistas — ACP" },
+    { "name": "", "affiliation": "Sociedad Interamericana de Prensa" },
+    { "name": "", "affiliation": "Fundación para la Libertad de Prensa — FLIP" },
+    { "name": "", "affiliation": "Federación Colombiana de Municipios" },
+    { "name": "", "affiliation": "Departamento Administrativo de Seguridad — DAS" },
+    { "name": "", "affiliation": "Federación Nacional de Departamentos" },
+    { "name": "", "affiliation": "Unidad de Información y Análisis Financiero — UIAF" },
+    { "name": "", "affiliation": "Departamento Administrativo de la Función Pública" },
+    { "name": "", "affiliation": "Universidad Nacional" },
+    { "name": "", "affiliation": "Universidad de los Andes" },
+    { "name": "", "affiliation": "Universidad de Antioquia" },
+    { "name": "", "affiliation": "Universidad Externado de Colombia" },
+    { "name": "", "affiliation": "Universidad Libre de Colombia" },
+    { "name": "", "affiliation": "Universidad Javeriana" },
+    { "name": "", "affiliation": "Universidad Santo Tomás" },
+    { "name": "", "affiliation": "Universidad Sergio Arboleda" },
+    { "name": "", "affiliation": "Colegio Mayor de Nuestra Señora del Rosario" },
+    { "name": "", "affiliation": "Universidad del Valle" },
+    { "name": "", "affiliation": "Universidad de Nariño" },
+    { "name": "", "affiliation": "Universidad Militar Nueva Granada" },
+    { "name": "", "affiliation": "Universidad EAFIT de Medellín" },
+    { "name": "", "affiliation": "Universidad del Norte de Barranquilla" }
+  ],
+  "id": "C-540-12",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2012/C-540-12.htm"
+}

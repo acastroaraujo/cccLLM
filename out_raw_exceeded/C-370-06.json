@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad de la Ley 975 de 2005, conocida como Ley de Justicia y Paz, la cual fue promulgada como parte del proceso de desmovilización de grupos armados ilegales en Colombia. La sentencia resolvió múltiples demandas que cuestionaban tanto aspectos sustantivos como formales de la ley, particularmente en lo relacionado con los derechos de las víctimas a la verdad, justicia y reparación, y las obligaciones del Estado colombiano conforme al derecho internacional. La Corte declaró la exequibilidad de la mayoría de los artículos, pero declaró inexequibles los artículos 70 y 71 por vicios de procedimiento en su formación. También se reiteró que la Ley no constituía una ley de amnistía o indulto. El fallo generó varios salvamentos y aclaraciones de voto.",
+    "english": "The Constitutional Court reviewed the constitutionality of Law 975 of 2005, known as the Justice and Peace Law, enacted in the context of the demobilization of illegal armed groups in Colombia. The ruling addressed numerous claims challenging both substantive and procedural aspects of the law, especially regarding the rights of victims to truth, justice, and reparation, and Colombia’s obligations under international law. The Court upheld most of the law but declared Articles 70 and 71 unconstitutional due to procedural flaws. It also emphasized that the law did not grant amnesty or pardons. The ruling was accompanied by several dissenting and concurring opinions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAUJO RENTERÍA",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO SIERRA PORTO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 22, 29, 86, 88, 95, 150, 151, 152, 153, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 177, 180, 201, 228, 229, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Luis Hernando Angarita Figueredo",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "Juan Méndez",
+      "affiliation": "Centro Internacional por la Justicia Transicional"
+    },
+    {
+      "name": "Eduardo González",
+      "affiliation": "Centro Internacional por la Justicia Transicional"
+    },
+    {
+      "name": "Leonardo G. Filippini",
+      "affiliation": "Centro Internacional por la Justicia Transicional"
+    },
+    {
+      "name": "Catalina Díaz",
+      "affiliation": "Centro Internacional por la Justicia Transicional"
+    },
+    {
+      "name": "Comisión Internacional de Juristas",
+      "affiliation": ""
+    },
+    {
+      "name": "Sarah Lucy Cooper",
+      "affiliation": "Bar Human Rights Committee"
+    },
+    {
+      "name": "Guy Ryder",
+      "affiliation": "Confederación Internacional de Organizaciones Sindicales Libres"
+    },
+    {
+      "name": "Guillermo Otálora Lozano",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-370-06",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2006/C-370-06.htm"
+}

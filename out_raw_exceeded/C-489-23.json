@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra la Ley 2277 de 2022, particularmente frente a la supuesta inconstitucionalidad de su trámite legislativo por falta de cumplimiento del principio de publicidad. Los demandantes alegaban que el texto aprobado en comisiones económicas conjuntas no fue debidamente divulgado antes del debate en la plenaria de la Cámara de Representantes. La Corte analizó la aplicación del principio de publicidad y las reglas de procedimiento legislativo, concluyendo que, a pesar de las deficiencias señaladas, no se configuró una violación sustancial del procedimiento que afectara la validez de la ley. En consecuencia, la Corte declaró exequible la Ley 2277 de 2022 por los cargos analizados.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against Law 2277 of 2022, specifically regarding alleged violations of the legislative procedure due to lack of transparency. The plaintiffs argued that the text approved by the joint economic committees was not properly published before the debate in the House of Representatives plenary session. The Court examined the principle of publicity and the legislative procedure rules, concluding that despite the alleged deficiencies, there was no substantial procedural violation that invalidated the law. Therefore, the Court upheld the constitutionality of Law 2277 of 2022 with regard to the issues raised."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Natalia Ángel Cabo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Cortés González",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Enrique Ibáñez Najar",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jose Fernando Reyes Cuartas",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 6, 13, 46, 80, 95, 102, 150, 228, 332, 338, 359, 360, 361, 362, 363],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Dirección de Impuestos y Aduanas Nacionales — DIAN"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Minas y Energía"
+    },
+    {
+      "name": "",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Agencia Nacional de Defensa Jurídica del Estado"
+    },
+    {
+      "name": "Alfredo Lewin Figueroa",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Empresarios de Colombia — ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Minería — ACM"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana del Petróleo y Gas — ACP"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto de Ciencia Política — ICP"
+    },
+    {
+      "name": "Mauricio Piñeros Perdomo",
+      "affiliation": ""
+    },
+    {
+      "name": "Harold Eduardo Sua Montaña",
+      "affiliation": ""
+    },
+    {
+      "name": "José Alejandro Herrera Carvajal",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Jaime Salgar Vegalara",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-489-23",
+  "url": "https://www.corteconstitucional.gov.co/Relatoria/2023/C-489-23.htm"
+}

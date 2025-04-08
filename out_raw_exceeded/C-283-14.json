@@ -1,0 +1,236 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió la demanda de inconstitucionalidad contra el artículo 1º de la Ley 1638 de 2013, que prohíbe el uso de animales silvestres, nativos o exóticos en circos fijos e itinerantes. El demandante alegaba que dicha prohibición vulneraba la libertad de expresión artística y cultural, el derecho al trabajo y la igualdad. La Corte, sin embargo, concluyó que la norma es exequible, es decir, compatible con la Constitución. Consideró que el legislador actuó dentro de su margen de configuración normativa y que la medida es razonable y proporcionada en tanto busca proteger el bienestar animal y responde a transformaciones sociales que exigen una mayor protección de los animales. Asimismo, la Corte sostuvo que la norma no implica una vulneración de derechos fundamentales y que responde a un interés general.",
+    "english": "The Constitutional Court reviewed a challenge to Article 1 of Law 1638 of 2013, which prohibits the use of wild, native, or exotic animals in fixed or traveling circuses. The plaintiff argued that the prohibition violated freedom of artistic and cultural expression, the right to work, and equality. The Court found the provision constitutional, holding that the legislature acted within its regulatory authority and that the measure is reasonable and proportionate, aimed at protecting animal welfare in response to evolving social standards. The Court concluded that the law does not infringe fundamental rights and serves a legitimate public interest."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 4, 13, 150],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Universidad Mesoamericana de Puebla, Campus Sur México"
+    },
+    {
+      "name": "",
+      "affiliation": "Circo Hermanos Gasca de México"
+    },
+    {
+      "name": "",
+      "affiliation": "Producciones Tequendama PROTEQUEM"
+    },
+    {
+      "name": "Julio Ossa Santamaría",
+      "affiliation": ""
+    },
+    {
+      "name": "Edilma Avendaño",
+      "affiliation": ""
+    },
+    {
+      "name": "Aura Avendaño",
+      "affiliation": ""
+    },
+    {
+      "name": "Jackson Sarmiento",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "Sergio Manzano Macías",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Cirque du Soleil"
+    },
+    {
+      "name": "Juan Fernando Cristo Bustos",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Camilo Sánchez Ortega",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Defensa Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Concejo de Medellín"
+    },
+    {
+      "name": "",
+      "affiliation": "Concejo de Manizales"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Huella de Vida PAZANIMAL"
+    },
+    {
+      "name": "",
+      "affiliation": "Sociedad Protectora de Animales y Medio Ambiente Barranquilla S.P.A."
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Nodo Espacio de Intersubjetivación"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Seres Naturales"
+    },
+    {
+      "name": "",
+      "affiliation": "Chigüiro Estudio"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Defensa Animal"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Cultural Muro de Espuma"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación M.I.A. Para la salud y bienestar animal"
+    },
+    {
+      "name": "",
+      "affiliation": "Teatro Petra"
+    },
+    {
+      "name": "",
+      "affiliation": "Club de Niños Animalistas de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional de Colombia, Facultad de Artes"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional de Colombia, Escuela de Arquitectura y Urbanismo"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana, Instituto de Bioética"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana, Departamento de Ecología y Territorio"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Antioquia, Facultad de Derecho y Ciencias Políticas"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Santo Tomás, Facultad de Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Santo Tomás, Facultad de Ingeniería Ambiental"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario, Facultad de Jurisprudencia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda, Escuela de Ciencias Exactas e Ingenierías"
+    },
+    {
+      "name": "Diego López Medina",
+      "affiliation": ""
+    },
+    {
+      "name": "Clara Patricia Reyes",
+      "affiliation": ""
+    },
+    {
+      "name": "Paola Marrugo García",
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia Romero",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-283-14",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2014/C-283-14.htm"
+}

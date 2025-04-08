@@ -19,18 +19,191 @@ function:
 
     usethis::edit_r_environ(scope = "user")
 
-## JSON Schema
+## Structured Output
 
-Add here…
+The JSON schema I used was constructed using the ellmer package in R.
 
-## Manual Coding of Files
+See
+[here](https://acastroaraujo.github.io/blog/posts/2025-03-17-llms-for-researchers/#structured-output)
+for more information on the “structured output” capabilities of some
+LLMs.
 
-Add here…
+You can find both the system prompt and JSON schema in the `prompts`
+directory.
 
-Some documents exceed the maximum context length of 128000 tokens.
+``` r
+source("prompts/ruling_summary.R")
+ruling_summary
+#> <ellmer::TypeObject>
+#>  @ description          : chr "Información de la sentencia."
+#>  @ required             : logi TRUE
+#>  @ properties           :List of 7
+#>  .. $ summary        : <ellmer::TypeObject>
+#>  ..  ..@ description          : chr "Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la Corte."
+#>  ..  ..@ required             : logi TRUE
+#>  ..  ..@ properties           :List of 2
+#>  .. .. .. $ spanish: <ellmer::TypeBasic>
+#>  .. .. ..  ..@ description: chr "En español."
+#>  .. .. ..  ..@ required   : logi TRUE
+#>  .. .. ..  ..@ type       : chr "string"
+#>  .. .. .. $ english: <ellmer::TypeBasic>
+#>  .. .. ..  ..@ description: chr "In English."
+#>  .. .. ..  ..@ required   : logi TRUE
+#>  .. .. ..  ..@ type       : chr "string"
+#>  ..  ..@ additional_properties: logi FALSE
+#>  .. $ chamber_raw    : <ellmer::TypeBasic>
+#>  ..  ..@ description: chr "Nombre de la sala, en caso de que la información sea explícita."
+#>  ..  ..@ required   : logi FALSE
+#>  ..  ..@ type       : chr "string"
+#>  .. $ person         : <ellmer::TypeArray>
+#>  ..  ..@ description: chr "Información sobre los magistrados que firmaron la sentencia. El secretario general está excluído de esta lista."
+#>  ..  ..@ required   : logi TRUE
+#>  ..  ..@ items      : <ellmer::TypeObject>
+#>  .. .. .. @ description          : NULL
+#>  .. .. .. @ required             : logi TRUE
+#>  .. .. .. @ properties           :List of 6
+#>  .. .. .. .. $ name   : <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Nombre."
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "string"
+#>  .. .. .. .. $ av     : <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Incluye aclaración de voto?"
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "boolean"
+#>  .. .. .. .. $ sv     : <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Incluye salvamento de voto?"
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "boolean"
+#>  .. .. .. .. $ mp     : <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Es el magistrado ponente?"
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "boolean"
+#>  .. .. .. .. $ interim: <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Es magistrado encargado?"
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "boolean"
+#>  .. .. .. .. $ conjuez: <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Es conjuez?"
+#>  .. .. .. ..  ..@ required   : logi TRUE
+#>  .. .. .. ..  ..@ type       : chr "boolean"
+#>  .. .. .. @ additional_properties: logi FALSE
+#>  .. $ articles       : <ellmer::TypeArray>
+#>  ..  ..@ description: chr "Lista de artículos de la Constitución (o \"Carta Política\") que son mencionadas por número en la sentencia de "| __truncated__
+#>  ..  ..@ required   : logi FALSE
+#>  ..  ..@ items      : <ellmer::TypeBasic>
+#>  .. .. .. @ description: NULL
+#>  .. .. .. @ required   : logi TRUE
+#>  .. .. .. @ type       : chr "integer"
+#>  .. $ rj             : <ellmer::TypeEnum>
+#>  ..  ..@ description: chr "Indica si la decisión se fundamenta en cosa juzgada, es decir, si ya ha sido resuelta previamente por la Corte "| __truncated__
+#>  ..  ..@ required   : logi FALSE
+#>  ..  ..@ values     : chr [1:3] "sí" "no" "parcial"
+#>  .. $ rj_citation_raw: <ellmer::TypeArray>
+#>  ..  ..@ description: chr "Lista de sentencias previas que llevaron a la Corte a decidir que el caso es \"cosa juzgada\". Las sentencias q"| __truncated__
+#>  ..  ..@ required   : logi FALSE
+#>  ..  ..@ items      : <ellmer::TypeBasic>
+#>  .. .. .. @ description: chr "Nombre de la sentencia"
+#>  .. .. .. @ required   : logi TRUE
+#>  .. .. .. @ type       : chr "string"
+#>  .. $ amicus         : <ellmer::TypeArray>
+#>  ..  ..@ description: chr "Información sobre intervinientes en calidad de \"amicus curiae\" en el proceso. Esta lista puede incluir person"| __truncated__
+#>  ..  ..@ required   : logi FALSE
+#>  ..  ..@ items      : <ellmer::TypeObject>
+#>  .. .. .. @ description          : NULL
+#>  .. .. .. @ required             : logi TRUE
+#>  .. .. .. @ properties           :List of 2
+#>  .. .. .. .. $ name       : <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Nombre del interviniente, en caso de que la información sea explícita."
+#>  .. .. .. ..  ..@ required   : logi FALSE
+#>  .. .. .. ..  ..@ type       : chr "string"
+#>  .. .. .. .. $ affiliation: <ellmer::TypeBasic>
+#>  .. .. .. ..  ..@ description: chr "Organización a la cual pertenece el interviniente. Si el interviniente no pertence a ninguna organización su af"| __truncated__
+#>  .. .. .. ..  ..@ required   : logi FALSE
+#>  .. .. .. ..  ..@ type       : chr "string"
+#>  .. .. .. @ additional_properties: logi FALSE
+#>  @ additional_properties: logi FALSE
+```
 
-These documents were manually coding (with the exception of the English
-and Spanish summaries) and can be found in the `manual` directory.
+## Example
+
+``` r
+out <- readRDS("out_raw/C-1060A-01_gpt.rds")
+out
+#> $summary
+#> $summary$spanish
+#> [1] "La Corte Constitucional de Colombia revisó la constitucionalidad del artículo 206, numeral 7, del Estatuto Tributario y el artículo 20 de la Ley 488 de 1998, que eximían del impuesto sobre la renta a ciertos altos funcionarios públicos por los gastos de representación, considerando estos como el 50% de sus salarios. La demandante, María Lugari Castrillón, argumentó que estas disposiciones violaban los principios constitucionales de igualdad, equidad y progresividad, ya que otorgaban un privilegio injustificado a funcionarios con altos ingresos. La Corte encontró que estas exenciones eran inconstitucionales porque rompían con los principios de equidad y progresividad del sistema tributario, al otorgar un trato preferencial a ciertos funcionarios sin una justificación razonable. La Corte declaró inexequible el numeral 7 del artículo 206 del Estatuto Tributario, tal como fue modificado por el artículo 20 de la Ley 488 de 1998."
+#> 
+#> $summary$english
+#> [1] "The Constitutional Court of Colombia reviewed the constitutionality of Article 206, numeral 7, of the Tax Statute and Article 20 of Law 488 of 1998, which exempted certain high-ranking public officials from income tax for representation expenses, considering these as 50% of their salaries. The plaintiff, María Lugari Castrillón, argued that these provisions violated the constitutional principles of equality, equity, and progressivity, as they granted an unjustified privilege to officials with high incomes. The Court found these exemptions unconstitutional because they violated the principles of equity and progressivity of the tax system by granting preferential treatment to certain officials without reasonable justification. The Court declared numeral 7 of Article 206 of the Tax Statute, as amended by Article 20 of Law 488 of 1998, unconstitutional."
+#> 
+#> 
+#> $chamber_raw
+#> [1] "Sala Plena de conjueces"
+#> 
+#> $person
+#>                            name    av    sv    mp interim conjuez
+#> 1        Ramiro Bejarano Guzmán FALSE FALSE FALSE   FALSE    TRUE
+#> 2         Lucy Cruz de Quiñones FALSE FALSE  TRUE   FALSE    TRUE
+#> 3 Hernán Guillermo Aldana Duque FALSE FALSE FALSE   FALSE    TRUE
+#> 4     Juan Manuel Charry Urueña FALSE FALSE FALSE   FALSE    TRUE
+#> 5         Pedro Lafontt Pianeta FALSE  TRUE FALSE   FALSE    TRUE
+#> 6       Susana Montes Echeverri FALSE FALSE FALSE   FALSE    TRUE
+#> 7           Jairo Parra Quijano FALSE  TRUE FALSE   FALSE    TRUE
+#> 8         Humberto Sierra Porto FALSE FALSE FALSE   FALSE    TRUE
+#> 9          Gustavo Zafra Roldán FALSE FALSE FALSE   FALSE    TRUE
+#> 
+#> $articles
+#> [1]  13  95 133 154 158 182 183 363
+#> 
+#> $rj
+#> [1] "no"
+#> 
+#> $rj_citation_raw
+#> character(0)
+#> 
+#> $amicus
+#>                         name
+#> 1                       NULL
+#> 2      Alvaro Leyva Zambrano
+#> 3       Jaime Bernal Cuéllar
+#> 4 Eduardo Montealegre Lynett
+#>                                           affiliation
+#> 1 Dirección General de Impuestos y Aduanas Nacionales
+#> 2          Instituto Colombiano de Derecho Tributario
+#> 3                     Procurador General de la Nación
+#> 4                 Viceprocurador General de la Nación
+#> 
+#> $url
+#> [1] "https://www.corteconstitucional.gov.co/relatoria/2001/C-1060A-01.htm"
+#> 
+#> $id
+#> [1] "C-1060A-01"
+#> 
+#> $model
+#> [1] "gpt-4o"
+```
+
+## Manual Coding of Very Large Files
+
+Some documents exceed the maximum context length of 128000 tokens. This
+means I couldn’t parse them in the same ways as the others.
+
+These documents were manually coded, with the exception of the English
+and Spanish summaries which were written using the file upload option in
+the OpenAI platform.
+
+They can be found in the `out_raw_exceeded` directory.
+
+``` r
+length(dir("out_raw_exceeded"))
+#> [1] 59
+```
+
+There is a higher chance that the somes fields here — e.g., `articles`
+and `amicus` — are miscoded.
+
+*In sum, working with the document embeddings provided by OpenAI’s RAG
+system produce very unreliable results.*
 
 ## Codebook
 
@@ -123,59 +296,3 @@ and Spanish summaries) and can be found in the `manual` directory.
 
     <span style="font-size: 0.8em;">For example: *T-406-92,
     C-225-95*</span>
-
-## Example
-
-``` r
-out <- readRDS("old_out_raw/C-1060A-01_gpt.rds")
-out$id
-#> [1] "C-1060A-01"
-out$url
-#> [1] "https://www.corteconstitucional.gov.co/relatoria/2001/C-1060A-01.htm"
-out$chamber
-#> [1] "Sala Plena de Conjueces"
-out$person
-#>                            name    av    sv conjuez    mp
-#> 1        Ramiro Bejarano Guzmán FALSE FALSE    TRUE FALSE
-#> 2         Lucy Cruz de Quiñones FALSE FALSE    TRUE  TRUE
-#> 3 Hernán Guillermo Aldana Duque FALSE FALSE    TRUE FALSE
-#> 4     Juan Manuel Charry Urueña FALSE FALSE    TRUE FALSE
-#> 5         Pedro Lafontt Pianeta FALSE  TRUE    TRUE FALSE
-#> 6       Susana Montes Echeverri FALSE FALSE    TRUE FALSE
-#> 7           Jairo Parra Quijano FALSE  TRUE    TRUE FALSE
-#> 8         Humberto Sierra Porto FALSE FALSE    TRUE FALSE
-#> 9          Gustavo Zafra Roldán FALSE FALSE    TRUE FALSE
-cat(stringr::str_wrap(out$summary$en))
-#> The Colombian Constitutional Court, through its Sala Plena de Conjueces,
-#> declared unconstitutional Article 206, numeral 7 of the Tax Statute, as amended
-#> by Article 20 of Law 488 of 1998. The article in question allowed certain
-#> high-ranking public officials to exempt their representation expenses from
-#> income tax, with representation expenses considered 50% of their salaries. The
-#> court determined that these provisions violated constitutional principles of
-#> equality, tax equity, and progressivity by unjustly privileging high-income
-#> officials with a tax advantage not available to other citizens. The court ruled
-#> that tax exemptions should not undermine the general duty of solidarity and
-#> fiscal responsibility, emphasizing that even individuals in high positions must
-#> contribute to public expenses according to their capacity. The court's decision
-#> underscores the importance of tax justice and equitable treatment across all
-#> citizens, maintaining that exemptions must be justified by relevant social
-#> or economic needs, within the framework established by the Constitution of
-#> Colombia.
-cat(stringr::str_wrap(out$summary$es))
-#> La Corte Constitucional de Colombia, a través de su Sala Plena de Conjueces,
-#> declaró inconstitucional el artículo 206, numeral 7 del Estatuto Tributario,
-#> tal como fue modificado por el artículo 20 de la Ley 488 de 1998. Dicho artículo
-#> permitía que ciertos altos funcionarios públicos eximieran del impuesto sobre
-#> la renta sus gastos de representación, considerándose estos gastos el 50%
-#> de sus salarios. El tribunal determinó que estas disposiciones violan los
-#> principios constitucionales de igualdad, equidad tributaria y progresividad al
-#> privilegiar injustamente a los funcionarios con mayores ingresos, otorgándoles
-#> ventajas fiscales no disponibles para otros ciudadanos. La corte estipuló que
-#> las exenciones fiscales no deben socavar el deber general de solidaridad y
-#> responsabilidad fiscal, enfatizando que incluso las personas en altos cargos
-#> deben contribuir al gasto público conforme a su capacidad. La decisión de
-#> la corte subraya la importancia de la justicia tributaria y el tratamiento
-#> equitativo para todos los ciudadanos, manteniendo que las exenciones deben estar
-#> justificadas por necesidades sociales o económicas relevantes, dentro del marco
-#> constitucional de Colombia.
-```

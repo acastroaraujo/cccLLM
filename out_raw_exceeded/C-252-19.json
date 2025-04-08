@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad del Acuerdo entre Colombia y Francia sobre la promoción y protección recíproca de inversiones, así como su ley aprobatoria. La demanda sostenía que ciertos apartados del Acuerdo eran contrarios a los principios de soberanía nacional, igualdad ante la ley y respeto al derecho interno, en especial en lo relacionado con el trato justo y equitativo, la expropiación indirecta y los mecanismos de solución de controversias inversionista-Estado. La Corte determinó que los artículos demandados eran compatibles con la Constitución, al considerar que no limitaban de manera desproporcionada la soberanía nacional ni el margen de configuración del legislador. No obstante, introdujo condicionamientos interpretativos para asegurar que estos mecanismos respeten el orden constitucional interno, el principio de legalidad y el debido proceso.",
+    "english": "The Constitutional Court reviewed the constitutionality of the Agreement between Colombia and France on the reciprocal promotion and protection of investments, as well as its approving law. The petition argued that certain provisions of the Agreement violated principles of national sovereignty, equality before the law, and respect for domestic law, especially regarding fair and equitable treatment, indirect expropriation, and investor-state dispute settlement mechanisms. The Court held that the challenged provisions were compatible with the Constitution, considering they did not disproportionately limit national sovereignty or the legislator's discretion. However, it imposed interpretive conditions to ensure that these mechanisms respect the domestic constitutional order, the principle of legality, and due process."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CARLOS BERNAL PULIDO",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 9, 58, 150, 226, 227, 228, 230, 234, 241, 333],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Relaciones Exteriores"
+    },
+    {
+      "name": "José Manuel Álvarez Zárate",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Empresarios de Colombia — ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Autónoma de Bucaramanga"
+    },
+    {
+      "name": "Sebastián Mantilla Blanco",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-252-19",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-252-19.htm"
+}

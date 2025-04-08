@@ -1,0 +1,169 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad del artículo 28 del proyecto de ley estatutaria de reforma política, que establecía una cuota mínima del 30% de participación de uno de los géneros en listas para corporaciones públicas cuando se elijan cinco o más curules o en procesos de consulta. Esta medida, considerada una acción afirmativa, buscaba promover la equidad de género y corregir el déficit de participación política de las mujeres. Aunque una norma similar ya había sido declarada inexequible en la sentencia C-371 de 2000, la Corte determinó que no existía cosa juzgada constitucional, pues el marco normativo había cambiado sustancialmente tras las reformas constitucionales de 2003 y 2009 que redujeron la autonomía de los partidos políticos. La Corte declaró exequible la medida, considerando que cumple con los principios de igualdad y equidad establecidos en la Constitución.",
+    "english": "The Constitutional Court reviewed the constitutionality of Article 28 of the statutory political reform bill, which mandated that at least 30% of the candidates on electoral lists for public office (where five or more seats are contested or in referendums) must belong to one gender. This affirmative action aimed to promote gender equality and address the historic underrepresentation of women in politics. Although a similar rule was previously struck down in decision C-371 of 2000, the Court found that res judicata did not apply, since constitutional reforms in 2003 and 2009 significantly changed the legal framework by reducing the autonomy of political parties. The Court upheld the constitutionality of the provision, as it aligns with constitutional principles of equality and fairness."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JUAN CARLOS HENAO PÉREZ",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 40, 43, 57, 107, 108, 109, 152],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Alejandra Barrios Cabrera",
+      "affiliation": "Misión de Observación Electoral"
+    },
+    {
+      "name": "Rodrigo Uprimny Yepes",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Javier Eduardo Revelo",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Diana Esther Guzmán Rodríguez",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Luz Marina Sánchez Duque",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Valentina Montoya Robledo",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Paula Alejandra Rangel Garzón",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Andrés Mauricio Páramo Izquierdo",
+      "affiliation": "DeJusticia"
+    },
+    {
+      "name": "Decano de la Facultad de Derecho",
+      "affiliation": "Universidad de Ibagué"
+    },
+    {
+      "name": "Director de Servicios Públicos",
+      "affiliation": "Red de Veedurías Nacionales"
+    },
+    {
+      "name": "Amparo Torres",
+      "affiliation": "Veeduría Ciudadana Democracia y Transparencia Electoral"
+    },
+    {
+      "name": "Jorge Enrique Robledo Castillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillermo Rivera Flórez",
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel García-Peña",
+      "affiliation": ""
+    },
+    {
+      "name": "Iván Cepeda Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "César Augusto Luque Fandiño",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Fernando Londoño",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Augusto Ramírez Guerrero",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillermo Mejía Mejía",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Orlando Acuña Ruiz",
+      "affiliation": ""
+    },
+    {
+      "name": "Julián Mauricio Ruiz Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "José Manuel Abuchaibe Escolar",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-490-11",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-490-11.htm"
+}
+

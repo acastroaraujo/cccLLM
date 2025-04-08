@@ -1,0 +1,122 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-378 de 2020 revisó la constitucionalidad del Decreto Legislativo 772 de 2020, expedido en el marco del estado de emergencia social, económica y ecológica derivado de la pandemia por COVID-19. Este decreto estableció medidas especiales en materia de procesos de insolvencia con el fin de mitigar los efectos negativos sobre el sector empresarial. La Corte declaró la exequibilidad de la mayoría de las disposiciones del decreto, pero consideró inexequibles ciertas expresiones, en especial el parágrafo 3º común a los artículos 11 y 12, por otorgar al Gobierno la facultad de modificar montos económicos relevantes para determinar la aplicabilidad de procedimientos abreviados de insolvencia, lo cual invadía la órbita de reserva legislativa. También declaró la inexequibilidad del artículo 13, relativo al régimen de honorarios de los liquidadores, al considerar que su contenido violaba principios de acceso a la justicia y no superaba los juicios de necesidad y proporcionalidad propios del control de decretos de excepción.",
+    "english": "Ruling C-378 of 2020 reviewed the constitutionality of Legislative Decree 772 of 2020, issued under the state of economic, social, and ecological emergency declared due to the COVID-19 pandemic. The decree introduced special measures related to insolvency proceedings to mitigate the crisis's impact on the business sector. The Constitutional Court declared most of the decree’s provisions constitutional but found certain clauses unconstitutional. Specifically, it struck down paragraph 3 of Articles 11 and 12, which had allowed the Government to alter monetary thresholds for expedited insolvency procedures—an encroachment on legislative authority. The Court also invalidated Article 13 concerning the payment mechanism for liquidators' fees, as it failed to meet constitutional standards of necessity and proportionality and infringed on access to justice."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RICHARD RAMÍREZ GRISALES",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    215
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Comerciantes — Fenalco"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Derecho Procesal"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Derecho Tributario"
+    },
+    {
+      "name": "Universidad Libre",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Carlos Muñoz Montoya",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Sebastián Alejandro Perilla Granados",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Procuraduría General de la Nación"
+    }
+  ],
+  "id": "C-378-20",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2020/C-378-20.htm"
+}

@@ -1,0 +1,141 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control de constitucionalidad sobre la Ley 1327 de 2009, que convocaba a un referendo constitucional con el fin de someter a consideración del pueblo un proyecto de reforma constitucional. El referendo proponía la instauración de la pena de prisión perpetua para delitos cometidos contra menores. La Corte declaró inexequible la ley por vicios de procedimiento en su trámite legislativo, entre ellos la falta de certificación de requisitos por la Registraduría Nacional y cambios sustanciales en la formulación de la pregunta del referendo, que afectaron principios de transparencia y libertad del elector. El fallo enfatiza la importancia de respetar las etapas y requisitos del proceso legislativo y participativo en reformas constitucionales de iniciativa ciudadana.",
+    "english": "The Constitutional Court reviewed the constitutionality of Law 1327 of 2009, which called for a constitutional referendum to submit a reform proposal to the people. The proposed referendum sought to introduce life imprisonment for crimes committed against minors. The Court declared the law unconstitutional due to procedural flaws, including the absence of certification by the National Registry and substantial changes to the referendum question, which undermined principles of transparency and voter freedom. The decision highlights the importance of complying with the procedural and participatory requirements in constitutional reform initiatives by citizens."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Juan Carlos Henao Pérez",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "María Victoria Calle Correa",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1, 3, 4, 10, 12, 13, 40, 44, 94, 109, 133,
+    138, 145, 146, 150, 154, 155, 157, 158, 159,
+    160, 161, 162, 163, 164, 165, 166, 167, 168,
+    169, 170, 241, 374, 376, 378, 379
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Comisión Colombiana de Juristas",
+      "affiliation": ""
+    },
+    {
+      "name": "Corporación Sisma Mujer",
+      "affiliation": ""
+    },
+    {
+      "name": "Corporación Colectivo de Abogados José Alvear Restrepo",
+      "affiliation": ""
+    },
+    {
+      "name": "Corporación Mujeres Católicas por el Derecho a Decidir",
+      "affiliation": ""
+    },
+    {
+      "name": "Corporación Casa de la Mujer",
+      "affiliation": ""
+    },
+    {
+      "name": "Ministerio del Interior y de Justicia",
+      "affiliation": "Gobierno Nacional"
+    },
+    {
+      "name": "Secretaría Jurídica de la Presidencia de la República",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "Gilma López López",
+      "affiliation": ""
+    },
+    {
+      "name": "Neiva León Cárdenas",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Carlos Tenorio Herrera",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge E. Medina",
+      "affiliation": ""
+    },
+    {
+      "name": "Procurador General de la Nación",
+      "affiliation": "Ministerio Público"
+    }
+  ],
+  "id": "C-397-10",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2010/C-397-10.htm"
+}

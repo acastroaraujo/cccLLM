@@ -1,0 +1,787 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional analizó la constitucionalidad de la Ley 796 de 2003, mediante la cual se convocó a un referendo constitucional. El debate se centró en si el mecanismo del voto en bloque dentro de un referendo multitemático —es decir, que contiene varios temas constitucionales diferentes— vulneraba el principio de libertad del votante. La Corte distinguió entre el precedente establecido en la sentencia C-180 de 1994, que había establecido la necesidad de una casilla para el voto en bloque en referendos, y el caso presente, donde dicha figura se aplicaba a un referendo con múltiples temas. La Corte concluyó que no existía cosa juzgada sobre este aspecto, por lo cual procedió a analizar su constitucionalidad. Finalmente, determinó que permitir el voto en bloque en este contexto podría afectar la libertad del elector, dado que los ciudadanos no tendrían la posibilidad de aceptar unos puntos del referendo y rechazar otros. En consecuencia, la Corte declaró inexequible esa modalidad de votación para referendos multitemáticos.",
+    "english": "The Constitutional Court reviewed the constitutionality of Law 796 of 2003, which called for a constitutional referendum. The main issue was whether the mechanism of block voting in a multitheme referendum—i.e., one addressing multiple constitutional topics—violated voters' freedom. The Court differentiated this case from precedent set in ruling C-180 of 1994, which required a block vote option in referendums, arguing that it did not apply to multitheme referendums. It concluded that there was no res judicata on this issue, and proceeded with constitutional review. The Court ultimately held that block voting in such referendums could impair voters’ freedom by not allowing them to accept some proposals and reject others. Therefore, it declared that form of voting unconstitutional in the context of multitheme referendums."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Eduardo Montealegre Lynett",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 3, 4, 6, 11, 115, 121, 133, 155, 241, 242, 374, 375, 376, 377, 378, 379],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-939 de 2002",
+    "C-180 de 1994"
+  ],
+  "amicus": [
+    {
+      "name": "Camilo Ospina Bernal",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "Ana Lucía Gutiérrez Guingue",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "Carlos Rodríguez Mejía",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Catalina Díaz Gómez",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Luis Carlos Villegas Echeverri",
+      "affiliation": "Consejo Gremial Nacional"
+    },
+    {
+      "name": "Luis Carlos Villegas Echeverri",
+      "affiliation": "Asociación Nacional de Industriales"
+    },
+    {
+      "name": "Luis Ignacio Sandoval Moreno",
+      "affiliation": "Instituto María Cano –ISMAC–"
+    },
+    {
+      "name": "Julián Benitez",
+      "affiliation": "Asociación ECOPOLIS"
+    },
+    {
+      "name": "Roberto Junguito Bonnet",
+      "affiliation": "Ministerio de Hacienda"
+    },
+    {
+      "name": "Héctor Pineda",
+      "affiliation": "Comité Ciudadano Promotor del voto por el “No”"
+    },
+    {
+      "name": "Haydee Cañizares Madarriaga",
+      "affiliation": "Federación Colombiana de Municipios"
+    },
+    {
+      "name": "Zoeria Villada Ríos",
+      "affiliation": "SINDESENA"
+    },
+    {
+      "name": "José Fernando Díaz P.",
+      "affiliation": "SINDESENA"
+    },
+    {
+      "name": "Carlos Arturo Rodríguez Díaz",
+      "affiliation": "CUT"
+    },
+    {
+      "name": "José Genaro Pineda Apolinar",
+      "affiliation": "CUT, Subdirectiva Meta"
+    },
+    {
+      "name": "Gonzalo Ramírez Aponte",
+      "affiliation": "ASIEB"
+    },
+    {
+      "name": "Alvaro Hernando Franco Nieto",
+      "affiliation": "SINTRAELECOL"
+    },
+    {
+      "name": "Omar Chávez",
+      "affiliation": "Sindicato mixto de trabajadores oficiales y empleados públicos de la Empresa de Acueducto y Alcantarillado de Villavicencio"
+    },
+    {
+      "name": "Evaristo García",
+      "affiliation": "Sindicato de Trabajadores Públicos Hospital Universitario del Valle"
+    },
+    {
+      "name": "Marco Aurelio Sandoval Tique",
+      "affiliation": "Unión Nacional de Pensionados Públicos y Privados"
+    },
+    {
+      "name": "Fernando Montoya Montoya",
+      "affiliation": "Personería de Santiago de Cali"
+    },
+    {
+      "name": "José Darío Muñoz Carvajal",
+      "affiliation": "ASCONTRACOL"
+    },
+    {
+      "name": "Javier Alejandro Acevedo G.",
+      "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "Dora Lucy Arias",
+      "affiliation": "Asociación Colombiana de Abogados defensores Eduardo Umaña Mendoza"
+    },
+    {
+      "name": "Carlos Cely Maestre",
+      "affiliation": "Fiscal CUT"
+    },
+    {
+      "name": "Fabio Villa Rodríguez",
+      "affiliation": "Federación Nacional de Concejos de Colombia"
+    },
+    {
+      "name": "Olga Lucía Gaitán García",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Jorge Pérez Díaz",
+      "affiliation": "Colegio Nacional de Abogados"
+    },
+    {
+      "name": "Arnulfo Álvarez Buitrago",
+      "affiliation": "Personería Municipal de Santiago de Cali"
+    },
+    {
+      "name": "Pablo Bustos Sánchez",
+      "affiliation": "Red de veedurías ciudadanas"
+    },
+    {
+      "name": "Sugey Rosina Tigreros",
+      "affiliation": "Personería municipal de Buga"
+    },
+    {
+      "name": "Marcos Peña",
+      "affiliation": "Contraloría Departamental del César"
+    },
+    {
+      "name": "Germán Dávila Vinueza",
+      "affiliation": ""
+    },
+    {
+      "name": "Ricardo Rodríguez Asensio",
+      "affiliation": ""
+    },
+    {
+      "name": "Emilio Segundo Zola",
+      "affiliation": ""
+    },
+    {
+      "name": "José Gregorio Hernández Galindo",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Enrique Robledo Castillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Dimas Salamanca Palencia",
+      "affiliation": ""
+    },
+    {
+      "name": "Edmundo López Gómez",
+      "affiliation": ""
+    },
+    {
+      "name": "Ernesto Rey Cantor",
+      "affiliation": ""
+    },
+    {
+      "name": "Antonio Navarro Wolf",
+      "affiliation": ""
+    },
+    {
+      "name": "Armando Novoa García",
+      "affiliation": ""
+    },
+    {
+      "name": "Ramiro Bejarano Guzmán",
+      "affiliation": ""
+    },
+    {
+      "name": "Armando Benedetti Jimeno",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Augusto Ramírez Guerrero",
+      "affiliation": ""
+    },
+    {
+      "name": "Ángela Patricia Cárdenas Pérez",
+      "affiliation": ""
+    },
+    {
+      "name": "Grace Adriana Díaz Garzón",
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia Marcela Muñoz Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Néstor García Buitrago",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Andrés Fierro Pinto",
+      "affiliation": ""
+    },
+    {
+      "name": "Alfredo Elías Ramos Florez",
+      "affiliation": ""
+    },
+    {
+      "name": "Yeny Patricia Infante Sánchez",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio Cesar Cedeño",
+      "affiliation": ""
+    },
+    {
+      "name": "Fabio Antonio Cruz Mariño",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Vargas Ayala",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Martínez Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "Luís Felipe Bueno",
+      "affiliation": ""
+    },
+    {
+      "name": "Mario Germán Gaitán Nieto",
+      "affiliation": ""
+    },
+    {
+      "name": "Ferez Haddad González",
+      "affiliation": ""
+    },
+    {
+      "name": "Fabio Jiménez",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Efraín Daza Barrera",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Alejandro Vega Vega",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernán Alejandro Olano García",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge León Ruíz Ruíz",
+      "affiliation": ""
+    },
+    {
+      "name": "Asdrúbal A. Suanca M.",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Iván Piedrahita",
+      "affiliation": ""
+    },
+    {
+      "name": "Nicolás Emilio García",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillermo Pérez Rosales",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Alberto Rojas Otálvaro",
+      "affiliation": ""
+    },
+    {
+      "name": "Antonio Eduardo Bohórquez",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Naín Ruiz Ditta",
+      "affiliation": ""
+    },
+    {
+      "name": "Cristian Alberto Buitrago Rueda",
+      "affiliation": ""
+    },
+    {
+      "name": "Nelson Alfredo Arciniegas Martínez",
+      "affiliation": ""
+    },
+    {
+      "name": "Radfchenko Pulcrolaky",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Arango Mejía",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillermo Rivera Fúquene",
+      "affiliation": ""
+    },
+    {
+      "name": "Margarita Ávila Pacheco",
+      "affiliation": ""
+    },
+    {
+      "name": "Armandina Lozano Sánchez",
+      "affiliation": ""
+    },
+    {
+      "name": "Edgar Acero Jiménez",
+      "affiliation": ""
+    },
+    {
+      "name": "Roberto Restrepo Guerrero",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Enrique Olivera Petro",
+      "affiliation": ""
+    },
+    {
+      "name": "Jaime Bulla Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "Martha Janneth Fonseca Mateus",
+      "affiliation": ""
+    },
+    {
+      "name": "Diego Alberto Zuleta García",
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Baquero Nariño",
+      "affiliation": ""
+    },
+    {
+      "name": "Martha Leonor Castellanos Pulido",
+      "affiliation": ""
+    },
+    {
+      "name": "Edgardo Enrique Salebe Morr",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Antonio Caicedo Paz",
+      "affiliation": ""
+    },
+    {
+      "name": "Janeth Corredor Castro",
+      "affiliation": ""
+    },
+    {
+      "name": "José Albendea Pabón",
+      "affiliation": ""
+    },
+    {
+      "name": "Jesús María España Vergara",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo Iván Ochoa Romero",
+      "affiliation": ""
+    },
+    {
+      "name": "Jelly Benavides Castañeda",
+      "affiliation": ""
+    },
+    {
+      "name": "Dense Fajardo Ortegón",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Mojica Casas",
+      "affiliation": ""
+    },
+    {
+      "name": "Ciro Alfonso Galvis Muñoz",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo Alfonso Riobó",
+      "affiliation": ""
+    },
+    {
+      "name": "Rafael Castro Ramos",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Eduardo Gómez Hernández",
+      "affiliation": ""
+    },
+    {
+      "name": "Joaquín Franco Burgos",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo Artunduaga Ochoa",
+      "affiliation": ""
+    },
+    {
+      "name": "Efrén Candelo Larrahondo",
+      "affiliation": ""
+    },
+    {
+      "name": "Aurelio Tobón Mejía",
+      "affiliation": ""
+    },
+    {
+      "name": "Roque Julio Palomino Saavedra",
+      "affiliation": ""
+    },
+    {
+      "name": "Armando Baena Cifuentes",
+      "affiliation": ""
+    },
+    {
+      "name": "Nubia Edith Hernández",
+      "affiliation": ""
+    },
+    {
+      "name": "Heliodoro Guerrero Bermúdez",
+      "affiliation": ""
+    },
+    {
+      "name": "José Luján Zapata",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Alfredo Castellanos",
+      "affiliation": ""
+    },
+    {
+      "name": "Deledda Paez Vega",
+      "affiliation": ""
+    },
+    {
+      "name": "Nora Inés Montenegro",
+      "affiliation": ""
+    },
+    {
+      "name": "Jaime Sánchez Sánchez",
+      "affiliation": ""
+    },
+    {
+      "name": "José Trinidad Rivera Panqueba",
+      "affiliation": ""
+    },
+    {
+      "name": "Germán Navas Talero",
+      "affiliation": ""
+    },
+    {
+      "name": "Bibiana Paola Martínez Salcedo",
+      "affiliation": ""
+    },
+    {
+      "name": "Katherin García Moncada",
+      "affiliation": ""
+    },
+    {
+      "name": "Luisa Fernanda Sierra",
+      "affiliation": ""
+    },
+    {
+      "name": "Andrés Salgado",
+      "affiliation": ""
+    },
+    {
+      "name": "Ángela Patricia Bermeo Díaz",
+      "affiliation": ""
+    },
+    {
+      "name": "Paula Lorena Marín",
+      "affiliation": ""
+    },
+    {
+      "name": "Natalia Bernal Gutiérrez",
+      "affiliation": ""
+    },
+    {
+      "name": "Margarita María Chaparro Alzogaray",
+      "affiliation": ""
+    },
+    {
+      "name": "Claudia Milena Forero",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Franco Díaz",
+      "affiliation": ""
+    },
+    {
+      "name": "Carolina Pizarro",
+      "affiliation": ""
+    },
+    {
+      "name": "Darling Milena Galván Lizarazu",
+      "affiliation": ""
+    },
+    {
+      "name": "Bibiana Mahecha Garzón",
+      "affiliation": ""
+    },
+    {
+      "name": "Cristy Rodríguez Torres",
+      "affiliation": ""
+    },
+    {
+      "name": "Viviana Marín Vera",
+      "affiliation": ""
+    },
+    {
+      "name": "Stella Carabalí",
+      "affiliation": ""
+    },
+    {
+      "name": "Néstor Raúl Correa Henao",
+      "affiliation": ""
+    },
+    {
+      "name": "José Alirio Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Víctor M. Arregoces",
+      "affiliation": ""
+    },
+    {
+      "name": "Diego Fernando Guzmán Ospina",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Pinilla Pinilla",
+      "affiliation": ""
+    },
+    {
+      "name": "Alonso Castrillón",
+      "affiliation": ""
+    },
+    {
+      "name": "Omar Noguera Pinillos",
+      "affiliation": ""
+    },
+    {
+      "name": "Augusto Benavides",
+      "affiliation": ""
+    },
+    {
+      "name": "María Zulema Llanos",
+      "affiliation": ""
+    },
+    {
+      "name": "Francisco José Trujillo Cortés",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio César Murillo Prieto",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Eduardo Manotas Solano",
+      "affiliation": ""
+    },
+    {
+      "name": "Freddy Cifuentes Pantoja",
+      "affiliation": ""
+    },
+    {
+      "name": "Hermes Pinzón Ríos",
+      "affiliation": ""
+    },
+    {
+      "name": "Rafael Pardo Rueda",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Angel Villamil",
+      "affiliation": ""
+    },
+    {
+      "name": "Inés Jaramillo Murillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Arturo Romero Ospina",
+      "affiliation": ""
+    },
+    {
+      "name": "Asdrúbal Gómez Pastor",
+      "affiliation": ""
+    },
+    {
+      "name": "Néstor Gustavo Garzón G.",
+      "affiliation": ""
+    },
+    {
+      "name": "Humberto Cifuentes Osorio",
+      "affiliation": ""
+    },
+    {
+      "name": "José Ignacio Camargo Rozo",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Carlos López Alzate",
+      "affiliation": ""
+    },
+    {
+      "name": "Álvaro González Anaya",
+      "affiliation": ""
+    },
+    {
+      "name": "Eudoro Echeverri Quintana",
+      "affiliation": ""
+    },
+    {
+      "name": "Gildardo Ospina Arias",
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Herrera Miranda",
+      "affiliation": ""
+    },
+    {
+      "name": "Miguel Ángel Mejía Díaz",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Alberto Restrepo Medina",
+      "affiliation": ""
+    },
+    {
+      "name": "Gustavo Francisco Petro Urrego",
+      "affiliation": ""
+    },
+    {
+      "name": "Ariel Alvarado Fonseca",
+      "affiliation": ""
+    },
+    {
+      "name": "Saúl Antonio Londoño Morales",
+      "affiliation": ""
+    },
+    {
+      "name": "Humberto de Jesús Longas Londoño",
+      "affiliation": ""
+    },
+    {
+      "name": "José de Jesús Gil Barreto",
+      "affiliation": ""
+    },
+    {
+      "name": "Víctor Velásquez Reyes",
+      "affiliation": ""
+    },
+    {
+      "name": "Gelasio Cardona Serna",
+      "affiliation": ""
+    },
+    {
+      "name": "Iván Cardona Restrepo",
+      "affiliation": ""
+    },
+    {
+      "name": "María Juliana Rojas Cortés",
+      "affiliation": ""
+    },
+    {
+      "name": "José Cipriano León Castañeda",
+      "affiliation": ""
+    },
+    {
+      "name": "Nelson Orlando Mirando Ruiz",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Arbey Arroyave Hernández",
+      "affiliation": ""
+    },
+    {
+      "name": "Pablo Andrés Alvarado Reyes",
+      "affiliation": ""
+    },
+    {
+      "name": "Ángel Emilio Niño Alonso",
+      "affiliation": ""
+    },
+    {
+      "name": "Mauricio García Villegas",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-551-03",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2003/C-551-03.htm"
+}

@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-298 de 2016 revisa varios cargos de inconstitucionalidad interpuestos contra disposiciones de la Ley 1753 de 2015 (Plan Nacional de Desarrollo 2014–2018). Entre los temas abordados, la Corte determinó que la facultad conferida a la Autoridad Nacional Minera para delimitar 'indefinidamente' áreas de reserva estratégica minera resultaba inconstitucional por quebrantar el principio de proporcionalidad y vulnerar los derechos de acceso, conservación y planificación del ambiente sano. Por el contrario, consideró ajustadas a la Constitución las reglas relacionadas con el procedimiento para otorgar licencias ambientales y las medidas de protección ambiental acordadas con las entidades territoriales. También se evaluaron cargos por vicios de forma relacionados con la simultaneidad de sesiones, la publicación del informe de conciliación y la votación nominal, concluyendo que no se configuraban los vicios alegados. La Corte aplicó parcialmente el principio de cosa juzgada constitucional respecto a disposiciones previamente evaluadas en otras sentencias, como la C-221 y C-087 de 2016.",
+    "english": "Ruling C-298 of 2016 examines various unconstitutionality claims against provisions in Law 1753 of 2015 (National Development Plan 2014–2018). Among the key findings, the Court declared unconstitutional the provision granting the National Mining Authority the power to indefinitely delimit strategic mining reserve areas, finding it violated the principle of proportionality and the rights to access, conservation, and planning of a healthy environment. In contrast, the Court upheld the constitutionality of rules concerning the issuance of environmental licenses and agreements with local authorities on environmental protection. It also assessed procedural claims regarding simultaneous sessions, publication of the reconciliation report, and nominal voting, finding no such procedural flaws. The Court partially applied the principle of constitutional res judicata with respect to provisions already reviewed in earlier rulings, such as C-221 and C-087 of 2016."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [2, 8, 20, 49, 58, 63, 67, 74, 79, 80, 95, 133, 161, 241, 242, 243],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-221 de 2016",
+    "C-087 de 2016"
+  ],
+  "amicus": [
+    {"name": "Jesús David Rodríguez Ramos", "affiliation": "Ministerio del Interior"},
+    {"name": "Laura Victoria Bechara Arciniegas", "affiliation": "Ministerio de Hacienda y Crédito Público"},
+    {"name": "Heider Danilo Téllez Rincón", "affiliation": "Ministerio de Ambiente y Desarrollo Sostenible"},
+    {"name": "Dimas Salamanca Palencia", "affiliation": "Agencia Nacional de Minería y Ministerio de Minas y Energía"},
+    {"name": "Andrés Gómez Roldán", "affiliation": "Ministerio de Agricultura"},
+    {"name": "Gian Carlo Suescun Sanabria", "affiliation": "Departamento Nacional de Planeación"},
+    {"name": "Ramiro Ezequiel", "affiliation": "Autoridad Nacional de Licencias Ambientales"},
+    {"name": "Luis Ariel Rojas Castañeda", "affiliation": "Imprenta Nacional"},
+    {"name": "Luis Alberto Donoso", "affiliation": "Unidad Administrativa Especial para la Atención a Víctimas"},
+    {"name": "Federico Alfonso Núñez García", "affiliation": "Superintendencia Nacional de Salud"},
+    {"name": "Rubén Darío Revelo Jiménez", "affiliation": "Unidad de Restitución de Tierras Despojadas"},
+    {"name": "Brigitte LG Baptiste Ballera", "affiliation": "Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt"},
+    {"name": "Bruce Mac Master", "affiliation": "Asociación Nacional de Empresarios de Colombia (ANDI)"},
+    {"name": "José Camilo Manjarres Jattin", "affiliation": "Asociación Colombiana de Distribuidores de Energía Eléctrica"},
+    {"name": "Astrid Puentes", "affiliation": "Ambiente y Sociedad y AIDA"},
+    {"name": "César Rodríguez Garavito", "affiliation": "Dejusticia"},
+    {"name": "Gloria Amparo Rodríguez", "affiliation": "Universidad del Rosario"},
+    {"name": "Carlos Rodríguez Mejía", "affiliation": "Universidad Santo Tomás"},
+    {"name": "Adriana María Guillén Arango", "affiliation": "Agencia Nacional de Defensa Jurídica del Estado"}
+  ],
+  "id": "C-298-16",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2016/C-298-16.htm"
+}

@@ -1,0 +1,117 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo de constitucionalidad del Proyecto de Ley Estatutaria número 156 de 2011 Senado y 228 de 2012 Cámara, mediante la cual se establece la Ley de Transparencia y del Derecho de Acceso a la Información Pública Nacional. La sentencia C-274 de 2013 declaró la exequibilidad del artículo 18 del proyecto, bajo el entendido de que ciertos apartados serían reemplazados por normas estatutarias futuras o estarían sujetos a límites legales. También se declaró la inexequibilidad de una expresión que hacía referencia a otra norma legal. La decisión fue objeto de aclaraciones y salvamentos de voto por parte de varios magistrados.",
+    "english": "The Constitutional Court carried out a prior constitutional review of Statutory Law Bill No. 156 of 2011 Senate and 228 of 2012 House, which established the Transparency Law and the Right of Access to Public Information. In judgment C-274 of 2013, the Court declared Article 18 of the bill constitutional, with the understanding that certain sections would be replaced by future statutory norms or would be subject to legal limits. It also declared unconstitutional a phrase referring to another legal provision. The decision included concurring and dissenting opinions from several justices."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARIA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZALEZ CUERVO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RIOS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [133],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {"name": "", "affiliation": "Ministerio de Vivienda, Ciudad y Territorio"},
+    {"name": "", "affiliation": "Ministerio de Tecnologías de la Información y las Comunicaciones"},
+    {"name": "", "affiliation": "Ministerio del Interior"},
+    {"name": "", "affiliation": "Ministerio de Justicia y del Derecho"},
+    {"name": "", "affiliation": "Ministerio de Hacienda y Crédito Público"},
+    {"name": "", "affiliation": "Ministerio de Educación Nacional"},
+    {"name": "", "affiliation": "Ministerio de Defensa Nacional"},
+    {"name": "", "affiliation": "Ministerio de Salud"},
+    {"name": "", "affiliation": "Superintendencia Financiera de Colombia"},
+    {"name": "", "affiliation": "Secretaría de Transparencia de la Presidencia de la República"},
+    {"name": "", "affiliation": "Superintendencia de Industria y Comercio"},
+    {"name": "", "affiliation": "Banco de la República"},
+    {"name": "", "affiliation": "Unidad Administrativa Especial de Gestión de Restitución de Tierras Despojadas"},
+    {"name": "", "affiliation": "Contaduría General de la Nación"},
+    {"name": "", "affiliation": "Departamento Administrativo Nacional de Estadística"},
+    {"name": "", "affiliation": "Archivo General de la Nación"},
+    {"name": "", "affiliation": "Auditoría General de la República"},
+    {"name": "", "affiliation": "Departamento Administrativo para la Prosperidad Social"},
+    {"name": "", "affiliation": "Superintendencia de Servicios Públicos"},
+    {"name": "", "affiliation": "Contraloría General de la República"},
+    {"name": "", "affiliation": "Defensoría del Pueblo"},
+    {"name": "", "affiliation": "Colectivo de Abogados José Alvear Restrepo"},
+    {"name": "", "affiliation": "Open Society Justice Initiative"},
+    {"name": "", "affiliation": "Dejusticia"},
+    {"name": "", "affiliation": "FLIP"},
+    {"name": "", "affiliation": "Transparencia por Colombia"},
+    {"name": "", "affiliation": "Corporación Ocasa"},
+    {"name": "", "affiliation": "Proyecto Antonio Nariño y Gómez Pinzón Zuleta Asociados"},
+    {"name": "", "affiliation": "Comisión Colombiana de Juristas"},
+    {"name": "", "affiliation": "Universidad Antonio Nariño"},
+    {"name": "", "affiliation": "Universidad Santo Tomás"},
+    {"name": "Daniel Samper Pizano", "affiliation": ""},
+    {"name": "Alberto Donadío", "affiliation": ""},
+    {"name": "Ernesto Rey Cantor", "affiliation": ""},
+    {"name": "Luisa Fernanda Castañeda Quintana", "affiliation": ""},
+    {"name": "Ramiro Bejarano Guzmán", "affiliation": ""},
+    {"name": "Armando Benedetti", "affiliation": ""}
+  ],
+  "id": "C-274-13",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2013/C-274-13.htm" 
+}

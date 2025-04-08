@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió una demanda contra la expresión “al momento del fallecimiento” contenida en el artículo 1° de la Ley 797 de 2003, que reformaba el artículo 46 de la Ley 100 de 1993. Dicha expresión establecía que para acceder a la pensión de sobrevivientes, la pareja debía haber convivido por lo menos cinco años continuos \"al momento del fallecimiento\" del causante. El demandante argumentó que este requisito temporal excluía a parejas que, aunque habían convivido más de cinco años, no lo hacían justo en el momento de la muerte del afiliado, lo cual era discriminatorio y vulneraba el derecho a la seguridad social. La Corte encontró que dicha exigencia era desproporcionada, afectaba la igualdad y el acceso efectivo a la pensión, y desconocía la protección reforzada de las parejas que por razones justificadas no convivían en el momento del fallecimiento. Por lo tanto, declaró inexequible la expresión demandada.",
+    "english": "The Constitutional Court examined a challenge to the phrase 'at the time of death' in Article 1 of Law 797 of 2003, which amended Article 46 of Law 100 of 1993. This phrase required that, to access a survivor's pension, the couple must have lived together for at least five continuous years 'at the time of the contributor’s death.' The petitioner argued that this requirement excluded couples who had lived together for more than five years but were not cohabiting precisely at the moment of death, which was discriminatory and violated the right to social security. The Court found the requirement to be disproportionate, harmful to equality, and unjustly obstructive of pension access, especially for couples who had valid reasons for not cohabiting at the time of death. Consequently, it declared the challenged expression unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JUAN CARLOS HENAO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    2,
+    9,
+    13,
+    65,
+    96,
+    100,
+    101,
+    150,
+    226,
+    227,
+    241,
+    334,
+    335,
+    365,
+    374
+  ],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Luis Guillermo Plata Páez",
+      "affiliation": "Ministerio de Comercio, Industria y Turismo"
+    },
+    {
+      "name": "Natalia Surcar Jaramillo",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    },
+    {
+      "name": "María del Rosario Guerra",
+      "affiliation": "Ministerio de Comunicaciones"
+    },
+    {
+      "name": "Janeth Bustos Salgar",
+      "affiliation": "Ministerio de Cultura"
+    },
+    {
+      "name": "Gerardo Hernández Correa",
+      "affiliation": "Banco de la República"
+    },
+    {
+      "name": "Rafael Mejía López",
+      "affiliation": "Sociedad de Agricultores de Colombia (SAC)"
+    },
+    {
+      "name": "Federación Nacional de Cafeteros de Colombia",
+      "affiliation": ""
+    },
+    {
+      "name": "José Félix Lafaurie Rivera",
+      "affiliation": "Federación Colombiana de Ganaderos (Fedegán)"
+    },
+    {
+      "name": "Richard Franklin-Cruz",
+      "affiliation": "Asociación Colombiana de Exportadores de Flores (Asocolflores)"
+    },
+    {
+      "name": "Guillermo Botero Nieto",
+      "affiliation": "Federación Nacional de Comerciantes (Fenalco)"
+    },
+    {
+      "name": "Luis Carlos Villegas Echeverri",
+      "affiliation": "Consejo Gremial Nacional y Asociación Nacional de Industriales (ANDI)"
+    },
+    {
+      "name": "Javier Díaz Molina",
+      "affiliation": "Asociación Nacional de Comercio Exterior (Analdex)"
+    },
+    {
+      "name": "Norman Correa Calderón",
+      "affiliation": "Asociación Colombiana de las Micro, Pequeñas y Medianas Empresas (ACOPI)"
+    },
+    {
+      "name": "María Fernanda Campo Saavedra",
+      "affiliation": "Cámara de Comercio de Bogotá"
+    },
+    {
+      "name": "Andrea Mateus Rugeles",
+      "affiliation": "Colegio Mayor de Nuestra Señora del Rosario"
+    }
+  ],
+  "id": "C-446-09",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2009/C-446-09.htm"
+}

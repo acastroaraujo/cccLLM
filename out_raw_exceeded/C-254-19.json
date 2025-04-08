@@ -1,0 +1,164 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-254 de 2019 de la Corte Constitucional se refiere al control de constitucionalidad del Tratado de Libre Comercio (TLC) entre Colombia y el Estado de Israel. El análisis se centra en la aprobación del proyecto de ley 205 de 2016 Cámara y 124 de 2015 Senado. La Corte abordó temas relacionados con la definición del concepto de 'territorio' dentro del tratado, especialmente en el contexto del conflicto Israel-Palestina, y analizó las implicaciones de las declaraciones interpretativas conjuntas en el marco de la Convención de Viena sobre el Derecho de los Tratados. La Corte destacó que si bien dichas declaraciones pueden emitirse antes o después de la ratificación, no deben convertirse en un requisito obligatorio no previsto por la Constitución. En su decisión, la Corte encontró que el tratado se ajusta a la Constitución, pero algunos magistrados presentaron aclaraciones y salvamentos de voto respecto a aspectos puntuales de la sentencia.",
+    "english": "Constitutional Court ruling C-254 of 2019 concerns the constitutional review of the Free Trade Agreement (FTA) between Colombia and the State of Israel. The review focused on Law Project 205 of 2016 from the House of Representatives and 124 of 2015 from the Senate. The Court examined the interpretation of 'territory' within the treaty, particularly in light of the Israel-Palestine conflict, and considered whether joint interpretative declarations must precede treaty ratification. The Court held that such declarations are not constitutionally required prior to ratification and affirmed the treaty’s constitutionality. However, several justices issued concurring or dissenting opinions on specific issues in the ruling."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [189, 226, 227],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Procuraduría General de la Nación"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "",
+      "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+    },
+    {
+      "name": "",
+      "affiliation": "FENALCO"
+    },
+    {
+      "name": "",
+      "affiliation": "ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "ANALDEX"
+    },
+    {
+      "name": "",
+      "affiliation": "FEDESARROLLO"
+    },
+    {
+      "name": "",
+      "affiliation": "ACOPI"
+    },
+    {
+      "name": "",
+      "affiliation": "ANDEMOS"
+    },
+    {
+      "name": "",
+      "affiliation": "INDUMIL"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de Antioquia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Santo Tomás"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    }
+  ],
+  "id": "C-254-19",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2019/C-254-19.htm"
+}

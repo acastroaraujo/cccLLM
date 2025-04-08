@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo de constitucionalidad del Proyecto de Ley Estatutaria 209 de 2013 Senado y 267 de 2013 Cámara, “por medio de la cual se regula el derecho fundamental a la salud y se dictan otras disposiciones”, conforme al artículo 241.8 de la Constitución. La Corte examinó el trámite legislativo del proyecto y concluyó que cumplió con los requisitos constitucionales, incluyendo la validez de la proposición sustitutiva de ponencia en el Senado. En cuanto al contenido, la Corte evaluó cada artículo y declaró la mayoría de las disposiciones exequibles, algunas de ellas con condicionamientos para proteger el derecho a la salud y evitar restricciones indebidas. También declaró inexequibles varias expresiones puntuales por considerarlas contrarias a la Constitución.",
+    "english": "The Constitutional Court conducted the prior constitutional review of Statutory Bill 209 of 2013 (Senate) and 267 of 2013 (House), “which regulates the fundamental right to health and issues other provisions”, under Article 241.8 of the Constitution. The Court examined the legislative process and found it to comply with constitutional requirements, including the legitimacy of the substituted committee report in the Senate. Substantively, the Court reviewed each article and declared most provisions constitutional, some with conditions to safeguard the right to health and avoid undue restrictions. It also struck down several specific expressions as unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 13, 20, 25, 44, 46, 47, 48, 49, 53, 54, 83, 95, 113, 158, 160, 161, 175, 241, 366],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Superintendencia Nacional de Salud"
+    },
+    {
+      "name": "",
+      "affiliation": "Academia Nacional de Medicina"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Internos y Residentes - ANIR Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación de Usuarios de Pacientes VIH/Sida"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Colombiana de Salud — Fedesalud"
+    },
+    {
+      "name": "",
+      "affiliation": "Colegio Médico de Cundinamarca"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Javeriana"
+    },
+    {
+      "name": "Aycardo González Gálvez",
+      "affiliation": "Comité Técnico Científico de las EPS"
+    },
+    {
+      "name": "David Curtidor Argüello",
+      "affiliation": "Organización Nacional Indígena de Colombia - ONIC"
+    },
+    {
+      "name": "",
+      "affiliation": "Procuraduría General de la Nación"
+    }
+  ],
+  "id": "C-313-14",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2014/C-313-14.htm"
+}

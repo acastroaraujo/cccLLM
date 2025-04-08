@@ -1,0 +1,156 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control de constitucionalidad del Decreto Legislativo 770 de 2020, expedido en el marco de la Emergencia Económica, Social y Ecológica declarada mediante el Decreto 637 de 2020 por la pandemia de COVID-19. Este decreto contenía medidas en materia laboral, incluyendo el Programa de Apoyo para el Pago de la Prima de Servicios (PAP) y el Programa de auxilio a los trabajadores en suspensión contractual. La Corte declaró la exequibilidad de la mayoría de las disposiciones del decreto, condicionando algunas de ellas para asegurar que no fueran interpretadas como cláusulas de inmunidad para los servidores públicos. En particular, se destacó que el diferimiento de pagos de recargos y horas extras debía evaluarse teniendo en cuenta las condiciones extraordinarias de la emergencia. El decreto también buscaba proteger a los empleadores y preservar el empleo formal mediante alivios financieros temporales.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Decree 770 of 2020, issued under the Economic, Social, and Ecological Emergency declared by Decree 637 of 2020 due to the COVID-19 pandemic. The decree included labor-related measures such as the Support Program for the Payment of the Service Bonus (PAP) and aid for workers under suspended contracts. The Court upheld the constitutionality of most of the decree's provisions, conditioning some to ensure they would not be construed as immunity clauses for public officials. It emphasized that the deferral of extra payments should be evaluated in light of the emergency context. The decree aimed to provide temporary financial relief to employers and preserve formal employment."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RICHARD S. RAMÍREZ GRISALES",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 13, 15, 25, 87, 215, 315, 334],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "",
+      "affiliation": "Central Unitaria de Trabajadores de Colombia — CUT"
+    },
+    {
+      "name": "César Augusto Luque Fandiño",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernán Antonio Barrero Bravo",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "Nixon Torres Carcamo",
+      "affiliation": ""
+    },
+    {
+      "name": "Máximo Noriega Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Edilberto Escobar Cortes",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Consejo Gremial Nacional — CGN"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Pontificia Bolivariana"
+    },
+    {
+      "name": "Eduardo Carvajal",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo Alfonso Mantilla Serrano",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "ASOCAJAS"
+    },
+    {
+      "name": "",
+      "affiliation": "FESSESCUN"
+    }
+  ],
+  "id": "C-324-20",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2020/C-324-20.htm"
+}

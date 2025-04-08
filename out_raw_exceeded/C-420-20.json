@@ -1,0 +1,228 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional estudió la constitucionalidad del Decreto Legislativo 806 de 2020, expedido en el marco del Estado de Emergencia Económica, Social y Ecológica decretado por la pandemia de COVID-19. Este decreto tenía por objeto implementar medidas para facilitar el acceso a la justicia mediante el uso de medios tecnológicos y trámites digitales. La Corte declaró la exequibilidad condicionada de algunos artículos del decreto. Por ejemplo, el artículo 6 fue declarado exequible en el entendido de que, si el demandante no conoce la dirección electrónica de los terceros, puede así manifestarlo sin que ello cause inadmisión de la demanda. Igualmente, se condicionó la exequibilidad del inciso 3 del artículo 8 y el parágrafo del artículo 9, indicando que los términos deben contarse desde que el destinatario acceda efectivamente al mensaje. El resto del decreto fue declarado exequible. La Corte también valoró si las medidas adoptadas respetaban los principios de necesidad, finalidad, proporcionalidad y no discriminación, concluyendo que el decreto era constitucional bajo estos criterios.",
+    "english": "The Constitutional Court reviewed the constitutionality of Legislative Decree 806 of 2020, issued under the State of Economic, Social, and Ecological Emergency declared due to the COVID-19 pandemic. This decree aimed to facilitate access to justice through the use of digital means and electronic procedures. The Court conditionally upheld several provisions of the decree. For instance, Article 6 was deemed constitutional under the condition that if the plaintiff does not know the email address of third parties, they may indicate this without risk of their claim being inadmissible. Similarly, the third paragraph of Article 8 and the paragraph of Article 9 were upheld on the condition that deadlines start counting once it can be confirmed that the recipient has accessed the message. The remaining provisions were found fully constitutional. The Court also assessed whether the measures adhered to the principles of necessity, purpose, proportionality, and non-discrimination, concluding that the decree met constitutional standards."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RICHARD S. RAMÍREZ GRISALES",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "DIANA FAJARDO RIVERA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS JAVIER MORENO ORTIZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "ALEJANDRO LINARES CANTILLO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ANTONIO JOSÉ LIZARAZO OCAMPO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CRISTINA PARDO SCHLESINGER",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JOSÉ FERNANDO REYES CUARTAS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 5, 13, 29, 83, 93, 95, 215, 228, 229, 241, 257],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Juan Carlos Garzón Martínez",
+      "affiliation": "Jurisdicción Contenciosa Administrativa"
+    },
+    {
+      "name": "Colegio de Abogados Litigantes",
+      "affiliation": ""
+    },
+    {
+      "name": "Ómar Alfonso Cárdenas Caicedo",
+      "affiliation": "Universidad de Nariño"
+    },
+    {
+      "name": "Andrés Alberto Guzmán Caballero",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio Daniel Lozano Bobadilla",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Felipe Vivares Porras",
+      "affiliation": "Universidad Pontificia Bolivariana de Medellín"
+    },
+    {
+      "name": "Miguel Enrique Rojas Gómez",
+      "affiliation": "Escuela de Actualización Jurídica – ESAJU"
+    },
+    {
+      "name": "Camilo Sánchez",
+      "affiliation": "ANDESCO"
+    },
+    {
+      "name": "José Manzur",
+      "affiliation": "ASOCODIS"
+    },
+    {
+      "name": "Centro de Estudios de Derecho Procesal – CEDEP",
+      "affiliation": ""
+    },
+    {
+      "name": "Teresa Vargas Osorno",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Jhon Caballero Martínez",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Ramiro Bejarano Guzmán",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Néstor Iván Ozuna Patiño",
+      "affiliation": "Universidad Externado de Colombia"
+    },
+    {
+      "name": "Unión Colegiada de Notariado",
+      "affiliation": ""
+    },
+    {
+      "name": "Corporación Lo Social",
+      "affiliation": ""
+    },
+    {
+      "name": "Angélica Lozano Correa",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Marcel Silva Romero",
+      "affiliation": ""
+    },
+    {
+      "name": "Gabriela Morales Orozco",
+      "affiliation": ""
+    },
+    {
+      "name": "Julio Alberto Tarazona Navas",
+      "affiliation": ""
+    },
+    {
+      "name": "Jairo Enrique Herrera Pérez",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Darío Barrera Tapia",
+      "affiliation": ""
+    },
+    {
+      "name": "Nury Alejandra Rodríguez Bello",
+      "affiliation": "Universidad de La Sabana"
+    },
+    {
+      "name": "José Miguel Rueda Vásquez",
+      "affiliation": "Universidad de La Sabana"
+    },
+    {
+      "name": "Danny Fernando Mera Bolaños",
+      "affiliation": ""
+    },
+    {
+      "name": "Nelson Rueda Rodríguez",
+      "affiliation": ""
+    },
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas – CCJ"
+    },
+    {
+      "name": "Julián González Escallón",
+      "affiliation": "Comisión Colombiana de Juristas – CCJ"
+    },
+    {
+      "name": "Enith Bula Beleño",
+      "affiliation": "Comisión Colombiana de Juristas – CCJ"
+    },
+    {
+      "name": "Álvaro Namén Vargas",
+      "affiliation": "Consejo de Estado"
+    },
+    {
+      "name": "Hernán D. Velásquez Gómez",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Orlando Velásquez Murcia",
+      "affiliation": ""
+    },
+    {
+      "name": "Hugo Alexander Ríos Garay",
+      "affiliation": "Tribunal Superior de Bogotá"
+    },
+    {
+      "name": "Carlos Andrés Echeverry Valencia",
+      "affiliation": ""
+    },
+    {
+      "name": "Daniel Alejandro Castaño Parra",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-420-20",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2020/C-420-20.htm"
+}
