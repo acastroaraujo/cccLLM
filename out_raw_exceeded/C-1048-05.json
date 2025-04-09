@@ -1,0 +1,144 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el Acto Legislativo 02 de 2004, que introdujo la reelección presidencial inmediata en Colombia. Los demandantes argumentaron que esta reforma vulneraba principios esenciales de la Constitución de 1991, como el Estado social de derecho, la soberanía popular y la igualdad política, y que implicaba una sustitución de la Constitución, por lo que debía declararse inexequible. La Corte declaró que ya había cosa juzgada sobre el cargo principal (sustitución de la Constitución) en la sentencia C-1040 de 2005, y se inhibió de pronunciarse sobre otros cargos que pretendían confrontar el contenido material del acto legislativo con normas del bloque de constitucionalidad o con otros artículos constitucionales, al considerar que no tiene competencia para ello según el artículo 241 de la Constitución.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against Legislative Act 02 of 2004, which enabled immediate presidential reelection in Colombia. The petitioners argued that this reform violated core principles of the 1991 Constitution, such as the social rule of law, popular sovereignty, and political equality, and amounted to a substitution of the Constitution, and thus should be struck down. The Court found that the main issue (substitution of the Constitution) had already been adjudicated in judgment C-1040 of 2005 and therefore applied res judicata. It declined to rule on additional arguments that sought to compare the material content of the legislative act with other constitutional provisions or with norms of the constitutional block, asserting its lack of jurisdiction under Article 241 of the Constitution."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1, 2, 3, 4, 5, 6, 7, 9, 13, 22, 40, 85, 86, 93, 94, 188, 209, 228, 241
+  ],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-1040 de 2005"
+  ],
+  "amicus": [
+    {
+      "name": "Oscar José Dueñas",
+      "affiliation": "Universidad Autónoma"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Pontificia Bolivariana de Medellín"
+    },
+    {
+      "name": "Manuel Fernández Díaz",
+      "affiliation": ""
+    },
+    {
+      "name": "Santiago León Gómez",
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Fernando Cardona Nieto",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Bautista Rivas Ramos",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Lozano",
+      "affiliation": ""
+    },
+    {
+      "name": "Yubely Muñoz",
+      "affiliation": ""
+    },
+    {
+      "name": "Anderson Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "Angelino Garzón",
+      "affiliation": "Gobernador del Valle del Cauca"
+    },
+    {
+      "name": "Ramiro Bejarano Guzmán",
+      "affiliation": ""
+    },
+    {
+      "name": "Germán Ujueta Diago",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-1048-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1048-05.htm"
+}

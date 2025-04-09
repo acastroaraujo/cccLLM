@@ -22,4 +22,4 @@ names(output) <- map_chr(output, pluck, "id")
 # dir("rulings_length_exceeded") |> length()
 length(output)
 
-dir("rulings_length_exceeded")
+dir("rulings_length_exceeded") |> length()

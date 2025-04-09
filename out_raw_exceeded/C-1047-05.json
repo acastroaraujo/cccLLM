@@ -1,0 +1,135 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda contra el Acto Legislativo 02 de 2004, que introdujo la posibilidad de reelección presidencial inmediata. Los demandantes alegaban vicios de procedimiento y exceso en la competencia del Congreso como constituyente derivado. La Corte declaró exequible el acto por el cargo específico de elusión del debate en la Comisión Primera de la Cámara de Representantes. No obstante, se declaró inhibida respecto a los cargos de 'actividad colegisladora' del gobierno y por la presunta expedición de una reforma constitucional incompleta. Además, se acogió la cosa juzgada constitucional en relación con los demás cargos, ya resueltos en las sentencias C-1040 y C-1041 de 2005.",
+    "english": "The Constitutional Court ruled on a challenge to Legislative Act 02 of 2004, which introduced the possibility of immediate presidential reelection. The plaintiffs alleged procedural flaws and that Congress had exceeded its authority as a derivative constituent power. The Court upheld the act as constitutional with regard to the specific claim of lack of debate in the First Committee of the House of Representatives. However, it declined to rule on the claims concerning the government's 'co-legislative' activity and the alleged enactment of an incomplete constitutional reform. It also applied the principle of constitutional res judicata to other claims previously addressed in rulings C-1040 and C-1041 of 2005."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAUJO RENTERÍA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO SIERRA PORTO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 241, 374, 375, 379],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-1040 de 2005",
+    "C-1041 de 2005"
+  ],
+  "amicus": [
+    {
+      "name": "Jaime Vidal Perdomo",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Jorge Vélez García",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Augusto Trujillo",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Diana Patricia Quintero",
+      "affiliation": "Universidad ICESI de Cali"
+    },
+    {
+      "name": "Mario Cajas Sarria",
+      "affiliation": "Universidad ICESI de Cali"
+    },
+    {
+      "name": "Oscar José Dueñas Ruiz",
+      "affiliation": ""
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Fernández Díaz",
+      "affiliation": "Universidad Popular del Cesar"
+    },
+    {
+      "name": "Wilson Guarnizo Carranza",
+      "affiliation": ""
+    },
+    {
+      "name": "Luís Humberto Gómez Gallo",
+      "affiliation": "Presidente del Congreso de la República"
+    }
+  ],
+  "id": "C-1047-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1047-05.htm"
+}

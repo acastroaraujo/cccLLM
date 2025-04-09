@@ -1,0 +1,92 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad interpuesta por el ciudadano Humberto de Jesús Longas Londoño contra las Leyes 547 de 1999 y 628 de 2000, por las cuales se decretaron los presupuestos de rentas, recursos de capital y apropiaciones para las vigencias fiscales de 2000 y 2001. El demandante argumentaba que estas leyes violaban el artículo 346 de la Constitución, ya que fueron expedidas sin un Plan Nacional de Desarrollo vigente, debido a la declaratoria de inexequibilidad de la Ley 508 de 1999 y el Decreto 955 de 2000. La Corte concluyó que la inexistencia del Plan Nacional de Desarrollo por causas sobrevenidas no invalida las leyes de presupuesto, al considerar que estas tienen una doble naturaleza: son instrumentos para el desarrollo y normas vinculantes para el manejo de ingresos y gastos del Estado. En consecuencia, declaró exequibles ambas leyes.",
+    "english": "The Constitutional Court ruled on a lawsuit filed by citizen Humberto de Jesús Longas Londoño challenging Laws 547 of 1999 and 628 of 2000, which established the national budget for fiscal years 2000 and 2001. The petitioner claimed that these laws violated Article 346 of the Constitution because they were enacted without a valid National Development Plan, due to the annulment of Law 508 of 1999 and Decree 955 of 2000. The Court held that the absence of a Development Plan due to unforeseen circumstances does not render the budget laws unconstitutional, emphasizing the dual nature of budget laws as development instruments and binding rules for state finances. Accordingly, the Court declared both laws constitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAUJO RENTERÍA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "EDUARDO MONTEALEGRE LYNETT",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [345, 346, 352, 150, 339, 341, 347, 350],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Carlos Esteban Jaramillo S.",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    }
+  ],
+  "id": "C-1065-01",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2001/C-1065-01.htm"
+}

@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "spanish": "La Sentencia C-1153 de 2005 corresponde al control previo de constitucionalidad sobre el Proyecto de Ley Estatutaria N° 216/05 Senado, N° 235-Cámara, mediante el cual se reglamenta la elección presidencial en conformidad con el artículo 152 literal f) de la Constitución y el Acto Legislativo 02 de 2004 que habilitó la reelección presidencial inmediata. La Corte analizó la constitucionalidad del trámite legislativo, los contenidos de la ley y las objeciones presentadas por diversos actores. En su decisión, la Corte declaró exequible el proyecto de ley en general, pero con múltiples declaraciones de inexequibilidad y exequibilidad condicionada sobre apartados específicos de los artículos. Por ejemplo, se excluyeron disposiciones que permitían una participación excesiva del Presidente-candidato en la campaña, que generaban ventajas indebidas y comprometían la igualdad electoral. La Corte también declaró exequibles algunos artículos bajo la condición de que ciertas restricciones se aplicaran desde el momento en que el Presidente o Vicepresidente manifestaran su interés en ser candidatos. En conclusión, la Corte dio luz verde a la Ley de Garantías Electorales, ajustando ciertos artículos a parámetros de igualdad, imparcialidad y transparencia electoral.",
+    "english": "Ruling C-1153 of 2005 corresponds to the prior constitutional review of the Statutory Bill No. 216/05 Senate, No. 235-Chamber, which regulates the election of the President of the Republic in accordance with Article 152(f) of the Constitution and Legislative Act 02 of 2004, which allowed immediate presidential reelection. The Court examined the constitutionality of the legislative process, the contents of the bill, and the objections raised by various actors. The Court declared the bill generally constitutional but struck down or conditioned the constitutionality of several specific provisions. For example, it invalidated provisions that granted excessive campaign privileges to the incumbent president-candidate, undermining electoral equality. It also upheld some articles with the condition that restrictions apply from the moment the President or Vice President formally express their intention to run. In sum, the Court approved the Statutory Law on Electoral Guarantees, while adjusting specific articles to ensure fairness, neutrality, and transparency in presidential campaigns."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 40, 107, 109, 110, 112, 127, 152, 153, 197, 228, 241, 243, 265],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Luis Hernando Angarita Figueredo",
+      "affiliation": "Viceministerio del Interior"
+    },
+    {
+      "name": "Karin Irina Kuhfeldt Salazar",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Jorge Figueroa Clausen",
+      "affiliation": "Comisión Nacional de Televisión"
+    },
+    {
+      "name": "César Gaviria Trujillo",
+      "affiliation": "Partido Liberal Colombiano"
+    },
+    {
+      "name": "Alejandro Venegas Franco",
+      "affiliation": "Universidad Colegio Mayor de Nuestra Señora del Rosario"
+    },
+    {
+      "name": "Nora Sanín de Saffon",
+      "affiliation": "ANDIARIOS"
+    },
+    {
+      "name": "Sergio Arboleda Casas",
+      "affiliation": "ASOMEDIOS"
+    },
+    {
+      "name": "Paulo Andrés Medina López",
+      "affiliation": ""
+    },
+    {
+      "name": "Oswaldo Darío Martínez Betancourt",
+      "affiliation": ""
+    },
+    {
+      "name": "Eduardo Enríquez Maya",
+      "affiliation": ""
+    },
+    {
+      "name": "Guillermo Francisco Reyes González",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-1153-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1153-05.htm"
+}

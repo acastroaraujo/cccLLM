@@ -1,0 +1,148 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó la revisión previa del proyecto de ley estatutaria No. 142/02 Senado y No. 005/02 Cámara, “Por la cual se reglamenta el artículo 30 de la Constitución Política”, relativo al habeas corpus. En 2003, la Corte había devuelto el proyecto al Congreso por un vicio de procedimiento subsanable: no se acreditó debidamente que se hubiera aprobado por mayoría absoluta en la Cámara. Al revisar la nueva actuación, la Corte encontró que el Congreso incurrió en un nuevo y más grave vicio: no se reanudó correctamente el trámite legislativo en el Senado, sino que se aprobó el texto en plenaria sin los debates previos exigidos. Por tanto, se consideró que no se cumplieron los cuatro debates exigidos por la Constitución, lo cual constituye un vicio insubsanable en el procedimiento. Como resultado, la Corte declaró la inexequibilidad del proyecto de ley.",
+    "english": "The Constitutional Court conducted the prior review of Statutory Bill No. 142/02 Senate and No. 005/02 House, which regulated Article 30 of the Constitution concerning habeas corpus. In 2003, the Court had returned the bill to Congress due to a procedural defect: it had not been properly approved by an absolute majority in the House. Upon reviewing the new legislative actions, the Court found that Congress had committed a more serious procedural violation: it bypassed the required Senate debates and approved the bill directly in plenary session. Consequently, the Court ruled that the constitutionally required four debates had not been fulfilled, constituting an irremediable procedural flaw. As a result, the Court declared the bill unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JAIME ARAÚJO RENTERIA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ÁLVARO TAFUR GALVIS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [30, 85, 86, 93, 153, 157, 228, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Darío Garzón Garzón",
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Pablo Camargo",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Alberto García Forero",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Enrique Valencia",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Juan Carlos Prias",
+      "affiliation": "Academia Colombiana de Jurisprudencia"
+    },
+    {
+      "name": "Augusto José Ibáñez Guzmán",
+      "affiliation": "Instituto Colombiano de Derecho Procesal"
+    },
+    {
+      "name": "Carlos Rodríguez Mejía",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Juliana Cano Nieto",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Juan Manuel Charry Urueña",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Aura Ximena Osorio Torres",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "Ricardo León Molina",
+      "affiliation": "Universidad Pontificia Bolivariana de Medellín"
+    },
+    {
+      "name": "Camilo Ospina Bernal",
+      "affiliation": "Presidencia de la República"
+    },
+    {
+      "name": "Ana Lucía Gutiérrez Guingue",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "Luis Camilo Osorio Isaza",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "Olga Lucía Gaitán García",
+      "affiliation": "Defensoría del Pueblo"
+    }
+  ],
+  "id": "C-1056-04",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2004/C-1056-04.htm"
+}
