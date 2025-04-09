@@ -1,0 +1,158 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional revisó el Proyecto de Ley Estatutaria número 65 de 2012 Senado y 227 de 2013 Cámara, que regula el derecho fundamental de petición y modifica el Código de Procedimiento Administrativo y de lo Contencioso Administrativo. El examen incluyó una revisión del trámite legislativo y del contenido material de los artículos. Se recibieron múltiples intervenciones de entidades estatales, organizaciones académicas y ciudadanos. La Corte declaró la exequibilidad general del proyecto y la mayoría de sus artículos, con algunas excepciones y condicionamientos en artículos específicos, como los artículos 13, 15, 16, 22, 24, 26, 31 y 32, donde se declararon inconstitucionales ciertas expresiones o se condicionó su interpretación. La sentencia determinó que el proyecto fue expedido conforme al procedimiento constitucional y que en su mayor parte es compatible con la Carta Política.",
+    "english": "The Constitutional Court reviewed Statutory Law Bill No. 65 of 2012 Senate and No. 227 of 2013 House, which regulates the fundamental right of petition and modifies the Code of Administrative and Contentious Administrative Procedure. The Court examined both the legislative procedure and substantive content of the bill, receiving interventions from state entities, academic organizations, and individual citizens. The Court declared the bill generally constitutional, including most of its articles, with some exceptions and conditions applied to specific provisions such as Articles 13, 15, 16, 22, 24, 26, 31, and 32. It ruled that the legislative process complied with constitutional requirements and that the bill is mostly compatible with the Political Constitution."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Martha Victoria Sáchica Méndez",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": true,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 15, 16, 22, 24, 26, 29, 31, 32],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-274 de 2013"
+  ],
+  "amicus": [
+    {
+      "name": "Fernando Arévalo Carrascal",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "Luis Manuel Castro Novoa",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Carlos Alberto Zapata Cárdenas",
+      "affiliation": "Archivo General de la Nación"
+    },
+    {
+      "name": "Rafael Mejía López",
+      "affiliation": "Consejo Gremial Nacional"
+    },
+    {
+      "name": "Sandra Forero Ramírez",
+      "affiliation": "Consejo Gremial Nacional"
+    },
+    {
+      "name": "Rodrigo Uprimny Yepes",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "Vivian Newman",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "Nathalia Sandoval",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "Paula Rangel",
+      "affiliation": "Dejusticia"
+    },
+    {
+      "name": "Pedro Vaca Villarreal",
+      "affiliation": "FLIP"
+    },
+    {
+      "name": "Emmanuel Vargas",
+      "affiliation": "FLIP"
+    },
+    {
+      "name": "Camilo Guzmán Gómez",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Jorge Keneth Burbano Villamarín",
+      "affiliation": "Universidad Libre"
+    },
+    {
+      "name": "José Octavio Zuluaga",
+      "affiliation": ""
+    },
+    {
+      "name": "Jhon Jairo Morales Alzate",
+      "affiliation": "Universidad Santo Tomás"
+    },
+    {
+      "name": "Carlos Rodríguez Mejía",
+      "affiliation": "Universidad Santo Tomás"
+    },
+    {
+      "name": "Alberto Montaña Plata",
+      "affiliation": "Universidad Externado de Colombia"
+    }
+  ],
+  "id": "C-951-14",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2014/C-951-14.htm"
+}

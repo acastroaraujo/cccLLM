@@ -1,0 +1,100 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el Acto Legislativo 02 de 2003, mediante el cual se modificaron los artículos 15, 24, 28 y 250 de la Constitución para enfrentar el terrorismo. Las demandas, interpuestas por Gustavo Gallón Giraldo y otros ciudadanos, así como por Wilson Alfonso Borja Díaz, alegaban vicios tanto de procedimiento como de competencia. La Corte, tras un amplio análisis del trámite legislativo, encontró que durante el sexto debate en la segunda vuelta, en la Cámara de Representantes, se cometieron irregularidades insubsanables que comprometieron gravemente la formación de la voluntad democrática del Congreso, lo que condujo a la declaración de inexequibilidad del acto reformatorio. La Corte se abstuvo de pronunciarse sobre los vicios de competencia dado que la decisión de inexequibilidad se fundamentó exclusivamente en vicios de procedimiento. Se presentaron aclaraciones y salvamentos de voto. La intervención del Ministerio del Interior y de Justicia y del Ministerio de Defensa defendió la exequibilidad del acto, mientras que el Procurador General solicitó su inexequibilidad por vicios de forma y de fondo.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against Legislative Act 02 of 2003, which amended Articles 15, 24, 28, and 250 of the Colombian Constitution to address terrorism. The lawsuits, filed by Gustavo Gallón Giraldo and other citizens, as well as Wilson Alfonso Borja Díaz, alleged procedural and competence-related flaws. The Court found that serious procedural irregularities occurred during the sixth debate of the second round in the House of Representatives, which compromised the democratic will formation of Congress. As a result, the Court declared the legislative act unconstitutional. It refrained from addressing issues of legislative competence, since the ruling was based solely on procedural grounds. The ruling included concurring and dissenting opinions. The Ministry of Interior and Justice and the Ministry of Defense defended the act’s constitutionality, while the Attorney General requested its invalidation due to procedural and substantive defects."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JAIME ARAUJO RENTERÍA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MANUEL JOSE CEPEDA ESPINOSA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CORDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO UPRIMNY YEPES",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [15, 24, 28, 250],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Fernando Gómez Mejía",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "Sandra Marcela Parada Acero",
+      "affiliation": "Ministerio de Defensa Nacional"
+    },
+    {
+      "name": "Edgardo José Maya Villazón",
+      "affiliation": "Procuraduría General de la Nación"
+    }
+  ],
+  "id": "C-816-04",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2004/C-816-04.htm"
+}

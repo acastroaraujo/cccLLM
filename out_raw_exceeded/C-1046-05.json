@@ -1,0 +1,133 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad presentada por el ciudadano Rafael Ballén Molina contra el Acto Legislativo No. 02 de 2004, que modificó varios artículos de la Constitución, permitiendo la reelección presidencial inmediata. El demandante alegó que dicho acto legislativo implicaba una sustitución de la Constitución, superando los límites competenciales del Congreso. Sin embargo, la Corte encontró que ya se había pronunciado sobre la exequibilidad de este acto legislativo en las sentencias C-1040 y C-1043 de 2005. En consecuencia, aplicando el principio de cosa juzgada constitucional, decidió estarse a lo resuelto en dichas sentencias previas y reafirmó la exequibilidad del Acto Legislativo No. 02 de 2004.",
+    "english": "The Constitutional Court ruled on a constitutional challenge brought by citizen Rafael Ballén Molina against Legislative Act No. 02 of 2004, which amended several articles of the Constitution to allow immediate presidential re-election. The plaintiff argued that the act amounted to a constitutional substitution, exceeding the Congress's authority. However, the Court noted that it had already ruled on the constitutionality of this legislative act in judgments C-1040 and C-1043 of 2005. Therefore, invoking the principle of constitutional res judicata, the Court decided to abide by those previous rulings and reaffirmed the constitutionality of Legislative Act No. 02 of 2004."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAUJO RENTERÍA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO SIERRA PORTO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1, 2, 5, 13, 40, 109, 111, 112, 114, 123, 127, 150, 152, 153, 157, 158, 160, 165, 166, 167, 168, 179, 189, 197, 204, 209, 219, 228, 233, 237, 239, 241, 242, 243, 258, 274, 276, 281, 303, 304, 315, 340, 341, 346, 348, 370, 371, 372, 373, 374
+  ],
+  "rj": "sí",
+  "rj_citation_raw": [
+    "C-1040 de 2005",
+    "C-1043 de 2005"
+  ],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Sindicato de Servidores Públicos – Hospital Universitario del Valle"
+    },
+    {
+      "name": "Hernán Andrade Serrano",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Ricardo Barrios Zuluaga",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Franco Pineda",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Fernández Díaz",
+      "affiliation": "Universidad Popular del César"
+    },
+    {
+      "name": "Ramiro Bejarano Guzmán",
+      "affiliation": ""
+    },
+    {
+      "name": "Christian Fernando Cardona Nieto",
+      "affiliation": ""
+    },
+    {
+      "name": "Luis Humberto Gómez Gallo",
+      "affiliation": "Senado de la República"
+    },
+    {
+      "name": "Sabas Pretelt de la Vega",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "Angelino Garzón",
+      "affiliation": "Gobernación del Valle del Cauca"
+    }
+  ],
+  "id": "C-1046-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1046-05.htm"
+}

@@ -1,0 +1,116 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional llevó a cabo el control automático de constitucionalidad de la Ley 742 de 2002, mediante la cual se aprobó el Estatuto de Roma de la Corte Penal Internacional. La Corte examinó tanto los aspectos formales como los materiales del tratado y de su ley aprobatoria. Formalmente, concluyó que la ley cumplía con los requisitos constitucionales y legislativos. Materialmente, la Corte analizó los 'tratamientos diferentes' contenidos en el Estatuto —como la imprescriptibilidad de los crímenes, la cadena perpetua o la inadmisibilidad de doble juzgamiento en ciertas circunstancias— y los consideró válidos, ya que fueron autorizados por el Acto Legislativo 02 de 2001. Además, estableció criterios de interpretación para armonizar posibles tensiones entre el Estatuto y la Constitución, especialmente en materias como la prescripción de penas, la competencia de la CPI sobre colombianos, y los efectos del Estatuto en el ordenamiento interno. Finalmente, la Corte declaró la exequibilidad tanto de la Ley 742 como del Estatuto de Roma.",
+    "english": "The Constitutional Court of Colombia conducted an automatic constitutional review of Law 742 of 2002, which approved the Rome Statute of the International Criminal Court. The Court assessed both the formal and material aspects of the treaty and its enabling law. Formally, it found the law to be constitutionally compliant. On substance, it analyzed the 'special treatments' within the Statute —such as the non-applicability of statute of limitations, life imprisonment, and exceptions to double jeopardy— and deemed them permissible, having been authorized by Constitutional Amendment 02 of 2001. The Court also established interpretive criteria to reconcile potential conflicts between the Statute and the Colombian Constitution, particularly regarding sentencing, jurisdiction over nationals, and the Statute’s impact on domestic law. Ultimately, it declared both the law and the Rome Statute constitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Eduardo Montealegre Lynett",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 9, 34, 93, 150, 189, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Gustavo Gallón Giraldo",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Ernesto Rey Cantor",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Relaciones Exteriores"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio de Defensa Nacional"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Fiscalía General de la Nación"
+    }
+  ],
+  "id": "C-578-02",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2002/C-578-02.htm"
+}

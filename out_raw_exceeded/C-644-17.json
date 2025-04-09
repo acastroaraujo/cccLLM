@@ -1,0 +1,200 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional llevó a cabo el control automático, integral y posterior del Decreto Ley 870 de 2017, que establece el Pago por Servicios Ambientales (PSA) y otros incentivos a la conservación, expedido por el Presidente de la República con base en el artículo 2º del Acto Legislativo 01 de 2016. La Corte evaluó si el Decreto cumplía con los requisitos formales y de competencia, y concluyó que fue expedido correctamente en cuanto a suscripción, título, invocación de facultades y motivación. Asimismo, determinó que cumplía con los requisitos de temporalidad, conexidad y necesidad. En el análisis material, la Corte declaró la exequibilidad de la mayoría de los artículos del Decreto, aunque condicionó la constitucionalidad de algunas expresiones específicas en los artículos 2, 5 y 8, en particular aquellas relativas a las autorizaciones ambientales, bajo el entendido de que la autoridad ambiental competente debe avalar y monitorear los proyectos de PSA. También se aclaró que la implementación de estos proyectos en comunidades étnicas requiere consulta previa si resultan directamente afectadas.",
+    "english": "The Constitutional Court conducted an automatic, integral, and ex post review of Legislative Decree 870 of 2017, which establishes the Payment for Environmental Services (PES) and other conservation incentives, issued by the President of the Republic under Article 2 of Legislative Act 01 of 2016. The Court assessed whether the Decree met formal and competency requirements and concluded it was correctly issued regarding signature, title, invocation of powers, and justification. It also met requirements of temporality, connection to the peace agreement, and necessity. In its substantive review, the Court upheld the constitutionality of most of the decree’s articles but conditionally approved certain expressions in Articles 2, 5, and 8, especially those concerning environmental authorizations, clarifying that competent environmental authorities must oversee and authorize PES projects. It was further clarified that implementation in ethnic communities requires prior consultation if directly affected."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Luis Guillermo Guerrero Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Carlos Bernal Pulido",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alejandro Linares Cantillo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Antonio José Lizarazo Ocampo",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gloria Stella Ortiz Delgado",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "José Fernando Reyes Cuartas",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Cristina Pardo Schlesinger",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alberto Rojas Ríos",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Diana Fajardo Rivera",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 8, 115, 169, 330],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Oficina del Alto Comisionado para la Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro de Investigación y Educación Popular — CINEP"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro Internacional para la Justicia Transicional — ICTJ"
+    },
+    {
+      "name": "",
+      "affiliation": "Colombia Diversa"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Intereclesial de Justicia y Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad — Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas — CCJ"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Humanas"
+    },
+    {
+      "name": "",
+      "affiliation": "Ruta Pacífica de las Mujeres"
+    },
+    {
+      "name": "",
+      "affiliation": "Sisma Mujer"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro de Estudios para la Justicia Social — Tierra Digna"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Derecho Tributario — ICDT"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación Derechos para la Paz — Proyecto Planeta Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Foro Nacional Ambiental"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt"
+    },
+    {
+      "name": "",
+      "affiliation": "Corporación para el Desarrollo Sustentable — CORDES"
+    },
+    {
+      "name": "",
+      "affiliation": "Cinturón Occidental Ambiental — COA"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Defensores del Territorio Ambiental — ASODETEAM"
+    },
+    {
+      "name": "",
+      "affiliation": "WWF Colombia"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto de Estudios Ambientales de la Universidad Nacional — IDEA"
+    },
+    {
+      "name": "",
+      "affiliation": "Organización Nacional Indígena de Colombia — ONIC"
+    },
+    {
+      "name": "",
+      "affiliation": "Proceso de Comunidades Negras — PCN"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Usuarios Campesinos"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Nacional de Empresarios de Colombia — ANDI"
+    },
+    {
+      "name": "",
+      "affiliation": "Sociedad de Agricultores de Colombia — SAC"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Colombiana de Municipios"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Departamentos"
+    }
+  ],
+  "id": "C-644-17",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2017/C-644-17.htm"
+}

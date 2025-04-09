@@ -1,0 +1,110 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra los artículos 64, 66 y 68 (parciales) de la Ley 1098 de 2006, que regula la adopción en el Código de la Infancia y Adolescencia, y contra el artículo 1º (parcial) de la Ley 54 de 1990, sobre uniones maritales de hecho. Los demandantes alegaban que estas normas excluían implícitamente a las parejas del mismo sexo del régimen de adopción, vulnerando los derechos fundamentales de los menores a tener una familia y a ser protegidos bajo el principio de interés superior del menor (art. 44 CP), así como los derechos de igualdad y no discriminación (arts. 13 y 42 CP). La Corte encontró que aunque anteriormente había declarado la exequibilidad de estas normas (Sentencia C-071 de 2015), esa decisión tenía efectos de cosa juzgada relativa y no abordaba los cargos ahora planteados sobre el interés superior del menor. En consecuencia, la Corte declaró la exequibilidad condicionada de las normas demandadas, bajo el entendido de que también se aplican a las parejas del mismo sexo que conforman una familia, reconociendo su derecho a adoptar en protección del interés superior del menor.",
+    "english": "The Constitutional Court ruled on a constitutional challenge against partial provisions of Articles 64, 66, and 68 of Law 1098 of 2006, which regulates adoption in the Childhood and Adolescence Code, and against partial provisions of Article 1 of Law 54 of 1990, concerning de facto marital unions. The plaintiffs argued that these norms implicitly excluded same-sex couples from the adoption framework, violating the fundamental rights of children to have a family and to be protected under the principle of the best interests of the child (Art. 44 CP), as well as equality and non-discrimination rights (Arts. 13 and 42 CP). The Court noted that although it had previously upheld these norms as constitutional (Judgment C-071 of 2015), that ruling constituted relative res judicata and had not addressed the new claims regarding children's rights. Therefore, the Court declared the constitutionality of the contested norms, with the condition that they also apply to same-sex couples who form a family, thus affirming their right to adopt in protection of the best interests of the child."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARIA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "MYRIAM ÁVILA ROLDÁN",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTIZ DELGADO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [13, 42, 44],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-071 de 2015",
+    "C-075 de 2007"
+  ],
+  "amicus": [
+    { "name": "", "affiliation": "Ministerio de Salud y Protección Social"},
+    { "name": "", "affiliation": "Fiscalía General de la Nación"},
+    { "name": "", "affiliation": "Defensoría del Pueblo"},
+    { "name": "", "affiliation": "Instituto Colombiano de Bienestar Familiar"},
+    { "name": "", "affiliation": "Departamento Administrativo Nacional de Estadística — DANE"},
+    { "name": "", "affiliation": "Universidad Libre"},
+    { "name": "", "affiliation": "Universidad Autónoma de Bucaramanga"},
+    { "name": "", "affiliation": "Universidad de Medellín"},
+    { "name": "", "affiliation": "Universidad del Norte"},
+    { "name": "", "affiliation": "Universidad de La Sabana"},
+    { "name": "", "affiliation": "Institución Universitaria de Envigado"},
+    { "name": "", "affiliation": "Dejusticia" },
+    { "name": "", "affiliation": "Colombia Diversa" },
+    { "name": "", "affiliation": "Comisión Colombiana de Juristas" },
+    { "name": "", "affiliation": "Academia Colombiana de Jurisprudencia" },
+    { "name": "", "affiliation": "Asociación Probienestar de la Familia Colombiana — Profamilia" },
+    { "name": "", "affiliation": "Grupo de apoyo a mamás lesbianas" },
+    { "name": "", "affiliation": "Centro de estudios e intervenciones en Derechos Humanos – Diknos" },
+    { "name": "", "affiliation": "Iglesia Evangélica Luterana de Colombia" },
+    { "name": "", "affiliation": "Fundación para el Desarrollo de Políticas Sustentables" },
+    { "name": "", "affiliation": "Yarumal Crítica" },
+    { "name": "", "affiliation": "Instituto Williams" },
+    { "name": "", "affiliation": "Federación Argentina de Lesbianas, Gays, Bisexuales y Trans — FALGBT" },
+    { "name": "", "affiliation": "American University (EEUU)" },
+    { "name": "Javier Mauricio Rodríguez Olmos", "affiliation": "" },
+    { "name": "Alejandro Badillo Rodríguez y otros", "affiliation": "" },
+    { "name": "Carlos Fernando Reyes Moreno", "affiliation": "" }
+  ],
+  "id": "C-683-15",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-683-15.htm"
+}

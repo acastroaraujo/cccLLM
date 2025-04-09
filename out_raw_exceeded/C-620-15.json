@@ -1,0 +1,117 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional llevó a cabo la revisión de constitucionalidad del 'Protocolo Adicional al Acuerdo Marco de la Alianza del Pacífico', firmado en Cartagena de Indias el 10 de febrero de 2014, y su ley aprobatoria, la Ley 1746 del 26 de diciembre de 2014. La Sala Plena examinó que el proceso legislativo cumplió con los requisitos formales: anuncio previo, quórum, votación y publicación. La Corte destacó que, aunque el tratado compromete al Estado colombiano en su conjunto, deben garantizarse mecanismos de participación para las comunidades del litoral Pacífico que podrían verse afectadas. También subrayó que el control de constitucionalidad de tratados de libre comercio debe ser más riguroso cuando estos inciden sobre principios o derechos fundamentales. Se concluyó que el tratado no fue improvisado, sino resultado de una planificación estratégica para fomentar el comercio con Asia-Pacífico, incluyendo medidas de protección para sectores sensibles. Finalmente, la Corte declaró exequibles tanto la ley aprobatoria como el protocolo adicional.",
+    "english": "The Constitutional Court reviewed the constitutionality of the 'Additional Protocol to the Framework Agreement of the Pacific Alliance', signed in Cartagena de Indias on February 10, 2014, and its approving law, Law 1746 of December 26, 2014. The Full Chamber verified that the legislative process met formal requirements: prior announcement, quorum, voting, and publication. The Court emphasized that while the treaty binds the Colombian state broadly, mechanisms for participation of Pacific coastal communities must be ensured. It also noted that constitutional review of free trade agreements must be stricter when they affect fundamental rights or constitutional principles. The Court found the agreement to be strategically planned, not improvised, and designed to strengthen trade with Asia-Pacific, including safeguards for sensitive sectors. It ultimately declared both the approving law and the additional protocol constitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GLORIA STELLA ORTÍZ DELGADO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+      {
+        "name": "",
+        "affiliation": "Ministerio de Comercio, Industria y Turismo"
+      },
+      {
+        "name": "",
+        "affiliation": "Ministerio de Ambiente y Desarrollo Sostenible"
+      },
+      {
+        "name": "",
+        "affiliation": "Ministerio del Interior"
+      },
+      {
+        "name": "",
+        "affiliation": "Ministerio de Relaciones Exteriores"
+      },
+      {
+        "name": "",
+        "affiliation": "Organización Nacional Indígena de Colombia — ONIC"
+      },
+      {
+        "name": "",
+        "affiliation": "Asociación Nacional de Empresarios de Colombia — ANDI"
+      },
+      {
+        "name": "",
+        "affiliation": "Asociación Nacional de Comercio Exterior"
+      },
+      {
+        "name": "",
+        "affiliation": "Universidad Nacional de Colombia"
+      },
+      {
+        "name": "",
+        "affiliation": "Universidad Santo Tomás"
+      },
+      {
+        "name": "",
+        "affiliation": "Universidad del Cauca"
+      },
+      {
+        "name": "Andrés Espinosa Fenwarth",
+        "affiliation": ""
+      }
+    ],
+    "id": "C-620-15",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-620-15.htm"
+}
+  
