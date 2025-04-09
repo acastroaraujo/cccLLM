@@ -1,0 +1,140 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-748 de 2011 resolvió el control de constitucionalidad del Proyecto de Ley Estatutaria No. 184 de 2010 Senado; 046 de 2010 Cámara, 'por la cual se dictan disposiciones generales para la protección de datos personales'. El proyecto fue remitido a la Corte por el Presidente del Senado para su revisión previa, conforme al artículo 241-8 de la Constitución. La Corte examinó tanto los aspectos formales como materiales del proyecto, encontrando que en términos generales cumplía con los requisitos constitucionales, aunque identificó vicios de procedimiento en la aprobación de los artículos 29, 30 y 31, que fueron declarados inexequibles. También declaró inexequibles expresiones específicas de otros artículos por exceder los límites constitucionales, especialmente en lo relacionado con la autorización del tratamiento de datos personales y la competencia reglamentaria del Gobierno. Asimismo, estableció condiciones interpretativas para algunas disposiciones, como las relativas a la revocatoria del consentimiento por parte de los titulares. Finalmente, la Corte declaró exequibles la mayoría de los artículos, y reafirmó que el derecho al habeas data tiene un carácter fundamental autónomo que requiere regulación específica y garantías institucionales.",
+    "english": "Ruling C-748 of 2011 addressed the constitutional review of the Statutory Bill No. 184 of 2010 Senate; 046 of 2010 House, 'which establishes general provisions for the protection of personal data.' The bill was submitted by the Senate President to the Constitutional Court for prior review, pursuant to Article 241-8 of the Constitution. The Court reviewed both formal and substantive aspects of the bill, generally finding that it met constitutional requirements, but identified procedural flaws in the approval of Articles 29, 30, and 31, which were declared unconstitutional. Specific expressions in other articles were also struck down for exceeding constitutional limits, particularly regarding consent for personal data processing and the regulatory powers of the Government. The Court imposed interpretative conditions on some provisions, such as those regarding the withdrawal of consent by data holders. Most of the articles were upheld as constitutional, and the Court reaffirmed that the right to habeas data is an autonomous fundamental right requiring specialized regulation and institutional guarantees."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Juan Carlos Henao Pérez",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "María Victoria Calle Correa",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Gabriel Eduardo Mendoza Martelo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Iván Palacio Palacio",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jorge Ignacio Pretelt Chaljub",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Luis Ernesto Vargas Silva",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [15, 153, 160, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio de Industria, Comercio y Turismo"
+    },
+    {
+      "name": "",
+      "affiliation": "Secretaría Jurídica de la Presidencia de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Juanita Durán Vélez",
+      "affiliation": ""
+    },
+    {
+      "name": "Santiago Diazgranados Mesa",
+      "affiliation": ""
+    },
+    {
+      "name": "Alejandro Salas Pretelt",
+      "affiliation": ""
+    },
+    {
+      "name": "Rolfe Hernando González Sosa",
+      "affiliation": ""
+    },
+    {
+      "name": "María Lorena Flórez Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación para la Libertad de Prensa (FLIP)"
+    },
+    {
+      "name": "",
+      "affiliation": "Computec S.A. – Datacrédito"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Empresas de Medicina Integral – ACEMI"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Bancaria de Colombia y Entidades Financieras – ASOBANCARIA"
+    }
+  ],
+  "id": "C-748-11",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2011/C-748-11.htm"
+}

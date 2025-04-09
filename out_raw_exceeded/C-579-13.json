@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra el artículo 1º del Acto Legislativo 01 de 2012, centrada en las expresiones “máximos”, “cometidos de manera sistemática” y “todos los”. Los demandantes argumentaron que tales términos sustituían el pilar constitucional del deber estatal de garantizar los derechos humanos y de investigar y sancionar graves violaciones a los derechos humanos y al Derecho Internacional Humanitario. La Corte, luego de analizar los cargos mediante un juicio de sustitución, concluyó que los mecanismos de justicia transicional contemplados en el Acto Legislativo no sustituían la Constitución, siempre que cumplieran ciertos parámetros y condicionamientos. Entre estos se incluye el juzgamiento de los máximos responsables de crímenes de lesa humanidad, genocidio y crímenes de guerra cometidos de manera sistemática, y la aplicación de mecanismos extrajudiciales de esclarecimiento de la verdad. Asimismo, se estableció que la renuncia condicionada a la persecución penal debe cumplir requisitos como la dejación de armas, reconocimiento de responsabilidad y contribución al esclarecimiento de la verdad. La Corte validó estos mecanismos como parte de un modelo de justicia transicional orientado a una paz estable y duradera.",
+    "english": "The Constitutional Court reviewed a challenge of unconstitutionality against Article 1 of Legislative Act 01 of 2012, focusing on the expressions 'maximum', 'committed systematically', and 'all of'. The plaintiffs argued that these expressions substituted a core constitutional pillar: the State’s duty to guarantee human rights and investigate and punish serious violations of human rights and International Humanitarian Law. The Court, using a substitution analysis, concluded that the transitional justice mechanisms established by the Legislative Act do not substitute the Constitution, as long as they meet certain conditions. These include prosecuting top perpetrators of crimes against humanity, genocide, and systematically committed war crimes, and implementing non-judicial mechanisms to clarify the truth. The conditional waiver of prosecution is only valid if certain criteria are met, such as disarmament, acknowledgment of responsibility, and contribution to truth and reparations. The Court found these mechanisms compatible with a transitional justice model aimed at achieving a stable and lasting peace."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MAURICIO GONZÁLEZ CUERVO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "NILSON PINILLA PINILLA",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GABRIEL EDUARDO MENDOZA MARTELO",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS ERNESTO VARGAS SILVA",
+      "av": true,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 12, 29, 93, 228, 229],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Jorge Armando Otálora Gómez",
+      "affiliation": "Defensor del Pueblo"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad — Dejusticia"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación Ideas para la Paz"
+    },
+    {
+      "name": "",
+      "affiliation": "Centro Internacional para la Justicia Transicional — ICTJ"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Libre, sede Bogotá"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Pontificia Universidad Javeriana"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Fatou Bensouda",
+      "affiliation": "Fiscal de la Corte Penal Internacional"
+    }
+  ],
+  "id": "C-579-13",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2013/C-579-13.htm"
+}

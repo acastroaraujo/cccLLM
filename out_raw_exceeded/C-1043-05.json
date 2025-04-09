@@ -1,0 +1,94 @@
+{
+  "summary": {
+    "spanish": "La sentencia C-1043 de 2005 resuelve una demanda de inconstitucionalidad presentada por el ciudadano Pedro Pablo Camargo contra el Acto Legislativo 02 de 2004, que introdujo la reelección presidencial inmediata en Colombia. La Corte analizó múltiples cargos relacionados con vicios de procedimiento en la formación del acto legislativo, como la indebida tramitación de recusaciones e impedimentos de congresistas, la falta de participación ciudadana efectiva, y la supuesta intervención indebida del Gobierno Nacional. En relación con la mayoría de estos cargos, la Corte decidió aplicar cosa juzgada constitucional, remitiéndose a lo ya resuelto en las sentencias C-1040 y C-1041 de 2005. Declaró la exequibilidad del acto legislativo frente a los cargos que sí analizó de fondo, relacionados con las recusaciones de las representantes Yidis Medina y Zulema Jattin, y la participación ciudadana. Respecto al cargo por participación indebida del Gobierno, se inhibió por falta de precisión en la demanda. En consecuencia, el Acto Legislativo 02 de 2004 fue declarado exequible, salvo en los aspectos ya juzgados por la Corte en decisiones anteriores.",
+    "english": "Ruling C-1043 of 2005 addresses a constitutional challenge filed by citizen Pedro Pablo Camargo against Legislative Act 02 of 2004, which introduced immediate presidential re-election in Colombia. The Constitutional Court analyzed various allegations of procedural flaws in the enactment of the legislative act, including mishandled recusals and disqualifications of congress members, lack of effective citizen participation, and alleged undue intervention by the National Government. For most of these charges, the Court invoked constitutional res judicata, referring to its prior decisions in rulings C-1040 and C-1041 of 2005. The Court declared the legislative act constitutional in regard to the claims it reviewed substantively, which involved the recusals of representatives Yidis Medina and Zulema Jattin and issues of public participation. It refrained from ruling on the charge of undue governmental intervention due to a lack of specificity in the claim. Consequently, Legislative Act 02 of 2004 was declared constitutional, except in those aspects previously judged by the Court."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Sierra Porto",
+      "av": true,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [241, 242, 379],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-1040 de 2005",
+    "C-1041 de 2005"
+  ],
+  "amicus": [
+    { "name": "", "affiliation": "Ministerio del Interior y de Justicia"},
+    { "name": "Luis Carlos Sáchica Aponte", "affiliation": ""},
+    { "name": "Mauricio González Cuervo", "affiliation": ""}
+  ],
+  "id": "C-1043-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1043-05.htm"
+}

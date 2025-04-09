@@ -1,0 +1,184 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó la revisión del Proyecto de Ley Estatutaria No. 27/06 Senado – 221/07 Cámara, conocido como la Ley de Habeas Data, que regula el manejo de datos personales, especialmente financieros y crediticios. Diversas entidades estatales, académicas y ciudadanos intervinieron expresando posturas a favor y en contra del proyecto, señalando posibles violaciones constitucionales, principalmente al artículo 15 de la Constitución. La Corte declaró la exequibilidad del proyecto en términos generales, pero condicionó la interpretación de varios artículos para asegurar su conformidad con la Constitución. Entre otros, estableció límites a la permanencia de datos negativos en bases de datos y clarificó las obligaciones de entidades públicas en cuanto al uso de información personal.",
+    "english": "The Constitutional Court reviewed the Statutory Bill No. 27/06 Senate – 221/07 House, known as the Habeas Data Law, which regulates the management of personal data, especially financial and credit information. Various state entities, academic institutions, and citizens participated, expressing support and constitutional concerns, mostly regarding Article 15 of the Constitution. The Court upheld the law’s general constitutionality but conditioned the interpretation of several articles to ensure compliance with constitutional standards. It set limits on the retention of negative credit information and clarified the obligations of public entities when accessing personal data."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 13, 15, 20, 83, 152, 153, 160, 169, 189, 338],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Defensoría del Pueblo"
+    },
+    {
+      "name": "Luis Fernando Velasco",
+      "affiliation": "Senador"
+    },
+    {
+      "name": "Juan Fernando Cristo",
+      "affiliation": "Senador"
+    },
+    {
+      "name": "Nelson Remolina Angarita",
+      "affiliation": "Universidad de los Andes"
+    },
+    {
+      "name": "Juan Jacobo Calderón Villegas",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Javier Mendoza Gaviria",
+      "affiliation": "Universidad Icesi"
+    },
+    {
+      "name": "Douglas Velásquez Jácome",
+      "affiliation": ""
+    },
+    {
+      "name": "Jorge Arango Mejía",
+      "affiliation": ""
+    },
+    {
+      "name": "Hernando Herrera Vergara",
+      "affiliation": ""
+    },
+    {
+      "name": "Fernando Martínez Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "Juan Manuel Charry Urueña",
+      "affiliation": ""
+    },
+    {
+      "name": "Inés Jaramillo Murillo",
+      "affiliation": ""
+    },
+    {
+      "name": "Santiago Jaramillo Caro",
+      "affiliation": ""
+    },
+    {
+      "name": "Franky Urrego Ortiz",
+      "affiliation": ""
+    },
+    {
+      "name": "Diógenes Escobar",
+      "affiliation": ""
+    },
+    {
+      "name": "Pedro Pablo Camargo",
+      "affiliation": ""
+    },
+    {
+      "name": "Alba Alcira Vargas Valderrama",
+      "affiliation": ""
+    },
+    {
+      "name": "David Luna Ortiz",
+      "affiliation": "Representante a la Cámara"
+    },
+    {
+      "name": "Lorenzo Villegas Carrasquilla",
+      "affiliation": "Comisión de Regulación de Telecomunicaciones"
+    },
+    {
+      "name": "Eugenio Marulanda Gómez",
+      "affiliation": "Confederación Colombiana de Cámaras de Comercio"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Colombiana de Call Centers"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación Bancaria y de Entidades Financieras de Colombia — Asobancaria"
+    },
+    {
+      "name": "",
+      "affiliation": "Comisión Colombiana de Juristas — CCJ"
+    },
+    {
+      "name": "",
+      "affiliation": "Fundación para la Educación Superior y el Desarrollo"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación Nacional de Comerciantes — Fenalco"
+    },
+    {
+      "name": "",
+      "affiliation": "Computec S.A. – Datacrédito"
+    },
+    {
+      "name": "",
+      "affiliation": "Federación de Aseguradores Colombianos — Fasecolda"
+    },
+    {
+      "name": "",
+      "affiliation": "Asociación para el Fomento de la Información Comercial y el Crédito"
+    }
+  ],
+  "id": "C-1011-08",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-1011-08.htm"
+}

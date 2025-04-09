@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control previo de constitucionalidad del proyecto de ley estatutaria No. 023 de 2006 Senado y No. 286 de 2007 Cámara, por medio del cual se reforma la Ley 270 de 1996, Estatutaria de la Administración de Justicia. La revisión se enfocó tanto en aspectos formales del trámite legislativo como en el contenido material del proyecto. La Corte concluyó que el proyecto cumplió con los requisitos constitucionales, incluyendo publicación previa, anuncio previo de votación, unidad de materia, consecutividad e identidad, entre otros. Como resultado, la Corte declaró la exequibilidad de la mayoría de las disposiciones del proyecto, pero también declaró inexequibles ciertas expresiones específicas de varios artículos por contrariar la Constitución. La decisión también estableció condicionamientos para la interpretación de algunas disposiciones.",
+    "english": "The Constitutional Court conducted the prior constitutional review of Statutory Law Bill No. 023 of 2006 Senate and No. 286 of 2007 House, which seeks to amend Law 270 of 1996 on the Statutory Law of the Administration of Justice. The review included both the formal legislative process and the material content of the bill. The Court found that the bill met all constitutional requirements, including prior publication, prior announcement of voting, unity of subject matter, consecutiveness, and identity. As a result, the Court upheld the constitutionality of most provisions but struck down specific phrases in several articles for violating the Constitution. It also imposed interpretive conditions on certain provisions."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": true,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Pinilla Pinilla",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [153, 157, 145, 146, 160, 241],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "Pedro Pablo Camargo",
+      "affiliation": ""
+    },
+    {
+      "name": "Ramiro Ignacio Dueñas Rugnon",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Fiscalía General de la Nación"
+    },
+    {
+      "name": "",
+      "affiliation": "Instituto Colombiano de Derecho Procesal"
+    },
+    {
+      "name": "",
+      "affiliation": "Consejo de Estado"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Franky Urrego Ortíz",
+      "affiliation": ""
+    },
+    {
+      "name": "",
+      "affiliation": "Consejo Superior de la Judicatura"
+    }
+  ],
+  "id": "C-713-08", 
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-713-08.htm"
+}

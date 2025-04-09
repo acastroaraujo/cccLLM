@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad contra varios artículos de la Ley 1592 de 2012, presentada por ciudadanos que argumentaban que las normas afectaban los derechos de las víctimas del conflicto armado a la verdad, la justicia, la reparación y la no repetición. La Corte encontró que varios cargos ya habían sido resueltos en sentencias anteriores (C-180/14 y C-286/14), configurándose la cosa juzgada parcial respecto a algunos artículos. Para el resto, la Corte realizó un análisis detallado de constitucionalidad, declarando la exequibilidad o inexequibilidad según el caso. En particular, se reafirmó que la reparación a víctimas debe mantenerse en la esfera judicial y no meramente administrativa, y se garantizó la participación efectiva de las víctimas en procesos como la entrega de bienes, la terminación anticipada del proceso, y el incidente de reparación integral.",
+    "english": "The Constitutional Court reviewed a constitutional challenge against several provisions of Law 1592 of 2012, filed by citizens who claimed that the norms violated victims' rights to truth, justice, reparation, and non-repetition. The Court determined that several of the issues had already been resolved in prior rulings (C-180/14 and C-286/14), leading to partial res judicata regarding some provisions. For the rest, the Court conducted a detailed constitutional review, declaring provisions either enforceable or unenforceable as appropriate. Notably, the Court reaffirmed that victim reparation must remain within the judicial sphere rather than being exclusively administrative, and it upheld victims’ rights to participate meaningfully in processes like asset restitution, early termination of proceedings, and reparations hearings."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MARÍA VICTORIA CALLE CORREA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": true,
+      "conjuez": false
+    },
+    {
+      "name": "LUIS GUILLERMO GUERRERO PÉREZ",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IGNACIO PRETELT CHALJUB",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALBERTO ROJAS RÍOS",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "GUSTAVO CUELLO IRIARTE",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    },
+    {
+      "name": "ENRIQUE GIL BOTERO",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": true
+    }
+  ],
+  "articles": [1, 2, 4, 5, 7, 8, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 22, 23, 24, 26, 27, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 41, 93, 113, 116, 118, 228, 229, 250],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-180 de 2014",
+    "C-286 de 2014",
+    "C-370 de 2006"
+  ],
+  "amicus": [
+    {
+      "name": "Miguel Samper Strauss",
+      "affiliation": "Ministerio de Justicia y del Derecho"
+    },
+    {
+      "name": "Andrés Bernal Morales",
+      "affiliation": "Ministerio de Agricultura y Desarrollo Rural"
+    },
+    {
+      "name": "Orlando Gallo Suárez",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Carolina Rosas Díaz",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "Jorge Kenneth Burbano Villamarín",
+      "affiliation": "Universidad Libre de Bogotá"
+    },
+    {
+      "name": "Mary de la Libertad Díaz Márquez",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Juan Camilo Rivera Rugeles",
+      "affiliation": "Comisión Colombiana de Juristas"
+    },
+    {
+      "name": "Julián Hoyos Bucheli",
+      "affiliation": "Universidad del Rosario"
+    },
+    {
+      "name": "Nelson Javier Alvarado Zabala",
+      "affiliation": "Ministerio de Hacienda y Crédito Público"
+    }
+  ],
+  "id": "C-694-15",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2015/C-694-15.htm"
+}

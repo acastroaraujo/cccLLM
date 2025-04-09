@@ -1,0 +1,136 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad presentada por la ciudadana Blanca Linday Enciso contra el Acto Legislativo No. 02 de 2004, el cual introdujo la posibilidad de la reelección presidencial inmediata. La demandante alegaba vicios de procedimiento y competencia, argumentando que el Congreso sustituyó parcialmente la Constitución al modificar su estructura básica. Tras un análisis exhaustivo del trámite legislativo y la doctrina sobre la sustitución de la Constitución, la Corte concluyó que la reforma no implicó una sustitución total ni parcial de la Carta de 1991. Sin embargo, encontró que un apartado específico del parágrafo transitorio del artículo 4º, que otorgaba al Consejo de Estado la facultad de reglamentar una materia en caso de omisión del Congreso, sí constituía una sustitución del principio de supremacía constitucional y, por lo tanto, lo declaró inexequible. En consecuencia, el resto del Acto Legislativo fue declarado exequible.",
+    "english": "The Constitutional Court ruled on a constitutional challenge filed by citizen Blanca Linday Enciso against Legislative Act No. 02 of 2004, which introduced the possibility of immediate presidential reelection. The plaintiff alleged procedural and competence-related flaws, arguing that Congress had partially substituted the Constitution by altering its basic structure. After thoroughly analyzing the legislative procedure and the doctrine of constitutional substitution, the Court concluded that the reform did not result in a total or partial replacement of the 1991 Constitution. However, it found that a specific clause in the transitory paragraph of Article 4, which granted the Council of State the power to regulate a matter in case of congressional inaction, did substitute the principle of constitutional supremacy and therefore declared it unconstitutional. As a result, the rest of the Legislative Act was declared constitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araújo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Alfredo Beltrán Sierra",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Álvaro Tafur Galvis",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": true,
+      "sv": true,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [241, 242, 376, 379],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    {
+      "name": "Juan Bautista Rivas Ramos",
+      "affiliation": ""
+    },
+    {
+      "name": "Carlos Lozano",
+      "affiliation": ""
+    },
+    {
+      "name": "Yubely Muñoz",
+      "affiliation": ""
+    },
+    {
+      "name": "Anderson Rojas",
+      "affiliation": ""
+    },
+    {
+      "name": "Manuel Fernández Díaz",
+      "affiliation": "Universidad Popular del César"
+    },
+    {
+      "name": "Angelino Garzón",
+      "affiliation": "Gobernador del Departamento del Valle del Cauca"
+    },
+    {
+      "name": "Luis Humberto Gómez Gallo",
+      "affiliation": "Presidente del Congreso de la República"
+    },
+    {
+      "name": "",
+      "affiliation": "Ministerio del Interior y de Justicia"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad Sergio Arboleda"
+    },
+    {
+      "name": "",
+      "affiliation": "Universidad del Norte"
+    },
+    {
+      "name": "Johan David Saldaña",
+      "affiliation": ""
+    },
+    {
+      "name": "Ramiro Bejarano Guzmán",
+      "affiliation": ""
+    }
+  ],
+  "id": "C-1040-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1040-05.htm"
+}

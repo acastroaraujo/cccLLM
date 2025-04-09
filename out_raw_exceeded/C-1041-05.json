@@ -1,0 +1,107 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional resolvió una demanda de inconstitucionalidad presentada por el ciudadano Wilson Alfonso Borja Díaz contra el Acto Legislativo No. 02 de 2004, que reformó varios artículos de la Constitución Política. La demanda alegaba vicios de procedimiento y de competencia, argumentando que dicho acto legislativo sustituía elementos esenciales de la Constitución al permitir la reelección presidencial inmediata. Entre las críticas del demandante se incluían la violación al principio de igualdad, el desequilibrio entre los poderes públicos y la supuesta usurpación de funciones del constituyente primario por parte del Congreso. La Sala Plena admitió inicialmente parte de los cargos y luego, tras una súplica, admitió la totalidad. Diversos ciudadanos e instituciones intervinieron como amicus curiae, con argumentos a favor y en contra de la exequibilidad del Acto Legislativo. Finalmente, la Corte resolvió declarar exequible el Acto Legislativo No. 02 de 2004 por el cargo evaluado (falta de debate en la Cámara en la primera vuelta), y respecto al resto de cargos decidió estarse a lo resuelto en la sentencia C-1040 de 2005, salvo por una cláusula que fue declarada inexequible.",
+    "english": "The Constitutional Court ruled on a constitutionality challenge filed by citizen Wilson Alfonso Borja Díaz against Legislative Act No. 02 of 2004, which amended several articles of the Political Constitution. The challenge claimed procedural and jurisdictional defects, arguing that the legislative act substituted essential elements of the Constitution by allowing immediate presidential reelection. The petitioner pointed to violations of the equality principle, imbalance among public powers, and the Congress exceeding its derivative constituent powers. The Plenary initially admitted part of the claims and later, after a review, admitted all of them. Various citizens and institutions participated as amicus curiae, offering arguments both for and against the constitutionality of the act. The Court ultimately declared Legislative Act No. 02 of 2004 constitutional regarding the reviewed charge (lack of debate in the House during the first round), and for the remaining charges, it adhered to the ruling in judgment C-1040 of 2005, except for a specific clause, which was declared unconstitutional."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "MANUEL JOSÉ CEPEDA ESPINOSA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "CLARA INÉS VARGAS HERNÁNDEZ",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME ARAÚJO RENTERÍA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JAIME CÓRDOBA TRIVIÑO",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "RODRIGO ESCOBAR GIL",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ALFREDO BELTRÁN SIERRA",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "MARCO GERARDO MONROY CABRA",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "ÁLVARO TAFUR GALVIS",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "HUMBERTO ANTONIO SIERRA PORTO",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [
+    1, 2, 3, 4, 6, 11, 13, 40, 93, 103, 109, 112, 113, 114, 115, 116, 121, 123, 188, 197, 241, 242, 258, 374, 378
+  ],
+  "rj": "parcial",
+  "rj_citation_raw": [
+    "C-1040 de 2005"
+  ],
+  "amicus": [
+    { "name": "Luis Humberto Gómez Gallo", "affiliation": "Presidente del Congreso de la República" },
+    { "name": "Hernán Andrade Serrano", "affiliation": "Senador de la República" },
+    { "name": "Angelino Garzón", "affiliation": "Gobernador del Departamento del Valle del Cauca" },
+    { "name": "Manuel Fernández Díaz", "affiliation": "Universidad Popular del César" },
+    { "name": "Orlando Acuña Gallego", "affiliation": "Universidad Sergio Arboleda" },
+    { "name": "Sabas Pretelt de la Vega", "affiliation": "Ministerio del Interior y de Justicia" },
+    { "name": "Ramiro Bejarano Guzmán", "affiliation": "" },
+    { "name": "Juan Bautista Rivas Ramos", "affiliation": "" },
+    { "name": "Carlos Lozano", "affiliation": "" },
+    { "name": "Yubely Muñoz", "affiliation": "" },
+    { "name": "Anderson Rojas", "affiliation": "" },
+    { "name": "Daniel Andrés Barahona Díaz", "affiliation": "" },
+    { "name": "Luis Miguel Cubillos Rodríguez", "affiliation": "" },
+    { "name": "Mauricio Gallo García", "affiliation": "" },
+    { "name": "Iván Guillermo Vegas Molina", "affiliation": "" }
+  ],
+  "id": "C-1041-05",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2005/C-1041-05.htm"
+}

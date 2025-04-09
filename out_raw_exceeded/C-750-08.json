@@ -1,0 +1,119 @@
+{
+  "summary": {
+    "spanish": "La Corte Constitucional realizó el control de constitucionalidad del 'Acuerdo de Promoción Comercial entre la República de Colombia y los Estados Unidos de América', así como de la Ley 1143 de 2007 que lo aprueba. La revisión se dio en cumplimiento del artículo 241 numeral 10 de la Constitución. Durante el trámite, se recibieron numerosas intervenciones tanto institucionales como de organizaciones sociales y económicas. La Corte concluyó que ni la ley aprobatoria ni el contenido del tratado vulneran la Constitución Política, y por tanto los declaró exequibles. La Corte precisó que su análisis no abarca aspectos de conveniencia u oportunidad, que son competencia del Congreso y el Ejecutivo, e hizo un llamado al legislador para que, al desarrollar el tratado, respete los derechos fundamentales. Finalmente, advirtió que el protocolo modificatorio al tratado sería revisado en la sentencia C-751 de 2008.",
+    "english": "The Constitutional Court reviewed the constitutionality of the 'Trade Promotion Agreement between the Republic of Colombia and the United States of America', as well as Law 1143 of 2007 that approves it. The review was conducted in accordance with Article 241, numeral 10 of the Constitution. Numerous interventions from governmental and social organizations were considered during the process. The Court concluded that neither the approving law nor the treaty's provisions violate the Constitution, and thus declared both to be constitutional. The Court clarified that its review does not address issues of policy convenience or advisability, which fall under the purview of Congress and the Executive. It also urged lawmakers to respect fundamental rights when implementing the treaty. The Court noted that the treaty’s modifying protocol would be reviewed in a separate ruling (C-751 of 2008)."
+  },
+  "chamber_raw": "Sala Plena",
+  "person": [
+    {
+      "name": "Humberto Antonio Sierra Porto",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Araujo Rentería",
+      "av": false,
+      "sv": true,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Manuel José Cepeda Espinosa",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Jaime Córdoba Triviño",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Rodrigo Escobar Gil",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Mauricio González Cuervo",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Marco Gerardo Monroy Cabra",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Nilson Elías Pinilla Pinilla",
+      "av": false,
+      "sv": false,
+      "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "Clara Inés Vargas Hernández",
+      "av": false,
+      "sv": false,
+      "mp": true,
+      "interim": false,
+      "conjuez": false
+    }
+  ],
+  "articles": [1, 2, 4, 7, 8, 9, 11, 13, 29, 33, 39, 44, 49, 58, 64, 65, 78, 79, 80, 90, 95, 100, 113, 116, 150, 226, 228, 230, 241, 244, 333, 334, 336, 365, 366, 367],
+  "rj": "no",
+  "rj_citation_raw": [],
+  "amicus": [
+    { "name": "Fernando Aurelio Acevedo", "affiliation": "" },
+    { "name": "", "affiliation": "Central Unitaria de Trabajadores CUT" },
+    { "name": "Efraín Olarte Olarte", "affiliation": "" },
+    { "name": "", "affiliation": "Banco de la República" },
+    { "name": "", "affiliation": "Ministerio de Relaciones Exteriores" },
+    { "name": "", "affiliation": "ANALDEX" },
+    { "name": "", "affiliation": "Consejo Gremial Nacional" },
+    { "name": "", "affiliation": "ACOPI" },
+    { "name": "", "affiliation": "Ministerio de Agricultura y Desarrollo Rural" },
+    { "name": "", "affiliation": "Ministerio de Comercio, Industria y Turismo" },
+    { "name": "", "affiliation": "Ministerio de Hacienda y Crédito Público" },
+    { "name": "", "affiliation": "Departamento Nacional de Planeación" },
+    { "name": "Jorge Enrique Robledo Castillo", "affiliation": "" },
+    { "name": "", "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad - DeJusticia" },
+    { "name": "", "affiliation": "RECALCA"},
+    { "name": "", "affiliation": "Corporación Sisma Mujer"},
+    { "name": "", "affiliation": "ASOMUJER Y TRABAJO"},
+    { "name": "", "affiliation": "Instituto Latinoamericano de Servicios Legales Alternativos - ILSA"},
+    { "name": "", "affiliation": "Corporación CACTUS"},
+    { "name": "", "affiliation": "Punto Focal para Colombia de la Red Internacional de Género y Comercio Capítulo Latinoamérica"},
+    { "name": "", "affiliation": "Fundación para la Formación de Líderes Afrocolombianos AFROLIDER"},
+    { "name": "", "affiliation": "Comisión Colombiana de Juristas"},
+    { "name": "", "affiliation": "Cámara de Comercio Colombo Americana"},
+    { "name": "", "affiliation": "Asociación de Industrias Farmacéuticas Colombianas - ASINFAR"},
+    { "name": "", "affiliation": "Alianza de ONG AIS, IFARMA y Fundación Misión Salud"},
+    { "name": "", "affiliation": "Asociación de Laboratorios Farmacéuticos de Investigación - AFIDRO"},
+    { "name": "", "affiliation": "Cámara de Comercio de Bogotá"},
+    { "name": "", "affiliation": "Subcomisión de Propiedad Intelectual del Comité Nacional Colombiano de la Cámara de Comercio Internacional CCI"},
+    { "name": "", "affiliation": "Ministerio de Cultura"},
+    { "name": "", "affiliation": "Fundación para la Educación Superior y el Desarrollo - FEDESARROLLO"},
+    { "name": "", "affiliation": "Centro Colombiano del Derecho de Autor - CECOLDA" }
+  ],
+  "id": "C-750-08",
+  "url": "https://www.corteconstitucional.gov.co/relatoria/2008/C-750-08.htm"
+}
