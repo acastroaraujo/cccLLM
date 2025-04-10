@@ -1,0 +1,126 @@
+{
+    "summary": {
+        "spanish": [
+            "La Corte Constitucional de Colombia, en la sentencia SU-091 de 2023, abordó una acción de tutela interpuesta por una mujer indígena, Sara, contra los miembros de la Corporación del Cabildo Indígena. La accionante alegó que sus derechos fundamentales al debido proceso, dignidad humana, igualdad, libertad de expresión y de reunión fueron vulnerados durante una asamblea para la elección de un representante del programa \"Más Familias en Acción\". Durante esta asamblea, se le negó la palabra a ella y a otras mujeres, y se impuso una sanción de \"arrepentimiento\" tras un incidente en el que una mujer intentó romper el acta de la elección. La Corte concluyó que la sanción impuesta a Sara violó su derecho al debido proceso, ya que no se respetaron las garantías mínimas de legalidad, defensa y proporcionalidad. Además, la Corte determinó que las acciones de la Corporación invisibilizaron la voz y participación de las mujeres, vulnerando su derecho a una vida libre de violencia y a la libertad de expresión. La Corte ordenó a la Corporación del Cabildo Indígena crear un espacio para que las mujeres de la comunidad examinen y formulen recomendaciones sobre las garantías judiciales dentro de la jurisdicción especial indígena."
+        ],
+        "english": [
+            "The Constitutional Court of Colombia, in ruling SU-091 of 2023, addressed a tutela action filed by an indigenous woman, Sara, against the members of the Indigenous Council Corporation. The plaintiff claimed that her fundamental rights to due process, human dignity, equality, freedom of expression, and assembly were violated during an assembly for the election of a representative for the \"More Families in Action\" program. During this assembly, she and other women were denied the opportunity to speak, and a \"repentance\" sanction was imposed following an incident where a woman attempted to tear up the election record. The Court concluded that the sanction imposed on Sara violated her right to due process, as the minimum guarantees of legality, defense, and proportionality were not respected. Additionally, the Court determined that the Corporation's actions silenced the voice and participation of women, violating their right to a life free from violence and their freedom of expression. The Court ordered the Indigenous Council Corporation to create a space for the community's women to examine and make recommendations on judicial guarantees within the special indigenous jurisdiction."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Juan Carlos Cortés González",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jose Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        1,
+        2,
+        7,
+        13,
+        20,
+        29,
+        43,
+        86,
+        241,
+        246,
+        330
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Comisión Colombiana de Juristas"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Colombiano de Antropología e Historia"
+        },
+        {
+            "name": "",
+            "affiliation": "Comisión Nacional de Mujeres Indígenas"
+        }
+    ],
+    "id": [
+        "SU-091-23"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2023/SU091-23.htm"
+    ]
+}

@@ -1,8 +1,8 @@
 To do:
 
--   I could not remove the wrongful attribution of a dissenting opinion in "C-509-09". So the best fix is to make sure that `mp == TRUE` makes so that `av` and `sv` are both `FALSE`.
+-   I could not remove the wrongful attribution of a dissenting opinion in "C-509-09". So the best fix is to make sure that `mp == TRUE` makes so that `av` and `sv` are both `FALSE`. But this sometimes happens... soo... no check.
 
--   Error in req_perform_connection(req) : HTTP 400 Bad Request. • This model's maximum context length is 128000 tokens. However, your messages resulted in 136465 tokens (including 740 in the response_format schemas.). Please reduce the length of the messages or schemas.
+- Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada. The easiest way to do this, I think, is to get a list of permament judges, and then change the other ones that are not conjuez to interim. 
 
 Exemplar cases:
 

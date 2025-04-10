@@ -1,0 +1,135 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-121-22 aborda la vulneración del derecho a la participación efectiva de los pueblos indígenas de la Sierra Nevada de Santa Marta debido a la proliferación de proyectos, obras o actividades (POA) en la línea negra, un territorio ancestral. La Corte Constitucional de Colombia determinó que esta proliferación impidió la participación efectiva de las comunidades indígenas en los procesos consultivos, lo que llevó a estas comunidades a abstenerse de asistir a las consultas convocadas. Además, se señaló el impacto negativo de los POA en las prácticas tradicionales de los pueblos indígenas y en el medio ambiente. La Corte también identificó un desorden administrativo en los procesos consultivos por parte del Ministerio del Interior. La sentencia ordena la instalación de una Mesa de Seguimiento y Coordinación para garantizar la participación efectiva de las comunidades indígenas en las decisiones que afectan su territorio, y establece un plazo para finalizar el Protocolo de Participación y/o Consulta Previa. La Corte revocó decisiones anteriores que habían declarado improcedente la acción de tutela y concedió la protección del derecho a la participación efectiva de los pueblos indígenas."
+        ],
+        "english": [
+            "The SU-121-22 ruling addresses the violation of the right to effective participation of the indigenous peoples of the Sierra Nevada de Santa Marta due to the proliferation of projects, works, or activities (POA) in the 'Línea Negra', an ancestral territory. The Colombian Constitutional Court determined that this proliferation hindered the effective participation of indigenous communities in consultative processes, leading these communities to abstain from attending the consultations they were called to. Additionally, the negative impact of the POA on the traditional practices of indigenous peoples and the environment was noted. The Court also identified administrative disorder in the consultative processes by the Ministry of the Interior. The ruling orders the establishment of a Monitoring and Coordination Table to ensure the effective participation of indigenous communities in decisions affecting their territory and sets a deadline to finalize the Participation and/or Prior Consultation Protocol. The Court overturned previous decisions that had declared the tutela action inadmissible and granted protection of the right to effective participation of indigenous peoples."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Karena Caselles Hernandez",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        1,
+        2,
+        7,
+        13,
+        40,
+        70,
+        79,
+        330
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Dejusticia"
+        },
+        {
+            "name": "",
+            "affiliation": "Observatorio de Territorios Étnicos y Campesinos de la Universidad Javeriana"
+        },
+        {
+            "name": "",
+            "affiliation": "Escuela Intercultural de Diplomacia Indígena de la Universidad del Rosario"
+        },
+        {
+            "name": "",
+            "affiliation": "Ambiente y Sociedad"
+        },
+        {
+            "name": "",
+            "affiliation": "Asociación Interamericana para la Defensa del Ambiente — AIDA"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro de Investigación y Educación Popular / Programa por la Paz"
+        }
+    ],
+    "id": [
+        "SU-121-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/SU121-22.htm"
+    ]
+}

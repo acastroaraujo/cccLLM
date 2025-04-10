@@ -1,0 +1,181 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-095-18 de la Corte Constitucional de Colombia aborda la tensión entre el principio de Estado unitario y la autonomía territorial en el contexto de la explotación de recursos naturales no renovables (RNNR) del subsuelo. El caso se centra en una acción de tutela presentada por Mansarovar Energy Colombia Ltda. contra el Tribunal Contencioso Administrativo del Meta, que había declarado constitucional una consulta popular en el municipio de Cumaral, Meta, sobre la explotación de hidrocarburos. La Corte Constitucional revocó las decisiones de las instancias inferiores y dejó sin efecto la sentencia del Tribunal Administrativo del Meta, argumentando que la consulta popular excedía las competencias del municipio, ya que la propiedad del subsuelo y los RNNR es del Estado, y su explotación debe coordinarse entre la nación y las entidades territoriales. La Corte exhortó al Congreso a definir mecanismos de participación ciudadana y de coordinación entre la nación y el territorio para la explotación de RNNR."
+        ],
+        "english": [
+            "The SU-095-18 ruling by the Colombian Constitutional Court addresses the tension between the principle of a unitary state and territorial autonomy in the context of the exploitation of non-renewable natural resources (RNNR) from the subsoil. The case centers on a tutela action filed by Mansarovar Energy Colombia Ltda. against the Administrative Court of Meta, which had declared constitutional a popular consultation in the municipality of Cumaral, Meta, regarding hydrocarbon exploitation. The Constitutional Court overturned the lower courts' decisions and nullified the Administrative Court of Meta's ruling, arguing that the popular consultation exceeded the municipality's competencies, as the subsoil and RNNR are owned by the State, and their exploitation must be coordinated between the nation and territorial entities. The Court urged Congress to define mechanisms for citizen participation and coordination between the nation and territory for RNNR exploitation."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Bernal Pulido",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        80,
+        332,
+        334,
+        360,
+        361,
+        288,
+        29,
+        228,
+        229,
+        230,
+        105,
+        1,
+        287,
+        311,
+        313
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "C-123 de 2014",
+        "C-273 de 2016",
+        "C-035 de 2016",
+        "C-389 de 2016"
+    ],
+    "amicus": [
+        {
+            "name": "Centro sobre Inversión Sostenible de Columbia University",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Asociación Colombiana del Petróleo (ACP)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Defensa Jurídica del Estado",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio de Minas y Energía",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ecopetrol S.A.",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Minería (ANM)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Hidrocarburos (ANH)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Asociación Colombiana de Ingenieros de Petróleos",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Asociación Colombiana de Minería (ACM)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Federación Colombiana de Municipios",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Centro de Estudios de Derecho, Justicia y Sociedad (Dejusticia)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Centro de Estudios para la Justicia Social Tierra Digna",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Foro Nacional por Colombia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio de Ambiente y Desarrollo Sostenible",
+            "affiliation": "NULL"
+        }
+    ],
+    "id": [
+        "SU-095-18"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2018/SU095-18.htm"
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-081-20 de la Corte Constitucional de Colombia aborda una acción de tutela interpuesta por la Autoridad Nacional de Televisión (ANTV) contra un laudo arbitral y una sentencia del Consejo de Estado. El conflicto surge de un contrato de concesión entre la Comisión Nacional de Televisión (CNTV) y RCN Televisión S.A. para la prestación del servicio de televisión abierta. RCN TV alegó que pagó un mayor valor por las frecuencias asignadas, lo que fue confirmado por un tribunal de arbitramento que ordenó la restitución de una suma significativa a favor de RCN TV. La ANTV argumentó que el tribunal arbitral y el Consejo de Estado no solicitaron la interpretación prejudicial del Tribunal de Justicia de la Comunidad Andina (TJCA), lo que constituiría un defecto sustantivo. La Corte Constitucional concluyó que no era necesario solicitar dicha interpretación, ya que el servicio de televisión está excluido del régimen común andino. Por lo tanto, negó el amparo solicitado por la ANTV."
+        ],
+        "english": [
+            "The SU-081-20 ruling by the Colombian Constitutional Court addresses a tutela action filed by the National Television Authority (ANTV) against an arbitral award and a decision by the Council of State. The conflict arises from a concession contract between the National Television Commission (CNTV) and RCN Televisión S.A. for the provision of open television service. RCN TV claimed it overpaid for the assigned frequencies, which was confirmed by an arbitration tribunal that ordered a significant refund in favor of RCN TV. ANTV argued that the arbitration tribunal and the Council of State failed to request a prejudicial interpretation from the Andean Community Court of Justice (TJCA), constituting a substantive defect. The Constitutional Court concluded that such an interpretation was unnecessary, as television service is excluded from the Andean common regime. Therefore, it denied the protection requested by ANTV."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortíz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Helí Abel Torrado Torrado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": true
+        }
+    ],
+    "articles": [
+        29,
+        86,
+        228
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "RCN Televisión S.A."
+        },
+        {
+            "name": "",
+            "affiliation": "Caracol Televisión S.A."
+        }
+    ],
+    "id": [
+        "SU-081-20"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2020/SU081-20.htm"
+    ]
+}

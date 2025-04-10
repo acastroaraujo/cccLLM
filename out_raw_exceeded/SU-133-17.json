@@ -1,0 +1,165 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-133-17 de la Corte Constitucional de Colombia aborda la acción de tutela interpuesta por Orlando de Jesús Ramírez Rincón, Jaime Arturo Ramos Ruiz, José Dumar Vélez y Carlos Arturo Botero Gaviria, quienes se identifican como mineros tradicionales de Marmato. Los accionantes alegan que sus derechos fundamentales fueron vulnerados debido a la cesión inconsulta de títulos mineros y la orden de cierre y desalojo de la mina Villonza, donde ejercen su oficio. La Corte determinó que las decisiones administrativas que autorizaron la cesión de los derechos mineros afectaron a los mineros tradicionales y a las comunidades indígenas y afrocolombianas de Marmato, por lo que debieron ser precedidas de procesos de participación y consulta previa. Además, la Corte encontró que la orden de cierre y desalojo de la mina Villonza vulneró los derechos al trabajo, al mínimo vital y al debido proceso de los accionantes. La sentencia revocó las decisiones de instancia que habían declarado improcedente la tutela y ordenó medidas para garantizar la participación y consulta de las comunidades afectadas."
+        ],
+        "english": [
+            "The SU-133-17 ruling by the Colombian Constitutional Court addresses the tutela action filed by Orlando de Jesús Ramírez Rincón, Jaime Arturo Ramos Ruiz, José Dumar Vélez, and Carlos Arturo Botero Gaviria, who identify as traditional miners from Marmato. The plaintiffs claim that their fundamental rights were violated due to the unconsulted transfer of mining titles and the order to close and evict the Villonza mine, where they practice their trade. The Court determined that the administrative decisions authorizing the transfer of mining rights affected the traditional miners and the indigenous and Afro-Colombian communities of Marmato, and thus should have been preceded by participation and prior consultation processes. Additionally, the Court found that the order to close and evict the Villonza mine violated the plaintiffs' rights to work, minimum subsistence, and due process. The ruling overturned lower court decisions that had declared the tutela inadmissible and ordered measures to ensure the participation and consultation of the affected communities."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Aquiles Arrieta Gómez",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortíz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        7,
+        8,
+        40,
+        41,
+        79,
+        80,
+        86,
+        330,
+        342
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio de Minas y Energía",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio de Ambiente y Desarrollo Sostenible",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio del Interior",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio del Trabajo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Corporación Autónoma Regional de Caldas",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Minería",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Autoridad Nacional de Licencias Ambientales",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Organización Nacional Indígena de Colombia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Asociación de Mineros Tradicionales de Marmato (Asomitrama)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Asociación de Joyeros Marmateños (Asojomar)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Parcialidad indígena Cartama",
+            "affiliation": "NULL"
+        }
+    ],
+    "id": [
+        "SU-133-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/SU133-17.htm"
+    ]
+}

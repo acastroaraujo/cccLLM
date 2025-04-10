@@ -1,0 +1,108 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-070-13 de la Corte Constitucional de Colombia aborda la protección laboral reforzada para mujeres embarazadas o en periodo de lactancia. La Corte revisó 33 casos de mujeres que fueron despedidas durante el embarazo o la lactancia y solicitaron la protección de sus derechos laborales a través de acciones de tutela. La Corte unificó criterios sobre cómo debe aplicarse esta protección, considerando el tipo de contrato laboral y si el empleador conocía el estado de embarazo. La decisión establece que la protección no depende del conocimiento del empleador, sino que este conocimiento determina el grado de protección. La Corte también determinó que la protección debe extenderse a todas las modalidades de contrato, incluyendo contratos a término fijo, por obra o labor, y de prestación de servicios, siempre que se demuestre que el embarazo ocurrió durante la vigencia del contrato. La sentencia también aborda la necesidad de que el empleador obtenga autorización para despedir a una trabajadora embarazada y establece sanciones en caso de despido sin justa causa. La Corte decidió no ordenar reintegros debido al tiempo transcurrido desde la presentación de las tutelas, pero ordenó el pago de salarios y prestaciones dejadas de percibir durante el periodo de gestación y la licencia de maternidad."
+        ],
+        "english": [
+            "The SU-070-13 ruling by the Colombian Constitutional Court addresses enhanced labor protection for pregnant or breastfeeding women. The Court reviewed 33 cases of women who were dismissed during pregnancy or breastfeeding and sought protection of their labor rights through tutela actions. The Court unified criteria on how this protection should be applied, considering the type of employment contract and whether the employer knew about the pregnancy. The decision establishes that protection does not depend on the employer's knowledge, but this knowledge determines the degree of protection. The Court also determined that protection should extend to all types of contracts, including fixed-term, work or labor contracts, and service contracts, as long as it is demonstrated that the pregnancy occurred during the contract's validity. The ruling also addresses the need for the employer to obtain authorization to dismiss a pregnant worker and establishes sanctions for dismissal without just cause. The Court decided not to order reinstatements due to the time elapsed since the tutelas were filed, but ordered the payment of wages and benefits not received during the gestation period and maternity leave."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Alexei Julio Estrada",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gabriel Eduardo Mendoza Martelo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        11,
+        43,
+        44,
+        53
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "SU-070-13"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2013/SU070-13.htm"
+    ]
+}

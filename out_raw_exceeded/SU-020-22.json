@@ -1,0 +1,165 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-020-22 de la Corte Constitucional de Colombia aborda la situación de seguridad de los firmantes del Acuerdo Final de Paz, sus familias y los integrantes del partido político Comunes. La Corte declara un estado de cosas inconstitucional debido a la vulneración sistemática de derechos fundamentales de estas personas, destacando la falta de implementación efectiva de medidas de protección y seguridad. La sentencia ordena a la Unidad Nacional de Protección y otras entidades del Estado a adoptar medidas urgentes para garantizar la seguridad de los firmantes del Acuerdo de Paz, incluyendo la reevaluación de riesgos y la implementación de esquemas de protección adecuados. La Corte también resalta la importancia de un enfoque de seguridad humana integral y la necesidad de coordinar acciones entre diferentes entidades para superar la situación de inseguridad que enfrentan los firmantes del Acuerdo de Paz."
+        ],
+        "english": [
+            "The SU-020-22 ruling by the Colombian Constitutional Court addresses the security situation of the signatories of the Final Peace Agreement, their families, and members of the Comunes political party. The Court declares a state of unconstitutional affairs due to the systematic violation of fundamental rights of these individuals, highlighting the lack of effective implementation of protection and security measures. The ruling orders the National Protection Unit and other state entities to take urgent measures to ensure the security of the Peace Agreement signatories, including risk reassessment and the implementation of adequate protection schemes. The Court also emphasizes the importance of a comprehensive human security approach and the need to coordinate actions among different entities to overcome the insecurity faced by the Peace Agreement signatories."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "C-630 de 2017"
+    ],
+    "amicus": [
+        {
+            "name": "Pablo Catatumbo Torres Victoria",
+            "affiliation": "Partido Comunes"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Kroc, Universidad de Notre Dame"
+        },
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "",
+            "affiliation": "Jurisdicción Especial para la Paz"
+        },
+        {
+            "name": "",
+            "affiliation": "Colectivo de Abogados \"José Alvear Restrepo\""
+        },
+        {
+            "name": "",
+            "affiliation": "Comité de Solidaridad con los Presos Políticos"
+        },
+        {
+            "name": "",
+            "affiliation": "Consultoría para los Derechos Humanos y el Desplazamiento"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro Internacional para la Justicia Transicional"
+        },
+        {
+            "name": "",
+            "affiliation": "Comisión Colombiana de Juristas"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro de Investigación y Educación Popular/Programa por la Paz"
+        },
+        {
+            "name": "",
+            "affiliation": "Comité Permanente para la Defensa de los Derechos Humanos"
+        },
+        {
+            "name": "",
+            "affiliation": "Fundación Lazos de Dignidad"
+        },
+        {
+            "name": "",
+            "affiliation": "Corporación Colectivo de Abogados SUYANA"
+        },
+        {
+            "name": "",
+            "affiliation": "Dejusticia"
+        }
+    ],
+    "id": [
+        "SU-020-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/SU020-22.htm"
+    ]
+}

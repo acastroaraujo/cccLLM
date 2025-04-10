@@ -1,0 +1,102 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-047-99 de la Corte Constitucional de Colombia aborda la cuestión de la inviolabilidad parlamentaria y la competencia de la Sala de Casación Penal de la Corte Suprema de Justicia para investigar a congresistas por delitos cometidos en ejercicio de sus funciones. El caso surge de una acción de tutela presentada por Viviane Morales Hoyos, quien fue investigada por la Corte Suprema por su voto en el proceso de preclusión contra el entonces Presidente Ernesto Samper. La Corte Constitucional concluyó que los congresistas son inviolables por sus votos y opiniones, incluso cuando ejercen funciones judiciales, y que la Corte Suprema carece de competencia para investigar el sentido del voto de los congresistas en estos casos. La sentencia revoca una decisión anterior que rechazaba la tutela y ordena archivar el proceso penal contra Morales Hoyos."
+        ],
+        "english": [
+            "The SU-047-99 ruling by the Colombian Constitutional Court addresses the issue of parliamentary inviolability and the competence of the Criminal Chamber of the Supreme Court to investigate congress members for crimes committed in the exercise of their functions. The case arises from a tutela action filed by Viviane Morales Hoyos, who was investigated by the Supreme Court for her vote in the preclusion process against then-President Ernesto Samper. The Constitutional Court concluded that congress members are inviolable for their votes and opinions, even when exercising judicial functions, and that the Supreme Court lacks competence to investigate the meaning of congress members' votes in these cases. The ruling overturns a previous decision that rejected the tutela and orders the criminal process against Morales Hoyos to be archived."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Eduardo Cifuentes Muñoz",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio Barrera Carbonell",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alfredo Beltrán Sierra",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Gaviria Díaz",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Hernando Herrera Vergara",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Martínez Caballero",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Fabio Morón Díaz",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        29,
+        185,
+        186
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Carlos Alonso Lucio",
+            "affiliation": "Congresista"
+        },
+        {
+            "name": "Jesús Ignacio García Valencia",
+            "affiliation": "Congresista"
+        },
+        {
+            "name": "Martha Catalina Daniels Guzmán",
+            "affiliation": "Congresista"
+        }
+    ],
+    "id": [
+        "SU-047-99"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/1999/SU047-99.htm"
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "summary": {
+        "spanish": [
+            "El senador Roy Leonardo Barreras Montealegre presentó una acción de tutela contra la Mesa Directiva del Senado de la República, alegando la vulneración de los derechos a la igualdad, al debido proceso en el trámite legislativo y a la participación política de las víctimas. La controversia surgió por la decisión de la Mesa Directiva de no dar por aprobado el informe de conciliación del proyecto de Acto Legislativo 05 de 2017 Senado, 017 de 2017 Cámara, que creaba 16 Circunscripciones Transitorias Especiales de Paz para la Cámara de Representantes. La Corte Constitucional, en Sala Plena, decidió tutelar los derechos invocados, concluyendo que el informe de conciliación fue aprobado con las mayorías requeridas, y ordenó dar por aprobado el proyecto de acto legislativo, actualizar los períodos de aplicación de las circunscripciones a 2022-2026 y 2026-2030, y tomar medidas para permitir la inscripción y elección de candidatos en las próximas elecciones."
+        ],
+        "english": [
+            "Senator Roy Leonardo Barreras Montealegre filed a tutela action against the Board of Directors of the Senate of the Republic, alleging the violation of rights to equality, due process in legislative proceedings, and political participation of victims. The controversy arose from the Board's decision not to approve the reconciliation report of Legislative Act 05 of 2017 Senate, 017 of 2017 House, which created 16 Special Transitional Peace Constituencies for the House of Representatives. The Constitutional Court, in Plenary Chamber, decided to uphold the invoked rights, concluding that the reconciliation report was approved with the required majorities, and ordered the legislative act to be approved, updated the application periods of the constituencies to 2022-2026 and 2026-2030, and took measures to allow the registration and election of candidates in the upcoming elections."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortíz Delgado",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        3,
+        4,
+        13,
+        22,
+        29,
+        40,
+        86,
+        121,
+        133,
+        134,
+        145,
+        146,
+        161,
+        189,
+        241,
+        242,
+        243,
+        375
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Juan Carlos Quintero Sierra",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "José Aldemar",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Colectivo de Abogados José Alvear Restrepo",
+            "affiliation": "Colectivo de Abogados José Alvear Restrepo"
+        },
+        {
+            "name": "Federación Internacional de Derechos Humanos (FIDH)",
+            "affiliation": "Federación Internacional de Derechos Humanos (FIDH)"
+        },
+        {
+            "name": "Comisión Intereclesial de Justicia y Paz",
+            "affiliation": "Comisión Intereclesial de Justicia y Paz"
+        },
+        {
+            "name": "Movimiento Nacional de Víctimas de Crímenes de Estado (MOVICE)",
+            "affiliation": "Movimiento Nacional de Víctimas de Crímenes de Estado (MOVICE)"
+        },
+        {
+            "name": "Corporación Colectivo Sociojurídico Orlando Fals Borda",
+            "affiliation": "Corporación Colectivo Sociojurídico Orlando Fals Borda"
+        },
+        {
+            "name": "Consultoría para los Derechos Humanos y el Desplazamiento (CODHES)",
+            "affiliation": "Consultoría para los Derechos Humanos y el Desplazamiento (CODHES)"
+        },
+        {
+            "name": "Fundación Comité de Solidaridad con los Presos Políticos",
+            "affiliation": "Fundación Comité de Solidaridad con los Presos Políticos"
+        },
+        {
+            "name": "Corporación Claretiana Norman Pérez",
+            "affiliation": "Corporación Claretiana Norman Pérez"
+        },
+        {
+            "name": "Observatorio de DDHH de la Coordinación Colombia Europa Estados Unidos (CCEEU)",
+            "affiliation": "Observatorio de DDHH de la Coordinación Colombia Europa Estados Unidos (CCEEU)"
+        },
+        {
+            "name": "Fundación Nydia Erika Bautista",
+            "affiliation": "Fundación Nydia Erika Bautista"
+        },
+        {
+            "name": "Corporación Humanidad Vigente",
+            "affiliation": "Corporación Humanidad Vigente"
+        },
+        {
+            "name": "Corporación Jurídica Yira Castro",
+            "affiliation": "Corporación Jurídica Yira Castro"
+        },
+        {
+            "name": "Corporación Jurídica Libertad",
+            "affiliation": "Corporación Jurídica Libertad"
+        },
+        {
+            "name": "Corporación Congreso Nacional de Desplazados",
+            "affiliation": "Corporación Congreso Nacional de Desplazados"
+        },
+        {
+            "name": "Asociación de Familias Desplazadas por la Violencia en Colombia",
+            "affiliation": "Asociación de Familias Desplazadas por la Violencia en Colombia"
+        }
+    ],
+    "id": [
+        "SU-150-21"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2021/SU150-21.htm"
+    ]
+}

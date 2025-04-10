@@ -1,0 +1,161 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-016-21 de la Corte Constitucional de Colombia aborda una acción de tutela presentada por Dairo Manuel Navas Reyes y otros contra la Alcaldía de El Copey y otras autoridades, en relación con el desalojo de un predio ocupado por personas en situación de vulnerabilidad, incluyendo víctimas de desplazamiento forzado. Los accionantes alegaron que sus derechos al debido proceso y a la vivienda digna fueron vulnerados durante los procedimientos de desalojo. La Corte revisó las actuaciones de las autoridades y determinó que, aunque no se vulneraron los derechos en el momento de la presentación de la tutela, la situación de ocupación había evolucionado, generando una amenaza a los derechos de los ocupantes. La Corte unificó la jurisprudencia sobre las medidas de protección en procesos de desalojo, estableciendo que las suspensiones indefinidas de desalojo no son procedentes y que se deben ofrecer medidas de albergue temporal a las víctimas de desplazamiento forzado que no cuenten con recursos ni respuesta institucional. Además, ordenó medidas estructurales para mejorar la coordinación y respuesta de las autoridades en estos casos."
+        ],
+        "english": [
+            "The SU-016-21 ruling by the Colombian Constitutional Court addresses a tutela action filed by Dairo Manuel Navas Reyes and others against the Mayor's Office of El Copey and other authorities, concerning the eviction of a property occupied by vulnerable individuals, including victims of forced displacement. The plaintiffs claimed that their rights to due process and dignified housing were violated during the eviction procedures. The Court reviewed the authorities' actions and determined that, although rights were not violated at the time of the tutela filing, the occupation situation had evolved, posing a threat to the occupants' rights. The Court unified the jurisprudence on protection measures in eviction processes, establishing that indefinite suspensions of eviction are not appropriate and that temporary shelter measures should be offered to displaced victims who lack resources or institutional response. Additionally, it ordered structural measures to improve coordination and response by authorities in these cases."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        29,
+        51,
+        11,
+        100,
+        13,
+        95,
+        83,
+        189
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "",
+            "affiliation": "Unidad Administrativa para la Atención y Reparación Integral a las Víctimas"
+        },
+        {
+            "name": "",
+            "affiliation": "Ministerio de Vivienda, Ciudad y Territorio"
+        },
+        {
+            "name": "",
+            "affiliation": "FONVIVIENDA"
+        },
+        {
+            "name": "",
+            "affiliation": "Departamento Administrativo para la Prosperidad Social"
+        },
+        {
+            "name": "",
+            "affiliation": "Caja de Compensación Familiar del Cesar — COMFACESAR"
+        },
+        {
+            "name": "",
+            "affiliation": "Fondo Nacional de Vivienda — FONVIVIENDA"
+        },
+        {
+            "name": "",
+            "affiliation": "Ministerio del Interior"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Colombiano de Bienestar Familiar"
+        },
+        {
+            "name": "",
+            "affiliation": "Financiera de Desarrollo Territorial — FINDETER"
+        },
+        {
+            "name": "",
+            "affiliation": "Departamento de Policía del Cesar"
+        }
+    ],
+    "id": [
+        "SU-016-21"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2021/SU016-21.htm"
+    ]
+}

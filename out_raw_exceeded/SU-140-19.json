@@ -1,0 +1,110 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-140 de 2019 de la Corte Constitucional de Colombia aborda la imprescriptibilidad del incremento pensional del 14% para cónyuges o compañeros permanentes a cargo. La Corte revisó once acciones de tutela acumuladas, en las que los demandantes alegaban que las decisiones judiciales previas habían desconocido el precedente jurisprudencial al declarar prescrito el derecho al incremento pensional. La Corte concluyó que los incrementos previstos en el artículo 21 del Decreto 758 de 1990 fueron derogados orgánicamente con la entrada en vigor de la Ley 100 de 1993, y que, en todo caso, serían incompatibles con el artículo 48 de la Constitución tras la reforma del Acto Legislativo 01 de 2005. La Corte decidió que el derecho al incremento pensional del 14% no prescribe para quienes completaron los requisitos de pensión antes de la entrada en vigencia de la Ley 100 de 1993, pero que las mesadas no reclamadas a tiempo sí prescriben. En consecuencia, la Corte revocó algunas decisiones judiciales y negó otras acciones de tutela, excepto en el caso de Mario Ernesto Velasco, a quien se le concedió el amparo y se ordenó a Colpensiones reconocer el incremento pensional y los pagos retroactivos no prescritos."
+        ],
+        "english": [
+            "The SU-140 of 2019 ruling by the Colombian Constitutional Court addresses the imprescriptibility of the 14% pension increase for spouses or permanent partners in charge. The Court reviewed eleven accumulated tutela actions, where the plaintiffs argued that previous judicial decisions had ignored the jurisprudential precedent by declaring the right to the pension increase as prescribed. The Court concluded that the increases provided in Article 21 of Decree 758 of 1990 were organically repealed with the entry into force of Law 100 of 1993, and that, in any case, they would be incompatible with Article 48 of the Constitution after the reform of Legislative Act 01 of 2005. The Court decided that the right to the 14% pension increase does not prescribe for those who completed the pension requirements before the entry into force of Law 100 of 1993, but that the installments not claimed in time do prescribe. Consequently, the Court revoked some judicial decisions and denied other tutela actions, except in the case of Mario Ernesto Velasco, who was granted protection and Colpensiones was ordered to recognize the pension increase and the non-prescribed retroactive payments."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Bernal Pulido",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        48,
+        53,
+        86
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "SU-310-17"
+    ],
+    "amicus": [
+        {
+            "name": "Colpensiones",
+            "affiliation": "Administradora Colombiana de Pensiones"
+        }
+    ],
+    "id": [
+        "SU-140-19"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2019/SU140-19.htm"
+    ]
+}

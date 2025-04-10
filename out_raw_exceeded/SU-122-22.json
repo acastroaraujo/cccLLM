@@ -1,0 +1,98 @@
+{
+    "summary": {
+        "spanish": [
+            "La Sentencia SU-122-22 de la Corte Constitucional de Colombia aborda la situación de hacinamiento en los centros de detención transitoria, como estaciones de policía y unidades de reacción inmediata (URI), donde las personas privadas de la libertad permanecen más allá del tiempo legal permitido de 36 horas. La Corte extiende el estado de cosas inconstitucional previamente declarado en el sistema penitenciario y carcelario a estos centros de detención transitoria, debido a la violación sistemática de los derechos fundamentales de las personas detenidas en condiciones indignas. La sentencia ordena medidas urgentes para trasladar a las personas condenadas y procesadas a establecimientos penitenciarios adecuados y establece un plan de acción para mejorar las condiciones de detención, incluyendo la creación de una Sala Especial de Seguimiento para monitorear el cumplimiento de estas medidas. La Corte también suspende la aplicación de la regla de equilibrio decreciente hasta que se implementen medidas estructurales adecuadas."
+        ],
+        "english": [
+            "The SU-122-22 ruling by the Colombian Constitutional Court addresses the overcrowding in temporary detention centers, such as police stations and immediate reaction units (URI), where individuals are held beyond the legally permitted 36 hours. The Court extends the previously declared unconstitutional state of affairs in the penitentiary and prison system to these temporary detention centers due to the systematic violation of the fundamental rights of detainees in degrading conditions. The ruling orders urgent measures to transfer convicted and processed individuals to appropriate penitentiary facilities and establishes an action plan to improve detention conditions, including the creation of a Special Monitoring Chamber to oversee compliance with these measures. The Court also suspends the application of the decreasing balance rule until adequate structural measures are implemented."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        6,
+        17,
+        28,
+        32,
+        86,
+        113,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "T-388 de 2013"
+    ],
+    "amicus": [
+        {
+            "name": "Procuradora 289 Judicial I Penal de Armenia",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Jorge Alberto Carmona Vélez",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Defensor del Pueblo Regional Urabá",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Ferney Alberto Zuluaga Gallego",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Edwar Robledo Baloyes",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Procurador 86 Judicial II Penal y Procurador 90 Judicial II Penal de San José de Cúcuta",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Jhan Carlos Sánchez Vega",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Defensora del Pueblo Regional Cesar",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Germán Arturo Sosa Barrera",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-122-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/SU122-22.htm"
+    ]
+}

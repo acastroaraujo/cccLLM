@@ -1,0 +1,124 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-092-21 aborda la situación de la comunidad indígena Jiw, que ha sido gravemente afectada por el conflicto armado en Colombia, enfrentando desplazamiento forzado y violaciones a sus derechos fundamentales. La Corte Constitucional reconoce la vulneración de derechos como la salud, el agua, la etnoeducación, y la alimentación, entre otros, y emite órdenes para mitigar esta crisis. La Corte también destaca la importancia de la coherencia entre las medidas de protección en sede de tutela y las acciones estructurales para superar el estado de cosas inconstitucional declarado en la sentencia T-025 de 2004. Se ordena a diversas entidades estatales adoptar medidas urgentes para garantizar los derechos de la comunidad Jiw, como la reactivación de brigadas de salud, el suministro de agua potable, y la implementación de proyectos productivos para asegurar la soberanía alimentaria."
+        ],
+        "english": [
+            "The SU-092-21 ruling addresses the situation of the Jiw indigenous community, which has been severely affected by the armed conflict in Colombia, facing forced displacement and violations of their fundamental rights. The Constitutional Court recognizes the violation of rights such as health, water, ethno-education, and food, among others, and issues orders to mitigate this crisis. The Court also highlights the importance of coherence between protection measures in tutela and structural actions to overcome the unconstitutional state of affairs declared in ruling T-025 of 2004. Various state entities are ordered to adopt urgent measures to guarantee the rights of the Jiw community, such as reactivating health brigades, providing potable water, and implementing productive projects to ensure food sovereignty."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": true,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        13,
+        44,
+        50,
+        7,
+        70,
+        79,
+        365,
+        366,
+        367,
+        51,
+        65,
+        58,
+        60,
+        64,
+        66
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "T-025 de 2004"
+    ],
+    "amicus": [
+        {
+            "name": "Consejo Noruego para Refugiados",
+            "affiliation": "Consejo Noruego para Refugiados"
+        }
+    ],
+    "id": [
+        "SU-092-21"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2021/SU092-21.htm"
+    ]
+}
