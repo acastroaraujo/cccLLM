@@ -1,0 +1,120 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-420-19 de la Corte Constitucional de Colombia aborda la procedencia de la acción de tutela para proteger los derechos a la intimidad, al buen nombre y a la honra frente a publicaciones en redes sociales. La Corte revisó varios casos acumulados en los que se alegaba la vulneración de estos derechos por publicaciones difamatorias en plataformas como Facebook y YouTube. La Corte determinó que la acción de tutela es procedente cuando el afectado se encuentra en estado de indefensión, es decir, cuando no tiene medios para defenderse de las publicaciones que afectan su buen nombre y honra. En el caso específico de RMM contra RGRB, la Corte ordenó retirar las publicaciones difamatorias de las redes sociales, ya que se consideró que estas vulneraban los derechos fundamentales del accionante. En otros casos, la Corte declaró la improcedencia de la tutela por falta de relevancia constitucional o por carencia actual de objeto debido a que las publicaciones ya habían sido retiradas."
+        ],
+        "english": [
+            "The SU-420-19 ruling by the Colombian Constitutional Court addresses the admissibility of tutela actions to protect the rights to privacy, good name, and honor against defamatory publications on social media. The Court reviewed several accumulated cases where these rights were allegedly violated by defamatory posts on platforms like Facebook and YouTube. The Court determined that tutela is admissible when the affected party is in a state of defenselessness, meaning they have no means to defend themselves against posts that harm their good name and honor. In the specific case of RMM against RGRB, the Court ordered the removal of defamatory posts from social media, as they were deemed to violate the fundamental rights of the plaintiff. In other cases, the Court declared the tutela inadmissible due to lack of constitutional relevance or due to the current lack of object as the posts had already been removed."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Bernal Pulido",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        15,
+        21,
+        20
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Ministerio de Tecnologías de la Información y las Comunicaciones -MinTic-",
+            "affiliation": "Ministerio de Tecnologías de la Información y las Comunicaciones"
+        },
+        {
+            "name": "Google Colombia Ltda.",
+            "affiliation": "Google"
+        },
+        {
+            "name": "Google LLC",
+            "affiliation": "Google"
+        }
+    ],
+    "id": [
+        "SU-420-19"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2019/SU420-19.htm"
+    ]
+}

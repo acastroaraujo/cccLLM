@@ -1,0 +1,216 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-254-13 de la Corte Constitucional de Colombia aborda la vulneración de los derechos fundamentales de las víctimas de desplazamiento forzado, específicamente en relación con la reparación integral y la indemnización administrativa. La Corte unificó criterios sobre la procedencia de la acción de tutela para reclamar estos derechos, destacando la especial protección constitucional de las víctimas de desplazamiento forzado. La sentencia establece que la reparación integral no se limita a la compensación económica, sino que incluye medidas de restitución, rehabilitación, satisfacción y garantías de no repetición. La Corte también determinó que las solicitudes de indemnización administrativa presentadas antes de la Ley 1448 de 2011 deben seguir el régimen de transición del Decreto 4800 de 2011, y que las indemnizaciones no deben descontarse de los subsidios de vivienda. Además, la sentencia otorga efectos inter comunis para garantizar la igualdad de trato a todas las víctimas en situaciones similares."
+        ],
+        "english": [
+            "The SU-254-13 ruling by the Colombian Constitutional Court addresses the violation of fundamental rights of victims of forced displacement, specifically regarding comprehensive reparation and administrative compensation. The Court unified criteria on the admissibility of tutela actions to claim these rights, emphasizing the special constitutional protection for victims of forced displacement. The ruling establishes that comprehensive reparation is not limited to economic compensation but includes restitution, rehabilitation, satisfaction, and guarantees of non-repetition. The Court also determined that administrative compensation requests submitted before Law 1448 of 2011 must follow the transition regime of Decree 4800 of 2011, and that compensations should not be deducted from housing subsidies. Additionally, the ruling grants inter communis effects to ensure equal treatment for all victims in similar situations."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alexei Julio Estrada",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gabriel Eduardo Mendoza Martelo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        11,
+        12,
+        15,
+        16,
+        24,
+        25,
+        29,
+        86,
+        241,
+        250,
+        93,
+        94,
+        380
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "NULL",
+            "affiliation": "Agencia Presidencial para la Acción Social y la Cooperación Internacional"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Comisión Nacional de Reparación y Reconciliación"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Comisión de Seguimiento a la Política Pública sobre Desplazamiento Forzado"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Universidad Santo Tomás"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Universidad de Los Andes"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Centro de Estudios de Derecho Justicia y Sociedad (Dejusticia)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Centro Internacional Para la Justicia Transicional"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Comisión Intereclesial de Justicia y Paz"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Comisión Colombiana de Juristas"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Mesa Departamental de Cundinamarca de Población Desplazada"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Fundación Social"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Corporación Casa de la Mujer"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Organización Nacional Indígena de Colombia (ONIC)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Asociación de Desplazados Afro descendientes del Chocó (ADACHO)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "FUNDADESPLAZADOS de Popayán"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Campaña Nacional e Internacional Tierra, Vida y Dignidad"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Mesa Municipal de Fortalecimiento-Organizaciones de Población Desplazada Santiago de Cali"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Mesa de Trabajo de Bogotá sobre desplazamiento Interno"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Consejo Regional Indígena de Caldas (CRIDEC)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Organización Regional Indígena Valle del Cauca-Asociación de Cabildos Indígenas Decreto 1088 de 1993 (ORIVAC)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Asociación Nacional Solidaria para la Defensa de la Mujer y la Familia Desplazada (ANSPALMUFAD)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Mesa Departamental de Fortalecimiento de Organizaciones de Población Desplazada del Valle (MDFOPD)"
+        }
+    ],
+    "id": [
+        "SU-254-13"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2013/SU254-13.htm"
+    ]
+}

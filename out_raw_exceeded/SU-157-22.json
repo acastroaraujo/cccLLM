@@ -1,0 +1,101 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-157-22 de la Corte Constitucional de Colombia aborda dos casos acumulados relacionados con la responsabilidad del Estado por la ocupación de inmuebles privados por terceros. En ambos casos, los propietarios de los inmuebles afectados presentaron acciones de tutela contra decisiones judiciales que negaron sus pretensiones de reparación directa por la pérdida de la posesión de sus propiedades debido a ocupaciones ilegales.\n\nEn el primer caso, \"Barrio Pino Sur\" en Usme, Bogotá, el señor Fabio Güiza Santamaría y otros propietarios demandaron a la Fiscalía General de la Nación, la Policía Nacional y el Distrito Capital de Bogotá por la pérdida de la posesión de sus inmuebles debido a la ocupación por parte de terceros. La Corte Constitucional encontró que la Sección Tercera Subsección A del Consejo de Estado desconoció el precedente en relación con el daño especial, ya que no evaluó adecuadamente los elementos del caso concreto bajo este régimen de responsabilidad.\n\nEn el segundo caso, \"Predio San Carlos\" en Soledad, Atlántico, los propietarios demandaron a la Fiscalía General de la Nación y al municipio de Soledad por la pérdida de la posesión de su predio debido a la ocupación por terceros. La Corte Constitucional determinó que la Sección Tercera Subsección B del Consejo de Estado incurrió en un defecto fáctico al no valorar integralmente las pruebas y al basar su decisión en indicios que no demostraban la pérdida de la posesión antes de que los propietarios acudieran a las autoridades.\n\nLa Corte Constitucional revocó las decisiones de tutela de instancias inferiores y ordenó que se profieran nuevas decisiones en ambos casos, teniendo en cuenta los criterios establecidos en la parte motiva de la sentencia."
+        ],
+        "english": [
+            "The SU-157-22 ruling by the Colombian Constitutional Court addresses two consolidated cases related to the State's liability for the occupation of private properties by third parties. In both cases, the affected property owners filed tutela actions against judicial decisions that denied their claims for direct reparation for the loss of possession of their properties due to illegal occupations.\n\nIn the first case, \"Barrio Pino Sur\" in Usme, Bogotá, Mr. Fabio Güiza Santamaría and other owners sued the Attorney General's Office, the National Police, and the Bogotá Capital District for the loss of possession of their properties due to occupation by third parties. The Constitutional Court found that the Third Section Subsection A of the Council of State disregarded the precedent regarding special damage, as it did not adequately assess the elements of the specific case under this liability regime.\n\nIn the second case, \"Predio San Carlos\" in Soledad, Atlántico, the owners sued the Attorney General's Office and the municipality of Soledad for the loss of possession of their property due to occupation by third parties. The Constitutional Court determined that the Third Section Subsection B of the Council of State incurred a factual defect by not comprehensively evaluating the evidence and basing its decision on inferences that did not demonstrate the loss of possession before the owners approached the authorities.\n\nThe Constitutional Court overturned the lower courts' tutela decisions and ordered new decisions to be issued in both cases, considering the criteria established in the ruling's reasoning."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        13,
+        58,
+        90,
+        229
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [],
+    "amicus": [],
+    "id": "SU-157-22",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/2022/SU157-22.htm"
+}

@@ -1,0 +1,164 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-180-22 de la Corte Constitucional de Colombia aborda el caso de un niño venezolano, JDAG, que fue abandonado en Colombia y cuya situación jurídica no ha podido ser definida debido a la falta de nacionalidad colombiana. La Defensora de Familia presentó una acción de tutela para proteger los derechos del niño, argumentando que el Ministerio de Relaciones Exteriores había vulnerado sus derechos al no concederle la nacionalidad colombiana por adopción. La Corte concluyó que el Ministerio de Relaciones Exteriores vulneró los derechos del niño al no aplicar los principios del interés superior del niño y la prevalencia de sus derechos fundamentales. La Corte ordenó al Ministerio de Relaciones Exteriores otorgar la nacionalidad colombiana por adopción al niño JDAG y estableció una regla de unificación para casos similares, extendiendo los efectos de la sentencia a otros niños en situaciones similares."
+        ],
+        "english": [
+            "The SU-180-22 ruling by the Colombian Constitutional Court addresses the case of a Venezuelan child, JDAG, who was abandoned in Colombia and whose legal status could not be defined due to the lack of Colombian nationality. The Family Defender filed a tutela action to protect the child's rights, arguing that the Ministry of Foreign Affairs had violated his rights by not granting him Colombian nationality by adoption. The Court concluded that the Ministry of Foreign Affairs violated the child's rights by not applying the principles of the child's best interest and the prevalence of his fundamental rights. The Court ordered the Ministry of Foreign Affairs to grant Colombian nationality by adoption to the child JDAG and established a unification rule for similar cases, extending the effects of the ruling to other children in similar situations."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        44,
+        96,
+        100,
+        13,
+        23
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Marisol Niño Cendales",
+            "affiliation": "Defensora de Familia"
+        },
+        {
+            "name": "Instituto Colombiano de Bienestar Familiar",
+            "affiliation": "ICBF"
+        },
+        {
+            "name": "Ministerio de Relaciones Exteriores",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Presidencia de la República",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia de la ONU para los Refugiados - ACNUR",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Clínica Jurídica para Migrantes de la Universidad de los Andes",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Universidad Javeriana",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad Externado de Colombia",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad Sergio Arboleda",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad Nacional de Colombia",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad Libre",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad de Antioquia",
+            "affiliation": "Facultad de Derecho"
+        },
+        {
+            "name": "Universidad de Caldas",
+            "affiliation": "Facultad de Derecho"
+        }
+    ],
+    "id": [
+        "SU-180-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/SU180-22.htm"
+    ]
+}

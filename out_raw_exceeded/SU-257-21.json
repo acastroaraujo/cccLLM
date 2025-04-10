@@ -1,0 +1,136 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-257-21 de la Corte Constitucional de Colombia aborda el caso del reconocimiento de la personería jurídica del partido político Nuevo Liberalismo. El caso se originó cuando varios ciudadanos, entre ellos Fernando Galindo González y Gloria Pachón de Galán, solicitaron al Consejo Nacional Electoral (CNE) el reconocimiento de la personería jurídica del Nuevo Liberalismo, argumentando que el partido había sido víctima de violencia política que le impidió participar en igualdad de condiciones en el escenario político. El CNE negó la solicitud, lo que llevó a los solicitantes a presentar una demanda de nulidad y restablecimiento del derecho ante el Consejo de Estado, que también fue desfavorable. Posteriormente, los solicitantes interpusieron una acción de tutela ante la Corte Constitucional, alegando violación de sus derechos fundamentales.\n\nLa Corte Constitucional, en su sentencia, revocó las decisiones del Consejo de Estado y del CNE, ordenando el reconocimiento de la personería jurídica del Nuevo Liberalismo. La Corte argumentó que la violencia sufrida por el partido constituía una circunstancia excepcional que justificaba el reconocimiento de su personería jurídica, similar al caso de la Unión Patriótica, otro partido que había sido víctima de violencia política. La Corte también destacó la importancia de interpretar las normas constitucionales de manera que se garantice el pluralismo político y la participación democrática, y exhortó al Congreso a revisar las normas sobre la obtención y pérdida de la personería jurídica para facilitar la participación política."
+        ],
+        "english": [
+            "The SU-257-21 ruling by the Colombian Constitutional Court addresses the case of the legal recognition of the political party Nuevo Liberalismo. The case originated when several citizens, including Fernando Galindo González and Gloria Pachón de Galán, requested the National Electoral Council (CNE) to recognize the legal status of Nuevo Liberalismo, arguing that the party had been a victim of political violence that prevented it from participating on equal terms in the political arena. The CNE denied the request, leading the applicants to file a nullity and restoration of rights lawsuit before the Council of State, which was also unfavorable. Subsequently, the applicants filed a tutela action before the Constitutional Court, alleging a violation of their fundamental rights.\n\nThe Constitutional Court, in its ruling, overturned the decisions of the Council of State and the CNE, ordering the recognition of the legal status of Nuevo Liberalismo. The Court argued that the violence suffered by the party constituted an exceptional circumstance justifying the recognition of its legal status, similar to the case of Unión Patriótica, another party that had been a victim of political violence. The Court also emphasized the importance of interpreting constitutional norms in a way that ensures political pluralism and democratic participation, and urged Congress to review the rules on obtaining and losing legal status to facilitate political participation."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortíz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        1,
+        3,
+        40,
+        107,
+        108
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "Misión de Observación Electoral",
+            "affiliation": "Misión de Observación Electoral"
+        },
+        {
+            "name": "Centro de Estudios de Derecho, Justicia y Sociedad -Dejusticia-",
+            "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad -Dejusticia-"
+        },
+        {
+            "name": "Departamento de Ciencia Política de la Universidad de los Andes (Programa Congreso Visible)",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Departamento de Derecho Constitucional de la Universidad Externado de Colombia (programa de especialización en Derecho Parlamentario y Práctica de la Democracia)",
+            "affiliation": "Universidad Externado de Colombia"
+        },
+        {
+            "name": "Escuela de Derecho de la Universidad Sergio Arboleda (programa de especialización en Democracia y Régimen Electoral)",
+            "affiliation": "Universidad Sergio Arboleda"
+        }
+    ],
+    "id": [
+        "SU-257-21"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2021/SU257-21.htm"
+    ]
+}

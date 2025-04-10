@@ -1,0 +1,105 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-174-07 de la Corte Constitucional de Colombia aborda un caso de arbitramento entre el Departamento del Valle del Cauca y la empresa Concesiones de Infraestructuras S.A. (CISA). El conflicto surgió a raíz de un contrato de concesión para la construcción y mantenimiento de una carretera, que fue terminado anticipadamente por mutuo acuerdo debido a la oposición de la comunidad al cobro de peajes. Posteriormente, las partes no lograron acordar la liquidación del contrato, lo que llevó a la convocatoria de un tribunal de arbitramento. El tribunal arbitral dictó un laudo que reconoció un desequilibrio económico en el contrato y ordenó al Departamento del Valle del Cauca pagar una suma significativa a CISA. El Departamento del Valle del Cauca impugnó el laudo mediante un recurso de anulación, que fue rechazado por el Consejo de Estado. Posteriormente, el Departamento interpuso una acción de tutela alegando que el tribunal arbitral y el Consejo de Estado habían incurrido en vías de hecho al desconocer la validez de un acto administrativo de liquidación unilateral del contrato. La Corte Constitucional, en su sentencia de unificación, concluyó que no hubo vía de hecho por defecto orgánico, ya que el tribunal arbitral no se pronunció sobre la validez del acto administrativo de liquidación, sino que se limitó a resolver controversias económicas. Por lo tanto, la Corte negó la acción de tutela."
+        ],
+        "english": [
+            "The SU-174-07 ruling by the Colombian Constitutional Court addresses an arbitration case between the Department of Valle del Cauca and the company Concesiones de Infraestructuras S.A. (CISA). The conflict arose from a concession contract for the construction and maintenance of a road, which was terminated early by mutual agreement due to community opposition to toll charges. Subsequently, the parties failed to agree on the contract's liquidation, leading to the convening of an arbitration tribunal. The arbitral tribunal issued an award recognizing an economic imbalance in the contract and ordered the Department of Valle del Cauca to pay a significant sum to CISA. The Department challenged the award through an annulment appeal, which was rejected by the Council of State. Subsequently, the Department filed a tutela action alleging that the arbitral tribunal and the Council of State had committed procedural errors by disregarding the validity of an administrative act of unilateral contract liquidation. The Constitutional Court, in its unification ruling, concluded that there was no procedural error, as the arbitral tribunal did not rule on the validity of the administrative act of liquidation but merely resolved economic disputes. Therefore, the Court denied the tutela action."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Rodrigo Escobar Gil",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jaime Araújo Rentería",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Manuel José Cepeda Espinosa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jaime Córdoba Triviño",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Marco Gerardo Monroy Cabra",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Humberto Antonio Sierra Porto",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Álvaro Tafur Galvis",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Clara Inés Vargas Hernández",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        116
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "SU-174-07"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2007/SU174-07.htm"
+    ]
+}

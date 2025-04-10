@@ -1,0 +1,202 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-214-16 de la Corte Constitucional de Colombia aborda la revisión de varias acciones de tutela relacionadas con el derecho al matrimonio entre parejas del mismo sexo. La Corte decidió unificar criterios y reconocer el matrimonio civil entre parejas del mismo sexo, estableciendo que los jueces y notarios deben celebrar estos matrimonios y que las parejas del mismo sexo tienen los mismos derechos que las parejas heterosexuales en cuanto a la formalización de su unión. La decisión se fundamenta en la necesidad de superar un déficit de protección identificado en la sentencia C-577 de 2011, que había exhortado al Congreso a legislar sobre los derechos de las parejas del mismo sexo. Al no haberse expedido la legislación correspondiente, la Corte determinó que las parejas del mismo sexo pueden formalizar su unión mediante matrimonio civil. La sentencia también aborda la improcedencia de las acciones de tutela interpuestas por la Procuraduría General de la Nación para evitar la celebración de matrimonios entre parejas del mismo sexo, declarando que la Procuraduría carece de legitimación activa para tales acciones. Además, la Corte extiende los efectos de la sentencia a todas las parejas del mismo sexo que se encuentren en situaciones similares, asegurando la validez de los matrimonios civiles celebrados entre parejas del mismo sexo desde el 20 de junio de 2013."
+        ],
+        "english": [
+            "The SU-214-16 ruling by the Colombian Constitutional Court addresses the review of several tutela actions related to the right to marriage between same-sex couples. The Court decided to unify criteria and recognize civil marriage between same-sex couples, establishing that judges and notaries must perform these marriages and that same-sex couples have the same rights as heterosexual couples regarding the formalization of their union. The decision is based on the need to overcome a protection deficit identified in ruling C-577 of 2011, which had urged Congress to legislate on the rights of same-sex couples. Since the corresponding legislation was not enacted, the Court determined that same-sex couples can formalize their union through civil marriage. The ruling also addresses the inadmissibility of tutela actions filed by the Attorney General's Office to prevent the celebration of marriages between same-sex couples, declaring that the Attorney General lacks standing for such actions. Additionally, the Court extends the effects of the ruling to all same-sex couples in similar situations, ensuring the validity of civil marriages celebrated between same-sex couples since June 20, 2013."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "María Victoria Calle Correa",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gabriel Eduardo Mendoza Martelo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": true,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        42,
+        86,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Universidad Autónoma de Bucaramanga",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad Industrial de Santander",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Ministerio del Interior y de Justicia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Matrimonio Igualitario, México",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Carlos Alberto Rocha",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Diego López Medina",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Comisión Colombiana de Juristas",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad de Cartagena",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad del Cauca",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad Nacional de Colombia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "American University Washington College of Law",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Grupo Glip de la Universidad del Norte",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Grupo Rosarista de Interés en las Identidades Sexuales (GRIIS)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Programa de Derecho a la Salud del Centro de Docencias e Investigaciones de México",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Colombia Diversa y el Centro de Estudios de Derecho Justicia y Sociedad –DEJUSTICIA-",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad ICESI de Cali",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad de Los Andes",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Integrantes de la Comunidad LGBTI",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad de Nariño",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "American Sociological Association –ASA-",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad de La Sabana",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad El Bosque",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "José Francisco Ordóñez Ordóñez",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-214-16"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2016/SU214-16.htm"
+    ]
+}

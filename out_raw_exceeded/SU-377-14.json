@@ -1,0 +1,117 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-377-14 de la Corte Constitucional de Colombia aborda la liquidación de la empresa TELECOM y la creación del Patrimonio Autónomo de Remanentes (PAR) para gestionar las obligaciones remanentes. La Corte revisó múltiples acciones de tutela presentadas por ex trabajadores de TELECOM, quienes alegaban violaciones a sus derechos fundamentales en el contexto de la liquidación de la empresa. Los casos se agruparon en tres categorías principales: pensiones anticipadas, fuero sindical y retén social. La Corte analizó la legitimación por activa y pasiva, la competencia territorial, la posibilidad de embargos, la cosa juzgada y la temeridad, la subsidiariedad de la tutela y la inmediatez. La Corte concluyó que el PAR está legitimado por pasiva para responder por obligaciones remanentes y contingentes de TELECOM, y que la tutela es procedente en ciertos casos debido a la proximidad de la extinción del PAR. Sin embargo, la Corte también revocó órdenes de embargo y declaró improcedentes o negó muchas de las tutelas presentadas, ordenando además la investigación de posibles conductas temerarias por parte de algunos abogados."
+        ],
+        "english": [
+            "The SU-377-14 ruling by the Colombian Constitutional Court addresses the liquidation of the TELECOM company and the creation of the Autonomous Heritage of Remnants (PAR) to manage remaining obligations. The Court reviewed multiple tutela actions filed by former TELECOM workers, who alleged violations of their fundamental rights in the context of the company's liquidation. The cases were grouped into three main categories: early pensions, union protection, and social retention. The Court analyzed active and passive standing, territorial jurisdiction, the possibility of embargoes, res judicata and recklessness, the subsidiarity of tutela, and immediacy. The Court concluded that the PAR is passively legitimized to respond for TELECOM's remaining and contingent obligations, and that tutela is appropriate in certain cases due to the proximity of the PAR's extinction. However, the Court also revoked embargo orders and declared many of the tutelas filed as inadmissible or denied, also ordering the investigation of possible reckless conduct by some lawyers."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gabriel Eduardo Mendoza Martelo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        5,
+        13,
+        25,
+        29,
+        39,
+        42,
+        43,
+        44,
+        46,
+        47,
+        53,
+        83,
+        86,
+        95,
+        228,
+        229,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Ruth Virginia Montero",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-377-14"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2014/SU377-14.htm"
+    ]
+}

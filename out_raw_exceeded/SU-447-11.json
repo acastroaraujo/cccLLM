@@ -1,0 +1,115 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-447/11 de la Corte Constitucional de Colombia aborda la acción de tutela presentada por la Superintendencia Financiera y el Fondo de Garantías de Instituciones Financieras (FOGAFIN) contra una sentencia del Consejo de Estado que había declarado nulas ciertas decisiones administrativas relacionadas con la capitalización y reducción del valor nominal de las acciones de la Corporación Grancolombiana de Ahorro y Vivienda Granahorrar. La Corte Constitucional revocó la decisión del Consejo de Estado, argumentando que la acción de nulidad y restablecimiento del derecho estaba caducada, ya que los actos administrativos habían sido notificados al representante legal de Granahorrar en 1998, y la demanda fue presentada en 2000, fuera del plazo legal de cuatro meses. La Corte también determinó que no era necesario notificar a los accionistas de Granahorrar, ya que la notificación al representante legal era suficiente. La sentencia concluyó que la decisión del Consejo de Estado constituía una vía de hecho por defecto sustantivo y procedimental, y por lo tanto, se dejó sin efecto."
+        ],
+        "english": [
+            "The SU-447/11 ruling by the Colombian Constitutional Court addresses the tutela action filed by the Financial Superintendency and the Financial Institutions Guarantee Fund (FOGAFIN) against a decision by the Council of State that had nullified certain administrative decisions related to the capitalization and reduction of the nominal value of shares of the Granahorrar Savings and Housing Corporation. The Constitutional Court overturned the Council of State's decision, arguing that the action for nullity and restoration of rights was time-barred, as the administrative acts had been notified to Granahorrar's legal representative in 1998, and the lawsuit was filed in 2000, outside the legal four-month period. The Court also determined that it was not necessary to notify Granahorrar's shareholders, as notification to the legal representative was sufficient. The ruling concluded that the Council of State's decision constituted a procedural and substantive defect, and therefore, it was nullified."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Juan Carlos Henao Pérez",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gabriel Eduardo Mendoza Martelo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Elías Pinilla Pinilla",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Humberto Antonio Sierra Porto",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        29,
+        228,
+        209,
+        335
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Superintendencia Financiera",
+            "affiliation": "Entidad gubernamental"
+        },
+        {
+            "name": "Fondo de Garantías de Instituciones Financieras (FOGAFIN)",
+            "affiliation": "Entidad gubernamental"
+        }
+    ],
+    "id": [
+        "SU-447-11"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2011/SU447-11.htm"
+    ]
+}

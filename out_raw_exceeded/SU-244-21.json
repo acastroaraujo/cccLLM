@@ -1,0 +1,168 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-244-21 de la Corte Constitucional de Colombia aborda una acción de tutela presentada por la Fundación Festival de la Leyenda Vallenata contra una decisión del Consejo de Estado que había ordenado la devolución de un predio transferido por el Municipio de Valledupar a la Fundación. El Consejo de Estado había considerado que la transferencia constituía una donación prohibida por el artículo 355 de la Constitución, ya que no había una contraprestación adecuada. La Fundación argumentó que la transferencia estaba justificada por su contribución a la cultura vallenata, pero la Corte Constitucional confirmó la decisión del Consejo de Estado, concluyendo que no se había incurrido en defectos sustantivos, fácticos ni de violación directa de la Constitución. La Corte destacó que la transferencia del predio no se ajustaba a las excepciones permitidas por el artículo 355 y que la protección del patrimonio cultural no justificaba la afectación del patrimonio público."
+        ],
+        "english": [
+            "The SU-244-21 ruling by the Colombian Constitutional Court addresses a tutela action filed by the Fundación Festival de la Leyenda Vallenata against a decision by the Council of State, which had ordered the return of a property transferred by the Municipality of Valledupar to the Foundation. The Council of State had considered the transfer a prohibited donation under Article 355 of the Constitution, as there was no adequate consideration. The Foundation argued that the transfer was justified by its contribution to the vallenato culture, but the Constitutional Court upheld the Council of State's decision, concluding that there were no substantive, factual, or direct constitutional violation defects. The Court highlighted that the property transfer did not fit the exceptions allowed by Article 355 and that the protection of cultural heritage did not justify affecting public patrimony."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        355,
+        58,
+        71,
+        72,
+        346,
+        345,
+        368,
+        334,
+        339,
+        341,
+        136,
+        313,
+        286,
+        287,
+        115,
+        1,
+        113,
+        4,
+        2,
+        229,
+        29
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Ministerio de Cultura",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Ministerio de Hacienda y Crédito Público",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Departamento Nacional de Planeación",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Contraloría General de la República",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Fundación Festival de la Leyenda Vallenata",
+            "affiliation": "ONG"
+        },
+        {
+            "name": "Municipio de Valledupar",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Fondo Financiero de Proyectos de Desarrollo - FONADE",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Empresa Nacional Promotora de Desarrollo Territorial - Enterritorio",
+            "affiliation": "Gobierno"
+        },
+        {
+            "name": "Evelio José Daza Daza",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-244-21"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2021/SU244-21.htm"
+    ]
+}

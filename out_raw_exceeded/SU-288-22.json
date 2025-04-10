@@ -1,0 +1,142 @@
+{
+    "summary": {
+        "spanish": [
+            "La Corte Constitucional de Colombia revisó varios fallos de tutela relacionados con la prescripción adquisitiva de dominio sobre predios rurales, en los que se cuestiona la naturaleza jurídica de los bienes como baldíos. La Agencia Nacional de Tierras (ANT) y otros demandantes alegan que las decisiones judiciales vulneraron sus derechos al debido proceso y a la seguridad jurídica, al no considerar adecuadamente la posibilidad de que los predios fueran baldíos, lo que los haría imprescriptibles. La Corte unifica su jurisprudencia, estableciendo que la propiedad privada de predios rurales debe probarse con títulos debidamente inscritos, y que la ANT debe ser informada de los procesos de pertenencia para que pueda intervenir. Además, se ordena a la ANT y otras entidades a adoptar medidas para clarificar y recuperar los baldíos indebidamente ocupados, y se exhorta al Gobierno y al Congreso a implementar medidas del Acuerdo de Paz relacionadas con la reforma rural integral."
+        ],
+        "english": [
+            "The Colombian Constitutional Court reviews several tutela rulings related to the acquisitive prescription of ownership over rural properties, where the legal nature of the properties as vacant lands (baldíos) is questioned. The National Land Agency (ANT) and other plaintiffs argue that judicial decisions violated their rights to due process and legal certainty by not adequately considering the possibility that the properties were baldíos, making them imprescriptible. The Court unifies its jurisprudence, establishing that private ownership of rural properties must be proven with duly registered titles, and that the ANT must be informed of possession processes to intervene. Additionally, the ANT and other entities are ordered to adopt measures to clarify and recover improperly occupied baldíos, and the Government and Congress are urged to implement measures from the Peace Agreement related to comprehensive rural reform."
+        ]
+    },
+    "chamber_raw": [
+        "sala plena"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Hernán Correa Cardozo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        4,
+        13,
+        29,
+        48,
+        58,
+        63,
+        64,
+        65,
+        66,
+        102,
+        113,
+        122,
+        123,
+        150,
+        228,
+        230,
+        334,
+        366
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Procuraduríaa General de la Nación"
+        },
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro de Investigación y Educación Popular (CINEP)"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro de Recursos para el Análisis del Conflicto (CERAC)"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Kroc de Estudios Internacionales de Paz"
+        }
+    ],
+    "id": [
+        "SU-288-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/SU288-22.htm"
+    ]
+}
