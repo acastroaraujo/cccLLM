@@ -1,0 +1,74 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-774-15 de la Corte Constitucional de Colombia aborda la situación de varios individuos que interpusieron acciones de tutela contra el Instituto de Seguros Sociales (ISS) y Colpensiones, alegando la vulneración de sus derechos fundamentales a la seguridad social, debido proceso, y mínimo vital, entre otros. Los casos se centran en la negativa de estas entidades a reconocer pensiones de invalidez, argumentando el incumplimiento de requisitos legales. La Corte encontró que las entidades no cumplieron con los términos legales para responder a las solicitudes de pensión y que no acataron oportunamente las órdenes judiciales. Además, se identificó un estado de cosas inconstitucional en la transición del ISS a Colpensiones, debido a obstáculos administrativos que impedían el cumplimiento de las obligaciones legales. La Corte ordenó a Colpensiones adoptar medidas para mejorar la calidad de sus actos administrativos, completar las historias laborales de los afiliados, y cumplir con las sentencias judiciales. También se exhortó a varias entidades gubernamentales a tomar medidas para asegurar la sostenibilidad del sistema de pensiones y mejorar la protección de los derechos de los afiliados."
+        ],
+        "english": [
+            "The T-774-15 ruling by the Colombian Constitutional Court addresses the situation of several individuals who filed tutela actions against the Social Security Institute (ISS) and Colpensiones, alleging violations of their fundamental rights to social security, due process, and minimum subsistence, among others. The cases focus on the refusal of these entities to recognize disability pensions, arguing non-compliance with legal requirements. The Court found that the entities did not comply with legal deadlines to respond to pension requests and did not timely comply with judicial orders. Additionally, a state of unconstitutional affairs was identified in the transition from ISS to Colpensiones, due to administrative obstacles preventing compliance with legal obligations. The Court ordered Colpensiones to adopt measures to improve the quality of its administrative acts, complete the labor histories of affiliates, and comply with judicial rulings. Several government entities were also urged to take measures to ensure the sustainability of the pension system and improve the protection of affiliates' rights."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Novena de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        48,
+        53,
+        86,
+        241,
+        13,
+        29,
+        229,
+        365,
+        189,
+        334,
+        95,
+        1,
+        2,
+        20,
+        74
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Clara Elena Reales Gutiérrez",
+            "affiliation": "Asociación Colombiana de Administradoras de Fondos de Pensiones y Cesantía Asofondos"
+        }
+    ],
+    "id": [
+        "T-774-15"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2015/T-774-15.htm"
+    ]
+}

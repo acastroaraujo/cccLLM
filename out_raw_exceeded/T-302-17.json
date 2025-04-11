@@ -1,0 +1,85 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-302/17 de la Corte Constitucional de Colombia aborda una acción de tutela presentada por Elson Rafael Rodríguez Beltrán en representación de los niños y niñas del pueblo Wayúu en La Guajira. La acción fue dirigida contra varias entidades del gobierno colombiano, incluyendo la Presidencia de la República y varios ministerios, debido a la grave situación de desnutrición y falta de acceso a agua potable y servicios de salud que enfrentan estos niños. La Corte constató una vulneración generalizada de los derechos fundamentales al agua, la alimentación y la salud de los niños Wayúu, causada por fallas estructurales en las políticas públicas y la falta de coordinación entre las entidades gubernamentales. La Corte declaró un estado de cosas inconstitucional y ordenó la creación de un mecanismo especial de seguimiento y evaluación de las políticas públicas para superar esta situación. Además, estableció objetivos mínimos constitucionales que deben ser cumplidos para garantizar los derechos de los niños Wayúu, incluyendo mejorar la disponibilidad de agua, la efectividad de los programas de alimentación y la atención en salud, así como asegurar la participación genuina de las autoridades legítimas del pueblo Wayúu en la formulación de políticas."
+        ],
+        "english": [
+            "The T-302/17 ruling by the Colombian Constitutional Court addresses a tutela action filed by Elson Rafael Rodríguez Beltrán on behalf of the Wayúu children in La Guajira. The action was directed against several government entities, including the Presidency and various ministries, due to the severe malnutrition and lack of access to potable water and health services faced by these children. The Court found a widespread violation of the fundamental rights to water, food, and health of the Wayúu children, caused by structural failures in public policies and lack of coordination among government entities. The Court declared a state of unconstitutional affairs and ordered the creation of a special mechanism for monitoring and evaluating public policies to overcome this situation. It also set minimum constitutional objectives that must be met to ensure the rights of the Wayúu children, including improving water availability, the effectiveness of food programs, and health care, as well as ensuring genuine participation of the legitimate Wayúu authorities in policy formulation."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Séptima de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Aquiles Arrieta Gómez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Antonio Cepeda Amarís",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        11,
+        49,
+        50,
+        44,
+        13,
+        7
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Centro de Estudios de Derecho, Justicia y Sociedad—Dejusticia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Comité Cívico por la Dignidad de La Guajira",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Comité de Apoyo a Comunidades Populares-CODACOP",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Organización Nacional Indígena de Colombia-ONIC",
+            "affiliation": "NULL"
+        }
+    ],
+    "id": [
+        "T-302-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/T-302-17.htm"
+    ]
+}

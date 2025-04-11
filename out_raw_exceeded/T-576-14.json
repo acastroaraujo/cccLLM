@@ -1,0 +1,88 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-576-14 de la Corte Constitucional de Colombia aborda una acción de tutela presentada por Moisés Pérez Casseres contra el Ministerio del Interior. El demandante argumentó que la Resolución 121 de 2012, emitida por el Ministerio, vulneró los derechos fundamentales de las comunidades negras al condicionar su participación en un proceso de elección a la posesión de un título colectivo de tierras, excluyendo así a muchas comunidades urbanas y desplazadas. La Corte decidió que la resolución debía ser anulada, ya que no se consultó previamente con las comunidades afectadas, lo que violó su derecho a la consulta previa. La Corte ordenó al Ministerio del Interior realizar un proceso de consulta para definir un nuevo mecanismo de participación que incluya a todas las comunidades negras, independientemente de su situación territorial."
+        ],
+        "english": [
+            "The ruling T-576-14 of the Colombian Constitutional Court addresses a tutela action filed by Moisés Pérez Casseres against the Ministry of the Interior. The plaintiff argued that Resolution 121 of 2012, issued by the Ministry, violated the fundamental rights of black communities by conditioning their participation in an electoral process on the possession of a collective land title, thus excluding many urban and displaced communities. The Court decided that the resolution should be annulled as it was not previously consulted with the affected communities, violating their right to prior consultation. The Court ordered the Ministry of the Interior to conduct a consultation process to define a new participation mechanism that includes all black communities, regardless of their territorial situation."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Novena de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        13,
+        40,
+        86,
+        241,
+        330
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Observatorio de Discriminación Racial"
+        },
+        {
+            "name": "",
+            "affiliation": "Comisión Intereclesial de Justicia y Paz"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Colombiano de Antropología e Historia (ICANH)"
+        },
+        {
+            "name": "",
+            "affiliation": "Veeduría Nacional de Comunidades Negras, Afrocolombianas, Raizales y Palenqueras"
+        },
+        {
+            "name": "",
+            "affiliation": "Autoridad Nacional Afrocolombiana"
+        }
+    ],
+    "id": [
+        "T-576-14"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2014/T-576-14.htm"
+    ]
+}

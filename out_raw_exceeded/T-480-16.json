@@ -1,0 +1,64 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-480/16 de la Corte Constitucional de Colombia aborda el caso de 106 madres comunitarias que demandaron al Instituto Colombiano de Bienestar Familiar (ICBF) y al Departamento Administrativo para la Prosperidad Social (DPS) por la falta de pago de aportes a pensión durante su tiempo de servicio en el Programa Hogares Comunitarios de Bienestar. Las demandantes argumentaron que su relación con el ICBF constituía un \"contrato realidad\", ya que cumplían con los elementos esenciales de un contrato de trabajo: prestación personal del servicio, subordinación y salario. La Corte concluyó que efectivamente existía un contrato de trabajo realidad entre las madres comunitarias y el ICBF, y ordenó al ICBF reconocer y pagar los salarios y prestaciones sociales adeudados, así como los aportes parafiscales en pensiones. La decisión se basó en la aplicación del principio de primacía de la realidad sobre las formalidades, y se consideró que el ICBF había vulnerado los derechos fundamentales de las demandantes a la igualdad, seguridad social, dignidad humana, mínimo vital y trabajo."
+        ],
+        "english": [
+            "The ruling T-480/16 by the Colombian Constitutional Court addresses the case of 106 community mothers who sued the Colombian Institute of Family Welfare (ICBF) and the Administrative Department for Social Prosperity (DPS) for the non-payment of pension contributions during their service in the Community Welfare Homes Program. The plaintiffs argued that their relationship with the ICBF constituted a \"real contract\" as it met the essential elements of an employment contract: personal service provision, subordination, and salary. The Court concluded that there was indeed a real employment contract between the community mothers and the ICBF, and ordered the ICBF to recognize and pay the owed salaries and social benefits, as well as the parafiscal pension contributions. The decision was based on the application of the principle of the primacy of reality over formalities, and it was considered that the ICBF had violated the plaintiffs' fundamental rights to equality, social security, human dignity, minimum subsistence, and work."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Octava de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        13,
+        25,
+        43,
+        48,
+        53
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Defensoría del Pueblo"
+        }
+    ],
+    "id": [
+        "T-480-16"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2016/T-480-16.htm"
+    ]
+}

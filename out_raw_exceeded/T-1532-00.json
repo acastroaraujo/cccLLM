@@ -1,0 +1,63 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-1532/00 de la Corte Constitucional de Colombia aborda la improcedencia de la acción de tutela para ordenar incrementos salariales a servidores públicos. Los actores, empleados y pensionados del sector público, argumentaron que la decisión del Gobierno Nacional de no aumentar sus salarios y pensiones violaba sus derechos fundamentales, incluyendo el derecho a un salario digno y justo, y a la igualdad. La Corte reiteró su jurisprudencia, señalando que la acción de tutela no es el mecanismo adecuado para cuestionar decisiones de política fiscal del Gobierno, ya que estas decisiones son de carácter general y deben ser discutidas en otras instancias judiciales. La Corte confirmó las decisiones de instancia que negaron las tutelas y revocó aquellas que las concedieron, basándose en la sentencia SU-1052 de 2000, que había resuelto un caso similar."
+        ],
+        "english": [
+            "The ruling T-1532/00 of the Colombian Constitutional Court addresses the inadmissibility of the tutela action to order salary increases for public servants. The plaintiffs, employees and pensioners of the public sector, argued that the Government's decision not to increase their salaries and pensions violated their fundamental rights, including the right to a fair and just salary, and equality. The Court reiterated its jurisprudence, stating that the tutela action is not the appropriate mechanism to challenge government fiscal policy decisions, as these are general in nature and should be discussed in other judicial instances. The Court confirmed the lower court decisions that denied the tutelas and revoked those that granted them, based on the SU-1052 of 2000 ruling, which had resolved a similar case."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Cuarta de Revisión de Tutelas"
+    ],
+    "person": [
+        {
+            "name": "Carlos Gaviria Díaz",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Martínez Caballero",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Gregorio Hernández Galindo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        13,
+        25,
+        53,
+        86,
+        113,
+        187,
+        346
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "SU-1052 de 2000"
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "T-1532-00"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2000/T-1532-00.htm"
+    ]
+}

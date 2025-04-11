@@ -1,0 +1,106 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-397-04 de la Corte Constitucional de Colombia aborda el caso de Teresa, una madre invidente en situación de pobreza extrema, que busca la reunificación con su hija Luisa, quien fue retirada de su cuidado por el Instituto Colombiano de Bienestar Familiar (ICBF) debido a preocupaciones sobre su bienestar. La Corte reconoce la situación de Teresa como un sujeto de especial protección constitucional debido a su discapacidad visual, su pobreza extrema y su condición de madre de una niña pequeña. La Corte concluye que el interés superior de Luisa no justifica su reintegración inmediata con Teresa, pero ordena al Estado adoptar medidas para permitir el desarrollo de una relación materno-filial digna. Se ordena un proceso de rehabilitación para Teresa y la supervisión de un equipo profesional para evaluar su capacidad de cuidar a Luisa. Mientras tanto, Luisa permanecerá en un hogar sustituto hasta que se determine que Teresa puede cuidarla adecuadamente."
+        ],
+        "english": [
+            "The ruling T-397-04 of the Colombian Constitutional Court addresses the case of Teresa, a blind mother in extreme poverty, seeking reunification with her daughter Luisa, who was removed from her care by the Colombian Institute of Family Welfare (ICBF) due to concerns about her well-being. The Court recognizes Teresa's situation as a subject of special constitutional protection due to her visual disability, extreme poverty, and status as a mother of a young child. The Court concludes that Luisa's best interest does not justify her immediate reintegration with Teresa but orders the State to adopt measures to allow the development of a dignified mother-daughter relationship. A rehabilitation process for Teresa is ordered, and a professional team will supervise and evaluate her ability to care for Luisa. Meanwhile, Luisa will remain in a foster home until it is determined that Teresa can adequately care for her."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Tercera de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Manuel José Cepeda Espinosa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jaime Córdoba Triviño",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Rodrigo Escobar Gil",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        44,
+        29,
+        11,
+        12,
+        13,
+        47,
+        54,
+        68,
+        42,
+        48,
+        49,
+        16,
+        22,
+        28,
+        5
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Angela María Estrada Mesa",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Constanza González",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Estefanía Sarmiento",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Myriam Rodríguez Páez",
+            "affiliation": "Universidad Nacional de Colombia"
+        },
+        {
+            "name": "Clara María García",
+            "affiliation": "Universidad Nacional de Colombia"
+        },
+        {
+            "name": "Leonardo Rodríguez Celis",
+            "affiliation": "Pontificia Universidad Javeriana"
+        },
+        {
+            "name": "José Ricardo Álvarez",
+            "affiliation": "Pontificia Universidad Javeriana"
+        },
+        {
+            "name": "Marcela Henao Álvarez",
+            "affiliation": "Pontificia Universidad Javeriana"
+        },
+        {
+            "name": "Sara Méndez París",
+            "affiliation": "Pontificia Universidad Javeriana"
+        }
+    ],
+    "id": [
+        "T-397-04"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2004/T-397-04.htm"
+    ]
+}

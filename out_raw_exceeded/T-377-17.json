@@ -1,0 +1,70 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-377/17 de la Corte Constitucional de Colombia aborda múltiples acciones de tutela interpuestas por personas desplazadas forzadamente contra la Unidad para la Atención y Reparación Integral a las Víctimas (UARIV). Los demandantes alegan la vulneración de derechos fundamentales, especialmente el derecho de petición, debido a la falta de respuesta oportuna y de fondo por parte de la UARIV a sus solicitudes de ayuda humanitaria y reparación administrativa. La Corte identificó fallas estructurales en la atención a las víctimas, como la demora en las respuestas de la UARIV y el uso de argumentos sin fundamento legal para negar ayudas. La Corte ordenó a la UARIV mejorar sus procesos de respuesta y a los jueces de tutela a fundamentar mejor sus decisiones. Además, se revocaron varias sentencias de tutela y se ordenó a la UARIV dar respuesta definitiva a las solicitudes pendientes."
+        ],
+        "english": [
+            "The ruling T-377/17 of the Colombian Constitutional Court addresses multiple tutela actions filed by forcibly displaced persons against the Unit for Comprehensive Attention and Reparation to Victims (UARIV). The plaintiffs allege the violation of fundamental rights, especially the right to petition, due to the UARIV's failure to provide timely and substantive responses to their requests for humanitarian aid and administrative reparation. The Court identified structural failures in victim assistance, such as delays in UARIV's responses and the use of unfounded arguments to deny aid. The Court ordered UARIV to improve its response processes and instructed tutela judges to better substantiate their decisions. Additionally, several tutela rulings were revoked, and UARIV was ordered to provide definitive responses to pending requests."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Tercera de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        13,
+        49,
+        48,
+        53,
+        23,
+        86,
+        241,
+        29,
+        229,
+        2,
+        15,
+        21,
+        250,
+        1
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "T-377-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/T-377-17.htm"
+    ]
+}

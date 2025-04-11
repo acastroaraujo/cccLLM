@@ -1,0 +1,61 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-563/19 de la Corte Constitucional de Colombia aborda la acumulación de 37 acciones de tutela relacionadas con la solicitud de terapias especializadas para niños con alteraciones físicas, sensoriales o cognitivas, que no están incluidas en el Plan de Beneficios del sistema de salud. La Corte determinó que, en la mayoría de los casos, las acciones de tutela eran improcedentes debido a la existencia de otros mecanismos judiciales adecuados, como la Superintendencia Nacional de Salud, para resolver estas controversias. Además, se encontró que muchas de las solicitudes no cumplían con los requisitos necesarios, como la falta de agotamiento de las instancias previas en el sistema de salud o la falta de legitimación de los demandantes. En el caso específico de la IPS Funtierra, que solicitaba el pago de servicios ya prestados y la autorización para continuar brindando tratamientos, la Corte también declaró la improcedencia de la tutela, señalando que la controversia tenía un carácter económico que debía ser resuelto en otras instancias judiciales. La Corte enfatizó la necesidad de que las solicitudes de tratamientos no convencionales se realicen dentro del marco del sistema de salud y no a través de acciones de tutela que eludan los procedimientos establecidos."
+        ],
+        "english": [
+            "The ruling T-563/19 by the Colombian Constitutional Court addresses the accumulation of 37 tutela actions related to the request for specialized therapies for children with physical, sensory, or cognitive alterations, which are not included in the Health Benefits Plan. The Court determined that, in most cases, the tutela actions were inadmissible due to the existence of other adequate judicial mechanisms, such as the National Health Superintendence, to resolve these disputes. Additionally, it was found that many of the requests did not meet the necessary requirements, such as the lack of exhaustion of prior instances in the health system or the lack of standing of the plaintiffs. In the specific case of IPS Funtierra, which requested payment for services already provided and authorization to continue providing treatments, the Court also declared the tutela inadmissible, noting that the dispute had an economic nature that should be resolved in other judicial instances. The Court emphasized the need for requests for non-conventional treatments to be made within the framework of the health system and not through tutela actions that circumvent established procedures."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Tercera de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Leonel Guerrero Aguas",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "T-563-19"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2019/T-563-19.htm"
+    ]
+}

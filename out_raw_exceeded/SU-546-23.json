@@ -1,0 +1,137 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-546 de 2023 aborda una serie de acciones de tutela presentadas por líderes sociales y defensores de derechos humanos en Colombia, quienes alegan que sus derechos fundamentales han sido vulnerados por la falta de protección adecuada por parte de las autoridades, incluyendo la Unidad Nacional de Protección (UNP) y la Fiscalía General de la Nación (FGN). La Corte Constitucional, en sala plena, revisó múltiples casos y determinó que existe un estado de cosas inconstitucional debido a la violación sistemática y generalizada de los derechos de esta población. La Corte ordenó la adopción de un Plan Integral para garantizar la protección de los derechos de los líderes y defensores de derechos humanos, que debe incluir medidas específicas para mejorar la seguridad personal, el debido proceso y la justicia efectiva. Además, se ordenó a la FGN mejorar sus procesos de investigación y a la UNP reevaluar y ajustar los esquemas de protección. La sentencia también destaca la necesidad de un enfoque de seguridad humana y la implementación de medidas con enfoque diferencial."
+        ],
+        "english": [
+            "The SU-546 of 2023 ruling addresses a series of tutela actions filed by social leaders and human rights defenders in Colombia, who claim that their fundamental rights have been violated due to inadequate protection by authorities, including the National Protection Unit (UNP) and the Attorney General's Office (FGN). The Constitutional Court, in full session, reviewed multiple cases and determined that there is an unconstitutional state of affairs due to the systematic and widespread violation of the rights of this population. The Court ordered the adoption of a Comprehensive Plan to ensure the protection of the rights of leaders and human rights defenders, which must include specific measures to improve personal security, due process, and effective justice. Additionally, the FGN was ordered to improve its investigation processes, and the UNP was instructed to reevaluate and adjust protection schemes. The ruling also highlights the need for a human security approach and the implementation of measures with a differential focus."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Juan Carlos Cortés González",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Miguel Polo Rosero",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "T-590 de 1998"
+    ],
+    "amicus": [
+        {
+            "name": "Juliette de Rivero",
+            "affiliation": "Oficina de la Alta Comisionada de las Naciones Unidas para los Derechos Humanos"
+        },
+        {
+            "name": "Lourdes Castro García",
+            "affiliation": "Programa Somos Defensores"
+        },
+        {
+            "name": "Marco Romero Silva",
+            "affiliation": "Consultoría para los derechos humanos y el desplazamiento (Codhes)"
+        },
+        {
+            "name": "Juan Pappier",
+            "affiliation": "Human Rights Watch"
+        },
+        {
+            "name": "Rodrigo Uprimny",
+            "affiliation": "Dejusticia"
+        },
+        {
+            "name": "Erlendy Cuero Bravo",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Franklin Castañeda",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Oscar Gerardo Salazar",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-546-23"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2023/SU546-23.htm"
+    ]
+}

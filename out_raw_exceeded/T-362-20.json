@@ -1,0 +1,153 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-362/20 de la Corte Constitucional de Colombia aborda una acción de tutela presentada por Carolina Sanín Paz contra la Universidad de los Andes. La demandante, una docente de la universidad, alegó que su despido fue una represalia por sus publicaciones en redes sociales y declaraciones en medios de comunicación, que criticaban a la institución y a algunos de sus miembros. Sanín Paz argumentó que su despido violaba su libertad de expresión y no consideraba el contexto de acoso y violencia de género que enfrentó por parte de un grupo de estudiantes conocido como \"Los Chompos\". La Corte, sin embargo, concluyó que el despido no constituía una violación de sus derechos fundamentales. Determinó que las expresiones de Sanín Paz no estaban protegidas constitucionalmente de manera especial y que la universidad actuó dentro de sus derechos al considerar que sus declaraciones afectaban el buen nombre y la convivencia en la comunidad universitaria. La Corte también desestimó la alegación de que el despido fue discriminatorio por razones de género, al no encontrar evidencia de que la demandante estuviera en una posición de desventaja que justificara un enfoque diferencial."
+        ],
+        "english": [
+            "The ruling T-362/20 by the Colombian Constitutional Court addresses a tutela action filed by Carolina Sanín Paz against the University of the Andes. The plaintiff, a university professor, claimed that her dismissal was a retaliation for her social media posts and media statements criticizing the institution and some of its members. Sanín Paz argued that her dismissal violated her freedom of expression and did not consider the context of harassment and gender-based violence she faced from a group of students known as \"Los Chompos.\" However, the Court concluded that the dismissal did not constitute a violation of her fundamental rights. It determined that Sanín Paz's expressions were not specially protected under the constitution and that the university acted within its rights by considering that her statements affected the institution's reputation and community harmony. The Court also dismissed the claim that the dismissal was gender-discriminatory, finding no evidence that the plaintiff was in a disadvantaged position warranting a differential approach."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Segunda de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Simón Ganitsky White",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Daniela Maldonado Castañeda",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Isabel De Brigard",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Andrés Caro Borrero",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Lucas Ospina",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Gemma Bernadó Ferrer",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Myriam Díaz",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Emperatriz Chinchilla",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Francia Elena Goenaga",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Camilo Hernández Castellanos",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Andrea Lozano Vásquez",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Claudia Montilla Vargas",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Jerónimo Pizarro Jaramillo",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Ana Filipa Prata",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "David Solodkow",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Patricia Zalamea Fajardo",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "Women’s Link Worldwide",
+            "affiliation": "Women’s Link Worldwide"
+        },
+        {
+            "name": "Ministerio del Trabajo",
+            "affiliation": "Ministerio del Trabajo"
+        },
+        {
+            "name": "Asociación Colombiana de Universidades (ASCUN)",
+            "affiliation": "Asociación Colombiana de Universidades (ASCUN)"
+        },
+        {
+            "name": "Escuela de Estudios de Género de la Universidad Nacional de Colombia",
+            "affiliation": "Universidad Nacional de Colombia"
+        },
+        {
+            "name": "Fundación para la Libertad de Prensa (FLIP)",
+            "affiliation": "Fundación para la Libertad de Prensa (FLIP)"
+        },
+        {
+            "name": "Organización Derechos Digitales",
+            "affiliation": "Organización Derechos Digitales"
+        },
+        {
+            "name": "Paola Patricia Pereira Ortiz",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "T-362-20"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2020/T-362-20.htm"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-447/18 trata sobre una acción de tutela interpuesta por Isabel Londoño Guerrero y otras 333 mujeres contra el Instituto Colombiano de Bienestar Familiar (ICBF). Las demandantes, que han trabajado como madres comunitarias o sustitutas, alegan que el ICBF ha vulnerado sus derechos fundamentales al no reconocer una relación laboral con ellas, lo que ha impedido el pago de salarios, prestaciones sociales y aportes parafiscales en pensiones. Las demandantes buscan que se declare la existencia de un contrato laboral con el ICBF y se ordene el pago de las acreencias laborales y los aportes a la seguridad social. La Corte Constitucional, en su sentencia, reitera la jurisprudencia establecida en la sentencia SU-079 de 2018, que concluye que no existe una relación laboral entre el ICBF y las madres comunitarias o sustitutas, ya que su labor es de carácter solidario y no genera obligaciones laborales para el ICBF. Por lo tanto, la Corte niega el amparo solicitado por las demandantes."
+        ],
+        "english": [
+            "The ruling T-447/18 addresses a tutela action filed by Isabel Londoño Guerrero and 333 other women against the Colombian Institute of Family Welfare (ICBF). The plaintiffs, who have worked as community or substitute mothers, claim that the ICBF has violated their fundamental rights by not recognizing a labor relationship with them, which has prevented the payment of wages, social benefits, and parafiscal contributions to pensions. The plaintiffs seek a declaration of the existence of a labor contract with the ICBF and an order for the payment of labor claims and social security contributions. The Constitutional Court, in its ruling, reiterates the jurisprudence established in ruling SU-079 of 2018, which concludes that there is no labor relationship between the ICBF and the community or substitute mothers, as their work is of a solidarity nature and does not generate labor obligations for the ICBF. Therefore, the Court denies the protection requested by the plaintiffs."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Séptima de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "SU-079/18"
+    ],
+    "amicus": [
+        {
+            "name": "Luz Karime Fernández Castillo",
+            "affiliation": "Instituto Colombiano de Bienestar Familiar"
+        },
+        {
+            "name": "Diego Alejandro Urrego Escobar",
+            "affiliation": "Colpensiones"
+        },
+        {
+            "name": "Álvaro Willington Ortiz Abril",
+            "affiliation": "Consorcio Colombia Mayor 2013"
+        }
+    ],
+    "id": [
+        "T-447-18"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2018/T-447-18.htm"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-627 de 2012 de la Corte Constitucional de Colombia aborda una acción de tutela interpuesta por Mónica del Pilar Roa López y otras 1279 mujeres contra el Procurador General de la Nación, Alejandro Ordóñez Maldonado, y otras dos Procuradoras Delegadas. Las demandantes alegan que los funcionarios han emitido información falsa y tergiversada sobre los derechos reproductivos de las mujeres, afectando su derecho a la información, a la dignidad humana, al libre desarrollo de la personalidad, a la salud, a la educación y a beneficiarse del progreso científico. La Corte concluyó que, en varios casos, los funcionarios demandados violaron o amenazaron los derechos fundamentales de las demandantes, especialmente en lo que respecta a la información sobre anticoncepción de emergencia y la interrupción voluntaria del embarazo (IVE). La Corte ordenó rectificaciones y modificaciones en las posiciones oficiales de la Procuraduría General de la Nación para garantizar el respeto de los derechos fundamentales de las mujeres."
+        ],
+        "english": [
+            "The T-627-12 ruling by the Colombian Constitutional Court addresses a tutela action filed by Mónica del Pilar Roa López and 1279 other women against the Attorney General of the Nation, Alejandro Ordóñez Maldonado, and two other Deputy Attorneys. The plaintiffs argue that the officials have issued false and distorted information about women's reproductive rights, affecting their rights to information, human dignity, free development of personality, health, education, and benefiting from scientific progress. The Court concluded that, in several cases, the defendants violated or threatened the plaintiffs' fundamental rights, especially regarding information on emergency contraception and voluntary termination of pregnancy (IVE). The Court ordered rectifications and modifications in the official positions of the Attorney General's Office to ensure the respect of women's fundamental rights."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Octava de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Humberto Antonio Sierra Porto",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        1,
+        11,
+        13,
+        16,
+        20,
+        43,
+        49,
+        67
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "NULL",
+            "affiliation": "Área de Derechos Sexuales y Reproductivos del Programa de Derecho a la Salud de la División de Estudios Jurídicos del Centro de Investigación y Docencia Económicas de México"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Asociación por los Derechos Civiles de Argentina (ADC)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Centro de Derechos Reproductivos (CDR)"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Centro de Estudios de Derecho, Justicia y Sociedad -DeJuSticia-"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Grupo de 82 hombres"
+        },
+        {
+            "name": "NULL",
+            "affiliation": "Periodistas en Colombia"
+        }
+    ],
+    "id": [
+        "T-627-12"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2012/T-627-12.htm"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "summary": {
+        "spanish": [
+            "El caso trata de una acción de tutela presentada por Álvaro Uribe Vélez contra Daniel Mendoza Leal, alegando que sus derechos fundamentales a la honra, buen nombre, presunción de inocencia y dignidad humana fueron vulnerados. Mendoza Leal, a través de la serie \"Matarife: un genocida innombrable\" y publicaciones en redes sociales, calificó a Uribe de \"genocida\", \"paramilitar\" y \"narcotraficante\", entre otros. Uribe argumentó que estas afirmaciones eran falsas y difamatorias, constituyendo discursos de odio y ciberacoso. Mendoza Leal defendió sus afirmaciones bajo la libertad de opinión y expresión artística. La Corte Constitucional encontró que algunas afirmaciones de Mendoza Leal no estaban amparadas por la libertad de expresión y ordenó su rectificación, concluyendo que vulneraron los derechos de Uribe a la honra, buen nombre y presunción de inocencia."
+        ],
+        "english": [
+            "The case involves a tutela action filed by Álvaro Uribe Vélez against Daniel Mendoza Leal, claiming that his fundamental rights to honor, good name, presumption of innocence, and human dignity were violated. Mendoza Leal, through the series \"Matarife: un genocida innombrable\" and social media posts, labeled Uribe as a \"genocidal,\" \"paramilitary,\" and \"drug trafficker,\" among others. Uribe argued that these statements were false and defamatory, constituting hate speech and cyberbullying. Mendoza Leal defended his statements under the freedom of opinion and artistic expression. The Constitutional Court found that some of Mendoza Leal's statements were not protected by freedom of expression and ordered their rectification, concluding that they violated Uribe's rights to honor, good name, and presumption of innocence."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Quinta de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        4,
+        15,
+        16,
+        20,
+        21,
+        29,
+        40,
+        42,
+        73
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Gonzalo Guillén",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Twitter Colombia S.A.S.",
+            "affiliation": "Twitter Colombia S.A.S."
+        },
+        {
+            "name": "Google Colombia Limitada",
+            "affiliation": "Google Colombia Limitada"
+        },
+        {
+            "name": "Google LLC",
+            "affiliation": "Google LLC"
+        },
+        {
+            "name": "Facebook Colombia S.A.S.",
+            "affiliation": "Facebook Colombia S.A.S."
+        }
+    ],
+    "id": [
+        "T-242-22"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2022/T-242-22.htm"
+    ]
+}

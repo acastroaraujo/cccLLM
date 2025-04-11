@@ -1,0 +1,153 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-545/23 de la Corte Constitucional de Colombia aborda la implementación del Programa Nacional Integral de Sustitución de Cultivos de Uso Ilícito (PNIS) en los departamentos de Cauca, Nariño, Norte de Santander y Putumayo. Los accionantes, representantes de comunidades campesinas y étnicas, alegaron la vulneración de sus derechos fundamentales debido a la realización de operativos de erradicación forzada de cultivos ilícitos, a pesar de haber suscrito acuerdos de sustitución voluntaria en el marco del PNIS. La Corte encontró que los acuerdos colectivos son vinculantes y que la erradicación forzada se realizó sin respetar la jerarquía de medios de erradicación, priorizando la sustitución voluntaria. Además, se identificaron deficiencias en la implementación del PNIS, como la falta de un enfoque étnico y la protección insuficiente para líderes sociales. La Corte ordenó la suspensión de operativos de erradicación forzada en ciertas áreas y la implementación de medidas para garantizar la seguridad de los líderes sociales y la correcta ejecución del PNIS."
+        ],
+        "english": [
+            "The SU-545/23 ruling by the Colombian Constitutional Court addresses the implementation of the National Comprehensive Program for the Substitution of Illicit Use Crops (PNIS) in the departments of Cauca, Nariño, Norte de Santander, and Putumayo. The plaintiffs, representing peasant and ethnic communities, claimed violations of their fundamental rights due to forced eradication operations of illicit crops, despite having signed voluntary substitution agreements under the PNIS. The Court found that collective agreements are binding and that forced eradication was carried out without respecting the hierarchy of eradication methods, prioritizing voluntary substitution. Additionally, deficiencies in the implementation of the PNIS were identified, such as the lack of an ethnic approach and insufficient protection for social leaders. The Court ordered the suspension of forced eradication operations in certain areas and the implementation of measures to ensure the safety of social leaders and the proper execution of the PNIS."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Natalia Ángel Cabo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Juan Carlos Cortés González",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Enrique Ibáñez Najar",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Paola Andrea Meneses Mosquera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Miguel Polo Rosero",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Coordinadora Nacional de Cultivadores de Coca, Amapola y Marihuana (COCCAM)"
+        },
+        {
+            "name": "",
+            "affiliation": "Colectivo de Abogados José Alvear Restrepo (CAJAR)"
+        },
+        {
+            "name": "",
+            "affiliation": "Centro de Alternativas al Desarrollo (CEALDES)"
+        },
+        {
+            "name": "",
+            "affiliation": "Corporación para la Protección y Desarrollo de Territorios Rurales (PRODETER)"
+        },
+        {
+            "name": "",
+            "affiliation": "Corporación Colectivo de Abogados Luis Carlos Pérez (CCALP)"
+        },
+        {
+            "name": "",
+            "affiliation": "Asociación Campesina del Catatumbo (ASCAMCAT)"
+        },
+        {
+            "name": "",
+            "affiliation": "Comisión Intereclesial de Justicia y Paz"
+        },
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "",
+            "affiliation": "Observatorio de Restitución y Regulación de Derechos de Propiedad Agraria de la Universidad Nacional"
+        },
+        {
+            "name": "",
+            "affiliation": "Dejusticia"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Kroc"
+        }
+    ],
+    "id": [
+        "SU-545-23"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2023/SU545-23.htm"
+    ]
+}

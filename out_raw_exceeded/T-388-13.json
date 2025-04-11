@@ -1,0 +1,61 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-388-13 de la Corte Constitucional de Colombia aborda nueve acciones de tutela presentadas por personas privadas de la libertad en diferentes centros de reclusión del país. Estas acciones denuncian violaciones a los derechos fundamentales debido a las condiciones indignas e inhumanas de reclusión, como el hacinamiento, la falta de acceso a servicios básicos como agua y salud, y la violencia dentro de las cárceles. La Corte reconoce que el sistema penitenciario y carcelario colombiano se encuentra en un estado de cosas inconstitucional, similar al que se había declarado en 1998, pero con diferencias en las causas y el contexto actual. La Corte ordena al Gobierno Nacional y a otras entidades tomar medidas urgentes y estructurales para superar este estado de cosas, incluyendo la implementación de políticas criminales y carcelarias que respeten la dignidad humana y los derechos fundamentales de los reclusos. Además, se establecen órdenes específicas para cada uno de los centros de reclusión involucrados en las acciones de tutela, con el fin de mejorar las condiciones de vida de los internos y garantizar sus derechos."
+        ],
+        "english": [
+            "The T-388-13 ruling by the Colombian Constitutional Court addresses nine tutela actions filed by individuals deprived of liberty in various detention centers across the country. These actions denounce violations of fundamental rights due to degrading and inhumane detention conditions, such as overcrowding, lack of access to basic services like water and health, and violence within prisons. The Court acknowledges that the Colombian penitentiary and prison system is in an unconstitutional state of affairs, similar to what was declared in 1998, but with differences in causes and the current context. The Court orders the National Government and other entities to take urgent and structural measures to overcome this state of affairs, including implementing criminal and prison policies that respect human dignity and the fundamental rights of inmates. Additionally, specific orders are established for each of the detention centers involved in the tutela actions to improve the living conditions of inmates and ensure their rights."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Primera de Revisión"
+    ],
+    "person": [
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "T-153 de 1998"
+    ],
+    "amicus": [
+        {
+            "name": "Defensor del Pueblo Regional del Magdalena Medio",
+            "affiliation": "Defensoría del Pueblo"
+        }
+    ],
+    "id": [
+        "T-388-13"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2013/T-388-13.htm"
+    ]
+}

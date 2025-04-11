@@ -1,0 +1,54 @@
+{
+    "summary": {
+        "spanish": [
+            "La Sentencia T-760 de 2008 de la Corte Constitucional de Colombia aborda múltiples casos relacionados con el derecho a la salud, considerado un derecho fundamental. La Corte revisó varias acciones de tutela en las que se alegaba la violación de este derecho debido a la negativa de acceso a servicios de salud necesarios. La Corte identificó problemas estructurales en el sistema de salud, como la falta de claridad en los contenidos del Plan Obligatorio de Salud (POS) y la ausencia de un procedimiento claro para autorizar servicios no incluidos en el POS. La Corte ordenó medidas para actualizar y unificar los planes de beneficios, mejorar el flujo de recursos en el sistema de salud y asegurar la cobertura universal antes de 2010. También se ordenó la protección del derecho a la información de los usuarios del sistema de salud."
+        ],
+        "english": [
+            "The T-760 of 2008 ruling by the Colombian Constitutional Court addresses multiple cases related to the right to health, considered a fundamental right. The Court reviewed several tutela actions alleging violations of this right due to the denial of access to necessary health services. The Court identified structural problems in the health system, such as the lack of clarity in the contents of the Mandatory Health Plan (POS) and the absence of a clear procedure for authorizing services not included in the POS. The Court ordered measures to update and unify benefit plans, improve the flow of resources in the health system, and ensure universal coverage by 2010. It also ordered the protection of the right to information for health system users."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Segunda de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Manuel José Cepeda Espinosa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jaime Córdoba Triviño",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Rodrigo Escobar Gil",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [],
+    "amicus": [],
+    "id": [
+        "T-760-08"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2008/T-760-08.htm"
+    ]
+}

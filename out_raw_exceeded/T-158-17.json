@@ -1,0 +1,59 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-158/17 de la Corte Constitucional de Colombia aborda múltiples acciones de tutela presentadas por personas desplazadas forzadamente, quienes alegan la vulneración de sus derechos fundamentales de petición, mínimo vital y ayuda humanitaria por parte de la Unidad Administrativa Especial para la Atención y Reparación Integral a las Víctimas. La Corte revisó los casos y determinó que en algunos de ellos existía una carencia actual de objeto por hecho superado, ya que la entidad accionada había reconocido y ordenado el pago de la ayuda humanitaria solicitada. En otros casos, la Corte encontró que la entidad estaba en proceso de identificación de carencias para determinar la necesidad de ayuda humanitaria, por lo que no se constató una vulneración de derechos. La Corte también exhortó a los jueces de instancia a emplear la facultad oficiosa de ordenar pruebas para verificar la existencia de vulneraciones a los derechos fundamentales."
+        ],
+        "english": [
+            "The ruling T-158/17 of the Colombian Constitutional Court addresses multiple tutela actions filed by forcibly displaced persons, who allege the violation of their fundamental rights to petition, minimum subsistence, and humanitarian aid by the Special Administrative Unit for Victim Assistance and Comprehensive Reparation. The Court reviewed the cases and determined that in some of them there was a current lack of object due to a resolved fact, as the defendant entity had recognized and ordered the payment of the requested humanitarian aid. In other cases, the Court found that the entity was in the process of identifying deficiencies to determine the need for humanitarian aid, so no rights violations were found. The Court also urged the lower court judges to use their ex officio power to order evidence to verify the existence of fundamental rights violations."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Octava de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Antonio Cepeda Amarís",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        83
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "T-158-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/T-158-17.htm"
+    ]
+}

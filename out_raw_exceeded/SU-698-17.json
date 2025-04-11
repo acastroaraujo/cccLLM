@@ -1,0 +1,184 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-698-17 aborda la controversia sobre el proyecto de desviación del arroyo Bruno en el departamento de La Guajira, Colombia, llevado a cabo por la empresa Carbones del Cerrejón Limited. Las comunidades indígenas Wayúu, representadas por Lorenza Pérez Pushaina, José Manuel Vergara Pérez, Aura Robles Gutiérrez y Misael Socarrás Ipuana, interpusieron una acción de tutela alegando que el proyecto vulnera sus derechos fundamentales al agua, a la seguridad alimentaria y a la salud, debido a los impactos ambientales y sociales que podría generar. La Corte Constitucional de Colombia, en su fallo, determinó que el proyecto de desviación del arroyo Bruno constituye una amenaza a los derechos fundamentales de las comunidades indígenas, debido a la falta de certeza sobre los impactos ambientales del proyecto. La Corte ordenó la suspensión de las obras y la realización de un estudio técnico completo para evaluar la viabilidad ambiental del proyecto, involucrando a una mesa interinstitucional que incluya a las comunidades afectadas y a expertos técnicos. La sentencia también destaca la importancia de considerar el contexto ambiental y social de la región, así como los servicios ecosistémicos que el arroyo Bruno proporciona a las comunidades indígenas."
+        ],
+        "english": [
+            "The SU-698-17 ruling addresses the controversy over the Bruno Creek diversion project in the department of La Guajira, Colombia, carried out by the company Carbones del Cerrejón Limited. The Wayúu indigenous communities, represented by Lorenza Pérez Pushaina, José Manuel Vergara Pérez, Aura Robles Gutiérrez, and Misael Socarrás Ipuana, filed a tutela action alleging that the project violates their fundamental rights to water, food security, and health due to the environmental and social impacts it could generate. The Constitutional Court of Colombia, in its ruling, determined that the Bruno Creek diversion project poses a threat to the fundamental rights of the indigenous communities due to the lack of certainty about the project's environmental impacts. The Court ordered the suspension of the works and the completion of a comprehensive technical study to assess the project's environmental viability, involving an inter-institutional panel that includes the affected communities and technical experts. The ruling also highlights the importance of considering the environmental and social context of the region, as well as the ecosystem services that Bruno Creek provides to the indigenous communities."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Luis Guillermo Guerrero Pérez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Bernal Pulido",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alejandro Linares Cantillo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Antonio José Lizarazo Ocampo",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Gloria Stella Ortíz Delgado",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Fernando Reyes Cuartas",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        7,
+        70,
+        86,
+        241,
+        80
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Servicio Geológico Colombiano",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Contraloría General de la República",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Defensa Jurídica del Estado",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Agencia Nacional de Minería",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM)",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Instituto de Investigación de Recursos Biológicos Alexander von Humboldt",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Tribunal Administrativo de Riohacha",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Universidad de la Guajira",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Terrae Corporación Geoambiental",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Fundación CINEP",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Conservación Internacional",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Julio Fierro Morales",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "CENSAT",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Diana Pilar Beltrán",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Universidad Nacional de Colombia",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "ICANH",
+            "affiliation": "NULL"
+        },
+        {
+            "name": "Sandra Vilardy",
+            "affiliation": "persona natural"
+        }
+    ],
+    "id": [
+        "SU-698-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/SU698-17.htm"
+    ]
+}

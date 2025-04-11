@@ -53,17 +53,15 @@ out
 
 ## Manual Coding of Very Large Files
 
-Some documents exceed the maximum context length of 128000 tokens. This means I couldn't parse them in the same ways as the others.
+Some documents exceed the maximum context length of 128000 tokens. This happens, for example, when a lengthy appendix is included in the file. This means I couldn't parse them in the same ways as the others.
 
 These documents were manually coded, with the exception of the English and Spanish summaries which were written using the file upload option in the OpenAI platform.
 
 They can be found in the `out_raw_exceeded` directory.
 
-*Working with the document embeddings provided by OpenAI's RAG system produce very unreliable results.*
+*Working with the document embeddings provided by OpenAI's RAG system produce very unreliable results.* There is a higher chance that the somes fields here — e.g., `articles` and `amicus` — are miscoded. I've tried my best to keep things reliable via manual inspection! This is why there is a `model` variable in the codebook that distinguishes between "gpt-4o" and "acastroaraujo".
 
-There is a higher chance that the somes fields here — e.g., `articles` and `amicus` — are miscoded. I've tried my best to keep things reliable via manual inspection!
-
-This is why there is a `model` variable in the codebook that distinguishes between "gpt-4o" and "acastroaraujo". I recommend you remove these rulings if you are going to analyze the `articles` variable.
+I recommend you double-check these rulings if you are going to analyze the `articles` variable.
 
 ## Codebook
 

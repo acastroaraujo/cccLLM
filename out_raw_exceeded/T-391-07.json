@@ -1,0 +1,63 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-391-07 de la Corte Constitucional de Colombia aborda una acción de tutela interpuesta por Radio Cadena Nacional S.A. (RCN) contra el Consejo de Estado, Sala de lo Contencioso Administrativo, Sección Tercera. La acción de tutela fue presentada debido a que RCN consideró que una sentencia del Consejo de Estado, que ordenaba la adecuación del contenido del programa radial \"El Mañanero de La Mega\" a ciertas normativas, violaba sus derechos fundamentales a la libertad de expresión, información y prensa. La sentencia del Consejo de Estado había sido emitida en respuesta a una acción popular interpuesta por la Fundación \"Un Sueño por Colombia\", que alegaba que el programa radial violaba la moral pública y otros derechos colectivos. La Corte Constitucional, en su revisión, determinó que la sentencia del Consejo de Estado constituía una vía de hecho por violar directamente el artículo 20 de la Constitución, que protege la libertad de expresión. La Corte revocó las medidas que limitaban el contenido del programa radial, argumentando que dichas medidas constituían censura y no cumplían con los requisitos constitucionales para limitar la libertad de expresión. La Corte también ordenó a RCN implementar un proceso de autorregulación para armonizar su libertad de expresión con la protección de los derechos de los menores de edad que pudieran formar parte de su audiencia."
+        ],
+        "english": [
+            "The T-391-07 ruling by the Colombian Constitutional Court addresses a tutela action filed by Radio Cadena Nacional S.A. (RCN) against the Council of State, Administrative Litigation Chamber, Third Section. The tutela action was filed because RCN considered that a ruling by the Council of State, which ordered the adjustment of the content of the radio program \"El Mañanero de La Mega\" to certain regulations, violated its fundamental rights to freedom of expression, information, and press. The Council of State's ruling had been issued in response to a popular action filed by the \"Un Sueño por Colombia\" Foundation, which alleged that the radio program violated public morality and other collective rights. The Constitutional Court, in its review, determined that the Council of State's ruling constituted a de facto violation by directly infringing Article 20 of the Constitution, which protects freedom of expression. The Court revoked the measures that limited the content of the radio program, arguing that these measures constituted censorship and did not meet the constitutional requirements to limit freedom of expression. The Court also ordered RCN to implement a self-regulation process to harmonize its freedom of expression with the protection of the rights of minors who might be part of its audience."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Segunda de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Manuel José Cepeda Espinosa",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jaime Córdoba Triviño",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Rodrigo Escobar Gil",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        20,
+        93,
+        94,
+        44
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Fundación \"Un Sueño por Colombia\""
+        }
+    ],
+    "id": [
+        "T-391-07"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2007/T-391-07.htm"
+    ]
+}

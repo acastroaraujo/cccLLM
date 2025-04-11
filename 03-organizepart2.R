@@ -15,11 +15,3 @@ output <- dir(outfolder, full.names = TRUE) |>
 
 
 names(output) <- map_chr(output, pluck, "id")
-
-
-# file.remove(glue::glue("rulings_length_exceeded/{names(output)}.txt"))
-
-# dir("rulings_length_exceeded") |> length()
-length(output)
-
-dir("rulings_length_exceeded") |> length()

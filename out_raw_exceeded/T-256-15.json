@@ -1,0 +1,110 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-256/15 trata sobre una acción de tutela interpuesta por miembros de la comunidad afrodescendiente de los corregimientos de Patilla y Chancleta, en el municipio de Barrancas, La Guajira, contra la empresa Carbones del Cerrejón Limited. Los demandantes alegan la vulneración de sus derechos fundamentales a un ambiente sano, a la vida, a la salud, y a la consulta previa, debido a la explotación de carbón a cielo abierto por parte de la empresa, que ha llevado a la contaminación ambiental y a un proceso de reasentamiento de la comunidad sin tener en cuenta su identidad étnica. La Corte Constitucional, en su decisión, revocó las sentencias de las instancias inferiores que habían declarado improcedente la tutela y concedió el amparo de los derechos invocados. Ordenó al Ministerio del Interior iniciar un proceso de consulta previa con la comunidad afectada y a la empresa Cerrejón, junto con otras entidades, adoptar medidas para asegurar el acceso a agua potable y la protección de los derechos de la comunidad."
+        ],
+        "english": [
+            "The ruling T-256/15 concerns a tutela action filed by members of the Afro-descendant community of the Patilla and Chancleta districts in the municipality of Barrancas, La Guajira, against the company Carbones del Cerrejón Limited. The plaintiffs allege the violation of their fundamental rights to a healthy environment, life, health, and prior consultation due to the open-pit coal mining by the company, which has led to environmental pollution and a resettlement process of the community without considering their ethnic identity. The Constitutional Court, in its decision, overturned the lower courts' rulings that had declared the tutela inadmissible and granted the protection of the invoked rights. It ordered the Ministry of the Interior to initiate a prior consultation process with the affected community and the Cerrejón company, along with other entities, to adopt measures to ensure access to potable water and the protection of the community's rights."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Octava de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Martha Victoria Sáchica Méndez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "María Victoria Calle Correa",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        11,
+        44,
+        49,
+        58,
+        66,
+        67,
+        78,
+        79,
+        80,
+        81,
+        82,
+        215,
+        226,
+        268,
+        277,
+        282,
+        289,
+        300,
+        301,
+        310,
+        313,
+        317,
+        294,
+        330,
+        331,
+        332,
+        333,
+        334,
+        339,
+        340,
+        366,
+        88,
+        95,
+        7,
+        8,
+        72,
+        329,
+        356,
+        357,
+        365,
+        366
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "CENSAT Agua Viva",
+            "affiliation": "CENSAT Agua Viva"
+        },
+        {
+            "name": "Centro de Investigación y Educación Popular (CINEP)",
+            "affiliation": "Centro de Investigación y Educación Popular (CINEP)"
+        },
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Defensoría del Pueblo"
+        }
+    ],
+    "id": [
+        "T-256-15"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2015/T-256-15.htm"
+    ]
+}

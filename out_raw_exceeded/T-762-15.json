@@ -1,0 +1,94 @@
+{
+    "summary": {
+        "spanish": [
+            "La Corte Constitucional de Colombia, en la Sentencia T-762/15, aborda el problema del hacinamiento en el sistema penitenciario y carcelario del país, reiterando la existencia de un Estado de Cosas Inconstitucional (ECI) previamente declarado en las sentencias T-153 de 1998 y T-388 de 2013. La Corte reconoce que, a pesar de los esfuerzos por mejorar la infraestructura carcelaria, el problema persiste debido a una política criminal desarticulada y reactiva, que ha llevado a un uso excesivo de la detención preventiva y al endurecimiento punitivo. La sentencia revisa múltiples casos de tutela presentados por reclusos en diferentes cárceles del país, quienes denuncian condiciones de reclusión indignas, falta de servicios de salud adecuados, y la imposibilidad de resocialización. La Corte ordena una serie de medidas para mejorar las condiciones de reclusión, incluyendo la adecuación de la infraestructura, la mejora de los servicios de salud, y la implementación de programas de resocialización. Además, insta al Congreso y al Gobierno a revisar y ajustar la política criminal para que sea coherente, empíricamente fundamentada, y respetuosa de los derechos humanos."
+        ],
+        "english": [
+            "The Colombian Constitutional Court, in Ruling T-762/15, addresses the issue of overcrowding in the country's prison system, reiterating the existence of an Unconstitutional State of Affairs (ECI) previously declared in rulings T-153 of 1998 and T-388 of 2013. The Court acknowledges that despite efforts to improve prison infrastructure, the problem persists due to a disjointed and reactive criminal policy, which has led to excessive use of preventive detention and punitive hardening. The ruling reviews multiple tutela cases filed by inmates in different prisons across the country, who report inhumane detention conditions, inadequate health services, and the impossibility of resocialization. The Court orders a series of measures to improve detention conditions, including infrastructure adaptation, health service improvements, and the implementation of resocialization programs. Additionally, it urges Congress and the Government to review and adjust the criminal policy to be coherent, empirically based, and respectful of human rights."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Quinta de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Gloria Stella Ortiz Delgado",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "T-153/98",
+        "T-388/13"
+    ],
+    "amicus": [
+        {
+            "name": "Defensoría del Pueblo",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "Procuraduría General de la Nación",
+            "affiliation": "Procuraduría General de la Nación"
+        },
+        {
+            "name": "Personería Municipal de Bucaramanga",
+            "affiliation": "Personería Municipal de Bucaramanga"
+        },
+        {
+            "name": "Centro de Derecho, Justicia y Sociedad (DeJusticia)",
+            "affiliation": "Centro de Derecho, Justicia y Sociedad (DeJusticia)"
+        },
+        {
+            "name": "Universidad de los Andes",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "Universidad Pontificia Bolivariana",
+            "affiliation": "Universidad Pontificia Bolivariana"
+        },
+        {
+            "name": "Universidad Autónoma Latinoamericana",
+            "affiliation": "Universidad Autónoma Latinoamericana"
+        },
+        {
+            "name": "Universidad EAFIT",
+            "affiliation": "Universidad EAFIT"
+        },
+        {
+            "name": "Instituto de Medicina Legal",
+            "affiliation": "Instituto de Medicina Legal"
+        }
+    ],
+    "id": [
+        "T-762-15"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2015/T-762-15.htm"
+    ]
+}

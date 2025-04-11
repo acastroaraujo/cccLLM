@@ -1,0 +1,66 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-1024/12 de la Corte Constitucional de Colombia aborda una acción de tutela interpuesta por Fernando Martínez Bohórquez y otros contra la Fiscalía 31 Especializada de la Unidad Nacional para la Extinción de Dominio y Contra el Lavado de Activos y la Dirección Nacional de Estupefacientes (DNE). Los demandantes alegaron que sus derechos fundamentales al debido proceso, a la propiedad, a la defensa y a la igualdad fueron vulnerados debido a la no devolución de sus bienes embargados y secuestrados, a pesar de haberse ordenado su devolución en un proceso de extinción de dominio. La Corte Constitucional decidió que la acción de tutela era procedente debido a la falta de cumplimiento de las órdenes judiciales por parte de las autoridades demandadas, lo que afectaba el derecho de acceso a la administración de justicia de los demandantes. La Corte ordenó la devolución de los bienes a los demandantes, incluyendo apartamentos en Cartagena y un predio rural en Arjona, Bolívar, y dispuso que la DNE debía asumir el pago de los impuestos prediales. Además, la Corte ordenó la devolución de los derechos de posesión sobre cinco lotes en la Isla de Tierra Bomba a Fernando Martínez Bohórquez y la restitución de los derechos de posesión a las personas que fueron desalojadas debido a la materialización de la devolución de las acciones en terrenos."
+        ],
+        "english": [
+            "The ruling T-1024/12 of the Colombian Constitutional Court addresses a tutela action filed by Fernando Martínez Bohórquez and others against the Specialized Prosecutor's Office 31 of the National Unit for the Extinction of Domain and Against Money Laundering and the National Directorate of Narcotics (DNE). The plaintiffs claimed that their fundamental rights to due process, property, defense, and equality were violated due to the non-return of their seized and confiscated assets, despite an order for their return in a domain extinction process. The Constitutional Court decided that the tutela action was admissible due to the failure of the defendant authorities to comply with judicial orders, affecting the plaintiffs' right of access to justice. The Court ordered the return of the assets to the plaintiffs, including apartments in Cartagena and a rural property in Arjona, Bolívar, and ruled that the DNE should assume the payment of property taxes. Additionally, the Court ordered the return of possession rights over five lots on the Island of Tierra Bomba to Fernando Martínez Bohórquez and the restitution of possession rights to individuals who were evicted due to the materialization of the return of shares in land."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Quinta de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        4,
+        29,
+        34,
+        38,
+        58,
+        83,
+        93,
+        209,
+        229
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+
+    ],
+    "id": [
+        "T-1024-12"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2012/T-1024-12.htm"
+    ]
+}

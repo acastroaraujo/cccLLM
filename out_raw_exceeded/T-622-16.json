@@ -1,0 +1,154 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-622/16 de la Corte Constitucional de Colombia aborda el caso de las comunidades étnicas que habitan la cuenca del río Atrato en el departamento del Chocó, quienes interpusieron una acción de tutela para detener las actividades mineras ilegales que afectan su salud y el medio ambiente. La Corte reconoce que la minería ilegal, que utiliza maquinaria pesada y sustancias tóxicas como el mercurio, ha causado una grave crisis humanitaria y ambiental en la región, vulnerando los derechos fundamentales de las comunidades a la vida, la salud, el agua, la seguridad alimentaria, el medio ambiente sano, la cultura y el territorio. La Corte ordena al Estado colombiano y a las comunidades étnicas que ejerzan la tutela y representación legal de los derechos del río Atrato, reconociéndolo como sujeto de derechos. Además, se ordena la implementación de planes para descontaminar la cuenca del río, erradicar la minería ilegal y recuperar las formas tradicionales de subsistencia de las comunidades."
+        ],
+        "english": [
+            "The T-622/16 ruling by the Colombian Constitutional Court addresses the case of ethnic communities living in the Atrato River basin in the Chocó department, who filed a tutela action to stop illegal mining activities affecting their health and the environment. The Court recognizes that illegal mining, using heavy machinery and toxic substances like mercury, has caused a severe humanitarian and environmental crisis in the region, violating the fundamental rights of the communities to life, health, water, food security, a healthy environment, culture, and territory. The Court orders the Colombian State and the ethnic communities to exercise legal guardianship and representation of the rights of the Atrato River, recognizing it as a subject of rights. Additionally, it orders the implementation of plans to decontaminate the river basin, eradicate illegal mining, and recover the communities' traditional means of subsistence."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Sexta de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Aquiles Arrieta Gómez",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        1,
+        2,
+        5,
+        7,
+        8,
+        11,
+        12,
+        13,
+        16,
+        22,
+        44,
+        48,
+        49,
+        63,
+        64,
+        65,
+        67,
+        70,
+        72,
+        79,
+        80,
+        188,
+        189,
+        288,
+        298,
+        311,
+        339,
+        356,
+        357,
+        365,
+        366
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "",
+            "affiliation": "Universidad Nacional de Colombia"
+        },
+        {
+            "name": "",
+            "affiliation": "Asociación Nacional de Empresarios de Colombia – ANDI"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Humboldt"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad de los Andes"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto de Investigaciones Ambientales del Pacífico"
+        },
+        {
+            "name": "",
+            "affiliation": "FIAN Internacional"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad de Antioquia"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad del Rosario"
+        },
+        {
+            "name": "",
+            "affiliation": "Asociación Interamericana para la Defensa del Ambiente"
+        },
+        {
+            "name": "",
+            "affiliation": "Asociación Colombia de Minería"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad Tecnológica del Chocó"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad de Antioquia"
+        },
+        {
+            "name": "",
+            "affiliation": "Instituto Colombiano de Antropología e Historia"
+        },
+        {
+            "name": "",
+            "affiliation": "Fundación Activos Culturales Afro – ACUA"
+        },
+        {
+            "name": "",
+            "affiliation": "Defensoría del Pueblo"
+        },
+        {
+            "name": "",
+            "affiliation": "Dejusticia"
+        },
+        {
+            "name": "",
+            "affiliation": "Universidad de Cartagena"
+        }
+    ],
+    "id": [
+        "T-622-16"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2016/T-622-16.htm"
+    ]
+}

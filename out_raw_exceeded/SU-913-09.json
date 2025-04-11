@@ -1,0 +1,110 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia SU-913-09 de la Corte Constitucional de Colombia aborda un conjunto de acciones de tutela relacionadas con el concurso público para el nombramiento de notarios en propiedad. Estas acciones fueron interpuestas por varios participantes del concurso que alegaban la violación de sus derechos fundamentales debido a la aplicación de una medida cautelar en una acción popular que suspendió el reconocimiento de puntos por autoría de obras jurídicas, a menos que estas fueran registradas en la Dirección Nacional de Derecho de Autor. La Corte encontró que la medida cautelar y la sentencia de la acción popular que la confirmó violaron derechos fundamentales al debido proceso, igualdad, trabajo, acceso a cargos públicos, buena fe y confianza legítima. La Corte ordenó revocar las decisiones que aplicaron la medida cautelar y restablecer las listas de elegibles originales, reconociendo los derechos adquiridos de los participantes que acreditaron la autoría de sus obras de acuerdo con las reglas del concurso."
+        ],
+        "english": [
+            "The SU-913-09 ruling by the Colombian Constitutional Court addresses a set of tutela actions related to the public competition for the appointment of notaries in property. These actions were filed by several participants in the competition who alleged violations of their fundamental rights due to the application of a precautionary measure in a popular action that suspended the recognition of points for authorship of legal works unless they were registered with the National Copyright Office. The Court found that the precautionary measure and the popular action ruling that confirmed it violated fundamental rights to due process, equality, work, access to public positions, good faith, and legitimate trust. The Court ordered the revocation of decisions that applied the precautionary measure and reinstated the original lists of eligible candidates, recognizing the acquired rights of participants who proved authorship of their works according to the competition rules."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Plena"
+    ],
+    "person": [
+        {
+            "name": "Juan Carlos Henao Pérez",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Nilson Pinilla Pinilla",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Mauricio González Cuervo",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Iván Palacio Palacio",
+            "av": true,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Jorge Ignacio Pretelt Chaljub",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Humberto Antonio Sierra Porto",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Luis Ernesto Vargas Silva",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        131,
+        58,
+        83,
+        228,
+        40,
+        209,
+        93,
+        4,
+        7,
+        25,
+        86,
+        241,
+        242
+    ],
+    "rj": [
+        "sí"
+    ],
+    "rj_citation_raw": [
+        "SU-250 de 1998",
+        "T-1695 de 2000",
+        "C-421 de 2006"
+    ],
+    "amicus": [
+        {
+            "name": "Gerardo A. Espinosa Palacios",
+            "affiliation": "Consejo Superior de la Carrera Notarial"
+        },
+        {
+            "name": "Superintendencia de Notariado y Registro",
+            "affiliation": "Superintendencia de Notariado y Registro"
+        }
+    ],
+    "id": [
+        "SU-913-09"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2009/SU913-09.htm"
+    ]
+}

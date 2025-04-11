@@ -1,0 +1,99 @@
+{
+    "summary": {
+        "spanish": [
+            "La Corte Constitucional de Colombia revisó una acción de tutela presentada por Julia Adriana Figueroa y otros en representación del Comité por la Defensa del Páramo de Santurbán contra el Ministerio de Ambiente y Desarrollo Sostenible (MADS). Los demandantes alegaron que el MADS vulneró sus derechos fundamentales al debido proceso, participación, igualdad, petición, información, salud, consumo de agua potable y vida digna, al no permitir su participación adecuada en el proceso de delimitación del Páramo de Santurbán, que concluyó con la expedición de la Resolución 2090 de 2014. La Corte encontró que el MADS no garantizó adecuadamente el derecho a la participación ambiental, ya que no convocó a todos los afectados ni generó espacios de diálogo efectivo. Además, no proporcionó acceso a la información necesaria para que los ciudadanos pudieran participar de manera informada. La Corte ordenó dejar sin efecto la Resolución 2090 de 2014 y que se emitiera una nueva resolución en un proceso participativo y deliberativo."
+        ],
+        "english": [
+            "The Constitutional Court of Colombia reviewed a tutela action filed by Julia Adriana Figueroa and others representing the Committee for the Defense of the Santurbán Páramo against the Ministry of Environment and Sustainable Development (MADS). The plaintiffs claimed that MADS violated their fundamental rights to due process, participation, equality, petition, information, health, access to potable water, and dignified life by not allowing their adequate participation in the delimitation process of the Santurbán Páramo, which concluded with the issuance of Resolution 2090 of 2014. The Court found that MADS did not adequately ensure the right to environmental participation, as it did not call all affected parties nor create effective dialogue spaces. Additionally, it did not provide access to necessary information for citizens to participate in an informed manner. The Court ordered the annulment of Resolution 2090 of 2014 and mandated the issuance of a new resolution through a participatory and deliberative process."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Octava de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "José Antonio Cepeda Amarís",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": true,
+            "conjuez": false
+        },
+        {
+            "name": "Carlos Bernal Pulido",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        2,
+        23,
+        40,
+        79
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Gonzalo Peña Ortiz",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Jairo Puentes Bruges",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Florentino Rodríguez Pinzón",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Alberto Castilla",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Alirio Uribe",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Iván Cepeda Castro",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Javier Alejandro Acevedo",
+            "affiliation": "Universidad Industrial de Santander"
+        },
+        {
+            "name": "Luis Guillermo Pérez Casas",
+            "affiliation": "Corporación Colectivo de Abogados José Alvear Restrepo"
+        },
+        {
+            "name": "Mauricio Amorocho Bautista",
+            "affiliation": "Sindicato del Acueducto Metropolitano de Bucaramanga –SINTRAEMSDES"
+        },
+        {
+            "name": "Natalia Gómez Peña",
+            "affiliation": "Asociación Ambiente y Sociedad"
+        }
+    ],
+    "id": [
+        "T-361-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/T-361-17.htm"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "summary": {
+        "spanish": [
+            "La sentencia T-733/17 de la Corte Constitucional de Colombia aborda la explotación minera de níquel por parte de la empresa Cerro Matoso S.A. y su impacto en las comunidades indígenas y afrodescendientes cercanas. La Corte encontró que la empresa ha incurrido en irregularidades y no ha cumplido con las obligaciones ambientales, afectando la salud y el medio ambiente de las comunidades. La sentencia ordena la realización de una consulta previa con las comunidades afectadas, la expedición de una nueva licencia ambiental, y la atención integral en salud para las personas afectadas. Además, se ordena la creación de un Fondo Especial de Etnodesarrollo para reparar y compensar a las comunidades. La Corte también condena en abstracto a Cerro Matoso S.A. al pago de perjuicios causados a las comunidades."
+        ],
+        "english": [
+            "The T-733/17 ruling by the Colombian Constitutional Court addresses the nickel mining activities of Cerro Matoso S.A. and its impact on nearby indigenous and Afro-descendant communities. The Court found that the company has committed irregularities and failed to meet environmental obligations, affecting the health and environment of the communities. The ruling orders a prior consultation with the affected communities, the issuance of a new environmental license, and comprehensive health care for affected individuals. Additionally, it mandates the creation of a Special Ethnodevelopment Fund to repair and compensate the communities. The Court also orders Cerro Matoso S.A. to pay damages to the communities."
+        ]
+    },
+    "chamber_raw": [
+        "Sala Séptima de Revisión"
+    ],
+    "person": [
+        {
+            "name": "Alberto Rojas Ríos",
+            "av": false,
+            "sv": false,
+            "mp": true,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Cristina Pardo Schlesinger",
+            "av": false,
+            "sv": true,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        },
+        {
+            "name": "Diana Fajardo Rivera",
+            "av": false,
+            "sv": false,
+            "mp": false,
+            "interim": false,
+            "conjuez": false
+        }
+    ],
+    "articles": [
+        86,
+        241,
+        330
+    ],
+    "rj": [
+        "no"
+    ],
+    "rj_citation_raw": [
+
+    ],
+    "amicus": [
+        {
+            "name": "Javier Martín Rubio Rodríguez",
+            "affiliation": "persona natural"
+        },
+        {
+            "name": "Israel Manuel Aguilar Solano",
+            "affiliation": "Resguardo Indígena Zenú del Alto San Jorge"
+        },
+        {
+            "name": "Luis Hernán Jacobo Otero",
+            "affiliation": "Consejo Comunitario de Comunidades Negras de San José de Uré"
+        }
+    ],
+    "id": [
+        "T-733-17"
+    ],
+    "url": [
+        "https://www.corteconstitucional.gov.co/relatoria/2017/T-733-17.htm"
+    ]
+}
