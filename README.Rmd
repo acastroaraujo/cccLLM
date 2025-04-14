@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-This package contains information about the Colombian Constitutional Court collected with the help of Large Language Models.
+This package contains a collection of datasets about the Colombian Constitutional Court collected with the help of Large Language Models.
 
 ## Installation
 
@@ -32,73 +32,12 @@ pak::pak("acastroaraujo/cccLLM")
 
 ## Overview
 
-```{r}
-library(cccLLM)
-person
-```
+-   `rulings`
 
-## Codebook
+-   `person`
 
-1.  `id`: Ruling ID.
+-   `rj_citations`
 
-    Each ruling has a standardized name. The infix carries no meaning; the suffix indicates the year in which the ruling was made; and the prefix refers to the type of ruling.
+-   `articles`
 
-    Type of ruling:
-
-    -   `C`. Refers to *sentencia de constitucionalidad,* or the cases in which the CCC decides whether a law, rule, or administrative decision is compatible with constitutional norms.
-
-    -   `T`. Refers to *tutela*, which is an individual complaint mechanism aimed at the protection of fundamental rights (or special protection writ).
-
-    -   `SU`. Refers *sentencia de unificación,* or decisions in which the Court has decided to compile and standardize the decisions made in various `T` rulings.
-
-    [For example: *T-406-92, SU-039-97, C-225-1995, C-776-03, T-025-04, SU-1184-01*]{style="font-size: 0.8em;"}
-
-2.  `url`: Document address in CCC website.
-
-    [*For example: <https://www.corteconstitucional.gov.co/relatoria/1994/c-221-94.htm>*]{style="font-size: 0.8em;"}
-
-3.  `chamber_raw`: Refers to the parsed non-standardized name of the chamber that authored the ruling.
-
-    [For example: *Sala Séptima de Revisión de Tutelas*, *Sala Plena de Conjueces*]{style="font-size: 0.8em;"}
-
-4.  `chamber`: Refers to the kind of chamber that authored the ruling, which can be either a three-person chamber (`SR`, *sala de revisión)* or a full-chamber (`SP`, *sala plena).*
-
-5.  `person`:
-
-    -   `name`: Name of judge.
-
-    -   `mp`: Authoring judge *(magistrado ponente).*
-
-    -   `sv`: Dissenting opinion *(salvamento de voto).*
-
-    -   `av`: Concurring opinion *(aclaración de voto).*
-
-    -   `conjuez`: Whether the judge is holds a permanent position in the court or was appointed for this specific ruling. This happens, for example, when one of the judges in the CCC recuses themselves.
-
-    *Note. Most of the time this is a three row data frame in case the chamber composed of a three-person chamber (`SR`) or a nine row data frame in case of full-chamber (`SP`).*
-
-    For example:
-
-    | name                        | av      | sv      | mp      | interim | conjuez |
-    |-----------------------------|---------|---------|---------|---------|---------|
-    | `Vladimiro Naranjo Mesa`    | `FALSE` | `FALSE` | `TRUE`  | `FALSE` | `FALSE` |
-    | `Antonio Barrera Carbonell` | `FALSE` | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
-    | `Alfredo Beltrán Sierra`    | `FALSE` | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
-
-6.  `articles`: List of articles of the Constitution that are object of discussion.
-
-    [For example: *23, 212, 213, 215*]{style="font-size: 0.8em;"}
-
-7.  `summary_en`: Two paragraph summary in English.
-
-8.  `summary_es`: Two paragraph summary in Spanish.
-
-9.  `rj`: Refers to *res judicata (cosa juzgada)* and notes whether the court's decision is determined by previous binding rulings or not. This meant to prevent the same constitutional issue from being raised again in future cases.
-
-10. `rj_citation_raw` (only if `rj` is `TRUE`): List of rulings cited as binding.
-
-    [For example: *Sentencia T-406 de 1992, Sentencia C-225/95*]{style="font-size: 0.8em;"}
-
-11. `rj_citation:` Standardized list of rulings cited as binding.
-
-    [For example: *T-406-92, C-225-95*]{style="font-size: 0.8em;"}
+-   `amicus`
