@@ -28,15 +28,24 @@ output <- append(out_gpt, out_json)
 ok <- map_lgl(output, \(x) !rlang::is_empty(x[["amicus"]]))
 
 amicus <- purrr::map_df(output[ok], function(x) {
-  if (nrow(x[["amicus"]]) == 0) return(data.frame(id = character(), name = character(), affiliation = character()))
+  if (nrow(x[["amicus"]]) == 0)
+    return(data.frame(
+      id = character(),
+      name = character(),
+      affiliation = character()
+    ))
   cbind(id = x$id, x$amicus)
 })
 
-amicus <- as_tibble(amicus) |> 
-  mutate(across(c(name, affiliation), \(x) ifelse(x == "NULL" | x == "", NA_character_, x))) |> 
+amicus <- as_tibble(amicus) |>
+  mutate(across(
+    c(name, affiliation),
+    \(x) ifelse(x == "NULL" | x == "", NA_character_, x)
+  )) |>
   mutate(across(c(name, affiliation), stringr::str_to_lower)) |>
-  mutate(across(c(name, affiliation), \(x) stringi::stri_trans_general(x, "Latin-ASCII")))
+  mutate(across(
+    c(name, affiliation),
+    \(x) stringi::stri_trans_general(x, "Latin-ASCII")
+  ))
 
 usethis::use_data(amicus, overwrite = TRUE, compress = "xz")
-
-

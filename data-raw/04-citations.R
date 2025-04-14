@@ -27,11 +27,11 @@ output <- append(out_gpt, out_json)
 
 articles <- map(output, pluck, "articles")
 
-articles <- articles |> 
-  enframe(name = "id", value = "article") |> 
+articles <- articles |>
+  enframe(name = "id", value = "article") |>
   unnest(article)
 
-articles <- articles |> 
+articles <- articles |>
   filter(dplyr::between(article, 1, 380))
 
 usethis::use_data(articles, overwrite = TRUE, compress = "xz")
@@ -42,9 +42,9 @@ rj_citations <- map(output, pluck, "rj_citation_raw")
 
 ok <- map_lgl(output, \(x) x[["rj"]] != "no")
 
-rj_citations <- rj_citations[ok] |> 
-  enframe("from", "to_raw") |> 
-  unnest(to_raw) 
+rj_citations <- rj_citations[ok] |>
+  enframe("from", "to_raw") |>
+  unnest(to_raw)
 
 rj_citations$to <- map_chr(rj_citations[["to_raw"]], function(x) {
   out <- ccc::extract_citations(x)
@@ -54,14 +54,11 @@ rj_citations$to <- map_chr(rj_citations[["to_raw"]], function(x) {
 
 filter(rj_citations, is.na(to)) # To do: manual check
 
-rj_citations <- rj_citations |> 
-  select(!to_raw) |> 
+rj_citations <- rj_citations |>
+  select(!to_raw) |>
   drop_na()
 
-rj_citations <- rj_citations |> 
+rj_citations <- rj_citations |>
   filter(to %in% ccc::metadata$id)
 
 usethis::use_data(rj_citations, overwrite = TRUE, compress = "xz")
-
-
-

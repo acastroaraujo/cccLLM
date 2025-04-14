@@ -493,4 +493,3 @@ person <- person |>
 person <- as_tibble(person)
 
 usethis::use_data(person, overwrite = TRUE, compress = "xz")
-
