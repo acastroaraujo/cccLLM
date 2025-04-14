@@ -9,11 +9,11 @@ library(ellmer)
 # Some documents exceed the maximum "context" length of 128000 tokens. I
 # coded these rulings separately and stored them in a different folder.
 
-rulings_json <- stringr::str_remove(dir("out_raw_exceeded"), "\\.json$")
+rulings_json <- stringr::str_remove(dir("data-raw/out_raw_exceeded"), "\\.json$")
 
 # Set up -----------------------------------------------------------------
 
-outfolder <- "out_raw"
+outfolder <- "data-raw/out_raw"
 if (!dir.exists(outfolder)) dir.create(outfolder)
 
 lookup <- ccc::metadata |>
@@ -26,7 +26,7 @@ texts_done <- stringr::str_remove(dir(outfolder), "_gpt\\.rds$")
 texts_done <- c(texts_done, rulings_json)
 texts_left <- setdiff(texts, texts_done)
 
-source("prompts/ruling_summary.R") # JSON Schema
+source("data-raw/prompts/ruling_summary.R") # JSON Schema
 
 for (i in seq_along(texts_left)) {
   # I would have preffered to do `id <- sample(texts_left, 1)` but the more you use
@@ -37,7 +37,7 @@ for (i in seq_along(texts_left)) {
   id <- texts_left[[i]]
 
   SP <- glue::glue(
-    paste(readLines("prompts/system.md"), collapse = "\n"),
+    paste(readLines("data-raw/prompts/system.md"), collapse = "\n"),
     .envir = rlang::new_environment(data = list(ruling_id = id)),
   )
 

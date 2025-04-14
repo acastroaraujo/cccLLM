@@ -6,204 +6,39 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This repository contains code to extract information from court rulings
-using LLMs via the new [ellmer](https://ellmer.tidyverse.org/) package.
+This package contains information about the Colombian Constitutional
+Court collected with the help of Large Language Models.
 
-For using LLMs like ChatGPT you will have to add something like this to
-your `.Renviron` file:
+## Installation
 
-    OPENAI_API_KEY = "you_api_goes_here"
-
-If you don’t know where this file is located, you can use the following
-function:
-
-    usethis::edit_r_environ(scope = "user")
-
-## Structured Output
-
-The JSON schema I used was constructed using the ellmer package in R.
-
-See
-[here](https://acastroaraujo.github.io/blog/posts/2025-03-17-llms-for-researchers/#structured-output)
-for more information on the “structured output” capabilities of some
-LLMs.
-
-You can find both the system prompt and JSON schema in the `prompts`
-directory.
+You can install the development version of cccLLM from
+[GitHub](https://github.com/) with:
 
 ``` r
-source("prompts/ruling_summary.R")
-ruling_summary
-#> <ellmer::TypeObject>
-#>  @ description          : chr "Información de la sentencia."
-#>  @ required             : logi TRUE
-#>  @ properties           :List of 7
-#>  .. $ summary        : <ellmer::TypeObject>
-#>  ..  ..@ description          : chr "Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la Corte."
-#>  ..  ..@ required             : logi TRUE
-#>  ..  ..@ properties           :List of 2
-#>  .. .. .. $ spanish: <ellmer::TypeBasic>
-#>  .. .. ..  ..@ description: chr "En español."
-#>  .. .. ..  ..@ required   : logi TRUE
-#>  .. .. ..  ..@ type       : chr "string"
-#>  .. .. .. $ english: <ellmer::TypeBasic>
-#>  .. .. ..  ..@ description: chr "In English."
-#>  .. .. ..  ..@ required   : logi TRUE
-#>  .. .. ..  ..@ type       : chr "string"
-#>  ..  ..@ additional_properties: logi FALSE
-#>  .. $ chamber_raw    : <ellmer::TypeBasic>
-#>  ..  ..@ description: chr "Nombre de la sala, en caso de que la información sea explícita."
-#>  ..  ..@ required   : logi FALSE
-#>  ..  ..@ type       : chr "string"
-#>  .. $ person         : <ellmer::TypeArray>
-#>  ..  ..@ description: chr "Información sobre los magistrados que firmaron la sentencia. El secretario general está excluído de esta lista."
-#>  ..  ..@ required   : logi TRUE
-#>  ..  ..@ items      : <ellmer::TypeObject>
-#>  .. .. .. @ description          : NULL
-#>  .. .. .. @ required             : logi TRUE
-#>  .. .. .. @ properties           :List of 6
-#>  .. .. .. .. $ name   : <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Nombre."
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "string"
-#>  .. .. .. .. $ av     : <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Incluye aclaración de voto?"
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "boolean"
-#>  .. .. .. .. $ sv     : <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Incluye salvamento de voto?"
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "boolean"
-#>  .. .. .. .. $ mp     : <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Es el magistrado ponente?"
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "boolean"
-#>  .. .. .. .. $ interim: <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Es magistrado encargado?"
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "boolean"
-#>  .. .. .. .. $ conjuez: <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Es conjuez?"
-#>  .. .. .. ..  ..@ required   : logi TRUE
-#>  .. .. .. ..  ..@ type       : chr "boolean"
-#>  .. .. .. @ additional_properties: logi FALSE
-#>  .. $ articles       : <ellmer::TypeArray>
-#>  ..  ..@ description: chr "Lista de artículos de la Constitución (o \"Carta Política\") que son mencionadas por número en la sentencia de "| __truncated__
-#>  ..  ..@ required   : logi FALSE
-#>  ..  ..@ items      : <ellmer::TypeBasic>
-#>  .. .. .. @ description: NULL
-#>  .. .. .. @ required   : logi TRUE
-#>  .. .. .. @ type       : chr "integer"
-#>  .. $ rj             : <ellmer::TypeEnum>
-#>  ..  ..@ description: chr "Indica si la decisión se fundamenta en cosa juzgada, es decir, si ya ha sido resuelta previamente por la Corte "| __truncated__
-#>  ..  ..@ required   : logi FALSE
-#>  ..  ..@ values     : chr [1:3] "sí" "no" "parcial"
-#>  .. $ rj_citation_raw: <ellmer::TypeArray>
-#>  ..  ..@ description: chr "Lista de sentencias previas que llevaron a la Corte a decidir que el caso es \"cosa juzgada\". Las sentencias q"| __truncated__
-#>  ..  ..@ required   : logi FALSE
-#>  ..  ..@ items      : <ellmer::TypeBasic>
-#>  .. .. .. @ description: chr "Nombre de la sentencia"
-#>  .. .. .. @ required   : logi TRUE
-#>  .. .. .. @ type       : chr "string"
-#>  .. $ amicus         : <ellmer::TypeArray>
-#>  ..  ..@ description: chr "Información sobre intervinientes en calidad de \"amicus curiae\" en el proceso. Esta lista puede incluir person"| __truncated__
-#>  ..  ..@ required   : logi FALSE
-#>  ..  ..@ items      : <ellmer::TypeObject>
-#>  .. .. .. @ description          : NULL
-#>  .. .. .. @ required             : logi TRUE
-#>  .. .. .. @ properties           :List of 2
-#>  .. .. .. .. $ name       : <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Nombre del interviniente, en caso de que la información sea explícita."
-#>  .. .. .. ..  ..@ required   : logi FALSE
-#>  .. .. .. ..  ..@ type       : chr "string"
-#>  .. .. .. .. $ affiliation: <ellmer::TypeBasic>
-#>  .. .. .. ..  ..@ description: chr "Organización a la cual pertenece el interviniente. Si el interviniente no pertence a ninguna organización su af"| __truncated__
-#>  .. .. .. ..  ..@ required   : logi FALSE
-#>  .. .. .. ..  ..@ type       : chr "string"
-#>  .. .. .. @ additional_properties: logi FALSE
-#>  @ additional_properties: logi FALSE
+# install.packages("pak")
+pak::pak("acastroaraujo/cccLLM")
 ```
 
-## Example
+## Overview
 
 ``` r
-out <- readRDS("out_raw/C-1060A-01_gpt.rds")
-out
-#> $summary
-#> $summary$spanish
-#> [1] "La Corte Constitucional de Colombia revisó la constitucionalidad del artículo 206, numeral 7, del Estatuto Tributario y el artículo 20 de la Ley 488 de 1998, que eximían del impuesto sobre la renta a ciertos altos funcionarios públicos por los gastos de representación, considerando estos como el 50% de sus salarios. La demandante, María Lugari Castrillón, argumentó que estas disposiciones violaban los principios constitucionales de igualdad, equidad y progresividad, ya que otorgaban un privilegio injustificado a funcionarios con altos ingresos. La Corte encontró que estas exenciones eran inconstitucionales porque rompían con los principios de equidad y progresividad del sistema tributario, al otorgar un trato preferencial a ciertos funcionarios sin una justificación razonable. La Corte declaró inexequible el numeral 7 del artículo 206 del Estatuto Tributario, tal como fue modificado por el artículo 20 de la Ley 488 de 1998."
-#> 
-#> $summary$english
-#> [1] "The Constitutional Court of Colombia reviewed the constitutionality of Article 206, numeral 7, of the Tax Statute and Article 20 of Law 488 of 1998, which exempted certain high-ranking public officials from income tax for representation expenses, considering these as 50% of their salaries. The plaintiff, María Lugari Castrillón, argued that these provisions violated the constitutional principles of equality, equity, and progressivity, as they granted an unjustified privilege to officials with high incomes. The Court found these exemptions unconstitutional because they violated the principles of equity and progressivity of the tax system by granting preferential treatment to certain officials without reasonable justification. The Court declared numeral 7 of Article 206 of the Tax Statute, as amended by Article 20 of Law 488 of 1998, unconstitutional."
-#> 
-#> 
-#> $chamber_raw
-#> [1] "Sala Plena de conjueces"
-#> 
-#> $person
-#>                            name    av    sv    mp interim conjuez
-#> 1        Ramiro Bejarano Guzmán FALSE FALSE FALSE   FALSE    TRUE
-#> 2         Lucy Cruz de Quiñones FALSE FALSE  TRUE   FALSE    TRUE
-#> 3 Hernán Guillermo Aldana Duque FALSE FALSE FALSE   FALSE    TRUE
-#> 4     Juan Manuel Charry Urueña FALSE FALSE FALSE   FALSE    TRUE
-#> 5         Pedro Lafontt Pianeta FALSE  TRUE FALSE   FALSE    TRUE
-#> 6       Susana Montes Echeverri FALSE FALSE FALSE   FALSE    TRUE
-#> 7           Jairo Parra Quijano FALSE  TRUE FALSE   FALSE    TRUE
-#> 8         Humberto Sierra Porto FALSE FALSE FALSE   FALSE    TRUE
-#> 9          Gustavo Zafra Roldán FALSE FALSE FALSE   FALSE    TRUE
-#> 
-#> $articles
-#> [1]  13  95 133 154 158 182 183 363
-#> 
-#> $rj
-#> [1] "no"
-#> 
-#> $rj_citation_raw
-#> character(0)
-#> 
-#> $amicus
-#>                         name
-#> 1                       NULL
-#> 2      Alvaro Leyva Zambrano
-#> 3       Jaime Bernal Cuéllar
-#> 4 Eduardo Montealegre Lynett
-#>                                           affiliation
-#> 1 Dirección General de Impuestos y Aduanas Nacionales
-#> 2          Instituto Colombiano de Derecho Tributario
-#> 3                     Procurador General de la Nación
-#> 4                 Viceprocurador General de la Nación
-#> 
-#> $url
-#> [1] "https://www.corteconstitucional.gov.co/relatoria/2001/C-1060A-01.htm"
-#> 
-#> $id
-#> [1] "C-1060A-01"
-#> 
-#> $model
-#> [1] "gpt-4o"
+library(cccLLM)
+person
+#> # A tibble: 131,443 × 7
+#>    id       name                          av    sv    mp    interim conjuez
+#>    <chr>    <chr>                         <lgl> <lgl> <lgl> <lgl>   <lgl>  
+#>  1 C-001-18 luis guillermo guerrero perez FALSE FALSE FALSE FALSE   FALSE  
+#>  2 C-001-18 carlos bernal pulido          FALSE TRUE  FALSE FALSE   FALSE  
+#>  3 C-001-18 diana fajardo rivera          FALSE FALSE TRUE  FALSE   FALSE  
+#>  4 C-001-18 alejandro linares cantillo    FALSE FALSE FALSE FALSE   FALSE  
+#>  5 C-001-18 antonio jose lizarazo ocampo  FALSE FALSE FALSE FALSE   FALSE  
+#>  6 C-001-18 gloria stella ortiz delgado   FALSE FALSE FALSE FALSE   FALSE  
+#>  7 C-001-18 cristina pardo schlesinger    FALSE FALSE FALSE FALSE   FALSE  
+#>  8 C-001-18 jose fernando reyes cuartas   FALSE FALSE FALSE FALSE   FALSE  
+#>  9 C-001-18 alberto rojas rios            FALSE FALSE FALSE FALSE   FALSE  
+#> 10 C-002-18 luis guillermo guerrero perez FALSE FALSE FALSE FALSE   FALSE  
+#> # ℹ 131,433 more rows
 ```
-
-## Manual Coding of Very Large Files
-
-Some documents exceed the maximum context length of 128000 tokens. This
-happens, for example, when a lengthy appendix is included in the file.
-This means I couldn’t parse them in the same ways as the others.
-
-These documents were manually coded, with the exception of the English
-and Spanish summaries which were written using the file upload option in
-the OpenAI platform.
-
-They can be found in the `out_raw_exceeded` directory.
-
-*Working with the document embeddings provided by OpenAI’s RAG system
-produce very unreliable results.* There is a higher chance that the
-somes fields here — e.g., `articles` and `amicus` — are miscoded. I’ve
-tried my best to keep things reliable via manual inspection! This is why
-there is a `model` variable in the codebook that distinguishes between
-“gpt-4o” and “acastroaraujo”.
-
-I recommend you double-check these rulings if you are going to analyze
-the `articles` variable.
 
 ## Codebook
 
@@ -265,11 +100,11 @@ the `articles` variable.
 
     For example:
 
-    | name                        | av      | sv      | mp      | conjuez |
-    |-----------------------------|---------|---------|---------|---------|
-    | `Vladimiro Naranjo Mesa`    | `FALSE` | `FALSE` | `TRUE`  | `FALSE` |
-    | `Antonio Barrera Carbonell` | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
-    | `Alfredo Beltrán Sierra`    | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
+    | name                        | av      | sv      | mp      | interim | conjuez |
+    |-----------------------------|---------|---------|---------|---------|---------|
+    | `Vladimiro Naranjo Mesa`    | `FALSE` | `FALSE` | `TRUE`  | `FALSE` | `FALSE` |
+    | `Antonio Barrera Carbonell` | `FALSE` | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
+    | `Alfredo Beltrán Sierra`    | `FALSE` | `FALSE` | `FALSE` | `FALSE` | `FALSE` |
 
 6.  `articles`: List of articles of the Constitution that are object of
     discussion.
@@ -296,20 +131,3 @@ the `articles` variable.
 
     <span style="font-size: 0.8em;">For example: *T-406-92,
     C-225-95*</span>
-
-## Misc.
-
-The `amicus` field contains information about participants acting as
-amicus curiae (“friends of the court”) in the corresponding ruling. The
-output may include individual people, NGOs, professional associations,
-labor unions, universities, government entities, and other types of
-public or private organizations.
-
-There is one inconsistency in how the Office of The Inspector General
-(“Procuraduría General de La Nación”) is coded in this field. Since it
-is mandatory for each `C` ruling to contain the input of this office
-(see article 242 of the Colombian Constitution), this intervention is
-sometimes separated from the interventions of other third parties. Thus,
-this government agency shows up in the `amicus` field in an inconsistent
-fashion. The best way to treat this issue is to remove this office from
-all `amicus` fields in all `C` rulings.
