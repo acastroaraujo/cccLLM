@@ -1,0 +1,10 @@
+Package: cccLLM
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("andrés", "castro araújo", , "andres.castro.araujo@duke.edu", role = c("aut", "cre"))
+Description: Contains datasets about the Colombian Constitutional Court
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

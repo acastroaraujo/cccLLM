@@ -2,6 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-out_raw
+.Rprofile
 .DS_Store
-
