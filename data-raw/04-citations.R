@@ -23,7 +23,6 @@ names(out_json) <- purrr::map_chr(out_json, pluck, "id")
 
 output <- append(out_gpt, out_json)
 
-
 # articles ----------------------------------------------------------------
 
 articles <- map(output, pluck, "articles")
@@ -31,6 +30,9 @@ articles <- map(output, pluck, "articles")
 articles <- articles |> 
   enframe(name = "id", value = "article") |> 
   unnest(article)
+
+articles <- articles |> 
+  filter(dplyr::between(article, 1, 380))
 
 usethis::use_data(articles, overwrite = TRUE, compress = "xz")
 
@@ -55,6 +57,9 @@ filter(rj_citations, is.na(to)) # To do: manual check
 rj_citations <- rj_citations |> 
   select(!to_raw) |> 
   drop_na()
+
+rj_citations <- rj_citations |> 
+  filter(to %in% ccc::metadata$id)
 
 usethis::use_data(rj_citations, overwrite = TRUE, compress = "xz")
 
