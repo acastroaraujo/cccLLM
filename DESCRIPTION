@@ -1,9 +1,9 @@
 Package: cccLLM
-Title: What the Package Does (One Line, Title Case)
+Title: Colombian Constitutional Court LLM Dataset
 Version: 0.0.0.9000
 Authors@R: 
     person("andrés", "castro araújo", , "andres.castro.araujo@duke.edu", role = c("aut", "cre"))
-Description: Contains datasets about the Colombian Constitutional Court
+Description: This package contains datasets about the Colombian Constitutional Court.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -11,5 +11,6 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 3.5)
 LazyData: true
+LazyDataCompression: xz
 Imports: 
     tibble

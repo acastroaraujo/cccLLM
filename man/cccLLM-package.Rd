@@ -4,9 +4,9 @@
 \name{cccLLM-package}
 \alias{cccLLM}
 \alias{cccLLM-package}
-\title{cccLLM: What the Package Does (One Line, Title Case)}
+\title{cccLLM: Colombian Constitutional Court LLM Dataset}
 \description{
-Contains datasets about the Colombian Constitutional Court
+This package contains datasets about the Colombian Constitutional Court.
 }
 \author{
 \strong{Maintainer}: andrés castro araújo \email{andres.castro.araujo@duke.edu}

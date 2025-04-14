@@ -5,7 +5,7 @@
 \alias{person}
 \title{Person}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 131443 rows and 7 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 131457 rows and 7 columns.
 }
 \usage{
 person

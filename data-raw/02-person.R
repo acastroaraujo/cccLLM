@@ -95,6 +95,76 @@ out_fix <- pmap(d, \(x, i) slice_person_output(output[[x]], i))
 names(out_fix) <- map_chr(out_fix, pluck, "id")
 output[names(out_fix)] <- out_fix
 
+# Fix Missing People ------------------------------------------------------
+
+# Very annoying, this is not the fault of ChatGPT.
+output[["C-557-92"]][["person"]] <- data.frame(
+  name = c(
+    "Simón Rodríguez Rodríguez",
+    "Ciro Angarita Barón",
+    "Eduardo Cifuentes Muñoz",
+    "José Gregorio Hernández Galindo",
+    "Alejandro Martínez Caballero",
+    "Fabio Morón Díaz",
+    "Jaime Sanín Greiffenstein"
+  ),
+  av = rep(FALSE, 7),
+  sv = c(FALSE, TRUE, FALSE, FALSE, TRUE, FALSE, FALSE),
+  mp = c(TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE),
+  interim = rep(FALSE, 7),
+  conjuez = rep(FALSE, 7)
+)
+
+output[["SU-073-20"]][["person"]] <- bind_rows(
+  output[["SU-073-20"]][["person"]],
+  data.frame(
+    name = c(
+      "Ruth Stella Correa Palacio",
+      "Emilssen González de Cancino",
+      "Luis Fernando López Roca",
+      "Mauricio Piñeros Perdomo"
+    ),
+    av = rep(FALSE, 4),
+    sv = rep(FALSE, 4),
+    mp = rep(FALSE, 4),
+    interim = rep(FALSE, 4),
+    conjuez = rep(TRUE, 4)
+  )
+)
+
+output[["C-556-92"]][["person"]] <- bind_rows(
+  output[["C-556-92"]][["person"]],
+  data.frame(
+    name = c(
+      "Fabio Morón Díaz",
+      "Jaime Sanín Greiffenstein",
+      "José Gregorio Hernández Galindo"
+    ),
+    av = rep(FALSE, 3),
+    sv = rep(FALSE, 3),
+    mp = rep(FALSE, 3),
+    interim = rep(FALSE, 3),
+    conjuez = rep(FALSE, 3)
+  )
+)
+
+output[["C-579-92"]][["person"]] <- bind_rows(
+  output[["C-579-92"]][["person"]],
+  data.frame(
+    name = c(
+      "Fabio Morón Díaz",
+      "Jaime Sanín Greiffenstein",
+      "José Gregorio Hernández Galindo",
+      "Eduardo Cifuentes Muñoz"
+    ),
+    av = rep(FALSE, 4),
+    sv = rep(FALSE, 4),
+    mp = rep(FALSE, 4),
+    interim = rep(FALSE, 4),
+    conjuez = rep(FALSE, 4)
+  )
+)
+
 # Fix idiosyncracies -----------------------------------------------------
 
 # Ok, so at first I thought that the reporting judge ("magistrado ponente")

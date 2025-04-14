@@ -9,7 +9,10 @@ library(ellmer)
 # Some documents exceed the maximum "context" length of 128000 tokens. I
 # coded these rulings separately and stored them in a different folder.
 
-rulings_json <- stringr::str_remove(dir("data-raw/out_raw_exceeded"), "\\.json$")
+rulings_json <- stringr::str_remove(
+  dir("data-raw/out_raw_exceeded"),
+  "\\.json$"
+)
 
 # Set up -----------------------------------------------------------------
 

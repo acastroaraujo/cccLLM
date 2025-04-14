@@ -16,7 +16,7 @@ Here is some general information about the rulings issued by the Court:
 
 -   Each ruling is issued either by a 3-person chamber ("sala de revisión") or a 9-person chamber ("sala plena"). The names of these people are included near the end of the document and before any footnote. One of the judges in a 9-person chamber ("sala plena") is typically identified as president of the Court.
 
--   Chambers are sometimes staffed by a substitute judge ("conjuez") who does not hold a permanent position on the Court and serves only in specific rulings. At other times, an interim judge ("magistrado encargado") temporarily assumes the responsibilities of a sitting judge ("magistrado titular") during their absence.
+-   Chambers are sometimes staffed by a substitute judge ("conjuez") who does not hold a permanent position on the Court and serves only in specific rulings. At other times, an interim judge ("magistrado encargado") temporarily assumes the responsibilities of a sitting judge ("magistrado titular") during their absence. You will not ignore these people.
 
 -   The names of the judges ("magistrados") are accompanied by the name of the Secretary General ("secretario general"). You will ignore this person.
 
