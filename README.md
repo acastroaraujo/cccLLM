@@ -4,6 +4,9 @@
 # cccLLM
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/acastroaraujo/cccLLM/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/acastroaraujo/cccLLM/actions/workflows/R-CMD-check.yaml)
+
 <!-- badges: end -->
 
 This package contains a collection of datasets about the Colombian
