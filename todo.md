@@ -1,12 +1,8 @@
 To do:
 
--   Add lines to the 01-create.R script. I came from the future and identified the rulings that are too big. And add them to the `texts_done` object.
+-   Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada. The easiest way to do this, I think, is to get a list of permament judges, and then change the other ones that are not conjuez to interim. 
 
--   What you really need to do is to fix the url for those two missing T rulings. They have a wrong year in the directory. 
-
--   I could not remove the wrongful attribution of a dissenting opinion in "C-509-09". So the best fix is to make sure that `mp == TRUE` makes so that `av` and `sv` are both `FALSE`. But this sometimes happens... soo... no check.
-
-- Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada. The easiest way to do this, I think, is to get a list of permament judges, and then change the other ones that are not conjuez to interim. 
+-   You will probably have to create a dataset of main judges to do the previous thing.
 
 Exemplar cases:
 
