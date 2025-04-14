@@ -2,6 +2,8 @@
 
 library(tidyverse)
 load("data/person.rda")
+load("data/amicus.rda")
+load("data/rj_citations.rda")
 
 # Data -------------------------------------------------------------------
 
@@ -39,14 +41,15 @@ rulings <- map_df(output, function(x) {
   return(out)
 })
 
-rulings <- full_join(rulings, summarize(person, n = n(), .by = "id"))
+rulings <- full_join(rulings, summarize(person, n_person = n(), .by = "id"))
+rulings <- full_join(rulings, summarize(amicus, n_amicus = n(), .by = "id"))
 
 rulings <- rulings |>
   mutate(type = str_extract(id, "^(C|SU|T|A)")) |>
-  mutate(chamber = if_else(n <= 3, "SR", "SP"))
+  mutate(chamber = if_else(n_person <= 3, "SR", "SP"))
 
 rulings <- rulings |>
-  relocate(id, type, chamber, n, rj, summary_en, summary_es) |>
+  relocate(id, type, chamber, rj, n_person, n_amicus, summary_en, summary_es) |>
   mutate(
     type = factor(type),
     chamber = factor(chamber),
@@ -55,7 +58,14 @@ rulings <- rulings |>
       rj == "parcial" ~ "partial",
       rj == "no" ~ "no"
     )
-  ) |>
-  mutate(rj = factor(rj))
+  ) 
+
+rulings$rj <- if_else(
+  condition = !rulings$id %in% unique(rj_citations$from), 
+  true = "no", 
+  false = rulings$rj
+)
+
+rulings$rj <- factor(rulings$rj)
 
 usethis::use_data(rulings, overwrite = TRUE, compress = "xz")

@@ -5,13 +5,20 @@
 \alias{rj_citations}
 \title{Citations (Cosa Juzgada)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 4810 rows and 2 columns.
+A data frame with two variables:
+\describe{
+\item{\code{from}}{Ruling ID}
+\item{\code{to}}{Ruling ID of precedent}
+}
 }
 \usage{
 rj_citations
 }
 \description{
-RJ articles dataset
+The \code{rj_citations} dataset contains and edge list of rulings that referenced
+a previous ruling as binding precedent for the current ruling. The Latin
+word for this is "res judicata" and the Colombian Court uses the expression
+"cosa juzgada"
 }
 \examples{
   rj_citations

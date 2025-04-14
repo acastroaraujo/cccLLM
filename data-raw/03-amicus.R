@@ -46,6 +46,14 @@ amicus <- as_tibble(amicus) |>
   mutate(across(
     c(name, affiliation),
     \(x) stringi::stri_trans_general(x, "Latin-ASCII")
-  ))
+  )) |> 
+  distinct()
+
+amicus <- amicus |>
+  mutate(type = str_extract(id, "^(C|SU|T|A)")) |> 
+  # Remove Procuraduría from `C` cases
+  filter(!(type == "C" & str_detect(affiliation, "^(vice)?procurad"))) |> 
+  mutate(affiliation = if_else(affiliation == "persona natural", NA_character_, affiliation)) |> 
+  select(!type)
 
 usethis::use_data(amicus, overwrite = TRUE, compress = "xz")

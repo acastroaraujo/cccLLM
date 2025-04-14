@@ -5,13 +5,19 @@
 \alias{amicus}
 \title{Amicus}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 48445 rows and 3 columns.
+A data frame with three variables:
+\describe{
+\item{\code{id}}{Ruling ID}
+\item{\code{name}}{Name of the individual}
+\item{\code{affiliation}}{An organization, government agency, university, NGO, union, social movement, etc.}
+}
 }
 \usage{
 amicus
 }
 \description{
-Amicus dataset
+The \code{amicus} dataset contains a list of individuals and organizations who
+intervened in the ruling by presenting an "amicus curiae."
 }
 \examples{
   amicus

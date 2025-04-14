@@ -52,7 +52,9 @@ rj_citations$to <- map_chr(rj_citations[["to_raw"]], function(x) {
   out
 })
 
-filter(rj_citations, is.na(to)) # To do: manual check
+# On close inspection, most of these omissions seem OK, but I should check 
+# more systematically.
+filter(rj_citations, is.na(to)) 
 
 rj_citations <- rj_citations |>
   select(!to_raw) |>

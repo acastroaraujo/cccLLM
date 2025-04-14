@@ -5,13 +5,18 @@
 \alias{articles}
 \title{Articles}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 125229 rows and 2 columns.
+A data frame with two variables:
+\describe{
+\item{\code{id}}{Ruling ID}
+\item{\code{article}}{Article number}
+}
 }
 \usage{
 articles
 }
 \description{
-Articles dataset
+The \code{articles} dataset contains a list of articles from the Colombian
+Constitution that were mentioned during the ruling.
 }
 \examples{
   articles

@@ -490,6 +490,8 @@ person <- person |>
     )
   )
 
-person <- as_tibble(person)
+person <- person |> 
+  as_tibble() |> 
+  relocate(id, name, mp, av, sv, interim, conjuez)
 
 usethis::use_data(person, overwrite = TRUE, compress = "xz")
