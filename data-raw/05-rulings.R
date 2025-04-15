@@ -41,17 +41,27 @@ rulings <- map_df(output, function(x) {
   return(out)
 })
 
-rulings <- rulings |> 
-  full_join(summarize(person, n_person = n(), .by = "id")) |> 
-  full_join(summarize(amicus, n_amicus = n(), .by = "id")) |> 
-  mutate(n_amicus = if_else(is.na(n_amicus), 0L, n_amicus)) |> 
+rulings <- rulings |>
+  full_join(summarize(person, n_person = n(), .by = "id")) |>
+  full_join(summarize(amicus, n_amicus = n(), .by = "id")) |>
+  mutate(n_amicus = if_else(is.na(n_amicus), 0L, n_amicus)) |>
   mutate(type = str_extract(id, "^(C|SU|T|A)")) |>
-  mutate(chamber = if_else(n_person <= 3, "SR", "SP")) |> 
-  full_join(select(ccc::metadata, id, date)) |> 
+  mutate(chamber = if_else(n_person <= 3, "SR", "SP")) |>
+  full_join(select(ccc::metadata, id, date)) |>
   arrange(date)
 
 rulings <- rulings |>
-  relocate(id, date, type, chamber, rj, n_person, n_amicus, summary_en, summary_es) |>
+  relocate(
+    id,
+    date,
+    type,
+    chamber,
+    rj,
+    n_person,
+    n_amicus,
+    summary_en,
+    summary_es
+  ) |>
   mutate(
     type = factor(type),
     chamber = factor(chamber),
