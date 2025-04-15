@@ -9,7 +9,7 @@
 This package contains datasets about the Colombian Constitutional Court.
 }
 \author{
-\strong{Maintainer}: andrés castro araújo \email{andres.castro.araujo@duke.edu}
+\strong{Maintainer}: Andrés Castro Araújo \email{andres.castro.araujo@duke.edu}
 
 }
 \keyword{internal}

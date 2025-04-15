@@ -28,7 +28,7 @@ A BibTeX entry for LaTeX users is:
 
     @Manual{,
       title = {cccLLM: Colombian Constitutional Court LLM Dataset},
-      author = {andrés {castro araújo}},
+      author = {Andrés {Castro Araújo}},
       year = {2025},
       note = {R package version 0.1.0},
     }
