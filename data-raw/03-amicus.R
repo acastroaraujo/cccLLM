@@ -46,14 +46,49 @@ amicus <- as_tibble(amicus) |>
   mutate(across(
     c(name, affiliation),
     \(x) stringi::stri_trans_general(x, "Latin-ASCII")
-  )) |> 
+  )) |>
   distinct()
 
 amicus <- amicus |>
-  mutate(type = str_extract(id, "^(C|SU|T|A)")) |> 
+  mutate(type = str_extract(id, "^(C|SU|T|A)")) |>
   # Remove Procuraduría from `C` cases
-  filter(!(type == "C" & str_detect(affiliation, "^(vice)?procurad"))) |> 
-  mutate(affiliation = if_else(affiliation == "persona natural", NA_character_, affiliation)) |> 
+  filter(!(type == "C" & str_detect(affiliation, "^(vice)?procurad"))) |>
+  mutate(
+    affiliation = if_else(
+      affiliation == "persona natural",
+      NA_character_,
+      affiliation
+    )
+  ) |>
   select(!type)
 
+# lookup <- function(x, .default) {
+#   case_when(
+#     str_detect(x, "defensor(ia)? del pueblo") ~ "defensoria del pueblo",
+#     TRUE ~ .default
+#   )
+# }
+#
+# clean_name <- function(x) {
+#   rgx <- c(
+#     "defensor(ia)? del pueblo",
+#     "ministerio de hacienda",
+#     "procura(dor|duria) general de la nacion",
+#     "ministerio de justicia"
+#   )
+#   i <- map_lgl(x, \(x) any(str_detect(x, rgx)))
+#   if_else(i, NA_character_, x)
+# }
+#
+# amicus |>
+#   mutate(affiliation = lookup(name, affiliation)) |>
+#   mutate(name = clean_name(name)) |>
+#   count(name, sort = TRUE)
+#
+# amicus |>
+#   filter(str_detect(name, "defensor(ia)? del pueblo")) |>
+#   count(name)
+
 usethis::use_data(amicus, overwrite = TRUE, compress = "xz")
+
+
