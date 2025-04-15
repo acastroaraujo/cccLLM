@@ -3,7 +3,7 @@
 \docType{data}
 \name{appointed_judges}
 \alias{appointed_judges}
-\title{Appointed Judges}
+\title{Data set of appointed judges}
 \format{
 A data frame with two variables:
 \describe{

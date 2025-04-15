@@ -3,7 +3,7 @@
 \docType{data}
 \name{articles}
 \alias{articles}
-\title{Articles}
+\title{Edge list of rulings and articles of the Colombian Constitution}
 \format{
 A data frame with two variables:
 \describe{

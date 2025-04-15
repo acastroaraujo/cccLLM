@@ -3,7 +3,7 @@
 ^\.Rproj\.user$
 ^data-raw$
 ^\.github$
-^todo\.md$
+^todo\.txt$
 ^README\.Rmd$
 ^_pkgdown\.yml$
 ^docs$

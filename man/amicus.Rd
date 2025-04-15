@@ -3,7 +3,7 @@
 \docType{data}
 \name{amicus}
 \alias{amicus}
-\title{Amicus}
+\title{Data set of amicus interventions in each ruling}
 \format{
 A data frame with three variables:
 \describe{

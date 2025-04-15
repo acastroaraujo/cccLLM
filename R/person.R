@@ -1,4 +1,4 @@
-#' Person
+#' Data set of individual judges participating in the rulings
 #'
 #' The `person` dataset contains information on the judges that signed off on a
 #' particular ruling.
@@ -19,7 +19,7 @@
 "person"
 
 
-#' Appointed Judges
+#' Data set of appointed judges
 #'
 #' The `appointed_judges` dataset contains information on the start and end periods
 #' of the appointed judges. The cutoff date for all of them is April 3, 2024, which

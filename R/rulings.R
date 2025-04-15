@@ -1,4 +1,4 @@
-#' Rulings
+#' Data set of rulings
 #'
 #' The `rulings` dataset contains high-level information on each rulings.
 #'

@@ -3,7 +3,7 @@
 \docType{data}
 \name{person}
 \alias{person}
-\title{Person}
+\title{Data set of individual judges participating in the rulings}
 \format{
 A data frame with two variables:
 \describe{

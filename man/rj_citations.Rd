@@ -3,7 +3,7 @@
 \docType{data}
 \name{rj_citations}
 \alias{rj_citations}
-\title{Citations (Cosa Juzgada)}
+\title{Edge list of citations to binding precedent ("cosa juzgada")}
 \format{
 A data frame with two variables:
 \describe{

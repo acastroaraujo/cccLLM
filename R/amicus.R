@@ -1,4 +1,4 @@
-#' Amicus
+#' Data set of amicus interventions in each ruling
 #'
 #' The `amicus` dataset contains a list of individuals and organizations who 
 #' intervened in the ruling by presenting an "amicus curiae."

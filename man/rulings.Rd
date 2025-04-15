@@ -3,7 +3,7 @@
 \docType{data}
 \name{rulings}
 \alias{rulings}
-\title{Rulings}
+\title{Data set of rulings}
 \format{
 A data frame with nine variables:
 \describe{

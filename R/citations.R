@@ -1,4 +1,4 @@
-#' Articles
+#' Edge list of rulings and articles of the Colombian Constitution
 #'
 #' The `articles` dataset contains a list of articles from the Colombian 
 #' Constitution that were mentioned during the ruling.
@@ -14,7 +14,7 @@
 "articles"
 
 
-#' Citations (Cosa Juzgada)
+#' Edge list of citations to binding precedent ("cosa juzgada")
 #'
 #' The `rj_citations` dataset contains and edge list of rulings that referenced
 #' a previous ruling as binding precedent for the current ruling. The Latin 
