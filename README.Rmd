@@ -33,6 +33,12 @@ You can install the development version of cccLLM from [GitHub](https://github.c
 pak::pak("acastroaraujo/cccLLM")
 ```
 
+A BibTeX entry for LaTeX users is:
+
+```{r, comment="", echo=FALSE}
+toBibtex(citation("cccLLM"))
+```
+
 ## Overview
 
 -   `rulings`

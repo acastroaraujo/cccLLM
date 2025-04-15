@@ -1,0 +1,37 @@
+url: https://acastroaraujo.github.io/cccLLM/
+authors:
+  Andres Castro Araújo:
+    href: https://acastroaraujo.github.io/
+
+template:
+  bootstrap: 5
+  bslib:
+    primary: '#0054AD'
+    danger: '#A6081A'
+    border-radius: 0.5rem
+    btn-border-radius: 0.25rem
+    code_font_size: 0.8em
+
+navbar:
+  bg: light
+
+reference:
+- title: Ruling Datasets (32 Years)
+  contents:
+  - metadata
+  - citations
+  - docterms
+- title: Search
+  contents:
+  - ccc_search
+  - ccc_clean_dataset
+  - ccc_txt
+  - ccc_rtf
+  - extract_citations
+- title: Misc.
+  contents:
+  - create_dtm
+  - create_citation_adj_mat
+  - gender_cases
+  - jctt_cases
+
