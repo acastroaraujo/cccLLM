@@ -39,3 +39,15 @@ I recommend you double-check these rulings if you are going to analyze the `arti
 The `amicus` field contains information about participants acting as amicus curiae ("friends of the court") in the corresponding ruling. The output may include individual people, NGOs, professional associations, labor unions, universities, government entities, and other types of public or private organizations.
 
 There is one inconsistency in how the Office of The Inspector General ("Procuraduría General de La Nación") is coded in this field. Since it is mandatory for each `C` ruling to contain the input of this office (see article 242 of the Colombian Constitution), this intervention is sometimes separated from the interventions of other third parties. Thus, this government agency shows up in the `amicus` field in an inconsistent fashion. The best way to treat this issue is to remove this office from all `amicus` fields in all `C` rulings. That's exactly what I did.
+
+## Extra
+
+I build the permanent judges dataset based on a host of scattered resources. It's surprising that there's no easily accessible dataset containing this information.
+
+- [La Corte Constitucional y sus Magistrados — William Guillermo Jiménez](https://repository.unilibre.edu.co/bitstream/handle/10901/19670/Corte%20Constitucional%20y%20sus%20magistrados%20vr.%20digital%20(1).pdf)
+
+- [This government website](https://www.ramajudicial.gov.co/web/corte-constitucional/portal/corporacion/magistrados/magistrados-anteriores)
+
+- (Strategic Prudence in the Colombian Constitutional Court, 1992-2006)[https://d-scholarship.pitt.edu/8953/1/Rodriguez-Raga_Juan_Carlos_Dissertation_07_2011.pdf]
+
+This is the best source I found: https://cej.org.co/eleccion-transparente/200-corte-constitucional?start=2

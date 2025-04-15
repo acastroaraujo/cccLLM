@@ -2,6 +2,10 @@
 
 library(tidyverse)
 
+# Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada.
+# The easiest way to do this, I think, is to get a list of permament judges, and then change the
+# other ones that are not conjuez to interim.
+
 #' Slice the "person" component of the `output` object
 #'
 #' @param x The subset of the output corresponding to a ruling id — i.e, `output[[x]]`
@@ -214,6 +218,7 @@ output[["C-1096-03"]][["person"]][["sv"]] <- rep(FALSE, 9)
 # This is an ad hoc change:
 
 output[["C-509-09"]][["person"]][["sv"]] <- rep(FALSE, 8)
+output[["C-062-93"]][["person"]][["conjuez"]] <- rep(TRUE, 7)
 
 # Standardize names (no accents, lowercase, etc.) ------------------------
 
@@ -490,8 +495,23 @@ person <- person |>
     )
   )
 
-person <- person |> 
-  as_tibble() |> 
+person <- person |>
+  as_tibble() |>
   relocate(id, name, mp, av, sv, interim, conjuez)
+
+# Use `appointed_judges` data to fix missing interim ---------------------
+
+load("data/appointed_judges.rda")
+
+check <- pmap_lgl(
+  .l = person[c("name", "interim", "conjuez")],
+  .f = function(name, interim, conjuez) {
+    !name %in% appointed_judges$name & !interim & !conjuez
+  }
+)
+
+person[which(check), ]$interim <- !person[which(check), ]$interim
+
+# Export -----------------------------------------------------------------
 
 usethis::use_data(person, overwrite = TRUE, compress = "xz")

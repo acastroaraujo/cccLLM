@@ -5,9 +5,10 @@
 \alias{rulings}
 \title{Rulings}
 \format{
-A data frame with eight variables:
+A data frame with nine variables:
 \describe{
 \item{\code{id}}{Ruling ID}
+\item{\code{date}}{Date}
 \item{\code{type}}{Type of Ruling}
 \item{\code{chamber}}{The kind of chamber that authored the ruling}
 \item{\code{rj}}{Indicator of Res Judicata (or "Cosa Juzgada")}

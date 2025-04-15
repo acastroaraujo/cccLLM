@@ -9,7 +9,8 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>",
   fig.path = "man/figures/README-",
-  out.width = "100%"
+  out.width = "100%",
+  dpi = 300
 )
 ```
 
@@ -21,7 +22,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-This package contains a collection of datasets about the Colombian Constitutional Court collected with the help of Large Language Models.
+This package contains a collection of datasets about the Colombian Constitutional Court collected with the help of Large Language Models. It is meant to complement the datasets collected in the ccc package.
 
 ## Installation
 
@@ -43,3 +44,39 @@ pak::pak("acastroaraujo/cccLLM")
 -   `articles`
 
 -   `amicus`
+
+-   `appointed_judges`
+
+## Example
+
+```{r}
+library(cccLLM)
+
+appointed_judges
+rulings
+person
+articles
+rj_citations
+```
+
+And here's a plot.
+
+```{r court-cohorts, message=FALSE, fig.height = 6, fig.width = 7}
+library(tidyverse)
+
+theme_set(theme_light(base_family = "Avenir Next Condensed"))
+
+lvls <- with(appointed_judges, str_to_title(name[order(start, end)]))
+
+appointed_judges |>
+  mutate(name = str_to_title(name)) |> 
+  mutate(name = factor(name, lvls)) |>
+  ggplot(aes(y = name)) +
+  geom_segment(aes(x = start, xend = end)) +
+  labs(
+    x = NULL, y = NULL, 
+    title = "The Colombian Constitutional Court",
+    subtitle = "1992-2024"
+    ) + 
+  scale_x_date(date_breaks = "2 years", date_labels = "'%y")
+```

@@ -1,13 +1,5 @@
 To do:
 
--   Create rj_citation dataset
-
--   Create rj_citation dataset
-
--   Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada. The easiest way to do this, I think, is to get a list of permament judges, and then change the other ones that are not conjuez to interim. 
-
--   You will probably have to create a dataset of main judges to do the previous thing.
-
 Exemplar cases:
 
 https://youtu.be/3-8ciBWul5E
