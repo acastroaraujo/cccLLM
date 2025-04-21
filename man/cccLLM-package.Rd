@@ -8,6 +8,15 @@
 \description{
 This package contains datasets about the Colombian Constitutional Court.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/acastroaraujo/cccLLM}
+  \item \url{https://acastroaraujo.github.io/cccLLM/}
+  \item Report bugs at \url{https://github.com/acastroaraujo/cccLLM/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Andrés Castro Araújo \email{andres.castro.araujo@duke.edu}
 
