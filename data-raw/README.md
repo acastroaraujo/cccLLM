@@ -44,10 +44,10 @@ There is one inconsistency in how the Office of The Inspector General ("Procurad
 
 I build the permanent judges dataset based on a host of scattered resources. It's surprising that there's no easily accessible dataset containing this information.
 
-- [La Corte Constitucional y sus Magistrados — William Guillermo Jiménez](https://repository.unilibre.edu.co/bitstream/handle/10901/19670/Corte%20Constitucional%20y%20sus%20magistrados%20vr.%20digital%20(1).pdf)
+-   [La Corte Constitucional y sus Magistrados — William Guillermo Jiménez](https://repository.unilibre.edu.co/bitstream/handle/10901/19670/Corte%20Constitucional%20y%20sus%20magistrados%20vr.%20digital%20(1).pdf)
 
-- [This government website](https://www.ramajudicial.gov.co/web/corte-constitucional/portal/corporacion/magistrados/magistrados-anteriores)
+-   [This government website](https://www.ramajudicial.gov.co/web/corte-constitucional/portal/corporacion/magistrados/magistrados-anteriores)
 
-- (Strategic Prudence in the Colombian Constitutional Court, 1992-2006)[https://d-scholarship.pitt.edu/8953/1/Rodriguez-Raga_Juan_Carlos_Dissertation_07_2011.pdf]
+-   (Strategic Prudence in the Colombian Constitutional Court, 1992-2006)[<https://d-scholarship.pitt.edu/8953/1/Rodriguez-Raga_Juan_Carlos_Dissertation_07_2011.pdf>]
 
-This is the best source I found: https://cej.org.co/eleccion-transparente/200-corte-constitucional?start=2
+This is the best source I found: <https://cej.org.co/eleccion-transparente/200-corte-constitucional?start=2>

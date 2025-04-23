@@ -33,7 +33,7 @@ rulings <- map_df(output, function(x) {
   null <- map_lgl(x, rlang::is_empty)
   x[null] <- NA_character_
 
-  out <- as_tibble(x[c("id", "rj")])
+  out <- as_tibble(x[c("id", "rj", "model")])
 
   out$summary_en <- x$summary$english
   out$summary_es <- x$summary$spanish
@@ -60,7 +60,8 @@ rulings <- rulings |>
     n_person,
     n_amicus,
     summary_en,
-    summary_es
+    summary_es,
+    model
   ) |>
   mutate(
     type = factor(type),

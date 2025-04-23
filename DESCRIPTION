@@ -13,6 +13,7 @@ Depends:
 LazyData: true
 LazyDataCompression: xz
 Imports: 
+    cli,
     tibble
 URL: https://github.com/acastroaraujo/cccLLM, https://acastroaraujo.github.io/cccLLM/
 BugReports: https://github.com/acastroaraujo/cccLLM/issues

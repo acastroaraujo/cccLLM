@@ -16,6 +16,7 @@ A data frame with nine variables:
 \item{\code{n_amicus}}{Number of Amicus interventions}
 \item{\code{summary_en}}{Short summary in English.}
 \item{\code{summary_es}}{Short summary in Spanish.}
+\item{\code{model}}{Indicator of manual coding.}
 }
 }
 \usage{
