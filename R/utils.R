@@ -13,9 +13,9 @@
 #'
 #' @examples
 #' 
-#' ruling_summary("C-055-22")
+#' summary_ruling("C-055-22")
 #' 
-ruling_summary <- function(x) {
+summary_ruling <- function(x) {
   stopifnot(length(x) == 1)
   i <- which(x == cccLLM::rulings[["id"]])
   if (length(i) == 0) stop("`id` not found", call. = FALSE)
