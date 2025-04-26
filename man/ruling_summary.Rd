@@ -10,7 +10,7 @@ ruling_summary(x)
 \item{x}{ruling id}
 }
 \value{
-nothing, this function just prints information
+English and Spanish summaries
 }
 \description{
 This is a convenience function that prints the summary of a ruling to the

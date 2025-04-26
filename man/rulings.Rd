@@ -13,6 +13,8 @@ A data frame with nine variables:
 \item{\code{chamber}}{The kind of chamber that authored the ruling}
 \item{\code{rj}}{Indicator of Res Judicata (or "Cosa Juzgada")}
 \item{\code{n_person}}{Number of judges}
+\item{\code{n_av}}{Number of concurring opinions}
+\item{\code{n_sv}}{Number of dissenting opinions}
 \item{\code{n_amicus}}{Number of Amicus interventions}
 \item{\code{summary_en}}{Short summary in English.}
 \item{\code{summary_es}}{Short summary in Spanish.}

@@ -17,3 +17,4 @@ Imports:
     tibble
 URL: https://github.com/acastroaraujo/cccLLM, https://acastroaraujo.github.io/cccLLM/
 BugReports: https://github.com/acastroaraujo/cccLLM/issues
+Config/Needs/website: rmarkdown

@@ -41,8 +41,15 @@ rulings <- map_df(output, function(x) {
   return(out)
 })
 
+person_agg <- person |> 
+  summarize(
+    n_person = n(),
+    n_av = sum(av),
+    n_sv = sum(sv), .by = "id"
+  )
+
 rulings <- rulings |>
-  full_join(summarize(person, n_person = n(), .by = "id")) |>
+  full_join(person_agg) |>
   full_join(summarize(amicus, n_amicus = n(), .by = "id")) |>
   mutate(n_amicus = if_else(is.na(n_amicus), 0L, n_amicus)) |>
   mutate(type = str_extract(id, "^(C|SU|T|A)")) |>
@@ -58,6 +65,8 @@ rulings <- rulings |>
     chamber,
     rj,
     n_person,
+    n_av,
+    n_sv,
     n_amicus,
     summary_en,
     summary_es,

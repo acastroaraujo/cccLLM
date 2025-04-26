@@ -499,6 +499,36 @@ person <- person |>
   as_tibble() |>
   relocate(id, name, mp, av, sv, interim, conjuez)
 
+
+# Fix missing `mp` -------------------------------------------------------
+
+missing_mp <- person |>
+  summarize(mp = sum(mp), .by = id) |>
+  filter(mp == 0L) |>
+  pull(id)
+
+missing_mp ## there are 11 rulings with a missing `mp`
+
+person |>
+  rowid_to_column() |>
+  filter(id %in% missing_mp)
+
+i <- c(
+  "C-071-20" = 6006, # cristina pardo schlesinger
+  "C-093-21" = 7820, # antonio jose lizarazo ocampo
+  "C-093-21" = 7827, # jose fernando reyes cuartas
+  "C-530-13" = 45541, # mauricio gonzalez cuervo
+  "C-556-92" = 47535, # simon rodriguez rodriguez
+  "C-579-92" = 48925, # simon rodriguez rodriguez
+  "T-007-97" = 69920, # eduardo cifuentes munoz
+  "T-125-97" = 81935, # eduardo cifuentes munoz
+  "T-225-92" = 89819, # jaime sanin greiffenstein
+  "T-254-01" = 91661, # jaime cordoba trivino
+  "T-671-96" = 117690 # eduardo cifuentes munoz
+)
+
+person[i, ]$mp <- TRUE
+
 # Use `appointed_judges` data to fix missing interim ---------------------
 
 load("data/appointed_judges.rda")
@@ -513,5 +543,7 @@ check <- pmap_lgl(
 person[which(check), ]$interim <- !person[which(check), ]$interim
 
 # Export -----------------------------------------------------------------
+
+# unname name vector
 
 usethis::use_data(person, overwrite = TRUE, compress = "xz")

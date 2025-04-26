@@ -46,14 +46,6 @@
       "conjuez": false
     },
     {
-      "name": "JORGE IGNACIO PRETELT CHALJUB",
-      "av": false,
-      "sv": false,
-      "mp": false,
-      "interim": false,
-      "conjuez": false
-    },
-    {
       "name": "ALBERTO ROJAS RÍOS",
       "av": true,
       "sv": false,
@@ -66,6 +58,14 @@
       "av": true,
       "sv": false,
       "mp": false,
+      "interim": false,
+      "conjuez": false
+    },
+    {
+      "name": "JORGE IVÁN PALACIO PALACIO",
+      "av": false,
+      "sv": false,
+      "mp": true,
       "interim": false,
       "conjuez": false
     }

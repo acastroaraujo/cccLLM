@@ -8,7 +8,7 @@
 #'
 #' @param x ruling id
 #'
-#' @returns nothing, this function just prints information
+#' @returns English and Spanish summaries
 #' @export
 #'
 #' @examples
