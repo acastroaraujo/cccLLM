@@ -32,7 +32,8 @@ articles <- articles |>
   unnest(article)
 
 articles <- articles |>
-  filter(dplyr::between(article, 1, 380))
+  filter(dplyr::between(article, 1, 380)) |> 
+  distinct()
 
 usethis::use_data(articles, overwrite = TRUE, compress = "xz")
 
@@ -61,6 +62,7 @@ rj_citations <- rj_citations |>
   drop_na()
 
 rj_citations <- rj_citations |>
-  filter(to %in% ccc::metadata$id)
+  filter(to %in% ccc::metadata$id) |> 
+  distinct()
 
 usethis::use_data(rj_citations, overwrite = TRUE, compress = "xz")
