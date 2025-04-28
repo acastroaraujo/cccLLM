@@ -97,5 +97,5 @@ p2 <- rulings |>
   scale_x_date(date_breaks = "2 years", date_labels = "'%y") +
   labs(x = NULL, y = NULL, caption = "Monthly Rulings")
 
-p1 / p2 + plot_layout(heights = c(6, 2), widths = c(7, 7))
+p1 / p2 + plot_layout(heights = c(8, 2), widths = c(7, 7))
 ```
