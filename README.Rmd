@@ -55,7 +55,7 @@ toBibtex(citation("cccLLM"))
 
 ## 
 
-```{r court-cohorts, message=FALSE, fig.height = 8, fig.width = 7, echo=FALSE}
+```{r court-cohorts, message=FALSE, warning=FALSE, fig.height = 8, fig.width = 7, echo=FALSE}
 library(tidyverse)
 library(slider)
 library(patchwork)

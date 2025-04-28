@@ -51,7 +51,4 @@ A BibTeX entry for LaTeX users is:
 
 ## 
 
-    #> Warning: Removed 6 rows containing missing values or values outside the scale range
-    #> (`geom_line()`).
-
 <img src="man/figures/README-court-cohorts-1.png" width="100%" />
