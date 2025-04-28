@@ -30,7 +30,9 @@ A BibTeX entry for LaTeX users is:
       title = {cccLLM: Colombian Constitutional Court LLM Dataset},
       author = {Andrés {Castro Araújo}},
       year = {2025},
-      note = {R package version 0.1.0},
+      note = {R package version 0.1.0, 
+    https://acastroaraujo.github.io/cccLLM/},
+      url = {https://github.com/acastroaraujo/cccLLM},
     }
 
 ## Overview
@@ -48,5 +50,8 @@ A BibTeX entry for LaTeX users is:
 - `appointed_judges`
 
 ## 
+
+    #> Warning: Removed 6 rows containing missing values or values outside the scale range
+    #> (`geom_line()`).
 
 <img src="man/figures/README-court-cohorts-1.png" width="100%" />

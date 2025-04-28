@@ -66,26 +66,36 @@ theme_set(theme_light(base_family = "Avenir Next Condensed"))
 lvls <- with(appointed_judges, str_to_title(name[order(start, end)]))
 
 p1 <- appointed_judges |>
-  mutate(name = str_to_title(name)) |> 
+  mutate(name = str_to_title(name)) |>
   mutate(name = factor(name, lvls)) |>
   ggplot(aes(y = name)) +
   geom_segment(aes(x = start, xend = end)) +
   labs(
-    x = NULL, y = NULL, 
+    x = NULL,
+    y = NULL,
     title = "The Colombian Constitutional Court",
     subtitle = "1992-2024"
-    ) + 
+  ) +
   scale_x_date(date_breaks = "2 years", date_labels = "'%y")
 
-p2 <- rulings |> 
-  mutate(date = floor_date(date, "month")) |> 
-  count(date) |> 
-  mutate(avg = slide_index_dbl(n, date, mean, .before = months(3), .after = months(3))) |> 
-  ggplot(aes(date)) + 
-  geom_line(aes(y = n), alpha = 1/4) +
-  geom_line(aes(y = avg)) + 
+p2 <- rulings |>
+  mutate(date = floor_date(date, "month")) |>
+  count(date) |>
+  mutate(
+    avg = slide_index_dbl(
+      .x = n,
+      .i = date,
+      .f = mean,
+      .before = months(3),
+      .after = months(3),
+      .complete = TRUE
+    )
+  ) |>
+  ggplot(aes(date)) +
+  geom_line(aes(y = n), alpha = 1 / 4) +
+  geom_line(aes(y = avg)) +
   scale_x_date(date_breaks = "2 years", date_labels = "'%y") +
-  labs(x = NULL, y = NULL, caption = "Monthly Rulings") 
+  labs(x = NULL, y = NULL, caption = "Monthly Rulings")
 
 p1 / p2 + plot_layout(heights = c(6, 2), widths = c(7, 7))
 ```
