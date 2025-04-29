@@ -12,7 +12,7 @@ tolower_ascii <- function(x) {
 
 # Data -------------------------------------------------------------------
 
-d <- read_tsv("data-raw/judges_appointed.tsv")
+d <- read_tsv("data-raw/official/judges_appointed.tsv")
 
 appointed_judges <- d |>
   separate_wider_delim(dates, delim = " a ", names = c("start", "end")) |>

@@ -31,3 +31,28 @@ summary_ruling <- function(x) {
 }
 
 
+#' Get Collection of Rulings
+#' 
+#' All collections come from the Court's official website, with the exception of
+#' `jctt`, which comes from the "Justicia Constitucional en Tiempos de Transición" 
+#' project.
+#' 
+#' https://www.corteconstitucional.gov.co/relatoria/temas-interes
+#' http://justiciatransicional.uniandes.edu.co/web/
+#'
+#' @param x collection name
+#'
+#' @returns a list of ruling ids corresponding to that collection
+#' @export
+#'
+#' @examples
+#' 
+#' get_collection("peace")
+#' 
+get_collection <- function(
+    x = c("gender", "peace", "treaties", "legislative_decrees", "codes", "jctt")
+) {
+  x <- match.arg(x)
+  get(x, envir = asNamespace("cccLLM"))
+}
+

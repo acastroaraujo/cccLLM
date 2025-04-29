@@ -19,19 +19,3 @@
 "person"
 
 
-#' Data set of appointed judges
-#'
-#' The `appointed_judges` dataset contains information on the start and end periods
-#' of the appointed judges. The cutoff date for all of them is April 3, 2024, which
-#' note a real ending date but it is the moment in which I stopped collecting data.
-#'
-#' @format A data frame with two variables:
-#' \describe{
-#' \item{\code{name}}{Name of the judge}
-#' \item{\code{start}}{Start Date}
-#' \item{\code{end}}{End Date}
-#' }
-#'
-#' @examples
-#'   appointed_judges
-"appointed_judges"

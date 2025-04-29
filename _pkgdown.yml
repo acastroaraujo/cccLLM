@@ -16,14 +16,18 @@ navbar:
   bg: light
 
 reference:
-- title: Datasets
+- title: LLM Datasets
   contents:
   - rulings
   - person
   - amicus
   - articles
   - rj_citations
+- title: Official Data
   - appointed_judges
+  - filed_tutelas
+  - filed_reviews
 - title: Functions
   contents:
   - summary_ruling
+  - get_collection
