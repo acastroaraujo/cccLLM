@@ -1,5 +1,5 @@
 Package: cccLLM
-Title: Colombian Constitutional Court LLM Dataset
+Title: Colombian Constitutional Court Datasets
 Version: 0.1.0
 Authors@R: 
     person("Andrés", "Castro Araújo", , "andres.castro.araujo@duke.edu", role = c("aut", "cre"))

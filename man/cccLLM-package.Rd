@@ -4,7 +4,7 @@
 \name{cccLLM-package}
 \alias{cccLLM}
 \alias{cccLLM-package}
-\title{cccLLM: Colombian Constitutional Court LLM Dataset}
+\title{cccLLM: Colombian Constitutional Court Datasets}
 \description{
 This package contains datasets about the Colombian Constitutional Court.
 }

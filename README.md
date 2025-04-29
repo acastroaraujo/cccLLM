@@ -10,8 +10,8 @@
 <!-- badges: end -->
 
 This package contains a collection of datasets about the Colombian
-Constitutional Court collected with the help of Large Language Models.
-It is meant to complement the datasets collected in the
+Constitutional Court. Most of them were processed with the help of Large
+Language Models. It is meant to complement the datasets collected in the
 [ccc](https://acastroaraujo.github.io/ccc/) package.
 
 ## Installation
@@ -27,28 +27,12 @@ pak::pak("acastroaraujo/cccLLM")
 A BibTeX entry for LaTeX users is:
 
     @Manual{,
-      title = {cccLLM: Colombian Constitutional Court LLM Dataset},
+      title = {cccLLM: Colombian Constitutional Court Datasets},
       author = {Andrés {Castro Araújo}},
       year = {2025},
       note = {R package version 0.1.0, 
     https://acastroaraujo.github.io/cccLLM/},
       url = {https://github.com/acastroaraujo/cccLLM},
     }
-
-## Overview
-
-- `rulings`
-
-- `person`
-
-- `amicus`
-
-- `articles`
-
-- `rj_citations`
-
-- `appointed_judges`
-
-## 
 
 <img src="man/figures/README-court-cohorts-1.png" width="100%" />

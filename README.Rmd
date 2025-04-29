@@ -22,7 +22,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: end -->
 
-This package contains a collection of datasets about the Colombian Constitutional Court collected with the help of Large Language Models. It is meant to complement the datasets collected in the [ccc](https://acastroaraujo.github.io/ccc/) package.
+This package contains a collection of datasets about the Colombian Constitutional Court. Most of them were processed with the help of Large Language Models. It is meant to complement the datasets collected in the [ccc](https://acastroaraujo.github.io/ccc/) package.
 
 ## Installation
 
@@ -38,22 +38,6 @@ A BibTeX entry for LaTeX users is:
 ```{r, comment="", echo=FALSE}
 toBibtex(citation("cccLLM"))
 ```
-
-## Overview
-
--   `rulings`
-
--   `person`
-
--   `amicus`
-
--   `articles`
-
--   `rj_citations`
-
--   `appointed_judges`
-
-## 
 
 ```{r court-cohorts, message=FALSE, warning=FALSE, fig.height = 8, fig.width = 7, echo=FALSE}
 library(tidyverse)
