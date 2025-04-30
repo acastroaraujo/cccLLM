@@ -26,8 +26,8 @@ reference:
 - title: Official Data
   contents: 
   - appointed_judges
-  - filed_tutelas
-  - filed_reviews
+  - tutelas
+  - reviews
 - title: Functions
   contents:
   - summary_ruling

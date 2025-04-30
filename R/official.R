@@ -18,38 +18,37 @@
 
 #' Historical dataset of filed Tutelas
 #'
-#' The `filed_tutelas` dataset contains historical information extracted from the 
+#' The `tutelas` dataset contains historical information extracted from the
 #' Court's official website.
-#' 
+#'
 #' @source https://www.corteconstitucional.gov.co/lacorte/estadisticas
 #'
 #' @format A data frame with three variables:
 #' \describe{
 #' \item{\code{year}}{Year}
-#' \item{\code{n_country}}{Number of tutelas received by the Court}
-#' \item{\code{n_court}}{Number of tutela rulings made by the Court}
+#' \item{\code{files}}{Number of tutelas received by the Court}
+#' \item{\code{rulings}}{Number of tutela rulings made by the Court}
 #' }
 #'
 #' @examples
-#'   filed_tutelas
-"filed_tutelas"
+#'   tutelas
+"tutelas"
 
 
 #' Historical dataset of filed claims for Judicial Review
 #'
-#' The `filed_reviews` dataset contains historical information extracted from the 
+#' The `reviews` dataset contains historical information extracted from the
 #' Court's official website.
-#' 
+#'
 #' @source https://www.corteconstitucional.gov.co/lacorte/estadisticas
 #'
-#' @format A data frame with two variables:
+#' @format A data frame with three variables:
 #' \describe{
 #' \item{\code{year}}{Year}
-#' \item{\code{n}}{Number of claims filed}
+#' \item{\code{files}}{Number of review files in the Court}
+#' \item{\code{rulings}}{Number of constitutional review rulings made by the Court}
 #' }
 #'
 #' @examples
-#'   filed_reviews
-"filed_reviews"
-
-
+#'   reviews
+"reviews"
