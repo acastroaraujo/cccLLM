@@ -12,6 +12,8 @@ read_parse <- function(path) {
     stringr::str_replace_all("\\.", "-") |>
     paste(collapse = "; ") |>
     ccc::extract_citations()
+  
+  out <- out[out %in% ccc::metadata$id]
 
   out <- list(out)
   names(out) <- stringr::str_replace(path, ".*/([^/]+)\\.xlsx$", "\\1")
@@ -43,6 +45,13 @@ gender <- map(paths, read_parse) |> unlist(recursive = FALSE)
 paths <- dir("data-raw/collections/codes/", full.names = TRUE)
 codes <- map(paths, read_parse) |> unlist(recursive = FALSE)
 
+
+# JCTT --------------------------------------------------------------------
+
+env_jctt <- new.env()
+source("data-raw/collections/transitional_justice_uniandes.R", local = env_jctt)
+jctt <- get("jctt", env_jctt)
+
 # Internal Save -----------------------------------------------------------
 
 usethis::use_data(
@@ -51,6 +60,7 @@ usethis::use_data(
   peace, 
   gender,
   codes,
+  jctt,
   internal = TRUE,
   overwrite = TRUE
 )

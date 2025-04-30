@@ -119,5 +119,3 @@ jctt_cases <- d |>
 # simplification ---------------------------------------------------------
 
 jctt <- list("Justicia Constitucional en Tiempos de Transición" = jctt_cases$id)
-
-usethis::use_data(jctt, internal = TRUE, overwrite = TRUE)

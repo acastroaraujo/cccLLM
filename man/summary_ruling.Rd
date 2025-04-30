@@ -10,11 +10,12 @@ summary_ruling(x)
 \item{x}{ruling id}
 }
 \value{
-English and Spanish summaries
+Spanish and English summaries
 }
 \description{
-This is a convenience function that prints the summary of a ruling to the
-console.
+This is a convenience function that finds the summary of
+a ruling in the \code{rulings} dataset and then prints it to
+the console.
 }
 \examples{
 
