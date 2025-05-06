@@ -33,7 +33,7 @@ You can install the development version of cccLLM from [GitHub](https://github.c
 pak::pak("acastroaraujo/cccLLM")
 ```
 
-A BibTeX entry for LaTeX users is:
+To cite `cccLLM` in publications use:
 
 ```{r, comment="", echo=FALSE}
 toBibtex(citation("cccLLM"))
@@ -58,9 +58,9 @@ p1 <- appointed_judges |>
     x = NULL,
     y = NULL,
     title = "The Colombian Constitutional Court",
-    subtitle = "1992-2024"
+    subtitle = "April 1992-2024"
   ) +
-  scale_x_date(date_breaks = "2 years", date_labels = "'%y")
+  scale_x_date(date_breaks = "2 years", date_labels = "'%y", expand = c(0, 0))
 
 p2 <- rulings |>
   mutate(date = floor_date(date, "month")) |>
@@ -78,8 +78,9 @@ p2 <- rulings |>
   ggplot(aes(date)) +
   geom_line(aes(y = n), alpha = 1 / 4) +
   geom_line(aes(y = avg)) +
-  scale_x_date(date_breaks = "2 years", date_labels = "'%y") +
-  labs(x = NULL, y = NULL, caption = "Monthly Rulings")
+  scale_x_date(date_breaks = "2 years", date_labels = "'%y", expand = c(0, 0)) +
+  labs(x = NULL, y = NULL, subtitle = "Monthly Rulings") 
 
 p1 / p2 + plot_layout(heights = c(8, 2), widths = c(7, 7))
 ```
+

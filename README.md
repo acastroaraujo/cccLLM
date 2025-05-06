@@ -24,7 +24,7 @@ You can install the development version of cccLLM from
 pak::pak("acastroaraujo/cccLLM")
 ```
 
-A BibTeX entry for LaTeX users is:
+To cite `cccLLM` in publications use:
 
     @Manual{,
       title = {cccLLM: Colombian Constitutional Court Datasets},
