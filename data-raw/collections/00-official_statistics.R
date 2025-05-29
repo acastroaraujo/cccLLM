@@ -52,6 +52,11 @@ env_jctt <- new.env()
 source("data-raw/collections/transitional_justice_uniandes.R", local = env_jctt)
 jctt <- get("jctt", env_jctt)
 
+
+# Fix Bugs ----------------------------------------------------------------
+
+peace[[3]] <- setdiff(peace[[3]], "SU-337-17")
+
 # Internal Save -----------------------------------------------------------
 
 usethis::use_data(
