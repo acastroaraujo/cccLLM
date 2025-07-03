@@ -1,4 +1,4 @@
-if (!rlang::is_attached("ellmer")) library(ellmer)
+if (!rlang::is_attached("package:ellmer")) library(ellmer)
 
 type_summary <- type_object(
   "Resumen detallado de la sentencia. Debe contener los hechos del caso y la decisión tomada por la Corte.",
