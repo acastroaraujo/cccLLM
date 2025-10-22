@@ -101,7 +101,7 @@ output[names(out_fix)] <- out_fix
 
 # Fix Missing People ------------------------------------------------------
 
-# Very annoying, this is not the fault of ChatGPT.
+# Very annoying... this is not the fault of ChatGPT though!
 output[["C-557-92"]][["person"]] <- data.frame(
   name = c(
     "Simón Rodríguez Rodríguez",
@@ -507,25 +507,36 @@ missing_mp <- person |>
   filter(mp == 0L) |>
   pull(id)
 
-missing_mp ## there are 11 rulings with a missing `mp`
+missing_mp ## there are 10 rulings with a missing `mp`
 
 person |>
   rowid_to_column() |>
+  filter(id %in% missing_mp) |>
+  print(n = Inf)
+
+d_missing <- person |>
+  rowid_to_column() |>
   filter(id %in% missing_mp)
 
-i <- c(
-  "C-071-20" = 6006, # cristina pardo schlesinger
-  "C-093-21" = 7820, # antonio jose lizarazo ocampo
-  "C-093-21" = 7827, # jose fernando reyes cuartas
-  "C-530-13" = 45541, # mauricio gonzalez cuervo
-  "C-556-92" = 47535, # simon rodriguez rodriguez
-  "C-579-92" = 48925, # simon rodriguez rodriguez
-  "T-007-97" = 69920, # eduardo cifuentes munoz
-  "T-125-97" = 81935, # eduardo cifuentes munoz
-  "T-225-92" = 89819, # jaime sanin greiffenstein
-  "T-254-01" = 91661, # jaime cordoba trivino
-  "T-671-96" = 117690 # eduardo cifuentes munoz
+kk <- c(
+  "C-071-20" = "cristina pardo schlesinger",
+  "C-093-21" = "antonio jose lizarazo ocampo",
+  "C-093-21" = "jose fernando reyes cuartas",
+  "C-530-13" = "mauricio gonzalez cuervo",
+  "C-556-92" = "simon rodriguez rodriguez",
+  "C-579-92" = "simon rodriguez rodriguez",
+  "T-007-97" = "eduardo cifuentes munoz",
+  "T-125-97" = "eduardo cifuentes munoz",
+  "T-225-92" = "jaime sanin greiffenstein",
+  "T-254-01" = "jaime cordoba trivino",
+  "T-671-96" = "eduardo cifuentes munoz"
 )
+
+i <- imap_int(kk, \(x, idx) {
+  with(d_missing, {
+    rowid[name == x & id == idx]
+  })
+})
 
 person[i, ]$mp <- TRUE
 
