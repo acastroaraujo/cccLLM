@@ -28,7 +28,9 @@ reference:
   - appointed_judges
   - tutelas
   - reviews
+  - constitution
 - title: Functions
   contents:
   - summary_ruling
+  - print_article
   - get_collection

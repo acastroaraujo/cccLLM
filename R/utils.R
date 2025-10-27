@@ -16,7 +16,9 @@
 summary_ruling <- function(x) {
   stopifnot(length(x) == 1)
   i <- which(x == cccLLM::rulings[["id"]])
-  if (length(i) == 0) stop("`id` not found", call. = FALSE)
+  if (length(i) == 0) {
+    stop("`id` not found", call. = FALSE)
+  }
 
   en <- cccLLM::rulings[["summary_en"]][[i]]
   es <- cccLLM::rulings[["summary_es"]][[i]]
@@ -51,4 +53,30 @@ get_collection <- function(
   x = c("gender", "peace", "treaties", "legislative_decrees", "codes", "jctt")
 ) {
   get(match.arg(x))
+}
+
+
+#' Get ruling summary
+#'
+#' This is a convenience function that finds the summary of
+#' a ruling in the `rulings` dataset and then prints it to
+#' the console.
+#'
+#' @param x ruling id
+#'
+#' @returns Spanish and English summaries
+#' @export
+#'
+#' @examples
+#'
+#' print_article(363)
+#'
+print_article <- function(x) {
+  stopifnot(x %in% 1:380 & length(x) == 1)
+
+  cli::cli_h1("Art. {x}")
+  cli::cli_text(cccLLM::constitution$text[[x]])
+  cli::cli_rule()
+  cli::cli_text(cccLLM::constitution$nav[x])
+  invisible(cccLLM::constitution$text[[x]])
 }
