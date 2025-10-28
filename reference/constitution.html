@@ -46,11 +46,20 @@
     <p>A data frame with two variables:</p><dl><dt><code>article</code></dt>
 <dd><p>Article number</p></dd>
 
+<dt><code>title_num</code></dt>
+<dd><p>Title number</p></dd>
+
+<dt><code>chapter_num</code></dt>
+<dd><p>Chapter number</p></dd>
+
+<dt><code>title</code></dt>
+<dd><p>Title</p></dd>
+
+<dt><code>chapter</code></dt>
+<dd><p>Chapter</p></dd>
+
 <dt><code>text</code></dt>
 <dd><p>text</p></dd>
-
-<dt><code>nav</code></dt>
-<dd><p>nav structure</p></dd>
 
 
 </dl></div>
@@ -62,19 +71,19 @@
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span>  <span class="va">constitution</span></span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 380 × 3</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>    article text                                                            nav  </span>
-<span class="r-out co"><span class="r-pr">#&gt;</span>      <span style="color: #949494; font-style: italic;">&lt;int&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>                                                           <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span></span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 1</span>       1 <span style="color: #949494;">"</span>Artículo 1o. Colombia es un Estado social de derecho, organiz… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 2</span>       2 <span style="color: #949494;">"</span>Artículo 2o. Son fines esenciales del Estado: servir a la com… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 3</span>       3 <span style="color: #949494;">"</span>Artículo 3o. La soberanía reside exclusivamente en el pueblo,… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 4</span>       4 <span style="color: #949494;">"</span>Artículo 4o. La Constitución es norma de normas. En todo caso… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 5</span>       5 <span style="color: #949494;">"</span>Artículo 5o. El Estado reconoce, sin discriminación alguna, l… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 6</span>       6 <span style="color: #949494;">"</span>Artículo 6o. Los particulares sólo son responsables ante las … Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 7</span>       7 <span style="color: #949494;">"</span>Artículo 7o. El Estado reconoce y protege la diversidad étnic… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 8</span>       8 <span style="color: #949494;">"</span>Artículo 8o. Es obligación del Estado y de las personas prote… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 9</span>       9 <span style="color: #949494;">"</span>Artículo 9o. Las relaciones exteriores del Estado se fundamen… Índi…</span>
-<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">10</span>      10 <span style="color: #949494;">"</span>Artículo 10. El castellano es el idioma oficial de Colombia. … Índi…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># A tibble: 380 × 6</span></span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>    article title_num chapter_num title                           chapter text   </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span>      <span style="color: #949494; font-style: italic;">&lt;int&gt;</span>     <span style="color: #949494; font-style: italic;">&lt;int&gt;</span>       <span style="color: #949494; font-style: italic;">&lt;int&gt;</span> <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>                           <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>   <span style="color: #949494; font-style: italic;">&lt;chr&gt;</span>  </span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 1</span>       1         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 2</span>       2         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 3</span>       3         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 4</span>       4         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 5</span>       5         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 6</span>       6         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 7</span>       7         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 8</span>       8         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;"> 9</span>       9         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
+<span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #BCBCBC;">10</span>      10         1          <span style="color: #BB0000;">NA</span> De los principios fundamentales <span style="color: #BB0000;">NA</span>      <span style="color: #949494;">"</span>Artíc…</span>
 <span class="r-out co"><span class="r-pr">#&gt;</span> <span style="color: #949494;"># ℹ 370 more rows</span></span>
 </code></pre></div>
     </div>
