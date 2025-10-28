@@ -1,5 +1,7 @@
 library(httr2)
 library(purrr)
+library(dplyr)
+library(stringr)
 
 arts <- 1:380
 
@@ -33,5 +35,27 @@ art1 <- "Artículo 1o. Colombia es un Estado social de derecho, organizado en fo
 nav1 <- "Índice / Título 1 - De los principios fundamentales / Artículo 1"
 constitution[1, "text"] <- art1
 constitution[1, "nav"] <- nav1
+
+View(constitution)
+
+#library(tidyverse)
+
+c2 <- constitution |>
+  tidyr::separate_wider_delim(
+    nav,
+    delim = "/",
+    names = c("a", "b", "c"),
+    too_many = "drop"
+  )
+
+
+constitution <- constitution |>
+  mutate(title = str_extract(nav, "Título.+?(?= \\/)")) |>
+  mutate(title_num = as.integer(readr::parse_number(title))) |>
+  mutate(title = str_remove(title, "Título \\d+ - ")) |>
+  mutate(chapter = str_extract(nav, "Capítulo.+?(?= \\/)")) |>
+  mutate(chapter_num = as.integer(readr::parse_number(chapter))) |>
+  mutate(chapter = str_remove(chapter, "Capítulo \\d+: ")) |>
+  select(article, title_num, chapter_num, title, chapter, text)
 
 usethis::use_data(constitution, overwrite = TRUE, compress = "xz")

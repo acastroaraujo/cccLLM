@@ -8,8 +8,11 @@
 A data frame with two variables:
 \describe{
 \item{\code{article}}{Article number}
+\item{\code{title_num}}{Title number}
+\item{\code{chapter_num}}{Chapter number}
+\item{\code{title}}{Title}
+\item{\code{chapter}}{Chapter}
 \item{\code{text}}{text}
-\item{\code{nav}}{nav structure}
 }
 }
 \source{

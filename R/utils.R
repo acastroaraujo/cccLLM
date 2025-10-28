@@ -72,11 +72,19 @@ get_collection <- function(
 #' print_article(363)
 #'
 print_article <- function(x) {
+  x <- as.integer(x)
   stopifnot(x %in% 1:380 & length(x) == 1)
 
   cli::cli_h1("Art. {x}")
   cli::cli_text(cccLLM::constitution$text[[x]])
   cli::cli_rule()
-  cli::cli_text(cccLLM::constitution$nav[x])
+  cli::cli_text(
+    "T\u00edtulo {cccLLM::constitution$title_num[x]}: {cccLLM::constitution$title[x]}"
+  )
+  if (!is.na(cccLLM::constitution$chapter_num[x])) {
+    cli::cli_text(
+      "Cap\u00edtulo {cccLLM::constitution$chapter_num[x]}: {cccLLM::constitution$chapter[x]}"
+    )
+  }
   invisible(cccLLM::constitution$text[[x]])
 }
