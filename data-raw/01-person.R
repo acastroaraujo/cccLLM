@@ -2,10 +2,6 @@
 
 library(tidyverse)
 
-# Check for interim judges that are not mentioned, like Adriana Guillen and Alexei Julio Estrada.
-# The easiest way to do this, I think, is to get a list of permament judges, and then change the
-# other ones that are not conjuez to interim.
-
 #' Slice the "person" component of the `output` object
 #'
 #' @param x The subset of the output corresponding to a ruling id — i.e, `output[[x]]`
@@ -499,7 +495,6 @@ person <- person |>
   as_tibble() |>
   relocate(id, name, mp, av, sv, interim, conjuez)
 
-
 # Fix missing `mp` -------------------------------------------------------
 
 missing_mp <- person |>
@@ -542,6 +537,16 @@ person[i, ]$mp <- TRUE
 
 # Use `appointed_judges` data to fix missing interim ---------------------
 
+## Some idiosyncrasies at this point:
+
+i <- with(person, which(id == "T-052-13" & name == "humberto antonio sierra porto"))
+person[i, "name"] <- "alexei julio estrada"
+
+i <- with(person, which(id == "T-236-09" & name == "jaime cordoba trivino"))
+person[i, "name"] <- "luis ernesto vargas silva"
+
+## Now we are ready.
+
 load("data/appointed_judges.rda")
 
 check <- pmap_lgl(
@@ -553,8 +558,32 @@ check <- pmap_lgl(
 
 person[which(check), ]$interim <- !person[which(check), ]$interim
 
+## Another missing interim comes from judges who were once interim and then 
+## became appointed, like Cristina Pardo.
+
+id_dates <- ccc::metadata |> 
+  select(id, date)
+
+i <- person |> 
+  rowid_to_column() |>
+  left_join(id_dates) |> 
+  inner_join(appointed_judges) |> 
+  filter(!interim, !conjuez) |> 
+  filter(!between(date, start - days(30), end)) |> 
+  filter(str_detect(name, "^cristina")) |> 
+  pull(rowid)
+
+person[i, "interim"] <- TRUE
+
+# person |> 
+#   rowid_to_column() |>
+#   left_join(id_dates) |> 
+#   inner_join(appointed_judges) |> 
+#   filter(!interim, !conjuez) |> 
+#   filter(!between(date, start, end + days(30)))
+
 # Export -----------------------------------------------------------------
 
-# unname name vector
+person$name <- unname(person$name)
 
 usethis::use_data(person, overwrite = TRUE, compress = "xz")

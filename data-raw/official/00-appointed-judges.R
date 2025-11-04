@@ -19,6 +19,9 @@ appointed_judges <- d |>
   mutate(across(c(start, end), parse_es_date)) |>
   mutate(name = tolower_ascii(name)) |>
   filter(start <= as.Date("2024-04-03")) |>
+  ## this makes it so that the range goes from first day of the start month
+  ## to last day of the ending month
+  mutate(end = ceiling_date(end, unit = "month") - days(1)) |> 
   mutate(
     end = if_else(
       condition = end > as.Date("2024-04-03"),
