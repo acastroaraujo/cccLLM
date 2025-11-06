@@ -64,11 +64,126 @@
 <span id="cb2-2"><a href="#cb2-2" tabindex="-1"></a>  title <span class="ot">=</span> {cccLLM<span class="sc">:</span> Colombian Constitutional Court Datasets},</span>
 <span id="cb2-3"><a href="#cb2-3" tabindex="-1"></a>  author <span class="ot">=</span> {Andrés {Castro Araújo}},</span>
 <span id="cb2-4"><a href="#cb2-4" tabindex="-1"></a>  year <span class="ot">=</span> {<span class="dv">2025</span>},</span>
-<span id="cb2-5"><a href="#cb2-5" tabindex="-1"></a>  note <span class="ot">=</span> {R package version <span class="dv">0</span>.<span class="fl">1.0</span>, </span>
-<span id="cb2-6"><a href="#cb2-6" tabindex="-1"></a>https<span class="sc">:</span><span class="er">//</span>acastroaraujo.github.io<span class="sc">/</span>cccLLM<span class="sc">/</span>},</span>
-<span id="cb2-7"><a href="#cb2-7" tabindex="-1"></a>  url <span class="ot">=</span> {https<span class="sc">:</span><span class="er">//</span>github.com<span class="sc">/</span>acastroaraujo<span class="sc">/</span>cccLLM},</span>
-<span id="cb2-8"><a href="#cb2-8" tabindex="-1"></a>}</span></code></pre></div>
+<span id="cb2-5"><a href="#cb2-5" tabindex="-1"></a>  note <span class="ot">=</span> {R package version <span class="dv">0</span>.<span class="fl">1.0</span>},</span>
+<span id="cb2-6"><a href="#cb2-6" tabindex="-1"></a>  url <span class="ot">=</span> {https<span class="sc">:</span><span class="er">//</span>github.com<span class="sc">/</span>acastroaraujo<span class="sc">/</span>cccLLM},</span>
+<span id="cb2-7"><a href="#cb2-7" tabindex="-1"></a>}</span></code></pre></div>
 <p><img src="reference/figures/README-court-cohorts-1.png" width="100%"></p>
+</div>
+<div class="section level2">
+<h2 id="convenience-functions">Convenience Functions<a class="anchor" aria-label="anchor" href="#convenience-functions"></a>
+</h2>
+<div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://github.com/acastroaraujo/cccLLM" class="external-link">cccLLM</a></span><span class="op">)</span></span>
+<span></span>
+<span><span class="fu"><a href="reference/summary_ruling.html">summary_ruling</a></span><span class="op">(</span><span class="st">"C-370-06"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; ── Ruling: C-370-06 ────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; La Corte Constitucional analizó la constitucionalidad de la Ley 975 de 2005,</span></span>
+<span><span class="co">#&gt; conocida como Ley de Justicia y Paz, la cual fue promulgada como parte del</span></span>
+<span><span class="co">#&gt; proceso de desmovilización de grupos armados ilegales en Colombia. La sentencia</span></span>
+<span><span class="co">#&gt; resolvió múltiples demandas que cuestionaban tanto aspectos sustantivos como</span></span>
+<span><span class="co">#&gt; formales de la ley, particularmente en lo relacionado con los derechos de las</span></span>
+<span><span class="co">#&gt; víctimas a la verdad, justicia y reparación, y las obligaciones del Estado</span></span>
+<span><span class="co">#&gt; colombiano conforme al derecho internacional. La Corte declaró la exequibilidad</span></span>
+<span><span class="co">#&gt; de la mayoría de los artículos, pero declaró inexequibles los artículos 70 y 71</span></span>
+<span><span class="co">#&gt; por vicios de procedimiento en su formación. También se reiteró que la Ley no</span></span>
+<span><span class="co">#&gt; constituía una ley de amnistía o indulto. El fallo generó varios salvamentos y</span></span>
+<span><span class="co">#&gt; aclaraciones de voto.</span></span>
+<span><span class="co">#&gt; ────────────────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; The Constitutional Court reviewed the constitutionality of Law 975 of 2005,</span></span>
+<span><span class="co">#&gt; known as the Justice and Peace Law, enacted in the context of the</span></span>
+<span><span class="co">#&gt; demobilization of illegal armed groups in Colombia. The ruling addressed</span></span>
+<span><span class="co">#&gt; numerous claims challenging both substantive and procedural aspects of the law,</span></span>
+<span><span class="co">#&gt; especially regarding the rights of victims to truth, justice, and reparation,</span></span>
+<span><span class="co">#&gt; and Colombia’s obligations under international law. The Court upheld most of</span></span>
+<span><span class="co">#&gt; the law but declared Articles 70 and 71 unconstitutional due to procedural</span></span>
+<span><span class="co">#&gt; flaws. It also emphasized that the law did not grant amnesty or pardons. The</span></span>
+<span><span class="co">#&gt; ruling was accompanied by several dissenting and concurring opinions.</span></span>
+<span><span class="fu"><a href="reference/summary_ruling.html">summary_ruling</a></span><span class="op">(</span><span class="st">"SU-096-18"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; ── Ruling: SU-096-18 ───────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; La sentencia SU-096-18 de la Corte Constitucional de Colombia aborda el caso de</span></span>
+<span><span class="co">#&gt; una mujer, Emma, quien presentó una acción de tutela contra la EPS Compensar</span></span>
+<span><span class="co">#&gt; debido a la negativa de esta y sus IPS de practicarle un procedimiento de</span></span>
+<span><span class="co">#&gt; interrupción voluntaria del embarazo (IVE) por malformación fetal incompatible</span></span>
+<span><span class="co">#&gt; con la vida. Emma fue diagnosticada con un embarazo de un feto con</span></span>
+<span><span class="co">#&gt; holoprosencefalia, una malformación del sistema nervioso central. A pesar de</span></span>
+<span><span class="co">#&gt; contar con la orden médica para la IVE, enfrentó múltiples barreras</span></span>
+<span><span class="co">#&gt; administrativas y negativas por parte de varias instituciones de salud. La</span></span>
+<span><span class="co">#&gt; Corte Constitucional, en Sala Plena, revisó el caso y determinó que la EPS</span></span>
+<span><span class="co">#&gt; vulneró los derechos fundamentales de Emma al no autorizar y practicar el</span></span>
+<span><span class="co">#&gt; procedimiento de IVE de manera oportuna. La Corte confirmó la sentencia de</span></span>
+<span><span class="co">#&gt; primera instancia que declaró la carencia actual de objeto por hecho superado,</span></span>
+<span><span class="co">#&gt; ya que el procedimiento fue finalmente realizado. Además, la Corte exhortó al</span></span>
+<span><span class="co">#&gt; Congreso a regular el derecho a la IVE y ordenó al Ministerio de Salud emitir</span></span>
+<span><span class="co">#&gt; una regulación para garantizar el acceso a la IVE en los casos despenalizados.</span></span>
+<span><span class="co">#&gt; ────────────────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; The SU-096-18 ruling by the Colombian Constitutional Court addresses the case</span></span>
+<span><span class="co">#&gt; of a woman, Emma, who filed a tutela action against EPS Compensar due to their</span></span>
+<span><span class="co">#&gt; refusal to perform a voluntary termination of pregnancy (IVE) procedure for a</span></span>
+<span><span class="co">#&gt; fetus with a life-incompatible malformation. Emma was diagnosed with a</span></span>
+<span><span class="co">#&gt; pregnancy involving a fetus with holoprosencephaly, a central nervous system</span></span>
+<span><span class="co">#&gt; malformation. Despite having a medical order for the IVE, she faced multiple</span></span>
+<span><span class="co">#&gt; administrative barriers and refusals from various health institutions. The</span></span>
+<span><span class="co">#&gt; Constitutional Court, in full chamber, reviewed the case and determined that</span></span>
+<span><span class="co">#&gt; the EPS violated Emma's fundamental rights by not authorizing and performing</span></span>
+<span><span class="co">#&gt; the IVE procedure in a timely manner. The Court confirmed the first-instance</span></span>
+<span><span class="co">#&gt; ruling that declared the case moot due to the procedure being eventually</span></span>
+<span><span class="co">#&gt; carried out. Additionally, the Court urged Congress to regulate the right to</span></span>
+<span><span class="co">#&gt; IVE and ordered the Ministry of Health to issue regulations to ensure access to</span></span>
+<span><span class="co">#&gt; IVE in decriminalized cases.</span></span>
+<span></span>
+<span><span class="fu"><a href="reference/print_article.html">print_article</a></span><span class="op">(</span><span class="fl">11</span><span class="op">)</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; ── Art. 11 ─────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; Artículo 11. El derecho a la vida es inviolable. No habrá pena de muerte.</span></span>
+<span><span class="co">#&gt; ────────────────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; Título 2: De los derechos, las garantías y los deberes</span></span>
+<span><span class="co">#&gt; Capítulo 1: De los derechos fundamentales</span></span>
+<span><span class="fu"><a href="reference/print_article.html">print_article</a></span><span class="op">(</span><span class="fl">363</span><span class="op">)</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; ── Art. 363 ────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; Artículo 363. El sistema tributario se funda en los principios de equidad,</span></span>
+<span><span class="co">#&gt; eficiencia y progresividad. Las leyes tributarias no se aplicarán con</span></span>
+<span><span class="co">#&gt; retroactividad.</span></span>
+<span><span class="co">#&gt; ────────────────────────────────────────────────────────────────────────────────</span></span>
+<span><span class="co">#&gt; Título 12: Del régimen económico y de la hacienda pública</span></span>
+<span><span class="co">#&gt; Capítulo 4: De la distribución de recursos y de las competencias</span></span></code></pre></div>
+</div>
+<div class="section level2">
+<h2 id="dataset-examples">Dataset Examples<a class="anchor" aria-label="anchor" href="#dataset-examples"></a>
+</h2>
+<div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
+<code class="sourceCode R"><span><span class="fu">glimpse</span><span class="op">(</span><span class="va">rulings</span><span class="op">)</span></span>
+<span><span class="co">#&gt; Rows: 28,245</span></span>
+<span><span class="co">#&gt; Columns: 12</span></span>
+<span><span class="co">#&gt; $ id         &lt;chr&gt; "T-001-92", "C-004-92", "T-002-92", "C-005-92", "T-003-92",…</span></span>
+<span><span class="co">#&gt; $ date       &lt;date&gt; 1992-04-03, 1992-05-07, 1992-05-08, 1992-05-11, 1992-05-11…</span></span>
+<span><span class="co">#&gt; $ type       &lt;fct&gt; T, C, T, C, T, T, T, T, T, T, T, T, T, T, T, C, T, T, T, T,…</span></span>
+<span><span class="co">#&gt; $ chamber    &lt;fct&gt; SR, SP, SR, SP, SR, SR, SR, SR, SR, SR, SR, SR, SR, SR, SR,…</span></span>
+<span><span class="co">#&gt; $ rj         &lt;fct&gt; no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,…</span></span>
+<span><span class="co">#&gt; $ n_person   &lt;int&gt; 3, 7, 3, 7, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 7, 3, 3, 3, 3,…</span></span>
+<span><span class="co">#&gt; $ n_av       &lt;int&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0,…</span></span>
+<span><span class="co">#&gt; $ n_sv       &lt;int&gt; 0, 1, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,…</span></span>
+<span><span class="co">#&gt; $ n_amicus   &lt;int&gt; 0, 3, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,…</span></span>
+<span><span class="co">#&gt; $ summary_en &lt;chr&gt; "The ruling T-001-92 of the Colombian Constitutional Court …</span></span>
+<span><span class="co">#&gt; $ summary_es &lt;chr&gt; "La sentencia T-001-92 de la Corte Constitucional de Colomb…</span></span>
+<span><span class="co">#&gt; $ model      &lt;chr&gt; "gpt-4o", "gpt-4o", "gpt-4o", "gpt-4o", "gpt-4o", "gpt-4o",…</span></span>
+<span><span class="fu">glimpse</span><span class="op">(</span><span class="va">person</span><span class="op">)</span></span>
+<span><span class="co">#&gt; Rows: 131,484</span></span>
+<span><span class="co">#&gt; Columns: 7</span></span>
+<span><span class="co">#&gt; $ id      &lt;chr&gt; "C-001-18", "C-001-18", "C-001-18", "C-001-18", "C-001-18", "C…</span></span>
+<span><span class="co">#&gt; $ name    &lt;chr&gt; "luis guillermo guerrero perez", "carlos bernal pulido", "dian…</span></span>
+<span><span class="co">#&gt; $ mp      &lt;lgl&gt; FALSE, FALSE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, …</span></span>
+<span><span class="co">#&gt; $ av      &lt;lgl&gt; FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE,…</span></span>
+<span><span class="co">#&gt; $ sv      &lt;lgl&gt; FALSE, TRUE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, …</span></span>
+<span><span class="co">#&gt; $ interim &lt;lgl&gt; FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE,…</span></span>
+<span><span class="co">#&gt; $ conjuez &lt;lgl&gt; FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE, FALSE,…</span></span>
+<span><span class="fu">glimpse</span><span class="op">(</span><span class="va">articles</span><span class="op">)</span></span>
+<span><span class="co">#&gt; Rows: 125,117</span></span>
+<span><span class="co">#&gt; Columns: 2</span></span>
+<span><span class="co">#&gt; $ id      &lt;chr&gt; "C-001-18", "C-001-18", "C-001-18", "C-001-18", "C-001-18", "C…</span></span>
+<span><span class="co">#&gt; $ article &lt;int&gt; 1, 13, 17, 241, 243, 29, 158, 13, 25, 26, 28, 241, 256, 152, 9…</span></span></code></pre></div>
 </div>
 </div>
   </main><aside class="col-md-3"><div class="links">
