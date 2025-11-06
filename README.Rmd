@@ -45,22 +45,43 @@ library(slider)
 library(patchwork)
 library(cccLLM)
 
-theme_set(theme_light(base_family = "Avenir Next Condensed"))
+theme_set(theme_light(base_family = "Roboto Condensed Light", header_family = "Roboto Condensed Regular"))
 
 lvls <- with(appointed_judges, str_to_title(name[order(start, end)]))
 
 p1 <- appointed_judges |>
   mutate(name = str_to_title(name)) |>
   mutate(name = factor(name, lvls)) |>
-  ggplot(aes(y = name)) +
-  geom_segment(aes(x = start, xend = end)) +
+  ggplot(aes(x = start, y = name)) +
+  geom_segment(aes(xend = end)) +
+  geom_text(
+    mapping = aes(label = name),
+    size = 3,
+    hjust = 1,
+    nudge_x = -200,
+    family = "Roboto Condensed Light"
+  ) +
   labs(
     x = NULL,
     y = NULL,
-    title = "The Colombian Constitutional Court",
-    subtitle = "April 1992-2024"
+    caption = "\nAppointements, April 1992-2024"
   ) +
-  scale_x_date(date_breaks = "2 years", date_labels = "'%y", expand = c(0, 0))
+  scale_x_date(
+    date_breaks = "2 years",
+    date_labels = "'%y",
+    expand = 0
+  ) +
+  coord_cartesian(
+    clip = "off",
+    xlim = as.Date(c("1992-01-01", "2024-04-03"))
+  ) +
+  theme(
+    axis.text.y = element_blank(),
+    axis.ticks = element_blank(),
+    panel.grid.major.y = element_blank(),
+    panel.border = element_blank(),
+    plot.margin = margin(5.5, 5.5, 5.5, 120) # Add left margin for labels
+  )
 
 p2 <- rulings |>
   mutate(date = floor_date(date, "month")) |>
@@ -78,9 +99,30 @@ p2 <- rulings |>
   ggplot(aes(date)) +
   geom_line(aes(y = n), alpha = 1 / 4) +
   geom_line(aes(y = avg)) +
-  scale_x_date(date_breaks = "2 years", date_labels = "'%y", expand = c(0, 0)) +
-  labs(x = NULL, y = NULL, subtitle = "Monthly Rulings") 
+  scale_x_date(date_breaks = "2 years", date_labels = "'%y", expand = 0) +
+  coord_cartesian(xlim = as.Date(c("1992-01-01", "2024-04-03"))) +
+  labs(x = NULL, y = NULL, subtitle = "Monthly Rulings", title = "Colombian Constitutional Court") 
 
-p1 / p2 + plot_layout(heights = c(8, 2), widths = c(7, 7))
+p2 / p1 + plot_layout(heights = c(2, 9), widths = c(7, 7))
+```
+
+## Convenience Functions
+
+```{r}
+library(cccLLM)
+
+summary_ruling("C-370-06")
+summary_ruling("SU-096-18")
+
+print_article(11)
+print_article(363)
+```
+
+## Dataset Examples
+
+```{r}
+glimpse(rulings)
+glimpse(person)
+glimpse(articles)
 ```
 
