@@ -45,7 +45,7 @@ library(slider)
 library(patchwork)
 library(cccLLM)
 
-theme_set(theme_light(base_family = "Roboto Condensed Light", header_family = "Roboto Condensed Regular"))
+theme_set(theme_light(base_family = "Avenir Next Condensed", header_family = "Roboto Condensed Regular"))
 
 lvls <- with(appointed_judges, str_to_title(name[order(start, end)]))
 
@@ -56,10 +56,10 @@ p1 <- appointed_judges |>
   geom_segment(aes(xend = end)) +
   geom_text(
     mapping = aes(label = name),
-    size = 3,
+    size = 2.5,
     hjust = 1,
     nudge_x = -200,
-    family = "Roboto Condensed Light"
+    family = "Avenir Next Condensed"
   ) +
   labs(
     x = NULL,
