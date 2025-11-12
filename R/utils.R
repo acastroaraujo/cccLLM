@@ -29,6 +29,7 @@ summary_ruling <- function(x) {
   cli::cli_text(en)
 
   if (rlang::is_installed("ccc")) {
+    i <- which(x == ccc::metadata[["id"]])
     indegree <- ccc::metadata[i, "indegree", drop = TRUE]
     outdegree <- ccc::metadata[i, "outdegree", drop = TRUE]
     word_count <- ccc::metadata[i, "word_count", drop = TRUE]
@@ -42,7 +43,7 @@ summary_ruling <- function(x) {
         "*" = "MP: {tools::toTitleCase(mp)}",
         "*" = "indegree: {indegree}",
         "*" = "outdegree: {outdegree}",
-        "*" = "word count: {word_count}",
+        "*" = "word count: {base::format(word_count, big.mark = ',')}",
         "i" = "{.url {url}}"
       )
     )
