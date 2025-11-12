@@ -27,6 +27,27 @@ summary_ruling <- function(x) {
   cli::cli_text(es)
   cli::cli_rule()
   cli::cli_text(en)
+
+  if (rlang::is_installed("ccc")) {
+    indegree <- ccc::metadata[i, "indegree", drop = TRUE]
+    outdegree <- ccc::metadata[i, "outdegree", drop = TRUE]
+    word_count <- ccc::metadata[i, "word_count", drop = TRUE]
+    url <- ccc::metadata[i, "url", drop = TRUE]
+    
+    mp <- cccLLM::person[cccLLM::person$id == x & cccLLM::person$mp, ]$name
+    
+    cli::cli_rule()
+    cli::cli_bullets(
+      c(
+        "*" = "MP: {tools::toTitleCase(mp)}",
+        "*" = "indegree: {indegree}",
+        "*" = "outdegree: {outdegree}",
+        "*" = "word count: {word_count}",
+        "i" = "{.url {url}}"
+      )
+    )
+  }
+  
   invisible(list(es = es, en = en))
 }
 
