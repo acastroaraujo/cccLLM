@@ -53,4 +53,10 @@ summary_ruling("C-055-22")
 #> except in cases already decriminalized by Ruling C-355 of 2006. Additionally,
 #> it urged Congress and the Government to formulate a comprehensive public policy
 #> that protects both life in gestation and the rights of pregnant women.
+#> ────────────────────────────────────────────────────────────────────────────────
+#> • MP: Antonio Jose Lizarazo Ocampo
+#> • indegree: 18
+#> • outdegree: 267
+#> • word count: 229,987
+#> ℹ <https://www.corteconstitucional.gov.co/relatoria/2022/C-055-22.htm>
 ```
